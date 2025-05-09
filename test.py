@@ -15,13 +15,11 @@ def load_vin_age_map(csv_path):
                 age = int(row['Age'])
                 vin_age_map[vin] = age
             except ValueError:
-                continue  # Skip rows with non-integer age
+                continue
     return vin_age_map
 
 def scrape_website(url):
-    headers = {
-        'User-Agent': 'Mozilla/5.0'
-    }
+    headers = {'User-Agent': 'Mozilla/5.0'}
     try:
         response = requests.get(url, headers=headers)
         response.raise_for_status()
@@ -50,17 +48,14 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
             name = name_candidate
 
         vin_tag = vehicle.find('div', id='copy_vin')
-        if not vin_tag:
-            vin_match = re.search(r'[A-HJ-NPR-Z0-9]{17}', html_str)
-            vin = vin_match.group() if vin_match else 'N/A'
-        else:
-            vin = vin_tag.get_text(strip=True)
+        vin = vin_tag.get_text(strip=True) if vin_tag else (
+            re.search(r'[A-HJ-NPR-Z0-9]{17}', html_str).group() if re.search(r'[A-HJ-NPR-Z0-9]{17}', html_str) else 'N/A'
+        )
 
         stock_tag = vehicle.find('div', id='copy_stock')
         stock = stock_tag.get_text(strip=True) if stock_tag else 'N/A'
 
-        exterior = 'N/A'
-        interior = 'N/A'
+        exterior, interior = 'N/A', 'N/A'
         info_container = vehicle.find('div', class_='si-vehicle-info-left')
         if info_container:
             labels = info_container.find_all('div')
@@ -71,12 +66,10 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
                 elif "Interior:" in label and i + 1 < len(labels):
                     interior = labels[i + 1].get_text(strip=True)
 
-        engine = 'N/A'
         engine_tag = vehicle.find('div', string=lambda t: t and 'Engine:' in t)
-        if engine_tag:
-            engine = engine_tag.get_text(strip=True).replace("Engine:", "").strip()
+        engine = engine_tag.get_text(strip=True).replace("Engine:", "").strip() if engine_tag else 'N/A'
 
-        transmission_tag = vehicle.find('div', string=lambda text: text and 'Transmission:' in text)
+        transmission_tag = vehicle.find('div', string=lambda t: t and 'Transmission:' in t)
         transmission = transmission_tag.get_text(strip=True).replace('Transmission:', '').strip() if transmission_tag else 'N/A'
 
         carfax_link = (
@@ -85,25 +78,22 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
         )
 
         jpg_matches = re.findall(r'https?://[^"\s]+\.jpg', html_str)
-        if jpg_matches:
-            image_link = jpg_matches[0]
-        else:
-            img_tag = vehicle.find('img')
-            image_link = img_tag['src'] if img_tag and img_tag.has_attr('src') else None
-
-        price_tag = vehicle.select_one(
-            '.vehiclebox-msrp, .grey-text.vehiclebox-msrp.msrp_value_custom.msrp-strike-through'
+        image_link = jpg_matches[0] if jpg_matches else (
+            vehicle.find('img')['src'] if vehicle.find('img') and vehicle.find('img').has_attr('src') else None
         )
-        if price_tag:
-            price_text = price_tag.get_text(strip=True)
-            if "$" in price_text:
-                market_price = price_text
-            else:
-                price_match = re.search(r'\$\d{1,3}(?:,\d{3})*(?:\.\d{2})?', html_str)
-                market_price = price_match.group() if price_match else 'N/A'
-        else:
-            price_match = re.search(r'\$\d{1,3}(?:,\d{3})*(?:\.\d{2})?', html_str)
-            market_price = price_match.group() if price_match else 'N/A'
+
+        # NEW: Extract both MSRP (price) and Sutherlin's/Internet Price
+        market_price = 'N/A'
+        sutherlins_price = 'N/A'
+
+        price_divs = vehicle.find_all('div', class_='msrppanel-label')
+        for panel in price_divs:
+            msrp_tag = panel.select_one('.vehiclebox-msrp.msrp_value_custom')
+            if msrp_tag:
+                market_price = msrp_tag.get_text(strip=True)
+            suth_price_divs = panel.select('.srp-your-price > div')
+            if len(suth_price_divs) >= 2:
+                sutherlins_price = suth_price_divs[1].get_text(strip=True)
 
         mileage = "6 Miles" if category == "new" else (
             vehicle.find('div', class_='mileage').get_text(strip=True).replace("Mileage: ", "")
@@ -124,6 +114,7 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
             "carfax": carfax_link,
             "image": image_link,
             "price": market_price,
+            "sutherlins_price": sutherlins_price,
             "mileage": mileage,
         }
 
@@ -136,7 +127,6 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
 
 def scrape_category(category_name, urls, max_pages=20, vin_age_map=None):
     all_vehicles = []
-
     for base_url in urls:
         for page in range(1, max_pages + 1):
             url = f"{base_url}{page}"
@@ -175,17 +165,16 @@ def scrape_category(category_name, urls, max_pages=20, vin_age_map=None):
 
     return list(unique_vehicles.values())
 
-# Delete all existing .json files in the src directory
+# Delete old .json files
 json_folder = "src"
 if os.path.exists(json_folder):
     for file in os.listdir(json_folder):
         if file.endswith(".json"):
-            file_path = os.path.join(json_folder, file)
-            os.remove(file_path)
+            os.remove(os.path.join(json_folder, file))
             print(f"🗑️ Deleted old file: {file}")
 
 if __name__ == "__main__":
-    vin_age_map = load_vin_age_map("vin_age_data.csv")  # Your CSV file with VIN + Age
+    vin_age_map = load_vin_age_map("vin_age_data.csv")
 
     categories = {
         "used": [
@@ -201,10 +190,8 @@ if __name__ == "__main__":
     }
 
     all_data = []
-
     for category, urls in categories.items():
-        category_vehicles = scrape_category(category, urls, vin_age_map=vin_age_map)
-        all_data.extend(category_vehicles)
+        all_data.extend(scrape_category(category, urls, vin_age_map=vin_age_map))
 
     master_path = os.path.join("src", "all_vehicle_data.json")
     with open(master_path, "w") as f:
