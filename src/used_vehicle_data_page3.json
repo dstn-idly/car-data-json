@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST0RF178509&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c7ed033a2ff4563b71959f20df15691.jpg",
     "price": "$18,687",
-    "sutherlins_price": "$18,129",
+    "sutherlins_price": "$16,988",
     "mileage": "40,863 Miles",
     "age": 36
   },
@@ -27,7 +27,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DVXRL930204&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e14fbd72896d4b339bf93e6df726125f.jpg",
     "price": "$18,687",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,988",
     "mileage": "12,907 Miles",
     "age": 23
   },
@@ -96,22 +96,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra S",
-    "vin": "3N1AB8BV8NY275881",
-    "stock": "P12945",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8NY275881&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c4689658395473b83264503376d77d2.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$17,988",
-    "mileage": "38,804 Miles",
-    "age": 23
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF219043",
     "stock": "P13021",
@@ -122,9 +106,25 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d6063fe1210424cb3a8c45e70b0a8dd.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$17,988",
     "mileage": "51,071 Miles",
     "age": 10
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra S",
+    "vin": "3N1AB8BV8NY275881",
+    "stock": "P12945",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8NY275881&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c4689658395473b83264503376d77d2.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "38,804 Miles",
+    "age": 23
   },
   {
     "category": "used",
@@ -138,7 +138,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d26bdccc15b748ec9335dce61f57ba76.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "22,438 Miles",
     "age": 17
   },
@@ -170,7 +170,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7KW523779&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS17_640/2019NIS170001_640_01.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$17,988",
     "mileage": "29,608 Miles",
     "age": 10
   },
@@ -186,7 +186,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV7LW540923&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS17_640/2020NIS170026_640_01.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "21,460 Miles",
     "age": 17
   },
@@ -202,7 +202,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K2CAB2PU055309&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/44a8293ee50d4ce0af06cb4a48c1d41a.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "63,664 Miles",
     "age": 17
   },
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLM4AG3NH063804&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/328b4e1ad6d540f3b0057d1de6eb9a38.jpg",
     "price": "$20,459",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$18,599",
     "mileage": "34,214 Miles",
     "age": 10
   },
@@ -297,7 +297,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV5SL836234&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/03a2ddd3098f4d2abea8bea0237b8167.jpg",
     "price": "$20,887",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "1,744 Miles",
     "age": 22
   },
@@ -313,7 +313,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA3MC680768&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
     "price": "$18,687",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$16,988",
     "mileage": "71,514 Miles",
     "age": 12
   },
@@ -329,9 +329,25 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
     "price": "$20,887",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "34,591 Miles",
     "age": 10
+  },
+  {
+    "category": "used",
+    "name": "2015 RAM 1500 Big Horn",
+    "vin": "1C6RR7GT1FS636839",
+    "stock": "P12973",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7GT1FS636839&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1cbabcd3c9ac45e388856dd1e1f20c71.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "81,776 Miles",
+    "age": 17
   },
   {
     "category": "used",
@@ -348,22 +364,6 @@
     "sutherlins_price": "$18,988",
     "mileage": "115,758 Miles",
     "age": 2
-  },
-  {
-    "category": "used",
-    "name": "2015 RAM 1500 Big Horn",
-    "vin": "1C6RR7GT1FS636839",
-    "stock": "P12973",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7GT1FS636839&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1cbabcd3c9ac45e388856dd1e1f20c71.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$20,988",
-    "mileage": "81,776 Miles",
-    "age": 17
   },
   {
     "category": "used",
@@ -393,7 +393,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J3CAL2KU976732&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019HYS02_640/2019HYS020160_640_01.jpg",
     "price": "$20,887",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$18,988",
     "mileage": "92,366 Miles",
     "age": 17
   },
@@ -409,7 +409,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AW7MW443699&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/763fc0064aa74cf2af1fbaa7a1719633.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "53,709 Miles",
     "age": 10
   },
@@ -425,7 +425,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV8MW567048&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c18021737444a65b4255dc9c90014f7.jpg",
     "price": "$20,887",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "33,574 Miles",
     "age": 27
   },
@@ -441,7 +441,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA6MC784882&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
     "price": "$20,894",
-    "sutherlins_price": "$21,895",
+    "sutherlins_price": "$18,995",
     "mileage": "41,130 Miles",
     "age": 8
   },
@@ -473,25 +473,9 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB8PC843898&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
     "price": "$23,099",
-    "sutherlins_price": "$18,999",
+    "sutherlins_price": "$20,999",
     "mileage": "59,180 Miles",
     "age": 10
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV0RN393083",
-    "stock": "P12914",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV0RN393083&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6e1d1d05e0834811b00db50fecb42565.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "8,226 Miles",
-    "age": 39
   },
   {
     "category": "used",
@@ -508,5 +492,21 @@
     "sutherlins_price": "$19,988",
     "mileage": "4,137 Miles",
     "age": 43
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV0RN393083",
+    "stock": "P12914",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV0RN393083&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6e1d1d05e0834811b00db50fecb42565.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "8,226 Miles",
+    "age": 39
   }
 ]
