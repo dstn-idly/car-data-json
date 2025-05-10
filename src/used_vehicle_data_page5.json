@@ -1,6 +1,38 @@
 [
   {
     "category": "used",
+    "name": "2023 Hyundai Tucson SE",
+    "vin": "5NMJA3AE1PH284150",
+    "stock": "P12983",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3AE1PH284150&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b3632d239bd44c86b45d5eb39b628dd1.jpg",
+    "price": "$24,187",
+    "sutherlins_price": "$21,988",
+    "mileage": "30,113 Miles",
+    "age": 16
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan ARIYA ENGAGE",
+    "vin": "JN1AF0BA2PM410264",
+    "stock": "T25194A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AF0BA2PM410264&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8c14314d761b4185a581a20be48f045b.jpg",
+    "price": "$24,187",
+    "sutherlins_price": "$21,988",
+    "mileage": "23,939 Miles",
+    "age": 38
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA7PW421961",
     "stock": "P12995",
@@ -113,22 +145,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BJ2PC131138",
-    "stock": "P13020",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fea83d8cc3af4aaf892974a18065c655.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "58,427 Miles",
-    "age": 10
-  },
-  {
-    "category": "used",
     "name": "2019 Honda CR-V EX-L",
     "vin": "2HKRW1H86KH512244",
     "stock": "512224",
@@ -145,6 +161,22 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ2PC131138",
+    "stock": "P13020",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fea83d8cc3af4aaf892974a18065c655.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "58,427 Miles",
+    "age": 10
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Sonata N Line",
     "vin": "KMHL14JC5PA266589",
     "stock": "P12988",
@@ -158,6 +190,22 @@
     "sutherlins_price": "$22,988",
     "mileage": "60,828 Miles",
     "age": 14
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BB3RC750127",
+    "stock": "P13024",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB3RC750127&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS110021_640_01.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "N/A",
+    "age": 10
   },
   {
     "category": "used",
@@ -189,22 +237,6 @@
     "price": "$25,287",
     "sutherlins_price": "$22,988",
     "mileage": "20,322 Miles",
-    "age": 10
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BB3RC750127",
-    "stock": "P13024",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB3RC750127&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS110021_640_01.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "N/A",
     "age": 10
   },
   {
@@ -385,22 +417,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJG1NH218442",
-    "stock": "P13037",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJG1NH218442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022DOC19_640/2022DOC191747968_640_01.jpg",
-    "price": "$27,487",
-    "sutherlins_price": "$24,988",
-    "mileage": "53,071 Miles",
-    "age": 2
-  },
-  {
-    "category": "used",
     "name": "2024 MINI Hardtop 4 Door Cooper S",
     "vin": "WMW53DK00R2V41372",
     "stock": "P12970",
@@ -414,6 +430,22 @@
     "sutherlins_price": "$24,988",
     "mileage": "22,631 Miles",
     "age": 17
+  },
+  {
+    "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJG1NH218442",
+    "stock": "P13037",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJG1NH218442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022DOC19_640/2022DOC191747968_640_01.jpg",
+    "price": "$27,487",
+    "sutherlins_price": "$24,988",
+    "mileage": "53,071 Miles",
+    "age": 2
   },
   {
     "category": "used",
@@ -477,36 +509,5 @@
     "sutherlins_price": "$25,890",
     "mileage": "79,811 Miles",
     "age": 10
-  },
-  {
-    "category": "used",
-    "name": "2023 Toyota Camry SE",
-    "vin": "4T1G11AK8PU821802",
-    "stock": "P12974",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK8PU821802&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c14f16b86fe74920a2fc011825a62d1e.jpg",
-    "price": "$28,587",
-    "sutherlins_price": "$25,988",
-    "mileage": "38,149 Miles",
-    "age": 17
-  },
-  {
-    "category": "used",
-    "name": "2023 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG6PR535499",
-    "stock": "P12837",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG6PR535499&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e26bd435da604b35a45799ee5bac5b8b.jpg",
-    "price": "$25,988",
-    "sutherlins_price": "$25,988",
-    "mileage": "57,222 Miles"
   }
 ]
