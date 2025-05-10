@@ -81,22 +81,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Sentra S",
-    "vin": "3N1AB8BV8NY275881",
-    "stock": "P12945",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8NY275881&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c4689658395473b83264503376d77d2.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "38,804 Miles",
-    "age": 23
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Versa SV",
     "vin": "3N1CN8EV0PL854178",
     "stock": "P12955",
@@ -109,6 +93,22 @@
     "price": "$18,687",
     "sutherlins_price": "$16,988",
     "mileage": "28,747 Miles",
+    "age": 23
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Sentra S",
+    "vin": "3N1AB8BV8NY275881",
+    "stock": "P12945",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8NY275881&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c4689658395473b83264503376d77d2.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "38,804 Miles",
     "age": 23
   },
   {
@@ -225,22 +225,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA3PC747007",
-    "stock": "P13018",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "43,125 Miles",
-    "age": 10
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 S",
     "vin": "1N4BL4BV9RN341791",
     "stock": "P12910",
@@ -254,6 +238,22 @@
     "sutherlins_price": "$19,988",
     "mileage": "4,137 Miles",
     "age": 43
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA3PC747007",
+    "stock": "P13018",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "43,125 Miles",
+    "age": 10
   },
   {
     "category": "cpo",
