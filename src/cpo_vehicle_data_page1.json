@@ -289,22 +289,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA3PC747007",
-    "stock": "P13018",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "43,125 Miles",
-    "age": 10
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 S",
     "vin": "1N4BL4BV0RN393083",
     "stock": "P12914",
@@ -318,6 +302,22 @@
     "sutherlins_price": "$19,988",
     "mileage": "8,226 Miles",
     "age": 39
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA3PC747007",
+    "stock": "P13018",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "43,125 Miles",
+    "age": 10
   },
   {
     "category": "cpo",
@@ -401,22 +401,6 @@
   {
     "category": "cpo",
     "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA6PC837721",
-    "stock": "P12999",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC837721&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c848ad2d7a34a6c88bda963af41f8cb.jpg",
-    "price": "$23,087",
-    "sutherlins_price": "$20,988",
-    "mileage": "59,357 Miles",
-    "age": 10
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA7PC762639",
     "stock": "P12998",
     "exterior": "",
@@ -428,6 +412,22 @@
     "price": "$23,087",
     "sutherlins_price": "$20,988",
     "mileage": "52,453 Miles",
+    "age": 10
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA6PC837721",
+    "stock": "P12999",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC837721&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c848ad2d7a34a6c88bda963af41f8cb.jpg",
+    "price": "$23,087",
+    "sutherlins_price": "$20,988",
+    "mileage": "59,357 Miles",
     "age": 10
   },
   {
@@ -480,22 +480,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan ARIYA ENGAGE",
-    "vin": "JN1AF0BA2PM410264",
-    "stock": "T25194A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AF0BA2PM410264&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8c14314d761b4185a581a20be48f045b.jpg",
-    "price": "$24,187",
-    "sutherlins_price": "$21,988",
-    "mileage": "23,939 Miles",
-    "age": 38
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA7PW421961",
     "stock": "P12995",
@@ -509,5 +493,21 @@
     "sutherlins_price": "$21,988",
     "mileage": "55,845 Miles",
     "age": 10
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan ARIYA ENGAGE",
+    "vin": "JN1AF0BA2PM410264",
+    "stock": "T25194A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AF0BA2PM410264&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8c14314d761b4185a581a20be48f045b.jpg",
+    "price": "$24,187",
+    "sutherlins_price": "$21,988",
+    "mileage": "23,939 Miles",
+    "age": 38
   }
 ]
