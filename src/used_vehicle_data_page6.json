@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Honda CR-V Hybrid EX-L",
-    "vin": "5J6RT6H86NL030812",
-    "stock": "P12821",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas/Electric I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RT6H86NL030812&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/08174a60000f4e3da0fb7aa029f53ec2.jpg",
-    "price": "$29,292",
-    "sutherlins_price": "$26,629",
-    "mileage": "53,277 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Fe Limited",
     "vin": "5NMS4DAL1PH532039",
     "stock": "P12966",
@@ -122,7 +107,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025MAS10_640/2025MAS100001_640_01.jpg",
     "price": "$30,787",
     "sutherlins_price": "$27,988",
-    "mileage": "N/A",
+    "mileage": "12,106 Miles",
     "age": 1
   },
   {
@@ -438,6 +423,51 @@
     "sutherlins_price": "$37,988",
     "mileage": "43,866 Miles",
     "age": 38
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Sentra SV",
+    "vin": "3N1AB7AP4FY277674",
+    "stock": "25598A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP4FY277674&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC06_640/2015NIC060001_640_01.jpg",
+    "price": "$53,894",
+    "sutherlins_price": "$48,995",
+    "mileage": "222,145 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Dodge Challenger R/T",
+    "vin": "2C3CDZBT1MH655206",
+    "stock": "25331A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZBT1MH655206&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021DOC19_640/2021DOC191628157_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "13,598 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2004 Toyota Celica GT",
+    "vin": "JTDDR32T940174803",
+    "stock": "P12895C",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 1.8L/110",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDDR32T940174803&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/4421.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "115,889 Miles"
   },
   {
     "category": "used",
