@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2015 GMC Sierra 1500 SLT",
+    "vin": "1GTV2VEC5FZ443832",
+    "stock": "P12874A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTV2VEC5FZ443832&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015GMC005b_640/2015GMC005b_640_01.jpg",
+    "price": "$24,194",
+    "sutherlins_price": "$21,995",
+    "mileage": "115,257 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CW8NN419799",
     "stock": "P12989",
@@ -28,6 +43,21 @@
     "price": "$24,198",
     "sutherlins_price": "$21,998",
     "mileage": "44,054 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA8PC881219",
+    "stock": "25125A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA8PC881219&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "price": "$24,441",
+    "sutherlins_price": "$22,219",
+    "mileage": "9,014 Miles"
   },
   {
     "category": "used",
@@ -108,21 +138,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Titan XD SV",
-    "vin": "1N6AA1F3XHN563769",
-    "stock": "P12980",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1F3XHN563769&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/498c3cd0cbd2488ea7e02f272d740bed.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "78,053 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Pathfinder S",
     "vin": "5N1DR2ANXLC609902",
     "stock": "P13002",
@@ -150,6 +165,21 @@
     "price": "$25,287",
     "sutherlins_price": "$22,988",
     "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Titan XD SV",
+    "vin": "1N6AA1F3XHN563769",
+    "stock": "P12980",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1F3XHN563769&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/498c3cd0cbd2488ea7e02f272d740bed.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "78,053 Miles"
   },
   {
     "category": "used",
@@ -286,21 +316,6 @@
     "price": "$26,839",
     "sutherlins_price": "$24,399",
     "mileage": "17,286 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA8PC881219",
-    "stock": "25125A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA8PC881219&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
-    "price": "$27,487",
-    "sutherlins_price": "$24,988",
-    "mileage": "9,014 Miles"
   },
   {
     "category": "used",
@@ -472,21 +487,5 @@
     "sutherlins_price": "$25,988",
     "mileage": "35,331 Miles",
     "age": 31
-  },
-  {
-    "category": "used",
-    "name": "2022 Honda CR-V Hybrid EX-L",
-    "vin": "5J6RT6H86NL030812",
-    "stock": "P12821",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas/Electric I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RT6H86NL030812&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/08174a60000f4e3da0fb7aa029f53ec2.jpg",
-    "price": "$29,292",
-    "sutherlins_price": "$26,629",
-    "mileage": "53,277 Miles",
-    "age": 89
   }
 ]
