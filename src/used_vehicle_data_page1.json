@@ -136,13 +136,13 @@
   },
   {
     "category": "used",
-    "name": "2008 Hyundai Sonata",
+    "name": "2008 Hyundai Sonata Limited",
     "vin": "5NPEU46C78H357189",
     "stock": "P12896A",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Gas I4 2.4L/146",
-    "transmission": "",
+    "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEU46C78H357189&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008HYU006a_640/2008HYU006a_640_01.jpg",
     "price": "$5,494",
@@ -267,7 +267,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d54e24942f144e68a93855871a5b8504.jpg",
     "price": "$7,687",
     "sutherlins_price": "$6,988",
-    "mileage": "N/A"
+    "mileage": "120,918 Miles"
   },
   {
     "category": "used",
@@ -363,18 +363,18 @@
   },
   {
     "category": "used",
-    "name": "2011 RAM 1500 Big Horn",
-    "vin": "1D7RB1GTXBS696614",
-    "stock": "T25135B",
+    "name": "2014 Kia Soul +",
+    "vin": "KNDJP3A50E7027726",
+    "stock": "P13026",
     "exterior": "",
     "interior": "",
-    "engine": "Gas V8 5.7L/345",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1D7RB1GTXBS696614&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13777.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJP3A50E7027726&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014KIA010a_640/2014KIA010a_640_01.jpg",
     "price": "$9,887",
     "sutherlins_price": "$8,988",
-    "mileage": "125,000 Miles"
+    "mileage": "94,727 Miles"
   },
   {
     "category": "used",
@@ -390,21 +390,6 @@
     "price": "$9,887",
     "sutherlins_price": "$8,988",
     "mileage": "112,369 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2014 Kia Soul +",
-    "vin": "KNDJP3A50E7027726",
-    "stock": "P13026",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJP3A50E7027726&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014KIA010a_640/2014KIA010a_640_01.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "94,727 Miles"
   },
   {
     "category": "used",
@@ -480,5 +465,21 @@
     "price": "$10,987",
     "sutherlins_price": "$9,988",
     "mileage": "113,907 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Sorento LX",
+    "vin": "5XYPG4A33LG699892",
+    "stock": "25369A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPG4A33LG699892&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/af48634743994556918085375534afd5.jpg",
+    "price": "$10,987",
+    "sutherlins_price": "$9,988",
+    "mileage": "124,302 Miles",
+    "age": 36
   }
 ]
