@@ -121,6 +121,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Chevrolet Sonic LS",
+    "vin": "1G1JA5SH8G4183421",
+    "stock": "P12951A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 1.8L/110",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1JA5SH8G4183421&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016CHC320019_640/2016CHC320019_640_01.jpg",
+    "price": "$5,487",
+    "sutherlins_price": "$4,988",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2013 Dodge Grand Caravan American Value Pkg",
     "vin": "2C4RDGBG8DR680756",
     "stock": "P12929A",
@@ -438,6 +453,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Pathfinder SL",
+    "vin": "5N1DR2MN1KC643107",
+    "stock": "P12933A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN1KC643107&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS07_640/2019NIS070001_640_01.jpg",
+    "price": "$10,985",
+    "sutherlins_price": "$11,986",
+    "mileage": "133,581 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Rogue SL",
     "vin": "5N1AT2MT4JC797022",
     "stock": "P12891A",
@@ -450,36 +480,5 @@
     "price": "$10,987",
     "sutherlins_price": "$9,988",
     "mileage": "118,876 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2014 Nissan Rogue SV",
-    "vin": "5N1AT2MT9EC872190",
-    "stock": "P12816",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9EC872190&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6d1a9021484ad0a1824263e3de8923.jpg",
-    "price": "$10,987",
-    "sutherlins_price": "$9,988",
-    "mileage": "113,907 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Kia Sorento LX",
-    "vin": "5XYPG4A33LG699892",
-    "stock": "25369A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPG4A33LG699892&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/af48634743994556918085375534afd5.jpg",
-    "price": "$10,987",
-    "sutherlins_price": "$9,988",
-    "mileage": "124,302 Miles",
-    "age": 36
   }
 ]
