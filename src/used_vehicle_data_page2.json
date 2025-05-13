@@ -303,21 +303,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue S",
-    "vin": "5N1AT3AA6MC839283",
-    "stock": "25274A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA6MC839283&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/222117f3154e4b53ba4204a37239759f.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "109,527 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Sentra SV",
     "vin": "3N1AB8CV3MY235558",
     "stock": "25527A",
@@ -330,6 +315,21 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "75,991 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue S",
+    "vin": "5N1AT3AA6MC839283",
+    "stock": "25274A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA6MC839283&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/222117f3154e4b53ba4204a37239759f.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "109,527 Miles"
   },
   {
     "category": "used",
@@ -468,17 +468,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Altima 2.5 SL",
-    "vin": "1N4BL4EV3LC236405",
-    "stock": "P13011",
+    "name": "2023 Volkswagen Jetta SE",
+    "vin": "3VW7M7BU4PM028335",
+    "stock": "P12893",
     "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4EV3LC236405&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040081_640_01.jpg",
+    "interior": "N/A",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VW7M7BU4PM028335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/52cd3c96cf0f42d6abe6291881e7e03f.jpg",
     "price": "$18,687",
     "sutherlins_price": "$16,988",
-    "mileage": "80,691 Miles"
+    "mileage": "32,981 Miles",
+    "age": 55
   }
 ]
