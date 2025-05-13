@@ -322,7 +322,7 @@
     "vin": "KNMAT2MT8GP702449",
     "stock": "25575B",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT8GP702449&source=BUP",
@@ -348,21 +348,6 @@
   },
   {
     "category": "used",
-    "name": "2009 Toyota Venza Base",
-    "vin": "4T3ZK11A29U007958",
-    "stock": "25202A",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas V6 3.5L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T3ZK11A29U007958&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/71d1342121114080a4ae9cb3bebdd137.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "136,784 Miles"
-  },
-  {
-    "category": "used",
     "name": "2011 RAM 1500 Big Horn",
     "vin": "1D7RB1GTXBS696614",
     "stock": "T25135B",
@@ -375,6 +360,21 @@
     "price": "$9,887",
     "sutherlins_price": "$8,988",
     "mileage": "125,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2009 Toyota Venza Base",
+    "vin": "4T3ZK11A29U007958",
+    "stock": "25202A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas V6 3.5L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T3ZK11A29U007958&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/71d1342121114080a4ae9cb3bebdd137.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "136,784 Miles"
   },
   {
     "category": "used",
