@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Elantra Limited",
-    "vin": "KMHLP4DG8RU662465",
-    "stock": "KP1026",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLP4DG8RU662465&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d72ea996a1a747b6a10f35d0c590b7ce.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "28,400 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Taos SE",
     "vin": "3VVRX7B22NM062189",
     "stock": "P12924",
@@ -92,18 +77,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BJ2PC131138",
-    "stock": "P13020",
+    "name": "2024 Hyundai Elantra Limited",
+    "vin": "KMHLP4DG8RU662465",
+    "stock": "KP1026",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6334b164db9245d39cc8b586401ce3e8.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLP4DG8RU662465&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d72ea996a1a747b6a10f35d0c590b7ce.jpg",
     "price": "$25,287",
     "sutherlins_price": "$22,988",
-    "mileage": "58,427 Miles"
+    "mileage": "28,400 Miles"
   },
   {
     "category": "used",
@@ -120,6 +105,21 @@
     "sutherlins_price": "$22,988",
     "mileage": "56,869 Miles",
     "age": 31
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ2PC131138",
+    "stock": "P13020",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6334b164db9245d39cc8b586401ce3e8.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "58,427 Miles"
   },
   {
     "category": "used",
@@ -154,21 +154,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Pathfinder S",
-    "vin": "5N1DR2ANXLC609902",
-    "stock": "P13002",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2ANXLC609902&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b047ca374eed4b22a3ced2ff7a50e1fe.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "20,322 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Titan XD SV",
     "vin": "1N6AA1F3XHN563769",
     "stock": "P12980",
@@ -196,6 +181,21 @@
     "price": "$25,287",
     "sutherlins_price": "$22,988",
     "mileage": "18,728 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Pathfinder S",
+    "vin": "5N1DR2ANXLC609902",
+    "stock": "P13002",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2ANXLC609902&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b047ca374eed4b22a3ced2ff7a50e1fe.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "20,322 Miles"
   },
   {
     "category": "used",
@@ -233,7 +233,7 @@
     "vin": "1HGCV1F46NA026779",
     "stock": "P12969",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F46NA026779&source=BUP",
@@ -336,21 +336,6 @@
   },
   {
     "category": "used",
-    "name": "2024 MINI Hardtop 4 Door Cooper S",
-    "vin": "WMW53DK00R2V41372",
-    "stock": "P12970",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMW53DK00R2V41372&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0adfdb4d6184dcbb57b12e37d4342e3.jpg",
-    "price": "$27,487",
-    "sutherlins_price": "$24,988",
-    "mileage": "22,631 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Dodge Challenger GT",
     "vin": "2C3CDZJG6NH263795",
     "stock": "P12981",
@@ -378,6 +363,21 @@
     "price": "$27,487",
     "sutherlins_price": "$24,988",
     "mileage": "53,071 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 MINI Hardtop 4 Door Cooper S",
+    "vin": "WMW53DK00R2V41372",
+    "stock": "P12970",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMW53DK00R2V41372&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0adfdb4d6184dcbb57b12e37d4342e3.jpg",
+    "price": "$27,487",
+    "sutherlins_price": "$24,988",
+    "mileage": "22,631 Miles"
   },
   {
     "category": "used",

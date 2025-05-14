@@ -20,7 +20,7 @@
     "vin": "3VWCB7BU5LM047720",
     "stock": "25571B",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.4 L/85",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VWCB7BU5LM047720&source=BUP",
@@ -44,6 +44,21 @@
     "sutherlins_price": "$9,988",
     "mileage": "124,302 Miles",
     "age": 36
+  },
+  {
+    "category": "used",
+    "name": "2017 Volkswagen Passat 1.8T SE",
+    "vin": "1VWBT7A36HC005549",
+    "stock": "25402A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.8 L/110",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWBT7A36HC005549&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/aa49bc94e5d440ca9d62779ae0da70b0.jpg",
+    "price": "$11,547",
+    "sutherlins_price": "$10,988",
+    "mileage": "64,361 Miles"
   },
   {
     "category": "used",
@@ -74,21 +89,6 @@
     "price": "$12,087",
     "sutherlins_price": "$10,988",
     "mileage": "102,318 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Volkswagen Passat 1.8T SE",
-    "vin": "1VWBT7A36HC005549",
-    "stock": "25402A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.8 L/110",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWBT7A36HC005549&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/aa49bc94e5d440ca9d62779ae0da70b0.jpg",
-    "price": "$12,087",
-    "sutherlins_price": "$10,988",
-    "mileage": "64,361 Miles"
   },
   {
     "category": "used",
@@ -243,21 +243,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SV",
-    "vin": "3N1CP5CV8LL569542",
-    "stock": "P13007",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8LL569542&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/86592502c0be47d28df465b784fafc88.jpg",
-    "price": "$15,387",
-    "sutherlins_price": "$13,988",
-    "mileage": "101,394 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT3KW256990",
     "stock": "25517B",
@@ -270,6 +255,21 @@
     "price": "$15,387",
     "sutherlins_price": "$13,988",
     "mileage": "104,313 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Kicks SV",
+    "vin": "3N1CP5CV8LL569542",
+    "stock": "P13007",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8LL569542&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/86592502c0be47d28df465b784fafc88.jpg",
+    "price": "$15,387",
+    "sutherlins_price": "$13,988",
+    "mileage": "101,394 Miles"
   },
   {
     "category": "used",
@@ -438,6 +438,36 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Versa SV",
+    "vin": "3N1CN8EV0PL854178",
+    "stock": "P12955",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL854178&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8e99798ade34b9ba8915d86156178a5.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "28,747 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Ford Explorer Limited",
+    "vin": "1FM5K7F88HGD00115",
+    "stock": "TT25459A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FM5K7F88HGD00115&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017FOS100003_640/2017FOS100003_640_01.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "69,000 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Volkswagen Jetta SE",
     "vin": "3VW7M7BU4PM028335",
     "stock": "P12893",
@@ -451,35 +481,5 @@
     "sutherlins_price": "$16,988",
     "mileage": "32,981 Miles",
     "age": 55
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Altima 2.5 SL",
-    "vin": "1N4BL4EV3LC236405",
-    "stock": "P13011",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4EV3LC236405&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040081_640_01.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "80,691 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Versa SV",
-    "vin": "3N1CN8EV0PL854178",
-    "stock": "P12955",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL854178&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8e99798ade34b9ba8915d86156178a5.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "28,747 Miles"
   }
 ]
