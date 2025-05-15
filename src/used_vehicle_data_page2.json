@@ -1,37 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2018 Jeep Renegade Latitude",
-    "vin": "ZACCJABB1JPH20420",
-    "stock": "P12977",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e097f69a1473454cba504cfbe502a10d.jpg",
-    "price": "$14,287",
-    "sutherlins_price": "$12,988",
-    "mileage": "89,765 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Kia Rio S",
-    "vin": "3KPA24AD1LE314551",
-    "stock": "P12940",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPA24AD1LE314551&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b9bbfd9e80c04e4fac9a427052e02a36.jpg",
-    "price": "$14,287",
-    "sutherlins_price": "$12,988",
-    "mileage": "57,653 Miles",
-    "age": 32
-  },
-  {
-    "category": "used",
     "name": "2017 Honda Accord Coupe EX-L",
     "vin": "1HGCT1B87HA003160",
     "stock": "KP1025",
@@ -107,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Toyota Avalon Limited",
-    "vin": "4T1BK1EB1EU087132",
-    "stock": "P12838A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BK1EB1EU087132&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014TOY002a_640/2014TOY002a_640_01.jpg",
-    "price": "$15,387",
-    "sutherlins_price": "$13,988",
-    "mileage": "59,382 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Kicks SV",
     "vin": "3N1CP5CV8LL569542",
     "stock": "P13007",
@@ -164,6 +118,21 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "109,527 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Venue SE",
+    "vin": "KMHRB8A33LU032233",
+    "stock": "P13039",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A33LU032233&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HYS20_640/2020HYS200031_640_01.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$15,988",
+    "mileage": "64,699 Miles"
   },
   {
     "category": "used",
@@ -239,21 +208,6 @@
     "price": "$17,587",
     "sutherlins_price": "$15,988",
     "mileage": "53,815 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Hyundai Venue SE",
-    "vin": "KMHRB8A33LU032233",
-    "stock": "P13039",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A33LU032233&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HYS20_640/2020HYS200031_640_01.jpg",
-    "price": "$17,587",
-    "sutherlins_price": "$15,988",
-    "mileage": "64,699 Miles"
   },
   {
     "category": "used",
@@ -334,21 +288,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Versa SV",
-    "vin": "3N1CN8EV0PL854178",
-    "stock": "P12955",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL854178&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8e99798ade34b9ba8915d86156178a5.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "28,747 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Ford Explorer Limited",
     "vin": "1FM5K7F88HGD00115",
     "stock": "TT25459A",
@@ -361,6 +300,21 @@
     "price": "$18,687",
     "sutherlins_price": "$16,988",
     "mileage": "69,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra S",
+    "vin": "3N1AB8BV8NY275881",
+    "stock": "P12945",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8NY275881&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c4689658395473b83264503376d77d2.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "38,804 Miles"
   },
   {
     "category": "used",
@@ -379,18 +333,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra S",
-    "vin": "3N1AB8BV8NY275881",
-    "stock": "P12945",
+    "name": "2023 Nissan Versa SV",
+    "vin": "3N1CN8EV0PL854178",
+    "stock": "P12955",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8NY275881&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c4689658395473b83264503376d77d2.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL854178&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8e99798ade34b9ba8915d86156178a5.jpg",
     "price": "$18,687",
     "sutherlins_price": "$16,988",
-    "mileage": "38,804 Miles"
+    "mileage": "28,747 Miles"
   },
   {
     "category": "used",
@@ -483,5 +437,50 @@
     "price": "$19,595",
     "sutherlins_price": "$17,814",
     "mileage": "22,438 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CVXPL524799",
+    "stock": "25518A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CVXPL524799&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/349ee106f36d43ba926dfdaf0d8ab063.jpg",
+    "price": "$19,679",
+    "sutherlins_price": "$17,890",
+    "mileage": "20,318 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY244866",
+    "stock": "25071A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY244866&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "4,680 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF219043",
+    "stock": "P13021",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d6063fe1210424cb3a8c45e70b0a8dd.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "51,071 Miles"
   }
 ]
