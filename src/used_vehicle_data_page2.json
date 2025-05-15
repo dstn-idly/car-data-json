@@ -87,7 +87,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW256990&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
     "price": "$15,071",
-    "sutherlins_price": "$13,988",
+    "sutherlins_price": "$13,701",
     "mileage": "104,313 Miles"
   },
   {
@@ -167,21 +167,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV2KN328269",
-    "stock": "P13009",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV2KN328269&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0ea8b168c1644ed9cc2fa7b0d8e5aba.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "103,087 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Sentra SV",
     "vin": "3N1AB8CV3MY235558",
     "stock": "25527A",
@@ -194,6 +179,21 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "75,991 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV2KN328269",
+    "stock": "P13009",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV2KN328269&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0ea8b168c1644ed9cc2fa7b0d8e5aba.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "103,087 Miles"
   },
   {
     "category": "used",
@@ -282,7 +282,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFEPMAE1NP336286&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/01960490699e407dabc8a57a873c8793.jpg",
     "price": "$17,924",
-    "sutherlins_price": "$17,788",
+    "sutherlins_price": "$16,295",
     "mileage": "54,793 Miles",
     "age": 69
   },
@@ -298,7 +298,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VW7M7BU4PM028335&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/52cd3c96cf0f42d6abe6291881e7e03f.jpg",
     "price": "$18,163",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$16,512",
     "mileage": "32,981 Miles",
     "age": 55
   },
@@ -331,21 +331,6 @@
     "price": "$18,687",
     "sutherlins_price": "$16,988",
     "mileage": "61,254 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Ford Explorer Limited",
-    "vin": "1FM5K7F88HGD00115",
-    "stock": "TT25459A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FM5K7F88HGD00115&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017FOS100003_640/2017FOS100003_640_01.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "69,000 Miles"
   },
   {
     "category": "used",
@@ -394,6 +379,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Ford Explorer Limited",
+    "vin": "1FM5K7F88HGD00115",
+    "stock": "TT25459A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FM5K7F88HGD00115&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017FOS100003_640/2017FOS100003_640_01.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "69,000 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST0RF178509",
     "stock": "P12936",
@@ -435,7 +435,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L32LG442249&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d0eae86430049af8df8733265c7b151.jpg",
     "price": "$19,231",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$17,483",
     "mileage": "68,136 Miles"
   },
   {
@@ -481,7 +481,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d26bdccc15b748ec9335dce61f57ba76.jpg",
     "price": "$19,595",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$17,814",
     "mileage": "22,438 Miles"
   }
 ]
