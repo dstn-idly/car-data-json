@@ -212,21 +212,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Toyota Corolla L",
-    "vin": "2T1BURHE5GC609599",
-    "stock": "25573A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE5GC609599&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016TOC040002_640/2016TOC040002_640_01.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "112,369 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Kia Soul +",
     "vin": "KNDJP3A50E7027726",
     "stock": "P13026",
@@ -239,6 +224,21 @@
     "price": "$9,887",
     "sutherlins_price": "$8,988",
     "mileage": "94,727 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Toyota Corolla L",
+    "vin": "2T1BURHE5GC609599",
+    "stock": "25573A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE5GC609599&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016TOC040002_640/2016TOC040002_640_01.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "112,369 Miles"
   },
   {
     "category": "used",
@@ -299,6 +299,21 @@
     "price": "$10,854",
     "sutherlins_price": "$9,867",
     "mileage": "133,581 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 INFINITI QX60 Base",
+    "vin": "5N1DL0MM5HC510890",
+    "stock": "25447A",
+    "exterior": "",
+    "interior": "Wheat",
+    "engine": "Premium Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DL0MM5HC510890&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017INS150001_640/2017INS150001_640_01.jpg",
+    "price": "$10,987",
+    "sutherlins_price": "$9,988",
+    "mileage": "88,001 Miles"
   },
   {
     "category": "used",
@@ -465,21 +480,5 @@
     "price": "$14,287",
     "sutherlins_price": "$12,988",
     "mileage": "89,765 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Kia Rio S",
-    "vin": "3KPA24AD1LE314551",
-    "stock": "P12940",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPA24AD1LE314551&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b9bbfd9e80c04e4fac9a427052e02a36.jpg",
-    "price": "$14,287",
-    "sutherlins_price": "$12,988",
-    "mileage": "57,653 Miles",
-    "age": 32
   }
 ]
