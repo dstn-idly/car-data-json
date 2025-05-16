@@ -277,21 +277,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Kia Sportage LX",
-    "vin": "KNDPM3AC6L7783575",
-    "stock": "P13047",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC6L7783575&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020KIS01_640/2020KIS010001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "84,694 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Versa SR",
     "vin": "3N1CN8FV6SL832497",
     "stock": "P13049",
@@ -319,5 +304,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "153,244 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Sportage LX",
+    "vin": "KNDPM3AC6L7783575",
+    "stock": "P13047",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC6L7783575&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020KIS01_640/2020KIS010001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "84,694 Miles"
   }
 ]
