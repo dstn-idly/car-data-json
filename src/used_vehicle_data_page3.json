@@ -166,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV9PY281156",
-    "stock": "P13014",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "34,591 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SL",
     "vin": "5N1AZ2CJ1LN104574",
     "stock": "P13036",
@@ -193,6 +178,21 @@
     "price": "$20,887",
     "sutherlins_price": "$18,988",
     "mileage": "89,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY281156",
+    "stock": "P13014",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "34,591 Miles"
   },
   {
     "category": "used",
@@ -317,18 +317,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA3PC747007",
-    "stock": "P13018",
+    "name": "2023 Nissan Sentra SR",
+    "vin": "3N1AB8DV4PY240836",
+    "stock": "P13034",
     "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4PY240836&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060016_640_01.jpg",
     "price": "$21,987",
     "sutherlins_price": "$19,988",
-    "mileage": "43,125 Miles"
+    "mileage": "58,863 Miles"
   },
   {
     "category": "used",
@@ -348,18 +348,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SR",
-    "vin": "3N1AB8DV4PY240836",
-    "stock": "P13034",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA3PC747007",
+    "stock": "P13018",
     "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4PY240836&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060016_640_01.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
     "price": "$21,987",
     "sutherlins_price": "$19,988",
-    "mileage": "58,863 Miles"
+    "mileage": "43,125 Miles"
   },
   {
     "category": "used",
