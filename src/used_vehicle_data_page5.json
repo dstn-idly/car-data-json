@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Honda Accord Sedan Sport SE",
-    "vin": "1HGCV1F46NA026779",
-    "stock": "P12969",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F46NA026779&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f8cdd83725cb45f4990cf7a0901cdf24.jpg",
-    "price": "$26,387",
-    "sutherlins_price": "$23,988",
-    "mileage": "45,375 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Honda Civic Hatchback Sport",
-    "vin": "19XFL2H83PE019103",
-    "stock": "P13019",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XFL2H83PE019103&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67abd88c42d84af5b506b035ac0b8e95.jpg",
-    "price": "$26,387",
-    "sutherlins_price": "$23,988",
-    "mileage": "50,286 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 MINI Countryman Cooper S Classic",
     "vin": "WMZ53BR03P3P83898",
     "stock": "P12845B",
@@ -44,21 +14,6 @@
     "sutherlins_price": "$23,988",
     "mileage": "29,544 Miles",
     "age": 56
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA4NC728588",
-    "stock": "T25537A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4NC728588&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
-    "price": "$26,387",
-    "sutherlins_price": "$23,988",
-    "mileage": "19,118 Miles"
   },
   {
     "category": "used",
@@ -325,21 +280,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Tucson Limited",
-    "vin": "5NMJE3AE1PH180035",
-    "stock": "P13028",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE1PH180035&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS02_640/2023HYS020016_640_01.jpg",
-    "price": "$29,687",
-    "sutherlins_price": "$26,988",
-    "mileage": "9,405 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 INFINITI Q50 3.0t LUXE",
     "vin": "JN1EV7BR4MM753012",
     "stock": "P13012",
@@ -352,6 +292,21 @@
     "price": "$29,687",
     "sutherlins_price": "$26,988",
     "mileage": "33,308 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson Limited",
+    "vin": "5NMJE3AE1PH180035",
+    "stock": "P13028",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE1PH180035&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS02_640/2023HYS020016_640_01.jpg",
+    "price": "$29,687",
+    "sutherlins_price": "$26,988",
+    "mileage": "9,405 Miles"
   },
   {
     "category": "used",
@@ -493,5 +448,52 @@
     "sutherlins_price": "$29,988",
     "mileage": "60,129 Miles",
     "age": 39
+  },
+  {
+    "category": "used",
+    "name": "2024 Volkswagen Atlas 2.0T SE with Technology",
+    "vin": "1V2WR2CAXRC526498",
+    "stock": "P12812",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2WR2CAXRC526498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ee1d216b951a463397dbde719bdd2edc.jpg",
+    "price": "$32,990",
+    "sutherlins_price": "$29,991",
+    "mileage": "30,397 Miles",
+    "age": 90
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford F-150 XLT",
+    "vin": "1FTFW1E83NFC32495",
+    "stock": "P12814",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V6 3.5 L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFW1E83NFC32495&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16dce6b9e7d9414fa2b6c0540d0f0e53.jpg",
+    "price": "$33,549",
+    "sutherlins_price": "$30,499",
+    "mileage": "52,881 Miles",
+    "age": 90
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Titan SV",
+    "vin": "1N6AA1EE4PN110183",
+    "stock": "P13022",
+    "exterior": "",
+    "interior": "",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE4PN110183&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT13_640/2023NIT130121_640_01.jpg",
+    "price": "$34,087",
+    "sutherlins_price": "$30,988",
+    "mileage": "50,556 Miles"
   }
 ]

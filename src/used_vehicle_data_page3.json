@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF219043",
-    "stock": "P13021",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d6063fe1210424cb3a8c45e70b0a8dd.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$17,988",
-    "mileage": "51,071 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Chevrolet Silverado 1500 LT",
     "vin": "3GCPCREC9HG470144",
     "stock": "24243A",
@@ -166,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Murano SL",
-    "vin": "5N1AZ2CJ1LN104574",
-    "stock": "P13036",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ1LN104574&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS02_640/2020NIS020016_640_01.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "89,119 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV9PY281156",
     "stock": "P13014",
@@ -196,18 +166,18 @@
   },
   {
     "category": "used",
-    "name": "2019 Jeep Cherokee Limited",
-    "vin": "1C4PJMDN2KD134206",
-    "stock": "P12958",
+    "name": "2020 Nissan Murano SL",
+    "vin": "5N1AZ2CJ1LN104574",
+    "stock": "P13036",
     "exterior": "",
     "interior": "",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4PJMDN2KD134206&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/87ad35adb8cc4ddf822b2009b4412ee1.jpg",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ1LN104574&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS02_640/2020NIS020016_640_01.jpg",
     "price": "$20,887",
     "sutherlins_price": "$18,988",
-    "mileage": "68,925 Miles"
+    "mileage": "89,119 Miles"
   },
   {
     "category": "used",
@@ -223,6 +193,21 @@
     "price": "$20,887",
     "sutherlins_price": "$18,988",
     "mileage": "92,366 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Jeep Cherokee Limited",
+    "vin": "1C4PJMDN2KD134206",
+    "stock": "P12958",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4PJMDN2KD134206&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/87ad35adb8cc4ddf822b2009b4412ee1.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "68,925 Miles"
   },
   {
     "category": "used",
@@ -317,6 +302,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA3PC747007",
+    "stock": "P13018",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "43,125 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV4PY240836",
     "stock": "P13034",
@@ -345,21 +345,6 @@
     "sutherlins_price": "$19,988",
     "mileage": "8,226 Miles",
     "age": 42
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA3PC747007",
-    "stock": "P13018",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "43,125 Miles"
   },
   {
     "category": "used",
@@ -482,5 +467,20 @@
     "price": "$22,636",
     "sutherlins_price": "$20,578",
     "mileage": "21,675 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST6SF124380",
+    "stock": "P12985",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6SF124380&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c62edb820fb4e778f44197ca2e3e970.jpg",
+    "price": "$22,974",
+    "sutherlins_price": "$20,885",
+    "mileage": "8,525 Miles"
   }
 ]
