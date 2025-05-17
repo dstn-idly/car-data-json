@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2017 Chevrolet Silverado 1500 LT",
-    "vin": "3GCPCREC9HG470144",
-    "stock": "24243A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPCREC9HG470144&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017CHT270010_640/2017CHT270010_640_01.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$17,988",
-    "mileage": "115,758 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Rogue Sport SV",
     "vin": "JN1BJ1CV7LW540923",
     "stock": "25563A",
@@ -28,6 +13,21 @@
     "price": "$19,787",
     "sutherlins_price": "$17,988",
     "mileage": "21,460 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Chevrolet Silverado 1500 LT",
+    "vin": "3GCPCREC9HG470144",
+    "stock": "24243A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPCREC9HG470144&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017CHT270010_640/2017CHT270010_640_01.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "115,758 Miles"
   },
   {
     "category": "used",
@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV9PY281156",
-    "stock": "P13014",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "34,591 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SL",
     "vin": "5N1AZ2CJ1LN104574",
     "stock": "P13036",
@@ -208,6 +193,21 @@
     "price": "$20,887",
     "sutherlins_price": "$18,988",
     "mileage": "89,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY281156",
+    "stock": "P13014",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "34,591 Miles"
   },
   {
     "category": "used",
@@ -349,6 +349,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Toyota RAV4 LE",
+    "vin": "JTMZFREV9JJ198555",
+    "stock": "KP1033",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV9JJ198555&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018TOS110001_640/2018TOS110001_640_01.jpg",
+    "price": "$21,877",
+    "sutherlins_price": "$19,888",
+    "mileage": "49,327 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Rogue SV",
     "vin": "JN8AT3BA8MW012729",
     "stock": "P13008",
@@ -468,20 +483,5 @@
     "price": "$21,998",
     "sutherlins_price": "$19,998",
     "mileage": "58,424 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV5RY263837",
-    "stock": "263837",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV5RY263837&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
-    "price": "$22,346",
-    "sutherlins_price": "$20,315",
-    "mileage": "8,858 Miles"
   }
 ]
