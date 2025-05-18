@@ -76,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "1998 Lincoln Continental Base",
+    "vin": "1LNFM97V5WY700154",
+    "stock": "25565B",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas V8 4.6L/281",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1LNFM97V5WY700154&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/7679.jpg",
+    "price": "$6,594",
+    "sutherlins_price": "$5,995",
+    "mileage": "147,880 Miles"
+  },
+  {
+    "category": "used",
     "name": "2012 Kia Forte EX",
     "vin": "KNAFU4A24C5563014",
     "stock": "KP1002",
@@ -466,20 +481,5 @@
     "price": "$14,297",
     "sutherlins_price": "$12,997",
     "mileage": "101,394 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Kicks S",
-    "vin": "3N1CP5BV1LL578925",
-    "stock": "P13030",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1LL578925&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS26_640/2020NIS260044_640_01.jpg",
-    "price": "$14,516",
-    "sutherlins_price": "$13,196",
-    "mileage": "68,012 Miles"
   }
 ]
