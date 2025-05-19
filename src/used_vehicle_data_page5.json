@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJG6NH263795",
-    "stock": "P12981",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJG6NH263795&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c22aee96c85f4ebc83995f55c23fa314.jpg",
-    "price": "$27,487",
-    "sutherlins_price": "$24,988",
-    "mileage": "43,763 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Chevrolet Silverado 1500 Custom",
-    "vin": "1GCRCPEC1JZ313629",
-    "stock": "P13041",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRCPEC1JZ313629&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018CHT27_640/2018CHT270061_640_01.jpg",
-    "price": "$27,488",
-    "sutherlins_price": "$24,989",
-    "mileage": "61,587 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Kia Sportage EX",
     "vin": "5XYK33DF7RG168550",
     "stock": "P12860",
@@ -92,21 +62,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Toyota Camry SE",
-    "vin": "4T1G11AK8PU821802",
-    "stock": "P12974",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK8PU821802&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c14f16b86fe74920a2fc011825a62d1e.jpg",
-    "price": "$28,587",
-    "sutherlins_price": "$25,988",
-    "mileage": "38,149 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Ford Bronco Sport Big Bend",
     "vin": "3FMCR9B6XRRE87032",
     "stock": "P12897",
@@ -120,6 +75,21 @@
     "sutherlins_price": "$25,988",
     "mileage": "16,154 Miles",
     "age": 48
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Camry SE",
+    "vin": "4T1G11AK8PU821802",
+    "stock": "P12974",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK8PU821802&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c14f16b86fe74920a2fc011825a62d1e.jpg",
+    "price": "$28,587",
+    "sutherlins_price": "$25,988",
+    "mileage": "38,149 Miles"
   },
   {
     "category": "used",
@@ -272,7 +242,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNML48PZ147273&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023GMS24_640/2023GMS240034_640_01.jpg",
-    "price": "$30,237",
+    "price": "$30,349",
     "sutherlins_price": "$27,488",
     "mileage": "64,805 Miles"
   },
@@ -318,10 +288,26 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AA2RC239086&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/98e9096d02f0471ebe8da62a28a73795.jpg",
-    "price": "$31,678",
+    "price": "$30,798",
     "sutherlins_price": "$28,798",
     "mileage": "21,251 Miles",
     "age": 55
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Titan SV",
+    "vin": "1N6AA1ED7MN526599",
+    "stock": "P12935",
+    "exterior": "",
+    "interior": "",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED7MN526599&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d429a567540c4be884a0d951299b7c4c.jpg",
+    "price": "$31,887",
+    "sutherlins_price": "$29,988",
+    "mileage": "60,129 Miles",
+    "age": 39
   },
   {
     "category": "used",
@@ -337,22 +323,6 @@
     "price": "$32,987",
     "sutherlins_price": "$29,988",
     "mileage": "39,737 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Titan SV",
-    "vin": "1N6AA1ED7MN526599",
-    "stock": "P12935",
-    "exterior": "",
-    "interior": "",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED7MN526599&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d429a567540c4be884a0d951299b7c4c.jpg",
-    "price": "$32,987",
-    "sutherlins_price": "$29,988",
-    "mileage": "60,129 Miles",
-    "age": 39
   },
   {
     "category": "used",
@@ -492,5 +462,36 @@
     "sutherlins_price": "$33,697",
     "mileage": "43,306 Miles",
     "age": 39
+  },
+  {
+    "category": "used",
+    "name": "2022 Audi A6 Sedan Premium",
+    "vin": "WAUK2BF20NN024944",
+    "stock": "024944",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Gas/Electric V-6 3.0 L/183",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUK2BF20NN024944&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022AUC02_640/2022AUC020019_640_01.jpg",
+    "price": "$39,587",
+    "sutherlins_price": "$35,988",
+    "mileage": "29,486 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford F-150 XLT",
+    "vin": "1FTFW1E56PKD96386",
+    "stock": "P12919",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V8 5.0 L",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFW1E56PKD96386&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/52a1734cb6af442bb5d251c9d67a9442.jpg",
+    "price": "$40,687",
+    "sutherlins_price": "$37,988",
+    "mileage": "39,140 Miles",
+    "age": 41
   }
 ]
