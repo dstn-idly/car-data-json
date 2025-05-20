@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA1PC838341",
+    "stock": "P13001",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1PC838341&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/de445a9705484832bb9dff32d3627664.jpg",
+    "price": "$23,087",
+    "sutherlins_price": "$20,988",
+    "mileage": "51,736 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Mercedes-Benz GLC 300",
     "vin": "WDC0G8EB5LF695592",
     "stock": "25505A",
@@ -176,7 +191,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HKRW1H86KH512244&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/208cc4f838194280be7e282d05a67d92.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b539e5d51b694ad08f6eca52ecacb8dc.jpg",
     "price": "$24,193",
     "sutherlins_price": "$21,994",
     "mileage": "56,869 Miles",
@@ -260,6 +275,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BB3RC750127",
+    "stock": "P13024",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB3RC750127&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4546071ce5af4b6fa30ee83bc50ef810.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "18,728 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Nissan Titan XD SV",
     "vin": "1N6AA1F3XHN563769",
     "stock": "P12980",
@@ -272,21 +302,6 @@
     "price": "$25,287",
     "sutherlins_price": "$22,988",
     "mileage": "78,053 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BB3RC750127",
-    "stock": "P13024",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB3RC750127&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f0d525b3b2aa4a3283fc5961e8901d78.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "18,728 Miles"
   },
   {
     "category": "used",
@@ -374,7 +389,7 @@
     "engine": "Gas/Electric I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV3F20NA012824&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6ee3c383ace140ebbe579be8aeb09147.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9bfb65e2fa4946c48153fc767d95a507.jpg",
     "price": "$27,020",
     "sutherlins_price": "$24,564",
     "mileage": "52,902 Miles"
@@ -470,20 +485,5 @@
     "price": "$27,488",
     "sutherlins_price": "$24,989",
     "mileage": "61,587 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan 370Z NISMO",
-    "vin": "JN1AZ4EH5HM952760",
-    "stock": "P13051",
-    "exterior": "",
-    "interior": "Red",
-    "engine": "Premium Unleaded V-6 3.7 L/226",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AZ4EH5HM952760&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC140003_640/2017NIC140003_640_01.jpg",
-    "price": "$27,490",
-    "sutherlins_price": "$24,991",
-    "mileage": "69,177 Miles"
   }
 ]
