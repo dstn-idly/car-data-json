@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC6L7783575&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020KIS01_640/2020KIS010001_640_01.jpg",
     "price": "$15,394",
-    "sutherlins_price": "$14,176",
+    "sutherlins_price": "$13,995",
     "mileage": "84,694 Miles"
   },
   {
@@ -43,6 +43,21 @@
     "price": "$15,512",
     "sutherlins_price": "$14,102",
     "mileage": "103,087 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV3MY235558",
+    "stock": "25527A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3MY235558&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/386e10cb76684e8da5d79227e505af94.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "75,991 Miles"
   },
   {
     "category": "used",
@@ -73,21 +88,6 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "64,699 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV3MY235558",
-    "stock": "25527A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3MY235558&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/386e10cb76684e8da5d79227e505af94.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "75,991 Miles"
   },
   {
     "category": "used",
@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST0RF178509&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ac4b3df89f984d4caa7be4716480dcb2.jpg",
     "price": "$17,587",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$15,988",
     "mileage": "40,863 Miles",
     "age": 39
   },
@@ -349,21 +349,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV9PY244866",
-    "stock": "25071A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY244866&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02b096015ad24193b0d88e7b0b621dc6.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$17,988",
-    "mileage": "4,680 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF219043",
     "stock": "P13021",
@@ -376,6 +361,21 @@
     "price": "$19,787",
     "sutherlins_price": "$17,988",
     "mileage": "51,071 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY244866",
+    "stock": "25071A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY244866&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02b096015ad24193b0d88e7b0b621dc6.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "4,680 Miles"
   },
   {
     "category": "used",
