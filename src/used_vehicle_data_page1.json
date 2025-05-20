@@ -122,21 +122,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Kia Sportage LX",
-    "vin": "KNDPB3AC9F7738107",
-    "stock": "P13023B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPB3AC9F7738107&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015KIS01_640/2015KIS010001_640_01.jpg",
-    "price": "$8,636",
-    "sutherlins_price": "$7,851",
-    "mileage": "129,352 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Kia Forte LX",
     "vin": "KNAFT4A29D5721562",
     "stock": "25621A",
@@ -182,21 +167,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Toyota Corolla L",
-    "vin": "2T1BURHE5GC609599",
-    "stock": "25573A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE5GC609599&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1f7fa0d8c871449f941789a7ef097957.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "112,369 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Kia Soul +",
     "vin": "KNDJP3A50E7027726",
     "stock": "P13026",
@@ -209,6 +179,21 @@
     "price": "$9,887",
     "sutherlins_price": "$8,988",
     "mileage": "94,727 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Toyota Corolla L",
+    "vin": "2T1BURHE5GC609599",
+    "stock": "25573A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE5GC609599&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1f7fa0d8c871449f941789a7ef097957.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "112,369 Miles"
   },
   {
     "category": "used",
@@ -480,5 +465,20 @@
     "price": "$15,387",
     "sutherlins_price": "$13,988",
     "mileage": "85,760 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SR",
+    "vin": "3N1AB8DV9LY220690",
+    "stock": "P12979",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
+    "price": "$15,387",
+    "sutherlins_price": "$13,988",
+    "mileage": "104,957 Miles"
   }
 ]
