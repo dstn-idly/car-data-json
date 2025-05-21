@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAFX4A86F5261949&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7da291b87bab4a3da348ac42dbfa3eaf.jpg",
     "price": "$6,594",
-    "sutherlins_price": "$6,988",
+    "sutherlins_price": "$5,995",
     "mileage": "94,859 Miles",
     "age": 36
   },
@@ -167,21 +167,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Toyota Corolla L",
-    "vin": "2T1BURHE5GC609599",
-    "stock": "25573A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE5GC609599&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1f7fa0d8c871449f941789a7ef097957.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "112,369 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Kia Soul +",
     "vin": "KNDJP3A50E7027726",
     "stock": "P13026",
@@ -194,6 +179,21 @@
     "price": "$9,887",
     "sutherlins_price": "$8,988",
     "mileage": "94,727 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Toyota Corolla L",
+    "vin": "2T1BURHE5GC609599",
+    "stock": "25573A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE5GC609599&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1f7fa0d8c871449f941789a7ef097957.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "112,369 Miles"
   },
   {
     "category": "used",
@@ -373,7 +373,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RM3H7XFL024077&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc136d82e8748cb8df3517200264c0f.jpg",
     "price": "$14,184",
-    "sutherlins_price": "$12,995",
+    "sutherlins_price": "$12,895",
     "mileage": "119,091 Miles"
   },
   {
@@ -448,7 +448,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW256990&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/31ebc78dc76d4639893cbf4ba747d6b6.jpg",
     "price": "$14,849",
-    "sutherlins_price": "$13,701",
+    "sutherlins_price": "$13,499",
     "mileage": "104,313 Miles"
   },
   {
@@ -463,7 +463,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV2KN328269&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1cd64a8e3ac4cc5a42d52aaf002c475.jpg",
     "price": "$15,064",
-    "sutherlins_price": "$14,102",
+    "sutherlins_price": "$13,695",
     "mileage": "103,087 Miles"
   },
   {

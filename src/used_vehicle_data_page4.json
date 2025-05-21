@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3AE1PH284150&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d42362cebefe452f8a0840964f1bc463.jpg",
     "price": "$24,077",
-    "sutherlins_price": "$21,988",
+    "sutherlins_price": "$21,888",
     "mileage": "30,113 Miles"
   },
   {
@@ -147,7 +147,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2ANXLC609902&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/38b8ce8f635445a3813062758d2020fa.jpg",
     "price": "$24,639",
-    "sutherlins_price": "$22,730",
+    "sutherlins_price": "$22,399",
     "mileage": "20,322 Miles"
   },
   {
@@ -162,7 +162,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMZ53BR03P3P83898&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b1208879fd04086ab1c8e2a7b98882d.jpg",
     "price": "$24,859",
-    "sutherlins_price": "$22,988",
+    "sutherlins_price": "$22,599",
     "mileage": "29,544 Miles",
     "age": 56
   },
@@ -213,21 +213,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Titan XD SV",
-    "vin": "1N6AA1F3XHN563769",
-    "stock": "P12980",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1F3XHN563769&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/56a1493350b34e698a4c98239fc384e2.jpg",
-    "price": "$25,287",
-    "sutherlins_price": "$22,988",
-    "mileage": "78,053 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "5N1BT3BB3RC750127",
     "stock": "P13024",
@@ -240,6 +225,21 @@
     "price": "$25,287",
     "sutherlins_price": "$22,988",
     "mileage": "18,728 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Titan XD SV",
+    "vin": "1N6AA1F3XHN563769",
+    "stock": "P12980",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1F3XHN563769&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/56a1493350b34e698a4c98239fc384e2.jpg",
+    "price": "$25,287",
+    "sutherlins_price": "$22,988",
+    "mileage": "78,053 Miles"
   },
   {
     "category": "used",
@@ -344,7 +344,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTHNC2N8203747&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ff566e0e54d140a3a5dc3c9b58c43151.jpg",
     "price": "$27,041",
-    "sutherlins_price": "$24,783",
+    "sutherlins_price": "$24,583",
     "mileage": "45,036 Miles",
     "age": 48
   },
