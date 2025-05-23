@@ -107,6 +107,21 @@
   },
   {
     "category": "used",
+    "name": "2008 Honda Accord Cpe EX-L",
+    "vin": "1HGCS22858A015316",
+    "stock": "T25537B",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas V6 3.5L/212",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCS22858A015316&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008HON001d_640/2008HON001d_640_01.jpg",
+    "price": "$7,687",
+    "sutherlins_price": "$6,988",
+    "mileage": "150,866 Miles"
+  },
+  {
+    "category": "used",
     "name": "2010 Honda Accord Crosstour EX",
     "vin": "5J6TF1H37AL003827",
     "stock": "P12969A",
@@ -197,21 +212,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Kia Soul +",
-    "vin": "KNDJP3A50E7027726",
-    "stock": "P13026",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJP3A50E7027726&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/888ac82d50ab467b84d6e9e8b0c9cd1d.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "94,727 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Toyota Corolla L",
     "vin": "2T1BURHE5GC609599",
     "stock": "25573A",
@@ -227,6 +227,21 @@
   },
   {
     "category": "used",
+    "name": "2014 Kia Soul +",
+    "vin": "KNDJP3A50E7027726",
+    "stock": "P13026",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJP3A50E7027726&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/888ac82d50ab467b84d6e9e8b0c9cd1d.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "94,727 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Versa Note SV",
     "vin": "3N1CE2CP0JL353509",
     "stock": "P13010",
@@ -239,6 +254,21 @@
     "price": "$9,887",
     "sutherlins_price": "$8,988",
     "mileage": "97,637 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Ford F-150 STX",
+    "vin": "1FTFX1CF8DFC31582",
+    "stock": "P13054A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas/Ethanol V8 5.0L/302",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFX1CF8DFC31582&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013FRD009b_640/2013FRD009b_640_01.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "156,576 Miles"
   },
   {
     "category": "used",
@@ -450,35 +480,5 @@
     "price": "$14,297",
     "sutherlins_price": "$12,997",
     "mileage": "101,394 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Kicks S",
-    "vin": "3N1CP5BV1LL578925",
-    "stock": "P13030",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1LL578925&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6792d42830004065a4c15618c48eb7e0.jpg",
-    "price": "$14,516",
-    "sutherlins_price": "$13,196",
-    "mileage": "68,012 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Kona SE",
-    "vin": "KM8K12AA0MU639868",
-    "stock": "P13015",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
-    "price": "$14,519",
-    "sutherlins_price": "$13,199",
-    "mileage": "94,795 Miles"
   }
 ]
