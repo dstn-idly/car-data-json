@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Sentra SR",
-    "vin": "3N1AB8DV9LY220690",
-    "stock": "P12979",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
-    "price": "$15,387",
-    "sutherlins_price": "$13,988",
-    "mileage": "104,957 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 BMW X1 xDrive28i",
     "vin": "WBXHT3C38J5K20687",
     "stock": "P13056",
@@ -103,6 +88,21 @@
     "price": "$15,387",
     "sutherlins_price": "$13,988",
     "mileage": "99,790 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SR",
+    "vin": "3N1AB8DV9LY220690",
+    "stock": "P12979",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
+    "price": "$15,387",
+    "sutherlins_price": "$13,988",
+    "mileage": "104,957 Miles"
   },
   {
     "category": "used",
@@ -439,6 +439,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY244866",
+    "stock": "25071A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY244866&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02b096015ad24193b0d88e7b0b621dc6.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "4,680 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Toyota Corolla SE",
     "vin": "5YFS4MCE5PP151119",
     "stock": "P13060",
@@ -466,20 +481,5 @@
     "price": "$19,787",
     "sutherlins_price": "$17,988",
     "mileage": "51,071 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV9PY244866",
-    "stock": "25071A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY244866&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02b096015ad24193b0d88e7b0b621dc6.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$17,988",
-    "mileage": "4,680 Miles"
   }
 ]
