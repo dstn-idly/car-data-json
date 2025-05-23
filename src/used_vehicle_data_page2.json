@@ -1,6 +1,51 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Kicks S",
+    "vin": "3N1CP5BV1LL578925",
+    "stock": "P13030",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1LL578925&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6792d42830004065a4c15618c48eb7e0.jpg",
+    "price": "$14,516",
+    "sutherlins_price": "$13,196",
+    "mileage": "68,012 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Kona SE",
+    "vin": "KM8K12AA0MU639868",
+    "stock": "P13015",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
+    "price": "$14,519",
+    "sutherlins_price": "$13,199",
+    "mileage": "94,795 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Sportage LX",
+    "vin": "KNDPM3AC6L7783575",
+    "stock": "P13047",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC6L7783575&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020KIS01_640/2020KIS010001_640_01.jpg",
+    "price": "$14,553",
+    "sutherlins_price": "$13,230",
+    "mileage": "84,694 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT3KW256990",
     "stock": "25517B",
@@ -25,8 +70,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV2KN328269&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1cd64a8e3ac4cc5a42d52aaf002c475.jpg",
-    "price": "$15,064",
-    "sutherlins_price": "$13,695",
+    "price": "$14,954",
+    "sutherlins_price": "$13,595",
     "mileage": "103,087 Miles"
   },
   {
@@ -91,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Kia Sportage LX",
-    "vin": "KNDPM3AC6L7783575",
-    "stock": "P13047",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC6L7783575&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020KIS01_640/2020KIS010001_640_01.jpg",
-    "price": "$15,394",
-    "sutherlins_price": "$13,995",
-    "mileage": "84,694 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST0RF178509",
     "stock": "P12936",
@@ -119,6 +149,21 @@
     "sutherlins_price": "$14,988",
     "mileage": "40,863 Miles",
     "age": 39
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV3MY235558",
+    "stock": "25527A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3MY235558&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/386e10cb76684e8da5d79227e505af94.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "75,991 Miles"
   },
   {
     "category": "used",
@@ -152,21 +197,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV3MY235558",
-    "stock": "25527A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3MY235558&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/386e10cb76684e8da5d79227e505af94.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "75,991 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Compass Latitude with Sun/Safety Pkg",
     "vin": "3C4NJCBB5LT242048",
     "stock": "25309A",
@@ -194,6 +224,21 @@
     "price": "$17,159",
     "sutherlins_price": "$15,599",
     "mileage": "86,490 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra S",
+    "vin": "3N1AB8BV7PY300420",
+    "stock": "P12952",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7PY300420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/87008f61e74e4cdba1c4fd1b4a62028b.jpg",
+    "price": "$17,379",
+    "sutherlins_price": "$15,799",
+    "mileage": "60,945 Miles"
   },
   {
     "category": "used",
@@ -225,21 +270,6 @@
     "sutherlins_price": "$16,295",
     "mileage": "54,793 Miles",
     "age": 69
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra S",
-    "vin": "3N1AB8BV7PY300420",
-    "stock": "P12952",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7PY300420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/87008f61e74e4cdba1c4fd1b4a62028b.jpg",
-    "price": "$17,926",
-    "sutherlins_price": "$16,296",
-    "mileage": "60,945 Miles"
   },
   {
     "category": "used",
@@ -424,36 +454,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF219043",
-    "stock": "P13021",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42b10588863247d5bc9e8fb3dc816963.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$17,988",
-    "mileage": "51,071 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Toyota Corolla SE",
-    "vin": "5YFS4MCE5PP151119",
-    "stock": "P13060",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFS4MCE5PP151119&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOC04_640/2023TOC040076_640_01.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$17,988",
-    "mileage": "99,407 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV9PY244866",
     "stock": "25071A",
@@ -469,17 +469,17 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Murano SL",
-    "vin": "5N1AZ2CJ1LN104574",
-    "stock": "P13036",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF219043",
+    "stock": "P13021",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ1LN104574&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8737233ddb5d4d27a2d87f4ca4eaac7b.jpg",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42b10588863247d5bc9e8fb3dc816963.jpg",
     "price": "$19,787",
     "sutherlins_price": "$17,988",
-    "mileage": "89,119 Miles"
+    "mileage": "51,071 Miles"
   }
 ]

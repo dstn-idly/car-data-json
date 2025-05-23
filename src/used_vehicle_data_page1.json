@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2010 Nissan Rogue SL",
+    "vin": "JN8AS5MV3AW120864",
+    "stock": "P13000A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 2.5L/",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AS5MV3AW120864&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2010NIS010a_640/2010NIS010a_640_01.jpg",
+    "price": "$5,487",
+    "sutherlins_price": "$4,988",
+    "mileage": "147,182 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Kia Forte EX",
     "vin": "KNAFX4A86F5261949",
     "stock": "25149B",
@@ -194,6 +209,21 @@
     "price": "$9,877",
     "sutherlins_price": "$8,979",
     "mileage": "136,784 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Toyota Camry",
+    "vin": "4T1BF1FK0GU256319",
+    "stock": "P12851A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BF1FK0GU256319&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016TOC020002_640/2016TOC020002_640_01.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "122,556 Miles"
   },
   {
     "category": "used",
@@ -450,35 +480,5 @@
     "price": "$14,297",
     "sutherlins_price": "$12,997",
     "mileage": "101,394 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Kicks S",
-    "vin": "3N1CP5BV1LL578925",
-    "stock": "P13030",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1LL578925&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6792d42830004065a4c15618c48eb7e0.jpg",
-    "price": "$14,516",
-    "sutherlins_price": "$13,196",
-    "mileage": "68,012 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Kona SE",
-    "vin": "KM8K12AA0MU639868",
-    "stock": "P13015",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
-    "price": "$14,519",
-    "sutherlins_price": "$13,199",
-    "mileage": "94,795 Miles"
   }
 ]
