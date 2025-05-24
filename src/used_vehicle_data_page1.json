@@ -122,21 +122,6 @@
   },
   {
     "category": "used",
-    "name": "2008 Honda Accord Cpe EX-L",
-    "vin": "1HGCS22858A015316",
-    "stock": "T25537B",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas V6 3.5L/212",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCS22858A015316&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008HON001d_640/2008HON001d_640_01.jpg",
-    "price": "$7,687",
-    "sutherlins_price": "$6,988",
-    "mileage": "150,866 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Hyundai Sonata 2.4L Sport",
     "vin": "5NPE34AF7FH063129",
     "stock": "P12879B",
@@ -212,11 +197,11 @@
   },
   {
     "category": "used",
-    "name": "2016 Toyota Camry",
+    "name": "2016 Toyota Camry SE",
     "vin": "4T1BF1FK0GU256319",
     "stock": "P12851A",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BF1FK0GU256319&source=BUP",
@@ -480,5 +465,20 @@
     "price": "$14,297",
     "sutherlins_price": "$12,997",
     "mileage": "101,394 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Kicks S",
+    "vin": "3N1CP5BV1LL578925",
+    "stock": "P13030",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1LL578925&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6792d42830004065a4c15618c48eb7e0.jpg",
+    "price": "$14,516",
+    "sutherlins_price": "$13,196",
+    "mileage": "68,012 Miles"
   }
 ]
