@@ -107,21 +107,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Kia Sportage LX",
-    "vin": "KNDPBCAC7E7547445",
-    "stock": "25637A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPBCAC7E7547445&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014KIA008a_640/2014KIA008a_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "117,081 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Kicks S",
     "vin": "3N1CP5CU5KL523639",
     "stock": "24987A",
@@ -134,5 +119,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "70,866 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Kia Sportage LX",
+    "vin": "KNDPBCAC7E7547445",
+    "stock": "25637A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPBCAC7E7547445&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014KIA008a_640/2014KIA008a_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "117,081 Miles"
   }
 ]
