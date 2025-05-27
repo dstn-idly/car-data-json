@@ -1,22 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Subaru Crosstrek Limited",
-    "vin": "JF2GTHNC2N8203747",
-    "stock": "P12903",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded H-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTHNC2N8203747&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ff566e0e54d140a3a5dc3c9b58c43151.jpg",
-    "price": "$26,839",
-    "sutherlins_price": "$24,399",
-    "mileage": "45,036 Miles",
-    "age": 48
-  },
-  {
-    "category": "used",
     "name": "2022 Hyundai Santa Fe SEL",
     "vin": "5NMS34AJXNH427515",
     "stock": "P13016",
@@ -71,7 +55,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK1PU737398&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOC02_640/2023TOC021826503_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/038641576ffa4a08aa4d71df94d1c702.jpg",
     "price": "$27,487",
     "sutherlins_price": "$24,988",
     "mileage": "41,284 Miles"
@@ -488,5 +472,20 @@
     "price": "$35,187",
     "sutherlins_price": "$31,988",
     "mileage": "81,967 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Armada SL",
+    "vin": "JN8AY2BAXP9404836",
+    "stock": "P13052",
+    "exterior": "",
+    "interior": "Midnight Edition",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BAXP9404836&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS10_640/2023NIS100073_640_01.jpg",
+    "price": "$35,187",
+    "sutherlins_price": "$31,988",
+    "mileage": "60,933 Miles"
   }
 ]
