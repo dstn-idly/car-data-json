@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Honda CR-V EX-L",
-    "vin": "5J6RM3H7XFL024077",
-    "stock": "P12886A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RM3H7XFL024077&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc136d82e8748cb8df3517200264c0f.jpg",
-    "price": "$14,184",
-    "sutherlins_price": "$12,895",
-    "mileage": "119,091 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Jeep Renegade Latitude",
-    "vin": "ZACCJABB1JPH20420",
-    "stock": "P12977",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
-    "price": "$14,287",
-    "sutherlins_price": "$12,988",
-    "mileage": "89,765 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Kicks SV",
     "vin": "3N1CP5CU4KL483831",
     "stock": "25655B",
@@ -136,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Sentra SR",
-    "vin": "3N1AB8DV9LY220690",
-    "stock": "P12979",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
-    "price": "$15,387",
-    "sutherlins_price": "$13,988",
-    "mileage": "104,957 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 BMW X1 xDrive28i",
     "vin": "WBXHT3C38J5K20687",
     "stock": "P13056",
@@ -163,6 +118,21 @@
     "price": "$15,387",
     "sutherlins_price": "$13,988",
     "mileage": "99,790 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SR",
+    "vin": "3N1AB8DV9LY220690",
+    "stock": "P12979",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
+    "price": "$15,387",
+    "sutherlins_price": "$13,988",
+    "mileage": "104,957 Miles"
   },
   {
     "category": "used",
@@ -226,6 +196,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Versa SR",
+    "vin": "3N1CN8FV3LL805498",
+    "stock": "P13086",
+    "exterior": "",
+    "interior": "Sport Interior",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "64,965 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST0RF178509",
     "stock": "P12936",
@@ -239,21 +224,6 @@
     "sutherlins_price": "$14,988",
     "mileage": "40,863 Miles",
     "age": 39
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Versa SR",
-    "vin": "3N1CN8FV3LL805498",
-    "stock": "P13086",
-    "exterior": "",
-    "interior": "Sport Interior",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "64,965 Miles"
   },
   {
     "category": "used",
@@ -479,5 +449,35 @@
     "price": "$19,485",
     "sutherlins_price": "$17,714",
     "mileage": "22,438 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5STXPF170592",
+    "stock": "P13062",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5STXPF170592&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHC11_640/2023CHC110038_640_01.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "65,811 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF219043",
+    "stock": "P13021",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42b10588863247d5bc9e8fb3dc816963.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "51,071 Miles"
   }
 ]
