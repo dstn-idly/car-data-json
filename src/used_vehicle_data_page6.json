@@ -1,6 +1,52 @@
 [
   {
     "category": "used",
+    "name": "2024 Nissan Pathfinder S",
+    "vin": "5N1DR3AA7RC239391",
+    "stock": "P12890",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AA7RC239391&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/68be5fa5ba7a4f51b7ba744a91f098be.jpg",
+    "price": "$30,787",
+    "sutherlins_price": "$27,988",
+    "mileage": "18,298 Miles",
+    "age": 55
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota RAV4 XLE",
+    "vin": "2T3W1RFV4RW334412",
+    "stock": "P13072",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV4RW334412&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111927533_640_01.jpg",
+    "price": "$30,793",
+    "sutherlins_price": "$27,994",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2020 RAM 1500 Lone Star",
+    "vin": "1C6RREFT3LN288865",
+    "stock": "KP1032",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREFT3LN288865&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/17036466f8754a0fb67f2a772c3c17a5.jpg",
+    "price": "$30,794",
+    "sutherlins_price": "$27,995",
+    "mileage": "70,166 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 RAM 1500 Classic SLT",
     "vin": "1C6RR7LG5PS526791",
     "stock": "P13083",
@@ -119,7 +165,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110048_640_01.jpg",
     "price": "$32,994",
     "sutherlins_price": "$29,995",
-    "mileage": "N/A"
+    "mileage": "10,731 Miles"
   },
   {
     "category": "used",
@@ -168,22 +214,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV7RC262445",
-    "stock": "25372A",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV7RC262445&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111927533_640_01.jpg",
-    "price": "$35,187",
-    "sutherlins_price": "$31,988",
-    "mileage": "11,883 Miles",
-    "age": 78
-  },
-  {
-    "category": "used",
     "name": "2023 Jeep Wrangler 4xe Sahara High Altitude",
     "vin": "1C4JJXP60PW515950",
     "stock": "P13004",
@@ -196,21 +226,6 @@
     "price": "$35,187",
     "sutherlins_price": "$31,988",
     "mileage": "81,967 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Armada SL",
-    "vin": "JN8AY2BAXP9404836",
-    "stock": "P13052",
-    "exterior": "",
-    "interior": "Midnight Edition",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BAXP9404836&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS10_640/2023NIS100073_640_01.jpg",
-    "price": "$35,187",
-    "sutherlins_price": "$31,988",
-    "mileage": "60,933 Miles"
   },
   {
     "category": "used",
@@ -351,6 +366,21 @@
   },
   {
     "category": "used",
+    "name": "2015 Nissan Murano Platinum",
+    "vin": "5N1AZ2MH6FN263476",
+    "stock": "KP1036",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MH6FN263476&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS02_640/2015NIS020023_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "54,867 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 RAM 1500 Laramie",
     "vin": "1C6RREJT0RN219793",
     "stock": "P12920",
@@ -364,5 +394,36 @@
     "sutherlins_price": "N/A",
     "mileage": "14,323 Miles",
     "age": 41
+  },
+  {
+    "category": "used",
+    "name": "2016 Nissan Sentra S",
+    "vin": "3N1AB7AP6GY237730",
+    "stock": "25412B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP6GY237730&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC060002_640/2016NIC060002_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "150,145 Miles",
+    "age": 50
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Venue SE",
+    "vin": "KMHRB8A39MU115022",
+    "stock": "25640A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A39MU115022&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYS20_640/2021HYS200016_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "40,636 Miles"
   }
 ]

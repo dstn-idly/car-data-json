@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA8PC846212",
+    "stock": "P12986",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA8PC846212&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/81b04d46a55945c192a1ca502df78e7d.jpg",
+    "price": "$25,294",
+    "sutherlins_price": "$22,995",
+    "mileage": "29,417 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV3PN425759",
+    "stock": "P13090",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3PN425759&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040026_640_01.jpg",
+    "price": "$25,294",
+    "sutherlins_price": "$22,995",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Altima 2.5 SL",
     "vin": "1N4BL4EV5PN355552",
     "stock": "P13085",
@@ -58,7 +88,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e48648d379ea48269b947d0910fc79cf.jpg",
     "price": "$26,387",
     "sutherlins_price": "$23,988",
-    "mileage": "6 Miles"
+    "mileage": "29,842 Miles"
   },
   {
     "category": "used",
@@ -227,6 +257,21 @@
     "sutherlins_price": "$24,995",
     "mileage": "53,277 Miles",
     "age": 89
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Titan PRO-4X",
+    "vin": "1N6AA1E52JN515126",
+    "stock": "25448A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1E52JN515126&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIT13_640/2018NIT130144_640_01.jpg",
+    "price": "$27,494",
+    "sutherlins_price": "$24,995",
+    "mileage": "98,586 Miles"
   },
   {
     "category": "used",
@@ -441,51 +486,5 @@
     "sutherlins_price": "$27,667",
     "mileage": "8,468 Miles",
     "age": 41
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder S",
-    "vin": "5N1DR3AA7RC239391",
-    "stock": "P12890",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AA7RC239391&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/68be5fa5ba7a4f51b7ba744a91f098be.jpg",
-    "price": "$30,787",
-    "sutherlins_price": "$27,988",
-    "mileage": "18,298 Miles",
-    "age": 55
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV4RW334412",
-    "stock": "P13072",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV4RW334412&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111927533_640_01.jpg",
-    "price": "$30,793",
-    "sutherlins_price": "$27,994",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
-    "name": "2020 RAM 1500 Lone Star",
-    "vin": "1C6RREFT3LN288865",
-    "stock": "KP1032",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREFT3LN288865&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/17036466f8754a0fb67f2a772c3c17a5.jpg",
-    "price": "$30,794",
-    "sutherlins_price": "$27,995",
-    "mileage": "70,166 Miles"
   }
 ]
