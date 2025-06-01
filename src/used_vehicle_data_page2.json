@@ -46,6 +46,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Hyundai Venue SE",
+    "vin": "KMHRB8A39MU115022",
+    "stock": "25640A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A39MU115022&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYS20_640/2021HYS200016_640_01.jpg",
+    "price": "$14,212",
+    "sutherlins_price": "$12,920",
+    "mileage": "40,636 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Jeep Renegade Latitude",
     "vin": "ZACCJABB1JPH20420",
     "stock": "P12977",
@@ -242,21 +257,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Versa SR",
-    "vin": "3N1CN8FV3LL805498",
-    "stock": "P13086",
-    "exterior": "",
-    "interior": "Sport Interior",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "64,965 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST0RF178509",
     "stock": "P12936",
@@ -273,18 +273,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Venue SE",
-    "vin": "KMHRB8A33LU032233",
-    "stock": "P13039",
+    "name": "2020 Nissan Versa SR",
+    "vin": "3N1CN8FV3LL805498",
+    "stock": "P13086",
     "exterior": "",
-    "interior": "",
+    "interior": "Sport Interior",
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A33LU032233&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/75ed620b241e4cfb98942ae6db9af4f9.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
     "price": "$16,487",
     "sutherlins_price": "$14,988",
-    "mileage": "64,699 Miles"
+    "mileage": "64,965 Miles"
   },
   {
     "category": "used",
@@ -300,6 +300,21 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "75,991 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Venue SE",
+    "vin": "KMHRB8A33LU032233",
+    "stock": "P13039",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A33LU032233&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/75ed620b241e4cfb98942ae6db9af4f9.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "64,699 Miles"
   },
   {
     "category": "used",
@@ -408,6 +423,21 @@
   },
   {
     "category": "used",
+    "name": "2015 Nissan Murano Platinum",
+    "vin": "5N1AZ2MH6FN263476",
+    "stock": "KP1036",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MH6FN263476&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS02_640/2015NIS020023_640_01.jpg",
+    "price": "$18,588",
+    "sutherlins_price": "$16,898",
+    "mileage": "54,867 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Ford Mustang EcoBoost Premium",
     "vin": "1FATP8UH2L5184782",
     "stock": "25283A",
@@ -450,35 +480,5 @@
     "price": "$19,029",
     "sutherlins_price": "$17,299",
     "mileage": "59,766 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Kia Optima S",
-    "vin": "5XXGT4L32LG442249",
-    "stock": "P12965",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L32LG442249&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f77ab124b34942528c468e3ebe64262f.jpg",
-    "price": "$19,231",
-    "sutherlins_price": "$17,483",
-    "mileage": "68,136 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Hyundai Elantra SE",
-    "vin": "5NPLL4AG6NH081295",
-    "stock": "P12975",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ca01133578416999476f57a796fe98.jpg",
-    "price": "$19,485",
-    "sutherlins_price": "$17,714",
-    "mileage": "22,438 Miles"
   }
 ]
