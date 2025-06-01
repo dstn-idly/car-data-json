@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2017 Nissan Versa Sedan SV",
-    "vin": "3N1CN7AP0HL823581",
-    "stock": "25422A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP0HL823581&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC100001_640/2017NIC100001_640_01.jpg",
-    "price": "$2,187",
-    "sutherlins_price": "$1,988",
-    "mileage": "184,646 Miles"
-  },
-  {
-    "category": "used",
     "name": "2008 Mazda MAZDA3 Sport *Ltd Avail*",
     "vin": "JM1BK32F481836406",
     "stock": "25345A",
@@ -136,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Nissan Rogue Select S",
-    "vin": "JN8AS5MT3EW600889",
-    "stock": "P12990",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AS5MT3EW600889&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/914c6b4b84ff467d8f0db8877f302b05.jpg",
-    "price": "$7,687",
-    "sutherlins_price": "$6,988",
-    "mileage": "120,918 Miles"
-  },
-  {
-    "category": "used",
     "name": "2012 Nissan Altima 2.5 S",
     "vin": "1N4AL2AP9CN555366",
     "stock": "T25395A",
@@ -163,6 +133,21 @@
     "price": "$7,687",
     "sutherlins_price": "$6,988",
     "mileage": "41,037 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Nissan Rogue Select S",
+    "vin": "JN8AS5MT3EW600889",
+    "stock": "P12990",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AS5MT3EW600889&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/914c6b4b84ff467d8f0db8877f302b05.jpg",
+    "price": "$7,687",
+    "sutherlins_price": "$6,988",
+    "mileage": "120,918 Miles"
   },
   {
     "category": "used",
@@ -331,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue SL",
-    "vin": "5N1AT2MT4JC797022",
-    "stock": "P12891A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT4JC797022&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a844b438637e46ff95bc9c7f9bf28967.jpg",
-    "price": "$10,987",
-    "sutherlins_price": "$9,988",
-    "mileage": "118,876 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Rogue SV",
     "vin": "5N1AT2MT9EC872190",
     "stock": "P12816",
@@ -479,5 +449,35 @@
     "price": "$13,187",
     "sutherlins_price": "$11,988",
     "mileage": "54,928 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Kona SE",
+    "vin": "KM8K12AA0MU639868",
+    "stock": "P13015",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
+    "price": "$13,552",
+    "sutherlins_price": "$12,320",
+    "mileage": "94,795 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Honda CR-V EX-L",
+    "vin": "5J6RM3H7XFL024077",
+    "stock": "P12886A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RM3H7XFL024077&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc136d82e8748cb8df3517200264c0f.jpg",
+    "price": "$13,964",
+    "sutherlins_price": "$12,695",
+    "mileage": "119,091 Miles"
   }
 ]
