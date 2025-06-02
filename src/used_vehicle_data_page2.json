@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Chevrolet Spark LS",
-    "vin": "KL8CB6SA9LC409710",
-    "stock": "P13082",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas I4 1.4L/85",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CB6SA9LC409710&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHC33_640/2020CHC330001_640_01.jpg",
-    "price": "$13,187",
-    "sutherlins_price": "$11,988",
-    "mileage": "54,928 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Kona SE",
-    "vin": "KM8K12AA0MU639868",
-    "stock": "P13015",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
-    "price": "$13,552",
-    "sutherlins_price": "$12,320",
-    "mileage": "94,795 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Honda CR-V EX-L",
     "vin": "5J6RM3H7XFL024077",
     "stock": "P12886A",
@@ -104,6 +74,21 @@
     "sutherlins_price": "$12,988",
     "mileage": "118,231 Miles",
     "age": 50
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Optima LX",
+    "vin": "5XXGT4L34LG394138",
+    "stock": "25446A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L34LG394138&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020KIC05_640/2020KIC050033_640_01.jpg",
+    "price": "$14,294",
+    "sutherlins_price": "$12,995",
+    "mileage": "89,625 Miles"
   },
   {
     "category": "used",
@@ -242,6 +227,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CP3KW528154",
+    "stock": "25444A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP3KW528154&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS17_640/2019NIS170017_640_01.jpg",
+    "price": "$15,394",
+    "sutherlins_price": "$13,995",
+    "mileage": "101,815 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Pathfinder S",
     "vin": "5N1DR2MN9KC621694",
     "stock": "25658A",
@@ -257,6 +257,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Versa SR",
+    "vin": "3N1CN8FV2ML892084",
+    "stock": "25623A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV2ML892084&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC10_640/2021NIC100051_640_01.jpg",
+    "price": "$16,388",
+    "sutherlins_price": "$14,898",
+    "mileage": "37,528 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Rogue S",
     "vin": "5N1AT3AA6MC839283",
     "stock": "25274A",
@@ -269,21 +284,6 @@
     "price": "$16,466",
     "sutherlins_price": "$14,969",
     "mileage": "109,527 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Versa SR",
-    "vin": "3N1CN8FV3LL805498",
-    "stock": "P13086",
-    "exterior": "",
-    "interior": "Sport Interior",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "64,965 Miles"
   },
   {
     "category": "used",
@@ -303,18 +303,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Venue SE",
-    "vin": "KMHRB8A33LU032233",
-    "stock": "P13039",
+    "name": "2020 Nissan Versa SR",
+    "vin": "3N1CN8FV3LL805498",
+    "stock": "P13086",
     "exterior": "",
-    "interior": "",
+    "interior": "Sport Interior",
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A33LU032233&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/75ed620b241e4cfb98942ae6db9af4f9.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
     "price": "$16,487",
     "sutherlins_price": "$14,988",
-    "mileage": "64,699 Miles"
+    "mileage": "64,965 Miles"
   },
   {
     "category": "used",
@@ -330,6 +330,21 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "75,991 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Venue SE",
+    "vin": "KMHRB8A33LU032233",
+    "stock": "P13039",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRB8A33LU032233&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/75ed620b241e4cfb98942ae6db9af4f9.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "64,699 Miles"
   },
   {
     "category": "used",
@@ -465,20 +480,5 @@
     "price": "$18,687",
     "sutherlins_price": "$16,988",
     "mileage": "61,254 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Kona SE",
-    "vin": "KM8K2CAB2PU055309",
-    "stock": "P12978",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K2CAB2PU055309&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b40378300213468ea9f5218532fddd76.jpg",
-    "price": "$18,694",
-    "sutherlins_price": "$16,995",
-    "mileage": "63,664 Miles"
   }
 ]
