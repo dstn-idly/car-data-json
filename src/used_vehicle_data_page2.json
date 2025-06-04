@@ -271,6 +271,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV3MY235558",
+    "stock": "25527A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3MY235558&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9c7aae8becef41e4b52971fd7e60a014.jpg",
+    "price": "$15,387",
+    "sutherlins_price": "$13,988",
+    "mileage": "75,991 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Rogue Sport S",
     "vin": "JN1BJ1CP3KW528154",
     "stock": "25444A",
@@ -344,21 +359,6 @@
     "price": "$16,487",
     "sutherlins_price": "$14,988",
     "mileage": "64,965 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV3MY235558",
-    "stock": "25527A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3MY235558&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9c7aae8becef41e4b52971fd7e60a014.jpg",
-    "price": "$15,387",
-    "sutherlins_price": "$13,988",
-    "mileage": "75,991 Miles"
   },
   {
     "category": "used",
@@ -452,21 +452,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Titan SV",
-    "vin": "1N6AA0CC9FN512937",
-    "stock": "P12980A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA0CC9FN512937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIT13_640/2015NIT130018_640_01.jpg",
-    "price": "$17,587",
-    "sutherlins_price": "$15,988",
-    "mileage": "108,262 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Chevrolet Camaro 1LT",
     "vin": "1G1FB1RX2M0112999",
     "stock": "TT25103A",
@@ -479,5 +464,20 @@
     "price": "$17,587",
     "sutherlins_price": "$15,988",
     "mileage": "94,947 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Titan SV",
+    "vin": "1N6AA0CC9FN512937",
+    "stock": "P12980A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA0CC9FN512937&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIT13_640/2015NIT130018_640_01.jpg",
+    "price": "$17,587",
+    "sutherlins_price": "$15,988",
+    "mileage": "108,262 Miles"
   }
 ]
