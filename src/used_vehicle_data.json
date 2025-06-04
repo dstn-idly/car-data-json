@@ -317,21 +317,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Ford F-150 STX",
-    "vin": "1FTFX1CF8DFC31582",
-    "stock": "P13054A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas/Ethanol V8 5.0L/302",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFX1CF8DFC31582&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013FRD009b_640/2013FRD009b_640_01.jpg",
-    "price": "$9,887",
-    "sutherlins_price": "$8,988",
-    "mileage": "156,576 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Rogue S",
     "vin": "KNMAT2MT7JP558254",
     "stock": "25273B",
@@ -345,6 +330,21 @@
     "sutherlins_price": "$8,988",
     "mileage": "118,231 Miles",
     "age": 50
+  },
+  {
+    "category": "used",
+    "name": "2013 Ford F-150 STX",
+    "vin": "1FTFX1CF8DFC31582",
+    "stock": "P13054A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas/Ethanol V8 5.0L/302",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFX1CF8DFC31582&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013FRD009b_640/2013FRD009b_640_01.jpg",
+    "price": "$9,887",
+    "sutherlins_price": "$8,988",
+    "mileage": "156,576 Miles"
   },
   {
     "category": "used",
@@ -814,6 +814,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Versa SR",
+    "vin": "3N1CN8FV3LL805498",
+    "stock": "P13086",
+    "exterior": "",
+    "interior": "Sport Interior",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "64,965 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST0RF178509",
     "stock": "P12936",
@@ -827,21 +842,6 @@
     "sutherlins_price": "$14,988",
     "mileage": "40,863 Miles",
     "age": 39
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Versa SR",
-    "vin": "3N1CN8FV3LL805498",
-    "stock": "P13086",
-    "exterior": "",
-    "interior": "Sport Interior",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100048_640_01.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "64,965 Miles"
   },
   {
     "category": "used",
@@ -1839,21 +1839,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BA9MC796055",
-    "stock": "25643A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA9MC796055&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
-    "price": "$24,194",
-    "sutherlins_price": "$21,995",
-    "mileage": "31,933 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Pathfinder S",
     "vin": "5N1DR2ANXLC609902",
     "stock": "P13002",
@@ -1866,6 +1851,21 @@
     "price": "$24,194",
     "sutherlins_price": "$21,995",
     "mileage": "20,322 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "5N1AT3BA9MC796055",
+    "stock": "25643A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA9MC796055&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
+    "price": "$24,194",
+    "sutherlins_price": "$21,995",
+    "mileage": "31,933 Miles"
   },
   {
     "category": "used",
