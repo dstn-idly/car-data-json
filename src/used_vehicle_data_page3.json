@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ca01133578416999476f57a796fe98.jpg",
     "price": "$18,605",
-    "sutherlins_price": "$17,714",
+    "sutherlins_price": "$16,914",
     "mileage": "22,438 Miles"
   },
   {
@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV8MW567048&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0cc3775345fd422ca8fcf8151849207e.jpg",
     "price": "$18,688",
-    "sutherlins_price": "$17,989",
+    "sutherlins_price": "$16,989",
     "mileage": "33,574 Miles",
     "age": 30
   },
@@ -117,7 +117,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV5SL836234&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/296f71b068724204a3bb25902a096062.jpg",
     "price": "$19,787",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "1,744 Miles"
   },
   {
@@ -167,21 +167,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV9PY281156",
-    "stock": "P13014",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e6deae21cfe345698ae14bd82f2e7b1e.jpg",
-    "price": "$19,787",
-    "sutherlins_price": "$18,988",
-    "mileage": "34,591 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SL",
     "vin": "5N1AZ2CJ1LN104574",
     "stock": "P13036",
@@ -194,6 +179,21 @@
     "price": "$19,787",
     "sutherlins_price": "$17,988",
     "mileage": "89,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY281156",
+    "stock": "P13014",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY281156&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e6deae21cfe345698ae14bd82f2e7b1e.jpg",
+    "price": "$19,787",
+    "sutherlins_price": "$17,988",
+    "mileage": "34,591 Miles"
   },
   {
     "category": "used",
@@ -358,7 +358,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV0LC039602&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d68557f187b45988119a202f067ee4c.jpg",
     "price": "$20,856",
-    "sutherlins_price": "$19,860",
+    "sutherlins_price": "$18,960",
     "mileage": "98,133 Miles"
   },
   {
@@ -378,21 +378,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV7PY266929",
-    "stock": "TT25556A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY266929&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "30,772 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Eclipse Cross SE",
     "vin": "JA4ATWAA8RZ063839",
     "stock": "P12901",
@@ -409,6 +394,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV7PY266929",
+    "stock": "TT25556A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY266929&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "30,772 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Subaru Impreza Sport",
     "vin": "4S3GTAM60P3703701",
     "stock": "P12949",
@@ -419,7 +419,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S3GTAM60P3703701&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5772f32fb0f24b45955246271546b26d.jpg",
     "price": "$20,887",
-    "sutherlins_price": "$19,847",
+    "sutherlins_price": "$18,988",
     "mileage": "47,650 Miles"
   },
   {
@@ -434,7 +434,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K62AB4PU944742&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c4e247d4767435d8aad62201b99d80f.jpg",
     "price": "$20,894",
-    "sutherlins_price": "$19,995",
+    "sutherlins_price": "$18,995",
     "mileage": "21,675 Miles"
   },
   {
