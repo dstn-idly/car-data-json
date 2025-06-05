@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA0PC774602",
+    "stock": "25618A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0PC774602&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "price": "$25,294",
+    "sutherlins_price": "$22,995",
+    "mileage": "23,847 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV3PN425759",
     "stock": "P13090",
@@ -468,21 +483,5 @@
     "price": "$30,349",
     "sutherlins_price": "$27,590",
     "mileage": "64,805 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Hyundai Santa Fe Limited",
-    "vin": "5NMS44AL8NH446742",
-    "stock": "P12922",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS44AL8NH446742&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e12d0cf7cda7401db1639a08023f336b.jpg",
-    "price": "$30,434",
-    "sutherlins_price": "$27,667",
-    "mileage": "8,468 Miles",
-    "age": 41
   }
 ]
