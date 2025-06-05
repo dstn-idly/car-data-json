@@ -9,7 +9,7 @@
     "engine": "Gas I4 1.4L/85",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CB6SA9LC409710&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHC33_640/2020CHC330001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c7bf7ed937c041879167268fad3be3a5.jpg",
     "price": "$13,187",
     "sutherlins_price": "$11,988",
     "mileage": "54,928 Miles"
@@ -58,21 +58,6 @@
     "price": "$13,552",
     "sutherlins_price": "$12,320",
     "mileage": "94,795 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST7JF266168",
-    "stock": "P12985A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST7JF266168&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018CHC110002_640/2018CHC110002_640_01.jpg",
-    "price": "$13,738",
-    "sutherlins_price": "$12,489",
-    "mileage": "113,723 Miles"
   },
   {
     "category": "used",
@@ -144,7 +129,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4EV4LC160922&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040081_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/441e7852c48145c2a73d3342f83e3880.jpg",
     "price": "$14,294",
     "sutherlins_price": "$12,995",
     "mileage": "121,538 Miles"
@@ -301,6 +286,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Versa SR",
+    "vin": "3N1CN8FV3LL805498",
+    "stock": "P13086",
+    "exterior": "",
+    "interior": "Sport Interior",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c194bf86361c443ca2d58df34aaedd56.jpg",
+    "price": "$16,487",
+    "sutherlins_price": "$14,988",
+    "mileage": "64,965 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST0RF178509",
     "stock": "P12936",
@@ -314,21 +314,6 @@
     "sutherlins_price": "$14,988",
     "mileage": "40,863 Miles",
     "age": 39
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Versa SR",
-    "vin": "3N1CN8FV3LL805498",
-    "stock": "P13086",
-    "exterior": "",
-    "interior": "Sport Interior",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV3LL805498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c194bf86361c443ca2d58df34aaedd56.jpg",
-    "price": "$16,487",
-    "sutherlins_price": "$14,988",
-    "mileage": "64,965 Miles"
   },
   {
     "category": "used",
@@ -422,21 +407,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Titan SV",
-    "vin": "1N6AA0CC9FN512937",
-    "stock": "P12980A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA0CC9FN512937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIT13_640/2015NIT130018_640_01.jpg",
-    "price": "$17,587",
-    "sutherlins_price": "$15,988",
-    "mileage": "108,262 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Chevrolet Camaro 1LT",
     "vin": "1G1FB1RX2M0112999",
     "stock": "TT25103A",
@@ -449,6 +419,21 @@
     "price": "$17,587",
     "sutherlins_price": "$15,988",
     "mileage": "94,947 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Titan SV",
+    "vin": "1N6AA0CC9FN512937",
+    "stock": "P12980A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA0CC9FN512937&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIT13_640/2015NIT130018_640_01.jpg",
+    "price": "$17,587",
+    "sutherlins_price": "$15,988",
+    "mileage": "108,262 Miles"
   },
   {
     "category": "used",
@@ -479,5 +464,20 @@
     "price": "$18,149",
     "sutherlins_price": "$16,499",
     "mileage": "33,599 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Elantra SE",
+    "vin": "5NPLL4AG6NH081295",
+    "stock": "P12975",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ca01133578416999476f57a796fe98.jpg",
+    "price": "$18,605",
+    "sutherlins_price": "$16,914",
+    "mileage": "22,438 Miles"
   }
 ]
