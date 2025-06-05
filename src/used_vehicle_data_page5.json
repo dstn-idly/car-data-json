@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV3PN425759",
-    "stock": "P13090",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3PN425759&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040026_640_01.jpg",
-    "price": "$25,294",
-    "sutherlins_price": "$22,995",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA0PC774602",
-    "stock": "25618A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0PC774602&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f4193b591ce04de6a4ca7ba068a192eb.jpg",
-    "price": "$25,294",
-    "sutherlins_price": "$22,995",
-    "mileage": "23,847 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Tucson SEL",
     "vin": "5NMJB3DE0RH333981",
     "stock": "P12915",
@@ -93,21 +63,6 @@
   {
     "category": "used",
     "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJG6NH263795",
-    "stock": "P12981",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJG6NH263795&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/24f66bc2ed374b219f3eca18e6ee6d69.jpg",
-    "price": "$26,387",
-    "sutherlins_price": "$23,988",
-    "mileage": "43,763 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Dodge Challenger GT",
     "vin": "2C3CDZJG1NH218442",
     "stock": "P13037",
     "exterior": "",
@@ -119,6 +74,21 @@
     "price": "$26,387",
     "sutherlins_price": "$23,988",
     "mileage": "53,071 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJG6NH263795",
+    "stock": "P12981",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJG6NH263795&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/24f66bc2ed374b219f3eca18e6ee6d69.jpg",
+    "price": "$26,387",
+    "sutherlins_price": "$23,988",
+    "mileage": "43,763 Miles"
   },
   {
     "category": "used",
@@ -484,5 +454,36 @@
     "sutherlins_price": "$27,667",
     "mileage": "8,468 Miles",
     "age": 41
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Titan SV",
+    "vin": "1N6AA1ED7MN526599",
+    "stock": "P12935",
+    "exterior": "",
+    "interior": "",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED7MN526599&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1a5ce784ffbd4ea1a37a5bb6573751e5.jpg",
+    "price": "$30,787",
+    "sutherlins_price": "$27,988",
+    "mileage": "60,129 Miles",
+    "age": 39
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota RAV4 XLE",
+    "vin": "2T3W1RFV4RW334412",
+    "stock": "P13072",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV4RW334412&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/80378d2291e64deca74f9f4e0f7c5817.jpg",
+    "price": "$30,793",
+    "sutherlins_price": "$27,994",
+    "mileage": "N/A"
   }
 ]
