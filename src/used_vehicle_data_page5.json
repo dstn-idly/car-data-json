@@ -167,21 +167,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV3PN425759",
-    "stock": "P13090",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3PN425759&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040026_640_01.jpg",
-    "price": "$25,294",
-    "sutherlins_price": "$22,995",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Tucson SEL",
     "vin": "5NMJB3DE0RH333981",
     "stock": "P12915",
@@ -483,5 +468,20 @@
     "price": "$28,479",
     "sutherlins_price": "$25,890",
     "mileage": "79,811 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Jeep Wrangler Unlimited Sahara",
+    "vin": "1C4HJXEG1JW200205",
+    "stock": "25452A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXEG1JW200205&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a69146f681ff431bb652567f1d059a0a.jpg",
+    "price": "$28,488",
+    "sutherlins_price": "$25,898",
+    "mileage": "61,842 Miles"
   }
 ]

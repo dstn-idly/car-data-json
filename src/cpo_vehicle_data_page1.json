@@ -287,21 +287,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA3PC747007",
-    "stock": "P13018",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC747007&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d2ea026d176141348b3db6d523210fdc.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "43,125 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA6PC837721",
     "stock": "P12999",
@@ -340,7 +325,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV3MN366063&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040059_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf218d522b7b40a69911319d871b3a65.jpg",
     "price": "$21,993",
     "sutherlins_price": "$19,994",
     "mileage": "43,599 Miles"
@@ -475,9 +460,24 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB4PC899628&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d021605350fe40a3ae13c44377a4189b.jpg",
     "price": "$24,187",
     "sutherlins_price": "$21,988",
     "mileage": "43,861 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ2PC131138",
+    "stock": "P13020",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2887b33cb9904c95a14a148f65fdc8d3.jpg",
+    "price": "$24,187",
+    "sutherlins_price": "$21,988",
+    "mileage": "58,427 Miles"
   }
 ]
