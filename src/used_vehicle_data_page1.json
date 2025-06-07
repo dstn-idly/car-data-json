@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Chrysler Town & Country Touring",
-    "vin": "2C4RC1BG1GR206524",
-    "stock": "P12916B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG1GR206524&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016CRV080002_640/2016CRV080002_640_01.jpg",
-    "price": "$5,487",
-    "sutherlins_price": "$4,988",
-    "mileage": "187,638 Miles"
-  },
-  {
-    "category": "used",
     "name": "2006 Jeep Liberty Sport",
     "vin": "1J8GL48K26W275547",
     "stock": "T24783C",
@@ -238,21 +223,6 @@
     "price": "$7,687",
     "sutherlins_price": "$6,988",
     "mileage": "98,360 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2012 Nissan Altima 2.5 S",
-    "vin": "1N4AL2AP9CN555366",
-    "stock": "T25395A",
-    "exterior": "",
-    "interior": "Blonde",
-    "engine": "Gas I4 2.5L/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL2AP9CN555366&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13062.jpg",
-    "price": "$7,687",
-    "sutherlins_price": "$6,988",
-    "mileage": "41,037 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$12,087",
     "sutherlins_price": "$10,988",
     "mileage": "103,695 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Chevrolet Impala Premier",
+    "vin": "2G1105S35K9107247",
+    "stock": "P12963",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas/Ethanol V6 3.6L/217",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1105S35K9107247&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5f523b99fcbc4f628ae42fb81e5c92e6.jpg",
+    "price": "$12,087",
+    "sutherlins_price": "$10,988",
+    "mileage": "102,318 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2008 Nissan Frontier SE",
+    "vin": "1N6AD06U08C451570",
+    "stock": "P13104",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD06U08C451570&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008NIS004b_640/2008NIS004b_640_01.jpg",
+    "price": "$12,087",
+    "sutherlins_price": "$10,988",
+    "mileage": "68,648 Miles"
   }
 ]
