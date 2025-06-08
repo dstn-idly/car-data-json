@@ -425,21 +425,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV6LC276336",
-    "stock": "25634A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "88,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2007 Nissan Versa 1.8 S",
     "vin": "3N1BC13E27L435261",
     "stock": "P12961A",
@@ -452,6 +437,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "84,557 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV6LC276336",
+    "stock": "25634A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "88,943 Miles"
   },
   {
     "category": "used",
@@ -470,17 +470,18 @@
   },
   {
     "category": "used",
-    "name": "2015 Lexus RX 350",
-    "vin": "2T2BK1BA6FC319735",
-    "stock": "KP1039",
+    "name": "2024 RAM 1500 Laramie",
+    "vin": "1C6RREJT0RN219793",
+    "stock": "P12920",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "engine": "Gas/Electric V-8 5.7 L/345",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BK1BA6FC319735&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015LES12_640/2015LES120021_640_01.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREJT0RN219793&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d230976636404dee943446f46ce386a1.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "119,378 Miles"
+    "mileage": "14,323 Miles",
+    "age": 41
   }
 ]
