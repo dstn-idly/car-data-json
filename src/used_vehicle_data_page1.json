@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2010 Jeep Compass Sport",
-    "vin": "1J4NT4FA5AD506321",
-    "stock": "25566A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas I4 2.0/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1J4NT4FA5AD506321&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2010JEE002a_640/2010JEE002a_640_01.jpg",
-    "price": "$2,194",
-    "sutherlins_price": "$1,995",
-    "mileage": "168,213 Miles"
-  },
-  {
-    "category": "used",
     "name": "2010 Nissan Murano SL",
     "vin": "JN8AZ1MU4AW021420",
     "stock": "25585A",
@@ -43,21 +28,6 @@
     "price": "$5,487",
     "sutherlins_price": "$4,988",
     "mileage": "106,724 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Nissan Sentra SR",
-    "vin": "3N1AB7AP1FY381815",
-    "stock": "25622A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP1FY381815&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC06_640/2015NIC060021_640_01.jpg",
-    "price": "$5,487",
-    "sutherlins_price": "$4,988",
-    "mileage": "131,050 Miles"
   },
   {
     "category": "used",
@@ -226,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Honda Odyssey Touring",
-    "vin": "5FNRL5H97CB082670",
-    "stock": "25538B",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas V6 3.5L/212",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNRL5H97CB082670&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14409.jpg",
-    "price": "$8,794",
-    "sutherlins_price": "$7,995",
-    "mileage": "156,604 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Toyota Camry SE",
     "vin": "4T1BF1FK0GU256319",
     "stock": "P12851A",
@@ -406,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Renegade Latitude",
-    "vin": "ZACCJABB1JPH20420",
-    "stock": "P12977",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
-    "price": "$12,087",
-    "sutherlins_price": "$10,988",
-    "mileage": "89,765 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Chevrolet Camaro LT",
     "vin": "2G1FC1E37E9304247",
     "stock": "25676A",
@@ -433,6 +373,21 @@
     "price": "$12,087",
     "sutherlins_price": "$10,988",
     "mileage": "136,247 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Jeep Renegade Latitude",
+    "vin": "ZACCJABB1JPH20420",
+    "stock": "P12977",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
+    "price": "$12,087",
+    "sutherlins_price": "$10,988",
+    "mileage": "89,765 Miles"
   },
   {
     "category": "used",
@@ -451,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2008 Nissan Frontier SE",
-    "vin": "1N6AD06U08C451570",
-    "stock": "P13104",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD06U08C451570&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008NIS004b_640/2008NIS004b_640_01.jpg",
-    "price": "$12,087",
-    "sutherlins_price": "$10,988",
-    "mileage": "68,648 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Hyundai Venue SEL",
     "vin": "KMHRC8A39LU025106",
     "stock": "25512A",
@@ -478,5 +418,66 @@
     "price": "$12,094",
     "sutherlins_price": "$10,995",
     "mileage": "145,885 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Rio S",
+    "vin": "3KPA24AD1LE314551",
+    "stock": "P12940",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPA24AD1LE314551&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f74f9d49625543568ec6ff9736edab0d.jpg",
+    "price": "$12,649",
+    "sutherlins_price": "$11,499",
+    "mileage": "57,653 Miles",
+    "age": 32
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Sonata SE",
+    "vin": "5NPEG4JA6MH071888",
+    "stock": "KP1037",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEG4JA6MH071888&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYC03_640/2021HYC030063_640_01.jpg",
+    "price": "$13,077",
+    "sutherlins_price": "$11,888",
+    "mileage": "113,090 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV6LC276336",
+    "stock": "25634A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
+    "price": "$13,187",
+    "sutherlins_price": "$11,988",
+    "mileage": "88,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue SV",
+    "vin": "JN8AT2MT3KW256990",
+    "stock": "25517B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW256990&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/31ebc78dc76d4639893cbf4ba747d6b6.jpg",
+    "price": "$13,187",
+    "sutherlins_price": "$11,988",
+    "mileage": "104,313 Miles"
   }
 ]
