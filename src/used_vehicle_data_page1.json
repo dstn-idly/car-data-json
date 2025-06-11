@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2006 Jeep Liberty Sport",
-    "vin": "1J8GL48K26W275547",
-    "stock": "T24783C",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V6 3.7L/225",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1J8GL48K26W275547&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7d096d9fc4f64a3ba319e554f96536b7.jpg",
-    "price": "$5,494",
-    "sutherlins_price": "$4,995",
-    "mileage": "134,970 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Kia Forte LX",
     "vin": "KNAFX4A68G5595688",
     "stock": "P13089",
@@ -91,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Dodge Grand Caravan American Value Pkg",
-    "vin": "2C4RDGBG8DR680756",
-    "stock": "P12929A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas/Ethanol V6 3.6L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBG8DR680756&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1a5b5ba2f2514232964dd94adb4f7a6c.jpg",
-    "price": "$6,489",
-    "sutherlins_price": "$5,899",
-    "mileage": "134,741 Miles"
-  },
-  {
-    "category": "used",
     "name": "2009 Toyota Yaris Base",
     "vin": "JTDBT903991312615",
     "stock": "KP1033A",
@@ -118,21 +88,6 @@
     "price": "$6,594",
     "sutherlins_price": "$5,995",
     "mileage": "115,120 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2014 Kia Sportage LX",
-    "vin": "KNDPBCAC7E7547445",
-    "stock": "25637A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPBCAC7E7547445&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014KIA008a_640/2014KIA008a_640_01.jpg",
-    "price": "$6,594",
-    "sutherlins_price": "$5,995",
-    "mileage": "117,081 Miles"
   },
   {
     "category": "used",
@@ -376,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Renegade Latitude",
-    "vin": "ZACCJABB1JPH20420",
-    "stock": "P12977",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
-    "price": "$12,087",
-    "sutherlins_price": "$10,988",
-    "mileage": "89,765 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Chevrolet Camaro LT",
     "vin": "2G1FC1E37E9304247",
     "stock": "25676A",
@@ -403,6 +343,21 @@
     "price": "$12,087",
     "sutherlins_price": "$10,988",
     "mileage": "136,247 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Jeep Renegade Latitude",
+    "vin": "ZACCJABB1JPH20420",
+    "stock": "P12977",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
+    "price": "$12,087",
+    "sutherlins_price": "$10,988",
+    "mileage": "89,765 Miles"
   },
   {
     "category": "used",
@@ -479,5 +434,50 @@
     "price": "$13,187",
     "sutherlins_price": "$11,988",
     "mileage": "104,313 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Spark LS",
+    "vin": "KL8CB6SA9LC409710",
+    "stock": "P13082",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 1.4L/85",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CB6SA9LC409710&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a9c613113ef44905afaf1c3bf5e5e720.jpg",
+    "price": "$13,187",
+    "sutherlins_price": "$11,988",
+    "mileage": "54,928 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Honda CR-V EX-L",
+    "vin": "5J6RM3H7XFL024077",
+    "stock": "P12886A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RM3H7XFL024077&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc136d82e8748cb8df3517200264c0f.jpg",
+    "price": "$13,194",
+    "sutherlins_price": "$11,995",
+    "mileage": "119,091 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Kicks SV",
+    "vin": "3N1CP5CV8LL569542",
+    "stock": "P13007",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8LL569542&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/428a10110a5e491fa8d602a9c74d33eb.jpg",
+    "price": "$13,197",
+    "sutherlins_price": "$11,997",
+    "mileage": "101,394 Miles"
   }
 ]
