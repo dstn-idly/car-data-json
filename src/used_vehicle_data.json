@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Renegade Latitude",
-    "vin": "ZACCJABB1JPH20420",
-    "stock": "P12977",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
-    "price": "$12,087",
-    "sutherlins_price": "$10,988",
-    "mileage": "89,765 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Chevrolet Camaro LT",
     "vin": "2G1FC1E37E9304247",
     "stock": "25676A",
@@ -328,6 +313,21 @@
     "price": "$12,087",
     "sutherlins_price": "$10,988",
     "mileage": "136,247 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Jeep Renegade Latitude",
+    "vin": "ZACCJABB1JPH20420",
+    "stock": "P12977",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABB1JPH20420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/32e0661c40d544779e4d03d4635748ac.jpg",
+    "price": "$12,087",
+    "sutherlins_price": "$10,988",
+    "mileage": "89,765 Miles"
   },
   {
     "category": "used",
@@ -2652,21 +2652,6 @@
   },
   {
     "category": "used",
-    "name": "2011 Honda CR-Z EX",
-    "vin": "JHMZF1D65BS003816",
-    "stock": "003816",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas/Electric I4 1.5L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JHMZF1D65BS003816&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13901.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "156,485 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CV8NY205649",
     "stock": "25635A",
@@ -2679,5 +2664,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "25,788 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2011 Honda CR-Z EX",
+    "vin": "JHMZF1D65BS003816",
+    "stock": "003816",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas/Electric I4 1.5L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JHMZF1D65BS003816&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13901.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "156,485 Miles"
   }
 ]
