@@ -125,7 +125,7 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
 
     return vehicles
 
-def scrape_category(category_name, urls, max_pages=20, vin_age_map=None):
+def scrape_category(category_name, urls, max_pages=30, vin_age_map=None):
     all_vehicles = []
     for base_url in urls:
         for page in range(1, max_pages + 1):
