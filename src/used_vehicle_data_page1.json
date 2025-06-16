@@ -16,36 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Chrysler 300 300C",
-    "vin": "2C3CCAKT6DH535731",
-    "stock": "P12955A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V8 5.7L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CCAKT6DH535731&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013CHR001b_640/2013CHR001b_640_01.jpg",
-    "price": "$4,387",
-    "sutherlins_price": "$3,988",
-    "mileage": "150,545 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Kia Soul Base",
-    "vin": "KNDJN2A29G7315589",
-    "stock": "25623B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/97",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJN2A29G7315589&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016KIC100001_640/2016KIC100001_640_01.jpg",
-    "price": "$4,389",
-    "sutherlins_price": "$3,990",
-    "mileage": "150,001 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Dodge Dart Limited",
     "vin": "1C3CDFCA6DD711133",
     "stock": "P12895B",
@@ -479,5 +449,35 @@
     "price": "$13,187",
     "sutherlins_price": "$11,988",
     "mileage": "88,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Kona SE",
+    "vin": "KM8K12AA0MU639868",
+    "stock": "P13015",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
+    "price": "$13,386",
+    "sutherlins_price": "$12,169",
+    "mileage": "94,795 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SR",
+    "vin": "3N1AB8DV9LY220690",
+    "stock": "P12979",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
+    "price": "$14,064",
+    "sutherlins_price": "$12,785",
+    "mileage": "104,957 Miles"
   }
 ]

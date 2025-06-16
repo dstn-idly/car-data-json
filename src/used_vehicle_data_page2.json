@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Hyundai Kona SE",
-    "vin": "KM8K12AA0MU639868",
-    "stock": "P13015",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
-    "price": "$13,386",
-    "sutherlins_price": "$12,169",
-    "mileage": "94,795 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Sentra SR",
-    "vin": "3N1AB8DV9LY220690",
-    "stock": "P12979",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9LY220690&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce31b0382bbc4ba8a3db5949d8177da5.jpg",
-    "price": "$14,064",
-    "sutherlins_price": "$12,785",
-    "mileage": "104,957 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Kia Forte LX",
     "vin": "3KPFK4A74HE032072",
     "stock": "KP1038",
@@ -283,7 +253,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040058_640_01.jpg",
     "price": "$16,487",
     "sutherlins_price": "$14,988",
-    "mileage": "68,355 Miles"
+    "mileage": "73,748 Miles"
   },
   {
     "category": "used",
@@ -291,7 +261,7 @@
     "vin": "SALWR2VF0FA529095",
     "stock": "25450A",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Intercooled Supercharger Premium Unleaded V-6 3.0 L/183",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=SALWR2VF0FA529095&source=BUP",
@@ -437,21 +407,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CV8NY205649",
-    "stock": "25635A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY205649&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "25,788 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Versa SV",
     "vin": "3N1CN8EV2RL912505",
     "stock": "P13105",
@@ -467,6 +422,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV8NY205649",
+    "stock": "25635A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY205649&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "25,788 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5STXPF170592",
     "stock": "P13062",
@@ -479,5 +449,35 @@
     "price": "$18,698",
     "sutherlins_price": "$16,998",
     "mileage": "65,811 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF219043",
+    "stock": "P13021",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42b10588863247d5bc9e8fb3dc816963.jpg",
+    "price": "$19,222",
+    "sutherlins_price": "$17,475",
+    "mileage": "51,071 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Santa Fe SEL",
+    "vin": "5NMS64AJXMH332376",
+    "stock": "25349A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS64AJXMH332376&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYS01_640/2021HYS010033_640_01.jpg",
+    "price": "$19,226",
+    "sutherlins_price": "$17,478",
+    "mileage": "79,201 Miles"
   }
 ]

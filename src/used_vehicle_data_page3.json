@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF219043",
-    "stock": "P13021",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42b10588863247d5bc9e8fb3dc816963.jpg",
-    "price": "$19,222",
-    "sutherlins_price": "$17,475",
-    "mileage": "51,071 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Santa Fe SEL",
-    "vin": "5NMS64AJXMH332376",
-    "stock": "25349A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS64AJXMH332376&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYS01_640/2021HYS010033_640_01.jpg",
-    "price": "$19,226",
-    "sutherlins_price": "$17,478",
-    "mileage": "79,201 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SL",
     "vin": "5N1AZ2CJ1LN104574",
     "stock": "P13036",
@@ -302,21 +272,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Equinox LT",
-    "vin": "3GNAXLEX0LL312390",
-    "stock": "P13101",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.0L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "27,264 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV7PY266929",
     "stock": "TT25556A",
@@ -332,18 +287,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Sonata SEL",
-    "vin": "KMHL14JA2PA312054",
-    "stock": "P13048",
+    "name": "2020 Chevrolet Equinox LT",
+    "vin": "3GNAXLEX0LL312390",
+    "stock": "P13101",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "engine": "Turbocharged Gas I4 2.0L/122",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL14JA2PA312054&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed3497a053e94ed89eba12154f536d49.jpg",
-    "price": "$20,888",
-    "sutherlins_price": "$18,989",
-    "mileage": "58,424 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "27,264 Miles"
   },
   {
     "category": "used",
@@ -359,6 +314,21 @@
     "price": "$20,888",
     "sutherlins_price": "$18,989",
     "mileage": "115,758 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Sonata SEL",
+    "vin": "KMHL14JA2PA312054",
+    "stock": "P13048",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL14JA2PA312054&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed3497a053e94ed89eba12154f536d49.jpg",
+    "price": "$20,888",
+    "sutherlins_price": "$18,989",
+    "mileage": "58,424 Miles"
   },
   {
     "category": "used",
@@ -479,5 +449,35 @@
     "price": "$21,970",
     "sutherlins_price": "$19,973",
     "mileage": "55,845 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV7RN309466",
+    "stock": "P13100",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV7RN309466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/97dc18ec469e4fe3b5563ce9168d6cbe.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "29,768 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV3RY254974",
+    "stock": "P13069",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3RY254974&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/369e1baf1490491797379fc85e4cb793.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "17,803 Miles"
   }
 ]

@@ -16,36 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Chrysler 300 300C",
-    "vin": "2C3CCAKT6DH535731",
-    "stock": "P12955A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V8 5.7L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CCAKT6DH535731&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013CHR001b_640/2013CHR001b_640_01.jpg",
-    "price": "$4,387",
-    "sutherlins_price": "$3,988",
-    "mileage": "150,545 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Kia Soul Base",
-    "vin": "KNDJN2A29G7315589",
-    "stock": "25623B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/97",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJN2A29G7315589&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016KIC100001_640/2016KIC100001_640_01.jpg",
-    "price": "$4,389",
-    "sutherlins_price": "$3,990",
-    "mileage": "150,001 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Dodge Dart Limited",
     "vin": "1C3CDFCA6DD711133",
     "stock": "P12895B",
@@ -764,7 +734,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040058_640_01.jpg",
     "price": "$16,487",
     "sutherlins_price": "$14,988",
-    "mileage": "68,355 Miles"
+    "mileage": "73,748 Miles"
   },
   {
     "category": "used",
@@ -772,7 +742,7 @@
     "vin": "SALWR2VF0FA529095",
     "stock": "25450A",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Intercooled Supercharger Premium Unleaded V-6 3.0 L/183",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=SALWR2VF0FA529095&source=BUP",
@@ -918,21 +888,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CV8NY205649",
-    "stock": "25635A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY205649&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
-    "price": "$18,687",
-    "sutherlins_price": "$16,988",
-    "mileage": "25,788 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Versa SV",
     "vin": "3N1CN8EV2RL912505",
     "stock": "P13105",
@@ -945,6 +900,21 @@
     "price": "$18,687",
     "sutherlins_price": "$16,988",
     "mileage": "19,722 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV8NY205649",
+    "stock": "25635A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY205649&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
+    "price": "$18,687",
+    "sutherlins_price": "$16,988",
+    "mileage": "25,788 Miles"
   },
   {
     "category": "used",
@@ -1264,21 +1234,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Equinox LT",
-    "vin": "3GNAXLEX0LL312390",
-    "stock": "P13101",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.0L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "27,264 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV7PY266929",
     "stock": "TT25556A",
@@ -1294,18 +1249,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Sonata SEL",
-    "vin": "KMHL14JA2PA312054",
-    "stock": "P13048",
+    "name": "2020 Chevrolet Equinox LT",
+    "vin": "3GNAXLEX0LL312390",
+    "stock": "P13101",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "engine": "Turbocharged Gas I4 2.0L/122",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL14JA2PA312054&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed3497a053e94ed89eba12154f536d49.jpg",
-    "price": "$20,888",
-    "sutherlins_price": "$18,989",
-    "mileage": "58,424 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "27,264 Miles"
   },
   {
     "category": "used",
@@ -1321,6 +1276,21 @@
     "price": "$20,888",
     "sutherlins_price": "$18,989",
     "mileage": "115,758 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Sonata SEL",
+    "vin": "KMHL14JA2PA312054",
+    "stock": "P13048",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL14JA2PA312054&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed3497a053e94ed89eba12154f536d49.jpg",
+    "price": "$20,888",
+    "sutherlins_price": "$18,989",
+    "mileage": "58,424 Miles"
   },
   {
     "category": "used",
@@ -1655,21 +1625,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA3NC674698",
-    "stock": "25752A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA3NC674698&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
-    "price": "$23,087",
-    "sutherlins_price": "$20,988",
-    "mileage": "57,342 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DVXPN386829",
     "stock": "25072A",
@@ -1700,18 +1655,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Chevrolet Equinox LT",
-    "vin": "3GNAXKEVXNL267440",
-    "stock": "P12976",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA3NC674698",
+    "stock": "25752A",
     "exterior": "",
     "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/92",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXKEVXNL267440&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a661e1af44a14ae8a553042dde637d5e.jpg",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA3NC674698&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
     "price": "$23,087",
     "sutherlins_price": "$20,988",
-    "mileage": "19,604 Miles"
+    "mileage": "57,342 Miles"
   },
   {
     "category": "used",
@@ -1730,18 +1685,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA5NC681488",
-    "stock": "25746A",
+    "name": "2022 Chevrolet Equinox LT",
+    "vin": "3GNAXKEVXNL267440",
+    "stock": "P12976",
     "exterior": "",
     "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA5NC681488&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "engine": "Turbocharged Gas I4 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXKEVXNL267440&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a661e1af44a14ae8a553042dde637d5e.jpg",
     "price": "$23,087",
     "sutherlins_price": "$20,988",
-    "mileage": "56,788 Miles"
+    "mileage": "19,604 Miles"
   },
   {
     "category": "used",
@@ -1757,6 +1712,21 @@
     "price": "$23,087",
     "sutherlins_price": "$20,988",
     "mileage": "102,231 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA5NC681488",
+    "stock": "25746A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA5NC681488&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "price": "$23,087",
+    "sutherlins_price": "$20,988",
+    "mileage": "56,788 Miles"
   },
   {
     "category": "used",
@@ -1880,21 +1850,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN310325",
-    "stock": "P13117",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN310325&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
-    "price": "$24,187",
-    "sutherlins_price": "$21,988",
-    "mileage": "34,879 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV7NN421132",
     "stock": "P13103",
@@ -1907,6 +1862,21 @@
     "price": "$24,187",
     "sutherlins_price": "$21,988",
     "mileage": "16,816 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN310325",
+    "stock": "P13117",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN310325&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "price": "$24,187",
+    "sutherlins_price": "$21,988",
+    "mileage": "34,879 Miles"
   },
   {
     "category": "used",
@@ -2678,21 +2648,6 @@
     "price": "$70,394",
     "sutherlins_price": "$63,995",
     "mileage": "6,132 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2012 Honda Pilot LX",
-    "vin": "5FNYF3H22CB032530",
-    "stock": "25379B",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas V6 3.5L/212",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF3H22CB032530&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14416.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "225,650 Miles"
   },
   {
     "category": "used",

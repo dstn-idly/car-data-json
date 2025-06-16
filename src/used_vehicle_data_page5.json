@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 SL",
-    "vin": "1N4BL4EV5PN355552",
-    "stock": "P13085",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4EV5PN355552&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5a3fa9fba2043b18e267d2c471ed78a.jpg",
-    "price": "$24,194",
-    "sutherlins_price": "$21,995",
-    "mileage": "63,962 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BA9MC796055",
-    "stock": "25643A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA9MC796055&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02eff3a8b7f8400a9478e226e1af0aee.jpg",
-    "price": "$24,194",
-    "sutherlins_price": "$21,995",
-    "mileage": "31,933 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA8PC846212",
     "stock": "P12986",
@@ -481,5 +451,35 @@
     "price": "$29,148",
     "sutherlins_price": "$26,498",
     "mileage": "9,405 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Audi A5 Sportback Prestige",
+    "vin": "WAUFNCF54KA026773",
+    "stock": "P12994",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUFNCF54KA026773&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a4f6707b15fb4be88360eb485036c8e7.jpg",
+    "price": "$29,253",
+    "sutherlins_price": "$26,594",
+    "mileage": "39,737 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Mazda CX-50 2.5 S Preferred Package",
+    "vin": "7MMVABBM2SN319162",
+    "stock": "P13043",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7MMVABBM2SN319162&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bce7a4daadb4434b8ac955cc02006c57.jpg",
+    "price": "$29,258",
+    "sutherlins_price": "$26,598",
+    "mileage": "12,106 Miles"
   }
 ]
