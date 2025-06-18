@@ -106,6 +106,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Jeep Cherokee 75th Anniversary",
+    "vin": "1C4PJLCB2GW307428",
+    "stock": "25718A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4PJLCB2GW307428&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016JES040008_640/2016JES040008_640_01.jpg",
+    "price": "$6,988",
+    "sutherlins_price": "$6,988",
+    "mileage": "119,859 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Sentra SR",
     "vin": "3N1AB7AP9KY363024",
     "stock": "P13072A",
@@ -250,7 +265,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9EC872190&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6d1a9021484ad0a1824263e3de8923.jpg",
-    "price": "$10,987",
+    "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "113,907 Miles"
   },
@@ -316,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Chevrolet Camaro LT",
-    "vin": "2G1FC1E37E9304247",
-    "stock": "25676A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V6 3.6L/217",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FC1E37E9304247&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014CHE021a_640/2014CHE021a_640_01.jpg",
-    "price": "$12,087",
-    "sutherlins_price": "$10,988",
-    "mileage": "136,247 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Jeep Renegade Latitude",
     "vin": "ZACCJABB1JPH20420",
     "stock": "P12977",
@@ -343,6 +343,21 @@
     "price": "$12,087",
     "sutherlins_price": "$10,988",
     "mileage": "89,765 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Chevrolet Camaro LT",
+    "vin": "2G1FC1E37E9304247",
+    "stock": "25676A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V6 3.6L/217",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FC1E37E9304247&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014CHE021a_640/2014CHE021a_640_01.jpg",
+    "price": "$12,087",
+    "sutherlins_price": "$10,988",
+    "mileage": "136,247 Miles"
   },
   {
     "category": "used",
@@ -464,20 +479,5 @@
     "price": "$14,064",
     "sutherlins_price": "$12,785",
     "mileage": "104,957 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Kia Forte LX",
-    "vin": "3KPFK4A74HE032072",
-    "stock": "KP1038",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFK4A74HE032072&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/83e3cd54865a4df4bf11190f797efdf6.jpg",
-    "price": "$14,177",
-    "sutherlins_price": "$12,888",
-    "mileage": "28,864 Miles"
   }
 ]
