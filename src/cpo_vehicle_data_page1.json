@@ -31,21 +31,6 @@
   },
   {
     "category": "cpo",
-    "name": "2020 Nissan Kicks S",
-    "vin": "3N1CP5BV1LL578925",
-    "stock": "P13030",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1LL578925&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6792d42830004065a4c15618c48eb7e0.jpg",
-    "price": "$15,875",
-    "sutherlins_price": "$12,887",
-    "mileage": "68,012 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2019 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV2KN328269",
     "stock": "P13009",
@@ -332,21 +317,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8RN305409",
-    "stock": "P13099",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN305409&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3d11e68e60b4a62aef5abbe161515eb.jpg",
-    "price": "$19,988",
-    "sutherlins_price": "$19,988",
-    "mileage": "29,661 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV3RY254974",
     "stock": "P13069",
@@ -359,6 +329,21 @@
     "price": "$23,568",
     "sutherlins_price": "$19,988",
     "mileage": "17,803 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8RN305409",
+    "stock": "P13099",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN305409&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3d11e68e60b4a62aef5abbe161515eb.jpg",
+    "price": "$19,988",
+    "sutherlins_price": "$19,988",
+    "mileage": "29,661 Miles"
   },
   {
     "category": "cpo",
@@ -446,7 +431,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA2NC726452&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/252b5957511a4c9eafd409645f1c88b5.jpg",
-    "price": "$23,087",
+    "price": "$20,988",
     "sutherlins_price": "$20,988",
     "mileage": "47,848 Miles"
   },
@@ -479,5 +464,20 @@
     "price": "$21,564",
     "sutherlins_price": "$21,564",
     "mileage": "31,933 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ2PC131138",
+    "stock": "P13020",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2887b33cb9904c95a14a148f65fdc8d3.jpg",
+    "price": "$24,070",
+    "sutherlins_price": "$21,882",
+    "mileage": "58,427 Miles"
   }
 ]

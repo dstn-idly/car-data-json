@@ -1,18 +1,18 @@
 [
   {
     "category": "used",
-    "name": "2005 Honda CR-V LX",
-    "vin": "JHLRD68535C015146",
-    "stock": "P12934B",
+    "name": "2016 Nissan Rogue S",
+    "vin": "JN8AT2MT2GW006566",
+    "stock": "T25584B",
     "exterior": "",
     "interior": "N/A",
-    "engine": "Gas I4 2.4L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JHLRD68535C015146&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/6089.jpg",
-    "price": "$4,387",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT2GW006566&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIS110001_640/2016NIS110001_640_01.jpg",
+    "price": "$3,988",
     "sutherlins_price": "$3,988",
-    "mileage": "150,650 Miles"
+    "mileage": "144,943 Miles"
   },
   {
     "category": "used",
@@ -43,21 +43,6 @@
     "price": "$5,494",
     "sutherlins_price": "$4,995",
     "mileage": "75,036 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2002 Toyota Avalon XL",
-    "vin": "4T1BF28BX2U234078",
-    "stock": "P13083B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V6 3.0L/183",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BF28BX2U234078&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/974.jpg",
-    "price": "$4,995",
-    "sutherlins_price": "$4,995",
-    "mileage": "230,098 Miles"
   },
   {
     "category": "used",
@@ -437,36 +422,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Kicks SV",
-    "vin": "3N1CP5CU4KL483831",
-    "stock": "25655B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CU4KL483831&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS26_640/2019NIS260021_640_01.jpg",
-    "price": "$11,298",
-    "sutherlins_price": "$11,298",
-    "mileage": "84,120 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Honda CR-V EX-L",
-    "vin": "5J6RM3H7XFL024077",
-    "stock": "P12886A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RM3H7XFL024077&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc136d82e8748cb8df3517200264c0f.jpg",
-    "price": "$12,704",
-    "sutherlins_price": "$11,549",
-    "mileage": "119,091 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Kicks SV",
     "vin": "3N1CP5CV8LL569542",
     "stock": "P13007",
@@ -479,5 +434,50 @@
     "price": "$12,758",
     "sutherlins_price": "$11,598",
     "mileage": "101,394 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Sonata SE",
+    "vin": "5NPEG4JA6MH071888",
+    "stock": "KP1037",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEG4JA6MH071888&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cbb318dafeec468384fc3220c1092e8d.jpg",
+    "price": "$13,077",
+    "sutherlins_price": "$11,888",
+    "mileage": "113,090 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV6LC276336",
+    "stock": "25634A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
+    "price": "$13,187",
+    "sutherlins_price": "$11,988",
+    "mileage": "88,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 SL",
+    "vin": "1N4BL4EV4LC160922",
+    "stock": "P13073",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4EV4LC160922&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/92a161a277f44050b87993839112474b.jpg",
+    "price": "$11,989",
+    "sutherlins_price": "$11,989",
+    "mileage": "121,538 Miles"
   }
 ]
