@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8NN388866",
-    "stock": "P13059",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8NN388866&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/356c8e7aa7644988879f57f61afdbcf6.jpg",
-    "price": "$17,826",
-    "sutherlins_price": "$17,826",
-    "mileage": "55,024 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue Sport S",
     "vin": "JN1BJ1AW7MW443699",
     "stock": "P13006",
@@ -296,7 +281,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
-    "price": "$20,887",
+    "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "27,264 Miles"
   },
@@ -479,5 +464,20 @@
     "price": "$19,898",
     "sutherlins_price": "$19,898",
     "mileage": "99,853 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson SE",
+    "vin": "5NMJA3AE1PH284150",
+    "stock": "P12983",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3AE1PH284150&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d42362cebefe452f8a0840964f1bc463.jpg",
+    "price": "$24,589",
+    "sutherlins_price": "$19,899",
+    "mileage": "30,113 Miles"
   }
 ]
