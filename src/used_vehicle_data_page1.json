@@ -151,6 +151,21 @@
   },
   {
     "category": "used",
+    "name": "2012 Chevrolet Equinox LTZ",
+    "vin": "2GNFLFE57C6190424",
+    "stock": "25593A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas/Ethanol V6 3.0/183",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNFLFE57C6190424&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13582.jpg",
+    "price": "$6,995",
+    "sutherlins_price": "$6,995",
+    "mileage": "122,366 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Toyota Corolla L",
     "vin": "2T1BURHE5GC609599",
     "stock": "25573A",
@@ -464,20 +479,5 @@
     "price": "$13,077",
     "sutherlins_price": "$11,888",
     "mileage": "113,090 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV6LC276336",
-    "stock": "25634A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
-    "price": "$13,187",
-    "sutherlins_price": "$11,988",
-    "mileage": "88,943 Miles"
   }
 ]

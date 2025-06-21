@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2024 Jeep Compass Latitude",
+    "vin": "3C4NJDBN2RT606564",
+    "stock": "P13110",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN2RT606564&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024JES15_640/2024JES150020_640_01.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV2RN300237",
+    "stock": "P13116",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN300237&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "35,733 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN310325",
     "stock": "P13117",
@@ -448,35 +478,5 @@
     "price": "$29,998",
     "sutherlins_price": "$26,128",
     "mileage": "64,805 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Tucson Limited",
-    "vin": "5NMJE3AE1PH180035",
-    "stock": "P13028",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE1PH180035&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c8c164825c94d908f8098c6e0fd4797.jpg",
-    "price": "$29,998",
-    "sutherlins_price": "$26,496",
-    "mileage": "9,405 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Audi A5 Sportback Prestige",
-    "vin": "WAUFNCF54KA026773",
-    "stock": "P12994",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUFNCF54KA026773&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a4f6707b15fb4be88360eb485036c8e7.jpg",
-    "price": "$29,253",
-    "sutherlins_price": "$26,594",
-    "mileage": "39,737 Miles"
   }
 ]
