@@ -688,7 +688,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPC24A6XME149045&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYC01_640/2021HYC010055_640_01.jpg",
     "price": "$14,986",
-    "sutherlins_price": "$15,988",
+    "sutherlins_price": "$14,986",
     "mileage": "53,627 Miles"
   },
   {
@@ -903,21 +903,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Versa SV",
-    "vin": "3N1CN8EV2RL912505",
-    "stock": "P13105",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV2RL912505&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d754b4d7b33a48d4a40fd57cfc186f46.jpg",
-    "price": "$16,988",
-    "sutherlins_price": "$16,988",
-    "mileage": "19,722 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CV8NY205649",
     "stock": "25635A",
@@ -930,6 +915,21 @@
     "price": "$16,988",
     "sutherlins_price": "$16,988",
     "mileage": "25,788 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV2RL912505",
+    "stock": "P13105",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV2RL912505&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d754b4d7b33a48d4a40fd57cfc186f46.jpg",
+    "price": "$16,988",
+    "sutherlins_price": "$16,988",
+    "mileage": "19,722 Miles"
   },
   {
     "category": "used",
@@ -1730,21 +1730,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA2NC726452",
-    "stock": "P12890A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA2NC726452&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/252b5957511a4c9eafd409645f1c88b5.jpg",
-    "price": "$20,988",
-    "sutherlins_price": "$20,988",
-    "mileage": "47,848 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue SV",
     "vin": "JN8AT3BA5MW007293",
     "stock": "25625A",
@@ -1757,6 +1742,21 @@
     "price": "$20,988",
     "sutherlins_price": "$20,988",
     "mileage": "38,713 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA2NC726452",
+    "stock": "P12890A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA2NC726452&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/252b5957511a4c9eafd409645f1c88b5.jpg",
+    "price": "$20,988",
+    "sutherlins_price": "$20,988",
+    "mileage": "47,848 Miles"
   },
   {
     "category": "used",
