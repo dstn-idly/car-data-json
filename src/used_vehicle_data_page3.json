@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Toyota Corolla LE",
-    "vin": "JTDEPMAE6NJ206699",
-    "stock": "P13040",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE6NJ206699&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dec7bd4bd048400b916d2814e448e9e1.jpg",
-    "price": "$17,234",
-    "sutherlins_price": "$17,234",
-    "mileage": "48,107 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF219043",
     "stock": "P13021",
@@ -287,21 +272,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Equinox LT",
-    "vin": "3GNAXLEX0LL312390",
-    "stock": "P13101",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.0L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
-    "price": "$18,988",
-    "sutherlins_price": "$18,988",
-    "mileage": "27,264 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV7PY266929",
     "stock": "TT25556A",
@@ -314,6 +284,21 @@
     "price": "$20,887",
     "sutherlins_price": "$18,988",
     "mileage": "30,772 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Equinox LT",
+    "vin": "3GNAXLEX0LL312390",
+    "stock": "P13101",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 2.0L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
+    "price": "$18,988",
+    "sutherlins_price": "$18,988",
+    "mileage": "27,264 Miles"
   },
   {
     "category": "used",
@@ -479,5 +464,20 @@
     "price": "$21,803",
     "sutherlins_price": "$19,821",
     "mileage": "59,357 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Kia Forte GT-Line",
+    "vin": "3KPF54AD5NE472519",
+    "stock": "P12987",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD5NE472519&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77a2c16bbb9c4440a8dd46564de5f051.jpg",
+    "price": "$21,852",
+    "sutherlins_price": "$19,865",
+    "mileage": "24,894 Miles"
   }
 ]
