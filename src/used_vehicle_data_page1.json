@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Sentra SR",
-    "vin": "3N1AB7AP9KY363024",
-    "stock": "P13072A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP9KY363024&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC06_640/2019NIC060063_640_01.jpg",
-    "price": "$7,687",
-    "sutherlins_price": "$6,988",
-    "mileage": "116,088 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Kia Forte LX",
     "vin": "KNAFT4A29D5721562",
     "stock": "25621A",
@@ -479,5 +464,20 @@
     "price": "$13,077",
     "sutherlins_price": "$11,888",
     "mileage": "113,090 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV6LC276336",
+    "stock": "25634A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
+    "price": "$13,187",
+    "sutherlins_price": "$11,988",
+    "mileage": "88,943 Miles"
   }
 ]
