@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Nissan Murano SL",
-    "vin": "5N1AZ2CJ1LN104574",
-    "stock": "P13036",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ1LN104574&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8737233ddb5d4d27a2d87f4ca4eaac7b.jpg",
-    "price": "$23,895",
-    "sutherlins_price": "$16,994",
-    "mileage": "89,119 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Toyota Corolla LE",
-    "vin": "JTDEPMAE6NJ206699",
-    "stock": "P13040",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE6NJ206699&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dec7bd4bd048400b916d2814e448e9e1.jpg",
-    "price": "$17,234",
-    "sutherlins_price": "$17,234",
-    "mileage": "48,107 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF219043",
-    "stock": "P13021",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF219043&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42b10588863247d5bc9e8fb3dc816963.jpg",
-    "price": "$20,895",
-    "sutherlins_price": "$17,450",
-    "mileage": "51,071 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Toyota Corolla LE",
     "vin": "5YFEPMAE9MP154351",
     "stock": "P13038",
@@ -100,7 +55,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7GT1FS636839&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/4d73403799de4f85bcf4782735a99314.jpg",
-    "price": "$19,568",
+    "price": "$21,589",
     "sutherlins_price": "$17,789",
     "mileage": "81,776 Miles"
   },
@@ -190,7 +145,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S3GTAM60P3703701&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5772f32fb0f24b45955246271546b26d.jpg",
-    "price": "$20,458",
+    "price": "$23,988",
     "sutherlins_price": "$18,598",
     "mileage": "47,650 Miles"
   },
@@ -236,7 +191,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA8MW012729&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/db4e557d7c1f473bb77eb6d845ffa9d4.jpg",
-    "price": "$20,765",
+    "price": "$22,548",
     "sutherlins_price": "$18,877",
     "mileage": "69,737 Miles"
   },
@@ -302,21 +257,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV7PY266929",
-    "stock": "TT25556A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY266929&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0077f2643a0e4401bf67847afeaa519a.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "30,772 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Chevrolet Equinox LT",
     "vin": "3GNAXLEX0LL312390",
     "stock": "P13101",
@@ -329,6 +269,21 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "27,264 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV7PY266929",
+    "stock": "TT25556A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY266929&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0077f2643a0e4401bf67847afeaa519a.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "30,772 Miles"
   },
   {
     "category": "used",
@@ -356,7 +311,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K62AB4PU944742&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c4e247d4767435d8aad62201b99d80f.jpg",
-    "price": "$20,888",
+    "price": "$23,895",
     "sutherlins_price": "$18,989",
     "mileage": "21,675 Miles"
   },
@@ -479,5 +434,50 @@
     "price": "$19,799",
     "sutherlins_price": "$19,799",
     "mileage": "36,468 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA6PC837721",
+    "stock": "P12999",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC837721&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/61a8a8cbbac741d5a5b0ceb2816d0934.jpg",
+    "price": "$24,875",
+    "sutherlins_price": "$19,821",
+    "mileage": "59,357 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Kia Forte GT-Line",
+    "vin": "3KPF54AD5NE472519",
+    "stock": "P12987",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD5NE472519&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77a2c16bbb9c4440a8dd46564de5f051.jpg",
+    "price": "$24,589",
+    "sutherlins_price": "$19,865",
+    "mileage": "24,894 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST6SF124380",
+    "stock": "P12985",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6SF124380&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/458e688e1f6440a08e9f4222c1793c5c.jpg",
+    "price": "$23,548",
+    "sutherlins_price": "$19,871",
+    "mileage": "8,525 Miles"
   }
 ]
