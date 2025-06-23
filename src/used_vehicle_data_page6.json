@@ -302,21 +302,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Nissan Altima 2.5 S",
-    "vin": "1N4AL3AP9EC193463",
-    "stock": "P13073A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP9EC193463&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS002b_640/2014NIS002b_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "144,338 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue SL",
     "vin": "JN8AT3CB0MW238836",
     "stock": "25657A",
@@ -344,5 +329,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "92,277 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Nissan Altima 2.5 S",
+    "vin": "1N4AL3AP9EC193463",
+    "stock": "P13073A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP9EC193463&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS002b_640/2014NIS002b_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "144,338 Miles"
   }
 ]

@@ -652,7 +652,7 @@
     "vin": "3VV3B7AX5KM136525",
     "stock": "P12957A",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV3B7AX5KM136525&source=BUP",
@@ -1219,21 +1219,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Equinox LT",
-    "vin": "3GNAXLEX0LL312390",
-    "stock": "P13101",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.0L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
-    "price": "$18,988",
-    "sutherlins_price": "$18,988",
-    "mileage": "27,264 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV7PY266929",
     "stock": "TT25556A",
@@ -1246,6 +1231,21 @@
     "price": "$20,887",
     "sutherlins_price": "$18,988",
     "mileage": "30,772 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Equinox LT",
+    "vin": "3GNAXLEX0LL312390",
+    "stock": "P13101",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 2.0L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHS15_640/2020CHS150029_640_01.jpg",
+    "price": "$18,988",
+    "sutherlins_price": "$18,988",
+    "mileage": "27,264 Miles"
   },
   {
     "category": "used",
@@ -1549,21 +1549,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV0PY243590",
-    "stock": "P13096",
-    "exterior": "",
-    "interior": "SV Premium",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0PY243590&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc14b0fa886a4e9283890589fe67e8da.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "22,044 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5PN340292",
     "stock": "P13098",
@@ -1576,6 +1561,21 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "29,001 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV0PY243590",
+    "stock": "P13096",
+    "exterior": "",
+    "interior": "SV Premium",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0PY243590&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc14b0fa886a4e9283890589fe67e8da.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "22,044 Miles"
   },
   {
     "category": "used",
@@ -1824,7 +1824,7 @@
     "vin": "3VV3B7AX1NM015950",
     "stock": "25707A",
     "exterior": "",
-    "interior": "N/A",
+    "interior": "",
     "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV3B7AX1NM015950&source=BUP",
@@ -2708,21 +2708,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Nissan Altima 2.5 S",
-    "vin": "1N4AL3AP9EC193463",
-    "stock": "P13073A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP9EC193463&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS002b_640/2014NIS002b_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "144,338 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue SL",
     "vin": "JN8AT3CB0MW238836",
     "stock": "25657A",
@@ -2750,5 +2735,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "92,277 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Nissan Altima 2.5 S",
+    "vin": "1N4AL3AP9EC193463",
+    "stock": "P13073A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP9EC193463&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS002b_640/2014NIS002b_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "144,338 Miles"
   }
 ]
