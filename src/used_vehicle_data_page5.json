@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ2PC131138",
+    "stock": "P13020",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2887b33cb9904c95a14a148f65fdc8d3.jpg",
+    "price": "$25,789",
+    "sutherlins_price": "$21,882",
+    "mileage": "58,427 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Volkswagen Tiguan SE",
+    "vin": "3VV3B7AX1NM015950",
+    "stock": "25707A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV3B7AX1NM015950&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022VWS03_640/2022VWS030017_640_01.jpg",
+    "price": "$21,898",
+    "sutherlins_price": "$21,898",
+    "mileage": "48,830 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Jeep Compass Latitude",
     "vin": "3C4NJDBN2RT606564",
     "stock": "P13110",
@@ -31,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV7NN421132",
-    "stock": "P13103",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7NN421132&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
-    "price": "$21,988",
-    "sutherlins_price": "$21,988",
-    "mileage": "16,816 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN310325",
     "stock": "P13117",
@@ -58,6 +73,21 @@
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "34,879 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV7NN421132",
+    "stock": "P13103",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7NN421132&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "16,816 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$25,756",
     "sutherlins_price": "$25,756",
     "mileage": "51,628 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mazda CX-50 2.5 S Preferred Package",
-    "vin": "7MMVABBM2SN319162",
-    "stock": "P13043",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7MMVABBM2SN319162&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bce7a4daadb4434b8ac955cc02006c57.jpg",
-    "price": "$29,995",
-    "sutherlins_price": "$25,898",
-    "mileage": "12,106 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Hyundai Sonata SEL",
-    "vin": "KMHL64JAXSA440021",
-    "stock": "P13108",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL64JAXSA440021&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d913973340f64326a26979e93a4f3438.jpg",
-    "price": "$28,488",
-    "sutherlins_price": "$25,898",
-    "mileage": "9,028 Miles"
   }
 ]

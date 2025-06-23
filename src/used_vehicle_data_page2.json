@@ -136,6 +136,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Mazda CX-5 Touring",
+    "vin": "JM3KE2CY6G0780837",
+    "stock": "KP1044",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3KE2CY6G0780837&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016MAS060009_640/2016MAS060009_640_01.jpg",
+    "price": "$12,988",
+    "sutherlins_price": "$12,988",
+    "mileage": "103,100 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV2KN328269",
     "stock": "P13009",
@@ -196,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue SV",
-    "vin": "KNMAT2MV8KP512371",
-    "stock": "25625B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV8KP512371&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$13,988",
-    "sutherlins_price": "$13,988",
-    "mileage": "67,264 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Chevrolet Impala Premier",
     "vin": "2G1105S35K9107247",
     "stock": "P12963",
@@ -226,6 +226,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Rogue SV",
+    "vin": "KNMAT2MV8KP512371",
+    "stock": "25625B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV8KP512371&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
+    "price": "$13,988",
+    "sutherlins_price": "$13,988",
+    "mileage": "67,264 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Versa SR",
     "vin": "3N1CN8FV3LL805498",
     "stock": "P13086",
@@ -238,6 +253,21 @@
     "price": "$13,988",
     "sutherlins_price": "$13,988",
     "mileage": "64,965 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV5LC223157",
+    "stock": "P13114A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV5LC223157&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
+    "price": "$13,988",
+    "sutherlins_price": "$13,988",
+    "mileage": "89,146 Miles"
   },
   {
     "category": "used",
@@ -449,35 +479,5 @@
     "price": "$16,538",
     "sutherlins_price": "$16,538",
     "mileage": "65,811 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Kia Optima S",
-    "vin": "5XXGT4L32LG442249",
-    "stock": "P12965",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L32LG442249&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f77ab124b34942528c468e3ebe64262f.jpg",
-    "price": "$20,457",
-    "sutherlins_price": "$16,613",
-    "mileage": "68,136 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Versa SV",
-    "vin": "3N1CN8EV9NL868870",
-    "stock": "25730A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9NL868870&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC10_640/2022NIC100001_640_01.jpg",
-    "price": "$16,988",
-    "sutherlins_price": "$16,988",
-    "mileage": "22,138 Miles"
   }
 ]
