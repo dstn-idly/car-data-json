@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEB4AC3EH896367&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014HYU006a_640/2014HYU006a_640_01.jpg",
     "price": "$4,988",
-    "sutherlins_price": "$5,995",
+    "sutherlins_price": "$4,988",
     "mileage": "162,297 Miles"
   },
   {
@@ -692,21 +692,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Chevrolet Impala Premier",
-    "vin": "2G1105S35K9107247",
-    "stock": "P12963",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas/Ethanol V6 3.6L/217",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1105S35K9107247&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5f523b99fcbc4f628ae42fb81e5c92e6.jpg",
-    "price": "$13,988",
-    "sutherlins_price": "$13,988",
-    "mileage": "102,318 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "KNMAT2MV8KP512371",
     "stock": "25625B",
@@ -719,6 +704,21 @@
     "price": "$13,988",
     "sutherlins_price": "$13,988",
     "mileage": "67,264 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Chevrolet Impala Premier",
+    "vin": "2G1105S35K9107247",
+    "stock": "P12963",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas/Ethanol V6 3.6L/217",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1105S35K9107247&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5f523b99fcbc4f628ae42fb81e5c92e6.jpg",
+    "price": "$13,988",
+    "sutherlins_price": "$13,988",
+    "mileage": "102,318 Miles"
   },
   {
     "category": "used",
@@ -1173,21 +1173,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Toyota Corolla LE",
-    "vin": "5YFB4MDE5PP027186",
-    "stock": "T25498A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE5PP027186&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOC04_640/2023TOC041927608_640_01.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "74,495 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Kicks SV",
     "vin": "3N1CP5CV6NL510735",
     "stock": "25633A",
@@ -1200,6 +1185,21 @@
     "price": "$17,988",
     "sutherlins_price": "$17,988",
     "mileage": "35,494 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Corolla LE",
+    "vin": "5YFB4MDE5PP027186",
+    "stock": "T25498A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE5PP027186&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOC04_640/2023TOC041927608_640_01.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "74,495 Miles"
   },
   {
     "category": "used",
@@ -1354,21 +1354,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV7PY266929",
-    "stock": "TT25556A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY266929&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0077f2643a0e4401bf67847afeaa519a.jpg",
-    "price": "$20,887",
-    "sutherlins_price": "$18,988",
-    "mileage": "30,772 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Chevrolet Equinox LT",
     "vin": "3GNAXLEX0LL312390",
     "stock": "P13101",
@@ -1381,6 +1366,21 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "27,264 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV7PY266929",
+    "stock": "TT25556A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY266929&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0077f2643a0e4401bf67847afeaa519a.jpg",
+    "price": "$20,887",
+    "sutherlins_price": "$18,988",
+    "mileage": "30,772 Miles"
   },
   {
     "category": "used",
@@ -1955,21 +1955,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Latitude",
-    "vin": "3C4NJDBN2RT606564",
-    "stock": "P13110",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN2RT606564&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024JES15_640/2024JES150020_640_01.jpg",
-    "price": "$21,988",
-    "sutherlins_price": "$21,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV2RN300237",
     "stock": "P13116",
@@ -1985,18 +1970,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN310325",
-    "stock": "P13117",
+    "name": "2024 Jeep Compass Latitude",
+    "vin": "3C4NJDBN2RT606564",
+    "stock": "P13110",
     "exterior": "",
     "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN310325&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN2RT606564&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024JES15_640/2024JES150020_640_01.jpg",
     "price": "$21,988",
     "sutherlins_price": "$21,988",
-    "mileage": "34,879 Miles"
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -2012,6 +1997,21 @@
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "16,816 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN310325",
+    "stock": "P13117",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN310325&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "34,879 Miles"
   },
   {
     "category": "used",
