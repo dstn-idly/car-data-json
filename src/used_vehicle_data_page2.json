@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SV",
-    "vin": "3N1CP5CV8LL569542",
-    "stock": "P13007",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8LL569542&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/428a10110a5e491fa8d602a9c74d33eb.jpg",
-    "price": "$15,789",
-    "sutherlins_price": "$10,998",
-    "mileage": "101,394 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Kona SE",
-    "vin": "KM8K12AA0MU639868",
-    "stock": "P13015",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
-    "price": "$15,895",
-    "sutherlins_price": "$11,765",
-    "mileage": "94,795 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Hyundai Sonata SE",
     "vin": "5NPEG4JA6MH071888",
     "stock": "KP1037",
@@ -129,7 +99,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7FARW1H5XJE029217&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1c42baa753db47ff8fd1b7d79f1f70b1.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8f4576e953ba4a1bab2d3228ff85752d.jpg",
     "price": "$12,896",
     "sutherlins_price": "$12,896",
     "mileage": "161,628 Miles"
@@ -355,7 +325,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV6ML494830&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1e21c661dd884598ba115dc0455aa3f0.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/915995371e334afcaaf0b88b6aeed73c.jpg",
     "price": "$14,988",
     "sutherlins_price": "$14,988",
     "mileage": "47,466 Miles"
@@ -430,7 +400,7 @@
     "engine": "Regular Unleaded V-8 5.6 L/339",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA0CC9FN512937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a53301b4944a4d81bcafb5ceed5488f3.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3164bb0a932e4514b1fabfd838db9a17.jpg",
     "price": "$15,598",
     "sutherlins_price": "$15,598",
     "mileage": "108,262 Miles"
@@ -479,5 +449,35 @@
     "price": "$21,785",
     "sutherlins_price": "$16,458",
     "mileage": "22,438 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Kona SE",
+    "vin": "KM8K2CAB2PU055309",
+    "stock": "P12978",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K2CAB2PU055309&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b40378300213468ea9f5218532fddd76.jpg",
+    "price": "$19,856",
+    "sutherlins_price": "$16,498",
+    "mileage": "63,664 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5STXPF170592",
+    "stock": "P13062",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5STXPF170592&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ec9d0f77b01b468f8a10f517ba0dee80.jpg",
+    "price": "$16,538",
+    "sutherlins_price": "$16,538",
+    "mileage": "65,811 Miles"
   }
 ]
