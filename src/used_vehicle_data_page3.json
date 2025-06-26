@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Hyundai Kona SE",
+    "vin": "KM8K2CAB2PU055309",
+    "stock": "P12978",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K2CAB2PU055309&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b40378300213468ea9f5218532fddd76.jpg",
+    "price": "$19,856",
+    "sutherlins_price": "$16,498",
+    "mileage": "63,664 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5STXPF170592",
     "stock": "P13062",
@@ -148,6 +163,21 @@
     "price": "$22,988",
     "sutherlins_price": "$17,876",
     "mileage": "53,709 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV5NY228547",
+    "stock": "25724A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV5NY228547&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
+    "price": "$17,898",
+    "sutherlins_price": "$17,898",
+    "mileage": "37,297 Miles"
   },
   {
     "category": "used",
@@ -449,35 +479,5 @@
     "price": "$18,998",
     "sutherlins_price": "$18,998",
     "mileage": "37,466 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Toyota Corolla LE",
-    "vin": "JTDB4MEE6P3004586",
-    "stock": "P13079",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDB4MEE6P3004586&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e3b301cbb662490e8babde9c31dea9cb.jpg",
-    "price": "$19,252",
-    "sutherlins_price": "$19,252",
-    "mileage": "45,549 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Cadillac XT4 FWD Luxury",
-    "vin": "1GYAZAR49KF130228",
-    "stock": "24653A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.0L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYAZAR49KF130228&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d232dd6416da4140a64da7640353de40.jpg",
-    "price": "$19,349",
-    "sutherlins_price": "$19,349",
-    "mileage": "57,360 Miles"
   }
 ]
