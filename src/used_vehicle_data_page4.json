@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2020 Chevrolet Equinox LT",
+    "vin": "3GNAXLEX0LL312390",
+    "stock": "P13101",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 2.0L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXLEX0LL312390&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b805579601bb46929d3ff009263a914b.jpg",
+    "price": "$18,988",
+    "sutherlins_price": "$18,988",
+    "mileage": "27,264 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA1PC838341",
     "stock": "P13001",
@@ -28,21 +43,6 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "24,633 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Kona SEL",
-    "vin": "KM8K62AB4PU944742",
-    "stock": "P12953",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K62AB4PU944742&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c4e247d4767435d8aad62201b99d80f.jpg",
-    "price": "$23,895",
-    "sutherlins_price": "$18,847",
-    "mileage": "21,675 Miles"
   },
   {
     "category": "used",
@@ -271,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV0PY243590",
-    "stock": "P13096",
-    "exterior": "",
-    "interior": "SV Premium",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0PY243590&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc14b0fa886a4e9283890589fe67e8da.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "22,044 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5PN340292",
     "stock": "P13098",
@@ -298,6 +283,21 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "29,001 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV0PY243590",
+    "stock": "P13096",
+    "exterior": "",
+    "interior": "SV Premium",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0PY243590&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc14b0fa886a4e9283890589fe67e8da.jpg",
+    "price": "$21,987",
+    "sutherlins_price": "$19,988",
+    "mileage": "22,044 Miles"
   },
   {
     "category": "used",
@@ -331,6 +331,22 @@
   },
   {
     "category": "used",
+    "name": "2022 Volkswagen Taos SE",
+    "vin": "3VVRX7B22NM062189",
+    "stock": "P12924",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRX7B22NM062189&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bafa27d15e9e4a20b1d722e733546af8.jpg",
+    "price": "$20,513",
+    "sutherlins_price": "$20,513",
+    "mileage": "15,395 Miles",
+    "age": 41
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV9RN308223",
     "stock": "P13078",
@@ -358,6 +374,21 @@
     "price": "$20,693",
     "sutherlins_price": "$20,693",
     "mileage": "102,231 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Chevrolet Equinox LT",
+    "vin": "3GNAXKEVXNL267440",
+    "stock": "P12976",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXKEVXNL267440&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a661e1af44a14ae8a553042dde637d5e.jpg",
+    "price": "$24,589",
+    "sutherlins_price": "$20,874",
+    "mileage": "19,604 Miles"
   },
   {
     "category": "used",
@@ -436,22 +467,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Volkswagen Taos SE",
-    "vin": "3VVRX7B22NM062189",
-    "stock": "P12924",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRX7B22NM062189&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bafa27d15e9e4a20b1d722e733546af8.jpg",
-    "price": "$20,513",
-    "sutherlins_price": "$20,513",
-    "mileage": "15,395 Miles",
-    "age": 41
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BJ2PC131138",
     "stock": "P13020",
@@ -464,20 +479,5 @@
     "price": "$25,789",
     "sutherlins_price": "$20,982",
     "mileage": "58,427 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Chevrolet Equinox LT",
-    "vin": "3GNAXKEVXNL267440",
-    "stock": "P12976",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 1.5L/92",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXKEVXNL267440&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a661e1af44a14ae8a553042dde637d5e.jpg",
-    "price": "$24,589",
-    "sutherlins_price": "$20,874",
-    "mileage": "19,604 Miles"
   }
 ]
