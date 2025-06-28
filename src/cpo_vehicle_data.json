@@ -10,8 +10,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP0KY310485&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b4456ba0b62e4c608bc6030e42bffd3a.jpg",
-    "price": "$8,498",
-    "sutherlins_price": "$8,498",
+    "price": "$7,189",
+    "sutherlins_price": "$7,189",
     "mileage": "109,893 Miles"
   },
   {
@@ -114,7 +114,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV7JC800688&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b65ce46b2ebe436a8c56b54e3857346f.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/97248ebb3e854062b3e570580f6b575d.jpg",
     "price": "$15,489",
     "sutherlins_price": "$15,489",
     "mileage": "55,679 Miles"
@@ -145,8 +145,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV2RL912505&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d754b4d7b33a48d4a40fd57cfc186f46.jpg",
-    "price": "$16,988",
-    "sutherlins_price": "$16,988",
+    "price": "$16,888",
+    "sutherlins_price": "$16,888",
     "mileage": "19,722 Miles"
   },
   {
@@ -362,21 +362,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BB8PC843898",
-    "stock": "P12997",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB8PC843898&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bcc5f41def0a4969ba0e05887cbea657.jpg",
-    "price": "$23,785",
-    "sutherlins_price": "$19,988",
-    "mileage": "59,180 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8RN305409",
     "stock": "P13099",
@@ -389,6 +374,21 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "29,661 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BB8PC843898",
+    "stock": "P12997",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB8PC843898&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bcc5f41def0a4969ba0e05887cbea657.jpg",
+    "price": "$23,785",
+    "sutherlins_price": "$19,988",
+    "mileage": "59,180 Miles"
   },
   {
     "category": "cpo",
@@ -542,21 +542,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV7NN421132",
-    "stock": "P13103",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7NN421132&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc50059dbb6a4a039ea06f33264d99dd.jpg",
-    "price": "$21,988",
-    "sutherlins_price": "$21,988",
-    "mileage": "16,816 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN310325",
     "stock": "P13117",
@@ -566,9 +551,24 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN310325&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d71a810e184b77bf11b8dfae8c0de7.jpg",
+    "price": "$20,177",
+    "sutherlins_price": "$20,177",
+    "mileage": "34,879 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV7NN421132",
+    "stock": "P13103",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7NN421132&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bb9dc07856074838876b54d33b6c0fa3.jpg",
     "price": "$21,988",
     "sutherlins_price": "$21,988",
-    "mileage": "34,879 Miles"
+    "mileage": "16,816 Miles"
   },
   {
     "category": "cpo",
@@ -685,7 +685,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6RC720269&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/78c2ea622b05430b94b3666de64745cb.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/50e5fc54c12e44a18551e8ac3a4d9371.jpg",
     "price": "$24,988",
     "sutherlins_price": "$24,988",
     "mileage": "18,246 Miles"
@@ -701,8 +701,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS2PC120941&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f564a11b9f5e48f79980c0ef9bb58a2b.jpg",
-    "price": "$25,756",
-    "sutherlins_price": "$25,756",
+    "price": "$25,075",
+    "sutherlins_price": "$25,075",
     "mileage": "51,628 Miles"
   },
   {
@@ -715,7 +715,7 @@
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC290654&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/17a01d77538541e2a35502eadfcf2198.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04214ffb18b54fb59882c7d8522d007f.jpg",
     "price": "$32,988",
     "sutherlins_price": "$32,988",
     "mileage": "12,342 Miles"
