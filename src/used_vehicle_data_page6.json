@@ -318,21 +318,6 @@
   },
   {
     "category": "used",
-    "name": "2005 Ford Econoline Commercial Cutaway Standard",
-    "vin": "1FDWE35L15HA83586",
-    "stock": "25760A",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas V8 5.4L/330",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FDWE35L15HA83586&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/4990.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "222,760 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA3PC751119",
     "stock": "25763A",
@@ -360,5 +345,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "164,940 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2005 Ford Econoline Commercial Cutaway Standard",
+    "vin": "1FDWE35L15HA83586",
+    "stock": "25760A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas V8 5.4L/330",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FDWE35L15HA83586&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/4990.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "222,760 Miles"
   }
 ]
