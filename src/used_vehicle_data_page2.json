@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SV",
-    "vin": "3N1CP5CV8LL569542",
-    "stock": "P13007",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8LL569542&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/428a10110a5e491fa8d602a9c74d33eb.jpg",
-    "price": "$15,789",
-    "sutherlins_price": "$10,998",
-    "mileage": "101,394 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Kona SE",
-    "vin": "KM8K12AA0MU639868",
-    "stock": "P13015",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
-    "price": "$15,895",
-    "sutherlins_price": "$11,765",
-    "mileage": "94,795 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Hyundai Sonata SE",
     "vin": "5NPEG4JA6MH071888",
     "stock": "KP1037",
@@ -478,5 +448,35 @@
     "price": "$16,538",
     "sutherlins_price": "$16,538",
     "mileage": "65,811 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Optima S",
+    "vin": "5XXGT4L32LG442249",
+    "stock": "P12965",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L32LG442249&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f77ab124b34942528c468e3ebe64262f.jpg",
+    "price": "$20,457",
+    "sutherlins_price": "$16,613",
+    "mileage": "68,136 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV2RL912505",
+    "stock": "P13105",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV2RL912505&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d754b4d7b33a48d4a40fd57cfc186f46.jpg",
+    "price": "$16,888",
+    "sutherlins_price": "$16,888",
+    "mileage": "19,722 Miles"
   }
 ]
