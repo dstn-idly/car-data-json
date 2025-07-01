@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD5NE472519&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/77a2c16bbb9c4440a8dd46564de5f051.jpg",
     "price": "$24,589",
-    "sutherlins_price": "$19,865",
+    "sutherlins_price": "$19,175",
     "mileage": "24,894 Miles"
   },
   {
@@ -41,23 +41,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6SF124380&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/458e688e1f6440a08e9f4222c1793c5c.jpg",
     "price": "$23,548",
-    "sutherlins_price": "$19,871",
+    "sutherlins_price": "$19,396",
     "mileage": "8,525 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Tucson N Line",
-    "vin": "KM8JFCAE4PU210954",
-    "stock": "25292A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8JFCAE4PU210954&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/31ae48c8ecbe4352a3a20ff91d8e2d50.jpg",
-    "price": "$19,898",
-    "sutherlins_price": "$19,898",
-    "mileage": "125,652 Miles"
   },
   {
     "category": "used",
@@ -73,6 +58,21 @@
     "price": "$19,898",
     "sutherlins_price": "$19,898",
     "mileage": "28,932 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson N Line",
+    "vin": "KM8JFCAE4PU210954",
+    "stock": "25292A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8JFCAE4PU210954&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/31ae48c8ecbe4352a3a20ff91d8e2d50.jpg",
+    "price": "$19,898",
+    "sutherlins_price": "$19,898",
+    "mileage": "125,652 Miles"
   },
   {
     "category": "used",
@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3AE1PH284150&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d42362cebefe452f8a0840964f1bc463.jpg",
     "price": "$24,589",
-    "sutherlins_price": "$19,899",
+    "sutherlins_price": "$19,260",
     "mileage": "30,113 Miles"
   },
   {
@@ -136,6 +136,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BB8PC843898",
+    "stock": "P12997",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB8PC843898&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bcc5f41def0a4969ba0e05887cbea657.jpg",
+    "price": "$23,785",
+    "sutherlins_price": "$18,458",
+    "mileage": "59,180 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8RN305409",
     "stock": "P13099",
@@ -148,21 +163,6 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "29,661 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BB8PC843898",
-    "stock": "P12997",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB8PC843898&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bcc5f41def0a4969ba0e05887cbea657.jpg",
-    "price": "$23,785",
-    "sutherlins_price": "$19,988",
-    "mileage": "59,180 Miles"
   },
   {
     "category": "used",
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDCN2PT523244&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b5f87d7e86db4171b15ed57fb95e4c64.jpg",
     "price": "$19,812",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$19,812",
     "mileage": "29,104 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRX7B22NM062189&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bafa27d15e9e4a20b1d722e733546af8.jpg",
     "price": "$18,669",
-    "sutherlins_price": "$20,513",
+    "sutherlins_price": "$18,669",
     "mileage": "15,395 Miles",
     "age": 41
   },
@@ -282,7 +282,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXKEVXNL267440&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a661e1af44a14ae8a553042dde637d5e.jpg",
     "price": "$24,589",
-    "sutherlins_price": "$20,874",
+    "sutherlins_price": "$19,925",
     "mileage": "19,604 Miles"
   },
   {
@@ -387,7 +387,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ2PC131138&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2887b33cb9904c95a14a148f65fdc8d3.jpg",
     "price": "$25,789",
-    "sutherlins_price": "$20,982",
+    "sutherlins_price": "$20,029",
     "mileage": "58,427 Miles"
   },
   {
@@ -417,7 +417,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXG34J20NG139886&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1586613abe24d1d9cd6d9242aad52ce.jpg",
     "price": "$23,895",
-    "sutherlins_price": "$21,658",
+    "sutherlins_price": "$21,333",
     "mileage": "62,334 Miles"
   },
   {

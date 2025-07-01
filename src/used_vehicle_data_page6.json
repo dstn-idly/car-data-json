@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4JJXP60PW515950&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1aa246f60b67489898d9a8ac84bfbf67.jpg",
     "price": "$34,875",
-    "sutherlins_price": "$28,662",
+    "sutherlins_price": "$28,616",
     "mileage": "81,967 Miles"
   },
   {
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCPDKEK7NZ629539&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc838a77221e44cbb6cc0b1888631cbd.jpg",
     "price": "$40,895",
-    "sutherlins_price": "$35,820",
+    "sutherlins_price": "$35,117",
     "mileage": "21,964 Miles"
   },
   {
@@ -251,7 +251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFJC5DB3RX071279&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f92c8d7abd3740daaaec1dbb8762285a.jpg",
     "price": "$60,985",
-    "sutherlins_price": "$55,802",
+    "sutherlins_price": "$55,499",
     "mileage": "10,568 Miles"
   },
   {
@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV0MY252737",
-    "stock": "25711A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0MY252737&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "18,333 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Jeep Cherokee Latitude",
     "vin": "1C4PJLCB8GW135941",
     "stock": "25542A",
@@ -343,5 +328,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "123,259 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV0MY252737",
+    "stock": "25711A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0MY252737&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "18,333 Miles"
   }
 ]
