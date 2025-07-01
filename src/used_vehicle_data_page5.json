@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV2RN300237",
+    "stock": "P13116",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN300237&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d9251f639ab4af1a50cb865df1f622d.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "35,733 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV7NN421132",
     "stock": "P13103",
@@ -160,7 +175,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMW53DK00R2V41372&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b3062a4903ff44d08094c799ee7dd4fb.jpg",
-    "price": "$22,958",
+    "price": "$22,898",
     "sutherlins_price": "$22,958",
     "mileage": "22,631 Miles"
   },
@@ -463,20 +478,5 @@
     "price": "$25,075",
     "sutherlins_price": "$25,075",
     "mileage": "51,628 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Ford Mustang EcoBoost",
-    "vin": "1FA6P8TH8M5155254",
-    "stock": "P13084",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.3 L/140",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FA6P8TH8M5155254&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/89f8c7a35cc4443f8e4e045c3c7f0967.jpg",
-    "price": "$25,166",
-    "sutherlins_price": "$25,166",
-    "mileage": "44,029 Miles"
   }
 ]

@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Ford Focus SE",
-    "vin": "1FADP3F25FL289199",
-    "stock": "25712A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FADP3F25FL289199&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/69079a23412646ef85f62279df833a20.jpg",
-    "price": "$3,988",
-    "sutherlins_price": "$3,988",
-    "mileage": "185,029 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Dodge Dart Limited",
     "vin": "1C3CDFCA6DD711133",
     "stock": "P12895B",
@@ -58,6 +43,21 @@
     "price": "$9,568",
     "sutherlins_price": "$3,995",
     "mileage": "75,036 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Ford Focus SE",
+    "vin": "1FADP3F25FL289199",
+    "stock": "25712A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FADP3F25FL289199&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/69079a23412646ef85f62279df833a20.jpg",
+    "price": "$3,988",
+    "sutherlins_price": "$3,988",
+    "mileage": "185,029 Miles"
   },
   {
     "category": "used",
@@ -118,6 +118,21 @@
     "price": "$4,995",
     "sutherlins_price": "$4,995",
     "mileage": "164,940 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Kia Forte LX",
+    "vin": "KNAFT4A29D5721562",
+    "stock": "25621A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 2.0L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAFT4A29D5721562&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/414921ec2f7048f4906a81c3f6ab3fcc.jpg",
+    "price": "$5,504",
+    "sutherlins_price": "$6,995",
+    "mileage": "72,691 Miles"
   },
   {
     "category": "used",
@@ -193,21 +208,6 @@
     "price": "$7,687",
     "sutherlins_price": "$6,988",
     "mileage": "98,360 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2013 Kia Forte LX",
-    "vin": "KNAFT4A29D5721562",
-    "stock": "25621A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas I4 2.0L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAFT4A29D5721562&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/414921ec2f7048f4906a81c3f6ab3fcc.jpg",
-    "price": "$6,995",
-    "sutherlins_price": "$6,995",
-    "mileage": "72,691 Miles"
   },
   {
     "category": "used",
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Sentra SV",
-    "vin": "3N1AB7AP1JL623377",
-    "stock": "25635B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP1JL623377&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/446542ab59b046728b66dc75ee20a622.jpg",
-    "price": "$8,995",
-    "sutherlins_price": "$8,995",
-    "mileage": "92,471 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Toyota Corolla LE",
     "vin": "2T1BURHE0FC408871",
     "stock": "KP1035B",
@@ -328,6 +313,21 @@
     "price": "$8,995",
     "sutherlins_price": "$8,995",
     "mileage": "154,499 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Sentra SV",
+    "vin": "3N1AB7AP1JL623377",
+    "stock": "25635B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP1JL623377&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/446542ab59b046728b66dc75ee20a622.jpg",
+    "price": "$8,995",
+    "sutherlins_price": "$8,995",
+    "mileage": "92,471 Miles"
   },
   {
     "category": "used",
@@ -422,6 +422,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Nissan Rogue SV",
+    "vin": "JN8AT2MT3HW395932",
+    "stock": "25581A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3HW395932&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS11_640/2017NIS110001_640_01.jpg",
+    "price": "$10,988",
+    "sutherlins_price": "$10,988",
+    "mileage": "86,624 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Audi Q5 Premium Plus",
     "vin": "WA1L2AFP8HA056026",
     "stock": "25439A",
@@ -464,20 +479,5 @@
     "price": "$15,895",
     "sutherlins_price": "$11,765",
     "mileage": "94,795 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Sonata SE",
-    "vin": "5NPEG4JA6MH071888",
-    "stock": "KP1037",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEG4JA6MH071888&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cbb318dafeec468384fc3220c1092e8d.jpg",
-    "price": "$11,888",
-    "sutherlins_price": "$11,888",
-    "mileage": "113,090 Miles"
   }
 ]
