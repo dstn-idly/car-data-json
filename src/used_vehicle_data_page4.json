@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1MN334680",
-    "stock": "25738A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1MN334680&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/70d45656e0f24890ad731eaca80936b7.jpg",
-    "price": "$18,998",
-    "sutherlins_price": "$18,998",
-    "mileage": "37,466 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Kia Forte GT-Line",
     "vin": "3KPF54AD5NE472519",
     "stock": "P12987",
@@ -40,7 +25,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDB4MEE6P3004586&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e3b301cbb662490e8babde9c31dea9cb.jpg",
-    "price": "$19,252",
+    "price": "$17,947",
     "sutherlins_price": "$19,252",
     "mileage": "45,549 Miles"
   },
@@ -115,7 +100,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BW4NW489975&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d35b0d4dc544c8a85d2713da1e7c2af.jpg",
-    "price": "$19,794",
+    "price": "$19,827",
     "sutherlins_price": "$19,794",
     "mileage": "45,277 Miles"
   },
@@ -235,7 +220,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV7RN309466&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/97dc18ec469e4fe3b5563ce9168d6cbe.jpg",
-    "price": "$19,988",
+    "price": "$19,271",
     "sutherlins_price": "$19,988",
     "mileage": "29,768 Miles"
   },
@@ -250,24 +235,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN305409&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3d11e68e60b4a62aef5abbe161515eb.jpg",
-    "price": "$19,988",
+    "price": "$19,051",
     "sutherlins_price": "$19,988",
     "mileage": "29,661 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV0PY243590",
-    "stock": "P13096",
-    "exterior": "",
-    "interior": "SV Premium",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0PY243590&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc14b0fa886a4e9283890589fe67e8da.jpg",
-    "price": "$21,987",
-    "sutherlins_price": "$19,988",
-    "mileage": "22,044 Miles"
   },
   {
     "category": "used",
@@ -280,9 +250,24 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5PN340292&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d5f8ac0f2e1446539993e9d6a6e387ea.jpg",
-    "price": "$19,988",
+    "price": "$19,788",
     "sutherlins_price": "$19,988",
     "mileage": "29,001 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV0PY243590",
+    "stock": "P13096",
+    "exterior": "",
+    "interior": "SV Premium",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0PY243590&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc14b0fa886a4e9283890589fe67e8da.jpg",
+    "price": "$18,453",
+    "sutherlins_price": "$19,988",
+    "mileage": "22,044 Miles"
   },
   {
     "category": "used",
@@ -355,7 +340,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV9RN308223&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1c5fa4d5f73c40cd97b3d4c8c0682020.jpg",
-    "price": "$20,586",
+    "price": "$19,009",
     "sutherlins_price": "$20,586",
     "mileage": "38,433 Miles"
   },
@@ -370,7 +355,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRWCEK9KZ284714&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019CHT27_640/2019CHT270031_640_01.jpg",
-    "price": "$20,591",
+    "price": "$20,512",
     "sutherlins_price": "$20,591",
     "mileage": "102,231 Miles"
   },
@@ -475,8 +460,23 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA2NC726452&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/252b5957511a4c9eafd409645f1c88b5.jpg",
-    "price": "$20,988",
+    "price": "$19,801",
     "sutherlins_price": "$20,988",
     "mileage": "47,848 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Chevrolet Silverado 1500 LT",
+    "vin": "1GCVKREC8HZ216015",
+    "stock": "P13127",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCVKREC8HZ216015&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017CHT270006_640/2017CHT270006_640_01.jpg",
+    "price": "$20,988",
+    "sutherlins_price": "$20,988",
+    "mileage": "105,970 Miles"
   }
 ]

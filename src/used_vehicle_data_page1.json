@@ -25,7 +25,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAFX4A68G5595688&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5253823fd06c4940b63dc7d8301b3b24.jpg",
-    "price": "$3,657",
+    "price": "$2,989",
     "sutherlins_price": "$3,657",
     "mileage": "172,496 Miles"
   },
@@ -58,21 +58,6 @@
     "price": "$3,988",
     "sutherlins_price": "$3,988",
     "mileage": "185,029 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Nissan Rogue S",
-    "vin": "KNMAT2MV4JP605581",
-    "stock": "24127B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV4JP605581&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
-    "price": "$4,988",
-    "sutherlins_price": "$4,988",
-    "mileage": "151,303 Miles"
   },
   {
     "category": "used",
@@ -133,6 +118,21 @@
     "price": "$5,504",
     "sutherlins_price": "$5,504",
     "mileage": "72,691 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Sentra S",
+    "vin": "3N1AB7AP0KY310485",
+    "stock": "P13029A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP0KY310485&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b4456ba0b62e4c608bc6030e42bffd3a.jpg",
+    "price": "$5,537",
+    "sutherlins_price": "$7,189",
+    "mileage": "109,893 Miles"
   },
   {
     "category": "used",
@@ -205,24 +205,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VWD67AJXGM394918&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a0391f51e844512ba0fdfa2d4003e86.jpg",
-    "price": "$7,687",
+    "price": "$6,488",
     "sutherlins_price": "$6,988",
     "mileage": "98,360 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Sentra S",
-    "vin": "3N1AB7AP0KY310485",
-    "stock": "P13029A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP0KY310485&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b4456ba0b62e4c608bc6030e42bffd3a.jpg",
-    "price": "$7,189",
-    "sutherlins_price": "$7,189",
-    "mileage": "109,893 Miles"
   },
   {
     "category": "used",
@@ -479,5 +464,20 @@
     "price": "$10,988",
     "sutherlins_price": "$10,988",
     "mileage": "92,277 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Kona SE",
+    "vin": "KM8K12AA0MU639868",
+    "stock": "P13015",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K12AA0MU639868&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/44f08b7a59d5410687f3827f9d44d979.jpg",
+    "price": "$15,895",
+    "sutherlins_price": "$11,594",
+    "mileage": "94,795 Miles"
   }
 ]
