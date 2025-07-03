@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Hyundai Elantra SE",
-    "vin": "5NPLL4AG6NH081295",
-    "stock": "P12975",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ca01133578416999476f57a796fe98.jpg",
-    "price": "$21,785",
-    "sutherlins_price": "$16,057",
-    "mileage": "22,438 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SL",
     "vin": "5N1AZ2CJ1LN104574",
     "stock": "P13036",
@@ -28,6 +13,36 @@
     "price": "$23,895",
     "sutherlins_price": "$15,988",
     "mileage": "89,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Chevrolet Silverado 1500 LT",
+    "vin": "3GCPCREC9HG470144",
+    "stock": "24243A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPCREC9HG470144&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35878e4f19424133880ec9d6069bfcdb.jpg",
+    "price": "$21,895",
+    "sutherlins_price": "$15,988",
+    "mileage": "115,758 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Elantra SE",
+    "vin": "5NPLL4AG6NH081295",
+    "stock": "P12975",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLL4AG6NH081295&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ca01133578416999476f57a796fe98.jpg",
+    "price": "$21,785",
+    "sutherlins_price": "$16,057",
+    "mileage": "22,438 Miles"
   },
   {
     "category": "used",
@@ -58,21 +73,6 @@
     "price": "$16,338",
     "sutherlins_price": "$16,338",
     "mileage": "29,917 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Chevrolet Silverado 1500 LT",
-    "vin": "3GCPCREC9HG470144",
-    "stock": "24243A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPCREC9HG470144&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35878e4f19424133880ec9d6069bfcdb.jpg",
-    "price": "$21,895",
-    "sutherlins_price": "$15,988",
-    "mileage": "115,758 Miles"
   },
   {
     "category": "used",
@@ -133,6 +133,36 @@
     "price": "$16,988",
     "sutherlins_price": "$16,988",
     "mileage": "22,138 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST6SF124380",
+    "stock": "P12985",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6SF124380&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/458e688e1f6440a08e9f4222c1793c5c.jpg",
+    "price": "$23,548",
+    "sutherlins_price": "$16,988",
+    "mileage": "8,525 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Cadillac XT4 FWD Luxury",
+    "vin": "1GYAZAR49KF130228",
+    "stock": "24653A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 2.0L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYAZAR49KF130228&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d232dd6416da4140a64da7640353de40.jpg",
+    "price": "$16,988",
+    "sutherlins_price": "$16,988",
+    "mileage": "57,360 Miles"
   },
   {
     "category": "used",
@@ -256,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Toyota Corolla LE",
-    "vin": "5YFB4MDE5PP027186",
-    "stock": "T25498A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE5PP027186&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOC04_640/2023TOC041927608_640_01.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "74,495 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Kicks SV",
     "vin": "3N1CP5CV6NL510735",
     "stock": "25633A",
@@ -283,6 +298,21 @@
     "price": "$17,988",
     "sutherlins_price": "$17,988",
     "mileage": "35,494 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Corolla LE",
+    "vin": "5YFB4MDE5PP027186",
+    "stock": "T25498A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE5PP027186&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOC04_640/2023TOC041927608_640_01.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "74,495 Miles"
   },
   {
     "category": "used",
@@ -437,21 +467,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Cadillac XT4 FWD Luxury",
-    "vin": "1GYAZAR49KF130228",
-    "stock": "24653A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.0L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYAZAR49KF130228&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d232dd6416da4140a64da7640353de40.jpg",
-    "price": "$16,988",
-    "sutherlins_price": "$16,988",
-    "mileage": "57,360 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA6PC837721",
     "stock": "P12999",
@@ -464,21 +479,5 @@
     "price": "$24,875",
     "sutherlins_price": "$18,660",
     "mileage": "59,357 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Volkswagen Taos SE",
-    "vin": "3VVRX7B22NM062189",
-    "stock": "P12924",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRX7B22NM062189&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bafa27d15e9e4a20b1d722e733546af8.jpg",
-    "price": "$18,669",
-    "sutherlins_price": "$18,669",
-    "mileage": "15,395 Miles",
-    "age": 41
   }
 ]
