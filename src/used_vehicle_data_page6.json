@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2025 Mazda CX-50 2.5 S Preferred Package",
+    "vin": "7MMVABBM2SN319162",
+    "stock": "P13043",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7MMVABBM2SN319162&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a448c5022c3d4a72a28cf2adca9e5b8d.jpg",
+    "price": "$29,995",
+    "sutherlins_price": "$24,798",
+    "mileage": "12,106 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Maxima SV",
     "vin": "1N4AA6CV3PC512121",
     "stock": "P13120",
@@ -13,21 +28,6 @@
     "price": "$24,799",
     "sutherlins_price": "$24,799",
     "mileage": "48,221 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Murano SL",
-    "vin": "5N1AZ2CJ0PC122680",
-    "stock": "P13129",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ0PC122680&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS02_640/2023NIS020023_640_01.jpg",
-    "price": "$22,867",
-    "sutherlins_price": "$22,867",
-    "mileage": "63,371 Miles"
   },
   {
     "category": "used",
@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA6RC290654",
-    "stock": "25653A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC290654&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04214ffb18b54fb59882c7d8522d007f.jpg",
-    "price": "$32,988",
-    "sutherlins_price": "$32,988",
-    "mileage": "12,342 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Armada SL",
     "vin": "JN8AY2BC1P9181667",
     "stock": "P13126",
@@ -223,6 +208,21 @@
     "price": "$32,898",
     "sutherlins_price": "$32,898",
     "mileage": "66,015 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA6RC290654",
+    "stock": "25653A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC290654&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04214ffb18b54fb59882c7d8522d007f.jpg",
+    "price": "$32,988",
+    "sutherlins_price": "$32,988",
+    "mileage": "12,342 Miles"
   },
   {
     "category": "used",
