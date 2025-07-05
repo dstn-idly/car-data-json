@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4JJXP60PW515950&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1aa246f60b67489898d9a8ac84bfbf67.jpg",
     "price": "$34,875",
-    "sutherlins_price": "$28,616",
+    "sutherlins_price": "$28,498",
     "mileage": "81,967 Miles"
   },
   {
@@ -91,6 +91,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Chevrolet Silverado 1500 LT",
+    "vin": "1GCPACEK9RZ190235",
+    "stock": "P13130",
+    "exterior": "",
+    "interior": "",
+    "engine": "Turbocharged Gas I4 2.7L/166",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCPACEK9RZ190235&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024CHT27_640/2024CHT271970033_640_01.jpg",
+    "price": "$34,626",
+    "sutherlins_price": "$34,626",
+    "mileage": "34,016 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DK2PC221544",
     "stock": "25430A",
@@ -148,21 +163,6 @@
     "price": "$35,988",
     "sutherlins_price": "$35,988",
     "mileage": "9,949 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Chevrolet Silverado 1500 LT",
-    "vin": "1GCPACEK9RZ190235",
-    "stock": "P13130",
-    "exterior": "",
-    "interior": "",
-    "engine": "Turbocharged Gas I4 2.7L/166",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCPACEK9RZ190235&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024CHT27_640/2024CHT271970033_640_01.jpg",
-    "price": "$34,626",
-    "sutherlins_price": "$35,995",
-    "mileage": "34,016 Miles"
   },
   {
     "category": "used",
