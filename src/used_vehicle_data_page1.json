@@ -136,6 +136,21 @@
   },
   {
     "category": "used",
+    "name": "2009 Nissan Altima 2.5 S",
+    "vin": "1N4AL24EX9C183292",
+    "stock": "25665B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 2.5L/",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL24EX9C183292&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2009NIS002a_640/2009NIS002a_640_01.jpg",
+    "price": "$5,484",
+    "sutherlins_price": "$5,484",
+    "mileage": "91,857 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Sentra S",
     "vin": "3N1AB7AP0KY310485",
     "stock": "P13029A",
@@ -463,20 +478,5 @@
     "price": "$11,847",
     "sutherlins_price": "$11,847",
     "mileage": "28,864 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV3KC208945",
-    "stock": "25590A",
-    "exterior": "",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV3KC208945&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC04_640/2019NIC040031_640_01.jpg",
-    "price": "$11,988",
-    "sutherlins_price": "$11,988",
-    "mileage": "96,259 Miles"
   }
 ]

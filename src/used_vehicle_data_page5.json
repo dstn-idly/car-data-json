@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV2RN300237",
+    "stock": "P13116",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN300237&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d9251f639ab4af1a50cb865df1f622d.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "35,733 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA0NC683908",
     "stock": "25547A",
@@ -463,20 +478,5 @@
     "price": "$34,898",
     "sutherlins_price": "$34,898",
     "mileage": "32,214 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Audi A6 Sedan Premium",
-    "vin": "WAUK2BF20NN024944",
-    "stock": "P13122",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Gas/Electric V-6 3.0 L/183",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUK2BF20NN024944&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9c71ce4d68934f51b591d0d9f00f85b1.jpg",
-    "price": "$39,998",
-    "sutherlins_price": "$34,988",
-    "mileage": "29,486 Miles"
   }
 ]
