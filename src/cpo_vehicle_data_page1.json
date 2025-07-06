@@ -316,21 +316,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1BV4MW322070",
-    "stock": "25665A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV4MW322070&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS17_640/2021NIS170017_640_01.jpg",
-    "price": "$18,293",
-    "sutherlins_price": "$18,293",
-    "mileage": "29,770 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2025 Nissan Sentra S",
     "vin": "3N1AB8BV3SY214644",
     "stock": "P12938",
@@ -479,5 +464,20 @@
     "price": "$19,788",
     "sutherlins_price": "$19,788",
     "mileage": "29,001 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV3NY304295",
+    "stock": "25748A",
+    "exterior": "",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV3NY304295&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3e3b4d900ab4dfaa11fa482047f84fa.jpg",
+    "price": "$19,799",
+    "sutherlins_price": "$19,799",
+    "mileage": "36,468 Miles"
   }
 ]

@@ -316,36 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Rogue SV",
-    "vin": "JN8AT2MT3HW395932",
-    "stock": "25581A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3HW395932&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS11_640/2017NIS110001_640_01.jpg",
-    "price": "$9,461",
-    "sutherlins_price": "$9,461",
-    "mileage": "86,624 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2013 Nissan NV200 S",
-    "vin": "3N6CM0KN3DK697220",
-    "stock": "KP1040",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas I4 2.0L/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN3DK697220&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/23ef8e505ae643e38a539eff68851f44.jpg",
-    "price": "$9,788",
-    "sutherlins_price": "$9,788",
-    "mileage": "102,939 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Jeep Renegade Latitude",
     "vin": "ZACCJABB1JPH20420",
     "stock": "P12977",
@@ -478,5 +448,35 @@
     "price": "$11,699",
     "sutherlins_price": "$11,699",
     "mileage": "85,760 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Kia Forte LX",
+    "vin": "3KPFK4A74HE032072",
+    "stock": "KP1038",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFK4A74HE032072&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/83e3cd54865a4df4bf11190f797efdf6.jpg",
+    "price": "$11,847",
+    "sutherlins_price": "$11,847",
+    "mileage": "28,864 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Frontier S",
+    "vin": "1N6BD0CT1HN764518",
+    "stock": "P13022B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/146",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6BD0CT1HN764518&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIT120002_640/2017NIT120002_640_01.jpg",
+    "price": "$11,988",
+    "sutherlins_price": "$11,988",
+    "mileage": "103,817 Miles"
   }
 ]
