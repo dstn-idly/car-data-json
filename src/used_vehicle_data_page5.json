@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXG34J20NG139886&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1586613abe24d1d9cd6d9242aad52ce.jpg",
     "price": "$23,895",
-    "sutherlins_price": "$21,333",
+    "sutherlins_price": "$21,186",
     "mileage": "62,334 Miles"
   },
   {
@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Volkswagen Tiguan SE",
-    "vin": "3VV3B7AX1NM015950",
-    "stock": "25707A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV3B7AX1NM015950&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c8dc256a8fe42d7ae5437d527b85b25.jpg",
-    "price": "$21,898",
-    "sutherlins_price": "$21,898",
-    "mileage": "48,830 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford Mustang EcoBoost",
     "vin": "1FA6P8TH8M5155254",
     "stock": "P13084",
@@ -103,6 +88,21 @@
     "price": "$21,898",
     "sutherlins_price": "$21,898",
     "mileage": "44,029 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Volkswagen Tiguan SE",
+    "vin": "3VV3B7AX1NM015950",
+    "stock": "25707A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV3B7AX1NM015950&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c8dc256a8fe42d7ae5437d527b85b25.jpg",
+    "price": "$21,898",
+    "sutherlins_price": "$21,898",
+    "mileage": "48,830 Miles"
   },
   {
     "category": "used",
@@ -133,6 +133,21 @@
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "35,733 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Chevrolet Silverado 1500 LT",
+    "vin": "3GCPCREC6JG529639",
+    "stock": "25311B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPCREC6JG529639&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018CHT270006_640/2018CHT270006_640_01.jpg",
+    "price": "$21,988",
+    "sutherlins_price": "$21,988",
+    "mileage": "119,501 Miles"
   },
   {
     "category": "used",
@@ -211,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CWXNW484293",
-    "stock": "25710A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CWXNW484293&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS17_640/2022NIS170001_640_01.jpg",
-    "price": "$22,898",
-    "sutherlins_price": "$22,898",
-    "mileage": "11,750 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 MINI Hardtop 4 Door Cooper S",
     "vin": "WMW53DK00R2V41372",
     "stock": "P12970",
@@ -241,6 +241,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Rogue Sport SL",
+    "vin": "JN1BJ1CWXNW484293",
+    "stock": "25710A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CWXNW484293&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS17_640/2022NIS170001_640_01.jpg",
+    "price": "$22,898",
+    "sutherlins_price": "$22,898",
+    "mileage": "11,750 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 GMC Acadia SLT",
     "vin": "1GKKNML48PZ147273",
     "stock": "P12873A",
@@ -253,6 +268,21 @@
     "price": "$29,998",
     "sutherlins_price": "$22,988",
     "mileage": "64,805 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA0PC689890",
+    "stock": "25780A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0PC689890&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "price": "$22,988",
+    "sutherlins_price": "$22,988",
+    "mileage": "32,582 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$24,799",
     "sutherlins_price": "$24,799",
     "mileage": "48,221 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Murano SL",
-    "vin": "5N1AZ2CJ6MC114059",
-    "stock": "25314A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ6MC114059&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS02_640/2021NIS020016_640_01.jpg",
-    "price": "$24,995",
-    "sutherlins_price": "$24,995",
-    "mileage": "41,096 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Audi A5 Sportback Prestige",
-    "vin": "WAUFNCF54KA026773",
-    "stock": "P12994",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUFNCF54KA026773&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a4f6707b15fb4be88360eb485036c8e7.jpg",
-    "price": "$32,568",
-    "sutherlins_price": "$25,994",
-    "mileage": "39,737 Miles"
   }
 ]
