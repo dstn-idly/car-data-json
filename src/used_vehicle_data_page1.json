@@ -61,6 +61,21 @@
   },
   {
     "category": "used",
+    "name": "2008 Mazda CX-9 Grand Touring",
+    "vin": "JM3TB28A080149284",
+    "stock": "25802A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas V6 3.7L/227.4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3TB28A080149284&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008MAZ003a_640/2008MAZ003a_640_01.jpg",
+    "price": "$4,898",
+    "sutherlins_price": "$4,898",
+    "mileage": "164,744 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Nissan Altima 2.5 S",
     "vin": "1N4AL3AP9HN318440",
     "stock": "25738B",
@@ -463,20 +478,5 @@
     "price": "$10,898",
     "sutherlins_price": "$10,898",
     "mileage": "87,565 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV6LC276336",
-    "stock": "25634A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV6LC276336&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/922718d81aca4ac48b48add33e86a184.jpg",
-    "price": "$10,994",
-    "sutherlins_price": "$10,994",
-    "mileage": "88,943 Miles"
   }
 ]
