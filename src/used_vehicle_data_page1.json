@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4NJCBA9GD743043&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6f057a4647e42f1a1bdc954a969899a.jpg",
     "price": "$13,589",
-    "sutherlins_price": "$7,988",
+    "sutherlins_price": "$6,988",
     "mileage": "90,216 Miles"
   },
   {
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Versa S",
-    "vin": "3N1CN8DV9RL873090",
-    "stock": "P13183",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV9RL873090&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b03f0e95e3c9467ca235f5a0e1a2287d.jpg",
-    "price": "$16,995",
-    "sutherlins_price": "$14,898",
-    "mileage": "27,850 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT9KW267931",
     "stock": "25807A",
@@ -433,6 +418,21 @@
     "price": "$15,275",
     "sutherlins_price": "$14,898",
     "mileage": "88,614 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Versa S",
+    "vin": "3N1CN8DV9RL873090",
+    "stock": "P13183",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV9RL873090&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b03f0e95e3c9467ca235f5a0e1a2287d.jpg",
+    "price": "$16,995",
+    "sutherlins_price": "$14,898",
+    "mileage": "27,850 Miles"
   },
   {
     "category": "used",
