@@ -1,13 +1,18 @@
 #!/bin/bash
+set -euo pipefail
 
-# Remove any lingering lock file just in case
-rm -f /home/dstnxtwo/car-data-json/car-data-json/.git/index.lock
+# Project directory
+PROJECT_DIR="$HOME/car-data-json/car-data-json"
 
-# Navigate to the project directory
-cd ~/car-data-json/car-data-json
+# Ensure no leftover git lock file
+rm -f "$PROJECT_DIR/.git/index.lock"
 
-# Pull latest changes from GitHub
-git pull origin main
+# Navigate to project directory
+cd "$PROJECT_DIR"
+
+# Reset any local changes that might block pulls
+git reset --hard HEAD
+git pull --rebase origin main || true
 
 # Activate virtual environment
 source venv/bin/activate
@@ -15,8 +20,14 @@ source venv/bin/activate
 # Run the scraping script
 python3 test.py
 
-# Add and commit changes
-git add *.json
-git commit -m "Update JSON data on $(date)"
-git push origin main
+# Stage ALL JSON files inside src/
+git add src/*.json
 
+# Only commit if something actually changed
+if ! git diff --cached --quiet; then
+    git commit -m "Update JSON data on $(date '+%Y-%m-%d %H:%M:%S')"
+    git push origin main
+    echo "✅ JSON changes committed & pushed."
+else
+    echo "⚡ No changes to commit."
+fi
