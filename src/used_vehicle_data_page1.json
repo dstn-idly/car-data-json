@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Kia Soul S",
-    "vin": "KNDJ23AU9L7732625",
-    "stock": "25687A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU9L7732625&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7657e10fe1a34b99af81e50b823efdca.jpg",
-    "price": "$16,995",
-    "sutherlins_price": "$13,989",
-    "mileage": "14,535 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Jeep Wrangler Unlimited Sport",
     "vin": "1C4BJWDG1GL327290",
     "stock": "T25597A",
@@ -478,5 +463,20 @@
     "price": "$16,700",
     "sutherlins_price": "$14,988",
     "mileage": "84,434 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Honda HR-V EX-L Navi",
+    "vin": "3CZRU5H74JM721280",
+    "stock": "P13145A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3CZRU5H74JM721280&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/46dc9110839547708fdf2e9be4f60786.jpg",
+    "price": "$14,989",
+    "sutherlins_price": "$14,989",
+    "mileage": "88,176 Miles"
   }
 ]

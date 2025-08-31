@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2018 Honda HR-V EX-L Navi",
-    "vin": "3CZRU5H74JM721280",
-    "stock": "P13145A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3CZRU5H74JM721280&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/46dc9110839547708fdf2e9be4f60786.jpg",
-    "price": "$14,989",
-    "sutherlins_price": "$14,989",
-    "mileage": "88,176 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Versa SV",
-    "vin": "3N1CN8EV3SL829414",
-    "stock": "P13173",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV3SL829414&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/41c6e1829b2c4dc2a8e895292404c030.jpg",
-    "price": "$19,898",
-    "sutherlins_price": "$15,995",
-    "mileage": "14,738 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Altima 2.5 S",
     "vin": "1N4BL4BV0LC201454",
     "stock": "25929A",
@@ -406,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue S",
-    "vin": "5N1AT3AA5MC827819",
-    "stock": "P13192",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
-    "price": "$21,648",
-    "sutherlins_price": "$18,988",
-    "mileage": "66,855 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV8RY245865",
     "stock": "25855A",
@@ -433,6 +388,21 @@
     "price": "$23,700",
     "sutherlins_price": "$18,988",
     "mileage": "11,362 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue S",
+    "vin": "5N1AT3AA5MC827819",
+    "stock": "P13192",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
+    "price": "$21,648",
+    "sutherlins_price": "$18,988",
+    "mileage": "66,855 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$22,995",
     "sutherlins_price": "$19,498",
     "mileage": "7,304 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV1RY211914",
+    "stock": "P13219",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1RY211914&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
+    "price": "$19,888",
+    "sutherlins_price": "$19,888",
+    "mileage": "32,739 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY245102",
+    "stock": "P13215",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY245102&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
+    "price": "$22,450",
+    "sutherlins_price": "$19,888",
+    "mileage": "32,558 Miles"
   }
 ]
