@@ -1,7 +1,7 @@
-rm -f /home/dstnxtwo/car-data-json/car-data-json/.git/index.lock
+rm -f /home/dstnxtwo/car-data-json/.git/index.lock
 #!/bin/bash
 
-cd ~/car-data-json/car-data-json/
+cd ~/car-data-json/
 
 git pull origin main
 python3 test.py
