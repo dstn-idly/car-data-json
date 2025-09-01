@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Chevrolet Malibu LT",
-    "vin": "1G11C5SA3DF303543",
-    "stock": "25687B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas I4 2.5L/150",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G11C5SA3DF303543&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013CHE011a_640/2013CHE011a_640_01.jpg",
-    "price": "$4,988",
-    "sutherlins_price": "$4,988",
-    "mileage": "160,803 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Jeep Patriot Sport",
     "vin": "1C4NJPBA7GD613009",
     "stock": "25517D",
@@ -43,6 +28,21 @@
     "price": "$4,988",
     "sutherlins_price": "$4,988",
     "mileage": "147,905 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Chevrolet Malibu LT",
+    "vin": "1G11C5SA3DF303543",
+    "stock": "25687B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 2.5L/150",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G11C5SA3DF303543&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013CHE011a_640/2013CHE011a_640_01.jpg",
+    "price": "$4,988",
+    "sutherlins_price": "$4,988",
+    "mileage": "160,803 Miles"
   },
   {
     "category": "used",
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J23A47GU150784&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HYS020001_640/2016HYS020001_640_01.jpg",
     "price": "$7,995",
-    "sutherlins_price": "$8,988",
+    "sutherlins_price": "$7,995",
     "mileage": "135,068 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV2KN328269&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/31e87564064c4d8190c223312a37750a.jpg",
     "price": "$16,859",
-    "sutherlins_price": "$11,449",
+    "sutherlins_price": "$10,988",
     "mileage": "103,087 Miles"
   },
   {
@@ -506,7 +506,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV5ML918064&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d5530886a874d0183a32d9ba847a8da.jpg",
     "price": "$17,995",
-    "sutherlins_price": "$14,988",
+    "sutherlins_price": "$14,888",
     "mileage": "44,024 Miles"
   },
   {
@@ -566,7 +566,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT4JW488447&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110047_640_01.jpg",
     "price": "$19,995",
-    "sutherlins_price": "$16,498",
+    "sutherlins_price": "$15,848",
     "mileage": "71,769 Miles"
   },
   {
@@ -596,7 +596,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9H60MUA05286&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/403cd5c56bcb469cb51c3fb4f32770b7.jpg",
     "price": "$19,995",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$15,988",
     "mileage": "53,475 Miles"
   },
   {
@@ -611,7 +611,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J3CAL2KU976732&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/91478e30fdc14358ade52e699a10650e.jpg",
     "price": "$21,548",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$15,988",
     "mileage": "92,366 Miles"
   },
   {
@@ -751,21 +751,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Honda Accord Sedan Sport 1.5T",
-    "vin": "1HGCV1F38JA014117",
-    "stock": "P13189",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F38JA014117&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3b71031b79a46be875d31aed4a3df51.jpg",
-    "price": "$21,300",
-    "sutherlins_price": "$17,995",
-    "mileage": "84,839 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Sentra SR",
     "vin": "3N1AB8DVXMY229741",
     "stock": "P13232",
@@ -791,8 +776,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLM4AG3NH076102&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022HYC02_640/2022HYC020115_640_01.jpg",
     "price": "$16,598",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$16,598",
     "mileage": "61,418 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Honda Accord Sedan Sport 1.5T",
+    "vin": "1HGCV1F38JA014117",
+    "stock": "P13189",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F38JA014117&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3b71031b79a46be875d31aed4a3df51.jpg",
+    "price": "$21,300",
+    "sutherlins_price": "$17,995",
+    "mileage": "84,839 Miles"
   },
   {
     "category": "used",
@@ -836,7 +836,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE4MJ151121&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021TOC04_640/2021TOC040096_640_01.jpg",
     "price": "$21,300",
-    "sutherlins_price": "$18,609",
+    "sutherlins_price": "$18,798",
     "mileage": "28,521 Miles"
   },
   {
@@ -916,6 +916,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Rogue S",
+    "vin": "5N1AT3AA5MC827819",
+    "stock": "P13192",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
+    "price": "$21,648",
+    "sutherlins_price": "$17,995",
+    "mileage": "66,855 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV8RY245865",
     "stock": "25855A",
@@ -928,21 +943,6 @@
     "price": "$23,700",
     "sutherlins_price": "$18,988",
     "mileage": "11,362 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue S",
-    "vin": "5N1AT3AA5MC827819",
-    "stock": "P13192",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
-    "price": "$21,648",
-    "sutherlins_price": "$18,988",
-    "mileage": "66,855 Miles"
   },
   {
     "category": "used",
@@ -986,7 +986,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV1PL572871&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/fa7df54145e04c6a95be9a115de71d07.jpg",
     "price": "$22,995",
-    "sutherlins_price": "$19,498",
+    "sutherlins_price": "$17,981",
     "mileage": "7,304 Miles"
   },
   {
@@ -1031,7 +1031,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHC11_640/2023CHC110038_640_01.jpg",
     "price": "$24,325",
-    "sutherlins_price": "$19,888",
+    "sutherlins_price": "$18,698",
     "mileage": "44,340 Miles"
   },
   {
@@ -1096,21 +1096,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1BV6NW347554",
-    "stock": "25793A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV6NW347554&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/80b1d950d0b24cdab6f002b961679715.jpg",
-    "price": "$20,988",
-    "sutherlins_price": "$20,988",
-    "mileage": "22,451 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV3PL517420",
     "stock": "25645A",
@@ -1123,6 +1108,21 @@
     "price": "$20,988",
     "sutherlins_price": "$20,988",
     "mileage": "10,572 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1BV6NW347554",
+    "stock": "25793A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV6NW347554&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/80b1d950d0b24cdab6f002b961679715.jpg",
+    "price": "$20,988",
+    "sutherlins_price": "$20,988",
+    "mileage": "22,451 Miles"
   },
   {
     "category": "used",
@@ -1211,8 +1211,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJG6NH263795&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3caa14423fb461e94a7511611094e95.jpg",
     "price": "$27,856",
-    "sutherlins_price": "$21,898",
+    "sutherlins_price": "$20,988",
     "mileage": "43,763 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA4PC901030",
+    "stock": "P13209",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4PC901030&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$19,498",
+    "mileage": "64,267 Miles"
   },
   {
     "category": "used",
@@ -1228,21 +1243,6 @@
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "41,683 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA4PC901030",
-    "stock": "P13209",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4PC901030&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
-    "price": "$23,475",
-    "sutherlins_price": "$21,988",
-    "mileage": "64,267 Miles"
   },
   {
     "category": "used",
@@ -1541,7 +1541,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC2NW121093&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110048_640_01.jpg",
     "price": "$28,575",
-    "sutherlins_price": "$25,995",
+    "sutherlins_price": "$25,425",
     "mileage": "52,633 Miles"
   },
   {
@@ -1842,7 +1842,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCPACEK9RZ190235&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/40648704000d4c25bcba0f403ed1a270.jpg",
     "price": "$37,995",
-    "sutherlins_price": "$32,440",
+    "sutherlins_price": "$31,988",
     "mileage": "34,016 Miles"
   },
   {
@@ -1872,7 +1872,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BD2PC269209&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/52e12c37a3734f7b9913752881fc0a90.jpg",
     "price": "$34,875",
-    "sutherlins_price": "$32,995",
+    "sutherlins_price": "$31,995",
     "mileage": "35,525 Miles"
   },
   {
