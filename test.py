@@ -55,6 +55,111 @@ def extract_vehicle_data(soup, category, vin_age_map=None):
         stock_tag = vehicle.find('div', id='copy_stock')
         stock = stock_tag.get_text(strip=True) if stock_tag else 'N/A'
 
+        # --- FIXED Exterior / Interior parsing ---
+        exterior, interior = 'N/A', 'N/A'
+        info_container = vehicle.find('div', class_='si-vehicle-info-left')
+        if info_container:
+            # Exterior
+            ext_label = info_container.find('div', string=lambda t: t and "Exterior:" in t)
+            if ext_label:
+                parent = ext_label.find_parent('div', class_='d-flex')
+                if parent:
+                    color_div = parent.find_all('div')[-1]
+                    exterior = color_div.get_text(strip=True)
+
+            # Interior
+            int_label = info_container.find('div', string=lambda t: t and "Interior:" in t)
+            if int_label:
+                parent = int_label.find_parent('div', class_='d-flex')
+                if parent:
+                    color_div = parent.find_all('div')[-1]
+                    interior = color_div.get_text(strip=True)
+        # -----------------------------------------
+
+        engine_tag = vehicle.find('div', string=lambda t: t and 'Engine:' in t)
+        engine = engine_tag.get_text(strip=True).replace("Engine:", "").strip() if engine_tag else 'N/A'
+
+        transmission_tag = vehicle.find('div', string=lambda t: t and 'Transmission:' in t)
+        transmission = transmission_tag.get_text(strip=True).replace('Transmission:', '').strip() if transmission_tag else 'N/A'
+
+        carfax_link = (
+            f"https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin={vin}&source=BUP"
+            if vin != 'N/A' else 'N/A'
+        )
+
+        jpg_matches = re.findall(r'https?://[^"\s]+\.jpg', html_str)
+        image_link = jpg_matches[0] if jpg_matches else (
+            vehicle.find('img')['src'] if vehicle.find('img') and vehicle.find('img').has_attr('src') else None
+        )
+
+        # NEW: Extract both MSRP (price) and Sutherlin's/Internet Price
+        market_price = 'N/A'
+        sutherlins_price = 'N/A'
+        price_divs = vehicle.find_all('div', class_='msrppanel-label')
+        for panel in price_divs:
+            msrp_tag = panel.select_one('.vehiclebox-msrp.msrp_value_custom')
+            if msrp_tag:
+                market_price = msrp_tag.get_text(strip=True)
+            suth_price_divs = panel.select('.srp-your-price > div')
+            if len(suth_price_divs) >= 2:
+                sutherlins_price = suth_price_divs[1].get_text(strip=True)
+
+        mileage = "6 Miles" if category == "new" else (
+            vehicle.find('div', class_='mileage').get_text(strip=True).replace("Mileage: ", "")
+            if vehicle.find('div', class_='mileage') else 'N/A'
+        )
+
+        age = vin_age_map.get(vin, None) if vin_age_map else None
+
+        vehicle_data = {
+            "category": category,
+            "name": name,
+            "vin": vin,
+            "stock": stock,
+            "exterior": exterior,
+            "interior": interior,
+            "engine": engine,
+            "transmission": transmission,
+            "carfax": carfax_link,
+            "image": image_link,
+            "price": market_price,
+            "sutherlins_price": sutherlins_price,
+            "mileage": mileage,
+        }
+
+        if age is not None:
+            vehicle_data["age"] = age
+
+        vehicles.append(vehicle_data)
+
+    return vehicles
+
+    vehicle_listings = soup.find_all('a', class_='si-vehicle-box')
+    vehicles = []
+
+    for vehicle in vehicle_listings:
+        html_str = str(vehicle)
+
+        name_tag = vehicle.find('h2')
+        name_candidate = name_tag.get_text(strip=True) if name_tag else ""
+        if not name_candidate or "available" in name_candidate.lower():
+            name = 'N/A'
+            for img in vehicle.find_all('img'):
+                alt = img.get('alt', '').strip()
+                if len(alt) > 5 and alt.lower() not in ['playbutton', 'available', 'new inventory']:
+                    name = alt
+                    break
+        else:
+            name = name_candidate
+
+        vin_tag = vehicle.find('div', id='copy_vin')
+        vin = vin_tag.get_text(strip=True) if vin_tag else (
+            re.search(r'[A-HJ-NPR-Z0-9]{17}', html_str).group() if re.search(r'[A-HJ-NPR-Z0-9]{17}', html_str) else 'N/A'
+        )
+
+        stock_tag = vehicle.find('div', id='copy_stock')
+        stock = stock_tag.get_text(strip=True) if stock_tag else 'N/A'
+
         exterior, interior = 'N/A', 'N/A'
         info_container = vehicle.find('div', class_='si-vehicle-info-left')
         if info_container:
