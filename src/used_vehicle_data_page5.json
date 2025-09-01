@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Chevrolet Malibu LT",
-    "vin": "1G11C5SA3DF303543",
-    "stock": "25687B",
-    "exterior": "",
-    "interior": "",
-    "engine": "Gas I4 2.5L/150",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G11C5SA3DF303543&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013CHE011a_640/2013CHE011a_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "160,803 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Jeep Patriot Sport",
     "vin": "1C4NJPBA7GD613009",
     "stock": "25517D",
@@ -103,6 +88,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "147,905 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Chevrolet Malibu LT",
+    "vin": "1G11C5SA3DF303543",
+    "stock": "25687B",
+    "exterior": "",
+    "interior": "",
+    "engine": "Gas I4 2.5L/150",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G11C5SA3DF303543&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013CHE011a_640/2013CHE011a_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "160,803 Miles"
   },
   {
     "category": "used",
@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BAXNC670793",
-    "stock": "25819A",
-    "exterior": "",
-    "interior": "",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXNC670793&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "41,683 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Kia Forte LX",
     "vin": "3KPFL4A75JE244367",
     "stock": "25928A",
@@ -148,5 +133,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "52,709 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BAXNC670793",
+    "stock": "25819A",
+    "exterior": "",
+    "interior": "",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXNC670793&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "41,683 Miles"
   }
 ]
