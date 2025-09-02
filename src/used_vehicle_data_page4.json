@@ -1,6 +1,66 @@
 [
   {
     "category": "used",
+    "name": "2023 Ford Escape ST-Line",
+    "vin": "1FMCU0MN9PUA71364",
+    "stock": "25831A",
+    "exterior": "Iconic Silver Metallic",
+    "interior": "Ebony With Red Stitching",
+    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0MN9PUA71364&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c9b58986527f43699d0a1e1da8893adf.jpg",
+    "price": "$26,898",
+    "sutherlins_price": "$23,888",
+    "mileage": "24,352 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA9PC870437",
+    "stock": "25642A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC870437&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "price": "$23,988",
+    "sutherlins_price": "$23,988",
+    "mileage": "18,260 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano SL",
+    "vin": "5N1AZ2CJ5PC126840",
+    "stock": "P13191",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC126840&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1d7ecadd808f45db8fda73a9061ae7a6.jpg",
+    "price": "$26,995",
+    "sutherlins_price": "$21,898",
+    "mileage": "45,029 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Kicks SV",
+    "vin": "3N8AP6CA7SL401546",
+    "stock": "25766A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CA7SL401546&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/24ca74730df64c74b9af63c54e8f074a.jpg",
+    "price": "$26,160",
+    "sutherlins_price": "$24,170",
+    "mileage": "77 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Toyota Camry LE",
     "vin": "4T1C11AK8RU211657",
     "stock": "P13212",
@@ -26,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AA8RC249914&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/cbd78594667841b79ccd7bb3d7c18453.jpg",
     "price": "$29,995",
-    "sutherlins_price": "$24,898",
+    "sutherlins_price": "$24,498",
     "mileage": "53,504 Miles"
   },
   {
@@ -42,7 +102,22 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/29d0c0a8390741caaf3b1644481d7b2b.jpg",
     "price": "$24,995",
     "sutherlins_price": "$24,995",
-    "mileage": "369,381 Miles"
+    "mileage": "36,939 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Ford F-150 LARIAT",
+    "vin": "1FTEW1CGXJKC07102",
+    "stock": "P13185",
+    "exterior": "Ingot Silver",
+    "interior": "Black",
+    "engine": "Ecoboost 3.5L V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1CGXJKC07102&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fe59791a074c4bfb8ccd7aadd0d9e050.jpg",
+    "price": "$28,250",
+    "sutherlins_price": "$24,995",
+    "mileage": "88,522 Miles"
   },
   {
     "category": "used",
@@ -86,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC678525&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/efc2e13158334dc591737678b34fe794.jpg",
     "price": "$28,898",
-    "sutherlins_price": "$25,988",
+    "sutherlins_price": "$24,995",
     "mileage": "36,402 Miles"
   },
   {
@@ -103,6 +178,21 @@
     "price": "$28,575",
     "sutherlins_price": "$25,425",
     "mileage": "52,633 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Ford F-150 LARIAT",
+    "vin": "1FTFW1EG7JFE28196",
+    "stock": "25579D",
+    "exterior": "Oxford White",
+    "interior": "Black Special 40/Console/40",
+    "engine": "Ecoboost 3.5L V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFW1EG7JFE28196&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6fd446829ad141798bd4de948764cabb.jpg",
+    "price": "$31,995",
+    "sutherlins_price": "$26,629",
+    "mileage": "91,752 Miles"
   },
   {
     "category": "used",
@@ -130,7 +220,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAE45LC8M6089636&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021KIC19_640/2021KIC190018_640_01.jpg",
-    "price": "$26,988",
+    "price": "$32,350",
     "sutherlins_price": "$26,988",
     "mileage": "53,867 Miles"
   },
@@ -166,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Ford F-150 LARIAT",
-    "vin": "1FTEW1CGXJKC07102",
-    "stock": "P13185",
-    "exterior": "Ingot Silver",
-    "interior": "Black",
-    "engine": "Ecoboost 3.5L V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1CGXJKC07102&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fe59791a074c4bfb8ccd7aadd0d9e050.jpg",
-    "price": "$28,250",
-    "sutherlins_price": "$26,995",
-    "mileage": "88,522 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Titan S",
     "vin": "1N6AA1EE7NN107307",
     "stock": "P13193",
@@ -206,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA0RC221748&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/41c5c240cbfc44f59f313629ff295ae5.jpg",
     "price": "$33,989",
-    "sutherlins_price": "$28,888",
+    "sutherlins_price": "$26,799",
     "mileage": "29,911 Miles"
   },
   {
@@ -236,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3KFBCL3R0461917&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b113931b12f4b2fac1d0c3bcf4c0104.jpg",
     "price": "$31,900",
-    "sutherlins_price": "$28,995",
+    "sutherlins_price": "$25,720",
     "mileage": "9,931 Miles"
   },
   {
@@ -251,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA1RC225789&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/646461bbbacf424fb66cf525115ca5a1.jpg",
     "price": "$33,475",
-    "sutherlins_price": "$28,995",
+    "sutherlins_price": "$26,791",
     "mileage": "31,921 Miles"
   },
   {
@@ -271,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Ford F-150 LARIAT",
-    "vin": "1FTFW1EG7JFE28196",
-    "stock": "25579D",
-    "exterior": "Oxford White",
-    "interior": "Black Special 40/Console/40",
-    "engine": "Ecoboost 3.5L V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFW1EG7JFE28196&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6fd446829ad141798bd4de948764cabb.jpg",
-    "price": "$31,995",
-    "sutherlins_price": "$29,499",
-    "mileage": "91,752 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Pathfinder S",
     "vin": "5N1DR3AC8PC227426",
     "stock": "25425A",
@@ -301,22 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV7RC262445",
-    "stock": "25372A",
-    "exterior": "Gray",
-    "interior": "N/A",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV7RC262445&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111927533_640_01.jpg",
-    "price": "$29,988",
-    "sutherlins_price": "$29,988",
-    "mileage": "11,883 Miles",
-    "age": 78
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA8RC201201",
     "stock": "25908A",
@@ -326,7 +370,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA8RC201201&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071936156_640_01.jpg",
-    "price": "$29,988",
+    "price": "$32,895",
     "sutherlins_price": "$29,988",
     "mileage": "29,473 Miles"
   },
@@ -434,50 +478,5 @@
     "price": "$34,875",
     "sutherlins_price": "$31,995",
     "mileage": "35,525 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Maxima SR",
-    "vin": "1N4AA6EV0PC501669",
-    "stock": "P13222",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Premium Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA6EV0PC501669&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC05_640/2023NIC050049_640_01.jpg",
-    "price": "$36,995",
-    "sutherlins_price": "$33,898",
-    "mileage": "24,529 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA6RC298088",
-    "stock": "25941A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC298088&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071936156_640_01.jpg",
-    "price": "$33,995",
-    "sutherlins_price": "$33,995",
-    "mileage": "14,354 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Genesis G70 3.3T",
-    "vin": "KMTG54TE0NU101006",
-    "stock": "P13177A",
-    "exterior": "Tasman Blue",
-    "interior": "Gray",
-    "engine": "Twin Turbo Premium Unleaded V-6 3.3 L/204",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG54TE0NU101006&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4384bc5321fe4bb5851b0d1db0bfdcee.jpg",
-    "price": "$35,898",
-    "sutherlins_price": "$34,498",
-    "mileage": "19,165 Miles"
   }
 ]

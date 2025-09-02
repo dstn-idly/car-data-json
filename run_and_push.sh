@@ -1,10 +1,27 @@
-rm -f /home/dstnxtwo/car-data-json/.git/index.lock
 #!/bin/bash
+set -euo pipefail
 
-cd ~/car-data-json/
+# Go to the repo root
+cd ~/car-data-json
 
-git pull origin main
+# Ensure no leftover git lock
+rm -f .git/index.lock
+
+# Pull latest
+git reset --hard HEAD
+git pull --rebase origin main || true
+
+# Run your scraper
 python3 test.py
-git add *.json
-git commit -m "Update JSON data on $(date)"
-git push origin main
+
+# Stage ALL JSON files inside src/
+git add src/*.json
+
+# Commit only if there are staged changes
+if ! git diff --cached --quiet; then
+    git commit -m "Update JSON data on $(date '+%Y-%m-%d %H:%M:%S')"
+    git push origin main
+    echo "✅ JSON changes committed & pushed."
+else
+    echo "⚡ No changes to commit."
+fi
