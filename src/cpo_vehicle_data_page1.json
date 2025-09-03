@@ -10,8 +10,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV9HP590327&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5f30c23be314470836fcdd77ec5f204.jpg",
-    "price": "$12,898",
-    "sutherlins_price": "$12,898",
+    "price": "$11,995",
+    "sutherlins_price": "$11,995",
     "mileage": "87,380 Miles"
   },
   {
@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT1JC748182&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
     "price": "$16,350",
-    "sutherlins_price": "$14,888",
+    "sutherlins_price": "$12,698",
     "mileage": "70,239 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY245865&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d15f2c0c8a4f4a989552774a293db6fe.jpg",
     "price": "$23,700",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$18,898",
     "mileage": "11,362 Miles"
   },
   {
@@ -298,21 +298,6 @@
     "price": "$21,648",
     "sutherlins_price": "$17,498",
     "mileage": "66,855 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2021 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1BV6MW320997",
-    "stock": "25786A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV6MW320997&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/85add41340e141609d13cb807defa8b4.jpg",
-    "price": "$22,898",
-    "sutherlins_price": "$18,449",
-    "mileage": "11,515 Miles"
   },
   {
     "category": "cpo",
@@ -339,7 +324,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1RY211914&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd4839623e764a1ea930bdc1c5e00336.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d240e8bb1aa6439da78b3786cbd06752.jpg",
     "price": "$19,888",
     "sutherlins_price": "$19,888",
     "mileage": "32,739 Miles"
@@ -401,8 +386,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN337899&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
     "price": "$24,750",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$19,898",
     "mileage": "42,886 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Kicks SR",
+    "vin": "3N1CP5DV3PL517420",
+    "stock": "25645A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV3PL517420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/37aedc4a837f4e6e8fa9df91533f93f8.jpg",
+    "price": "$20,988",
+    "sutherlins_price": "$20,988",
+    "mileage": "10,572 Miles"
   },
   {
     "category": "cpo",
@@ -421,21 +421,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Kicks SR",
-    "vin": "3N1CP5DV3PL517420",
-    "stock": "25645A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV3PL517420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf35860cf20840259210107a15f1413f.jpg",
-    "price": "$20,988",
-    "sutherlins_price": "$20,988",
-    "mileage": "10,572 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Rogue SV",
     "vin": "5N1BT3BA1RC682501",
     "stock": "P13214",
@@ -446,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC682501&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
     "price": "$24,775",
-    "sutherlins_price": "$21,888",
+    "sutherlins_price": "$20,698",
     "mileage": "51,416 Miles"
   },
   {
@@ -459,7 +444,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4PC901030&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed93ee572cbc44f7a695813c6cd72b49.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c4d87fc72d5a46f090447a6558ecf52a.jpg",
     "price": "$23,475",
     "sutherlins_price": "$19,498",
     "mileage": "64,267 Miles"
@@ -474,9 +459,24 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/558fae4df86a4303be4e773a84b3a17b.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
     "price": "$25,025",
-    "sutherlins_price": "$21,995",
+    "sutherlins_price": "$21,888",
     "mileage": "39,094 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2018 Nissan Pathfinder Platinum",
+    "vin": "5N1DR2MM7JC646924",
+    "stock": "P13213",
+    "exterior": "Magnetic Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MM7JC646924&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS07_640/2018NIS070022_640_01.jpg",
+    "price": "$24,850",
+    "sutherlins_price": "$21,995",
+    "mileage": "40,065 Miles"
   }
 ]
