@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue SV",
-    "vin": "JN8AT2MT0LW003577",
-    "stock": "P13175",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Almond",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT0LW003577&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d58032b775dd49d3a7cf7d0ab29b086b.jpg",
-    "price": "$15,925",
-    "sutherlins_price": "$12,995",
-    "mileage": "87,174 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Honda HR-V EX-L Navi",
     "vin": "3CZRU5H74JM721280",
     "stock": "P13145A",
@@ -358,6 +343,21 @@
     "price": "$12,995",
     "sutherlins_price": "$12,995",
     "mileage": "88,176 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue SV",
+    "vin": "JN8AT2MT0LW003577",
+    "stock": "P13175",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Almond",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT0LW003577&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d58032b775dd49d3a7cf7d0ab29b086b.jpg",
+    "price": "$15,925",
+    "sutherlins_price": "$12,995",
+    "mileage": "87,174 Miles"
   },
   {
     "category": "used",
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Malibu RS",
-    "vin": "1G1ZG5ST9LF082361",
-    "stock": "KP1059",
-    "exterior": "Shadow Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST9LF082361&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16f3a99a381b45c3b100b76d97bf1e73.jpg",
-    "price": "$13,888",
-    "sutherlins_price": "$13,888",
-    "mileage": "79,177 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Versa SV",
     "vin": "3N1CN8EV5ML918064",
     "stock": "25828A",
@@ -421,18 +406,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue S",
-    "vin": "5N1AT2MT7LC748335",
-    "stock": "T25468B",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT7LC748335&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd98458252d74dfa97b9a06cb4a323c9.jpg",
-    "price": "$15,995",
-    "sutherlins_price": "$13,988",
-    "mileage": "97,121 Miles"
+    "name": "2020 Chevrolet Malibu RS",
+    "vin": "1G1ZG5ST9LF082361",
+    "stock": "KP1059",
+    "exterior": "Shadow Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST9LF082361&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16f3a99a381b45c3b100b76d97bf1e73.jpg",
+    "price": "$13,888",
+    "sutherlins_price": "$13,888",
+    "mileage": "79,177 Miles"
   },
   {
     "category": "used",
@@ -448,6 +433,21 @@
     "price": "$13,988",
     "sutherlins_price": "$13,988",
     "mileage": "72,636 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue S",
+    "vin": "5N1AT2MT7LC748335",
+    "stock": "T25468B",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT7LC748335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd98458252d74dfa97b9a06cb4a323c9.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$13,988",
+    "mileage": "97,121 Miles"
   },
   {
     "category": "used",
@@ -1096,21 +1096,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV7SY261691",
-    "stock": "25864A",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7SY261691&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/91e46955112f4fb298d920f4a6461f7b.jpg",
-    "price": "$24,125",
-    "sutherlins_price": "$20,988",
-    "mileage": "3,046 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Volkswagen Taos S",
     "vin": "3VVDX7B29PM350501",
     "stock": "25911A",
@@ -1123,6 +1108,21 @@
     "price": "$20,988",
     "sutherlins_price": "$20,988",
     "mileage": "23,338 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV7SY261691",
+    "stock": "25864A",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7SY261691&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/91e46955112f4fb298d920f4a6461f7b.jpg",
+    "price": "$24,125",
+    "sutherlins_price": "$20,988",
+    "mileage": "3,046 Miles"
   },
   {
     "category": "used",
@@ -2131,21 +2131,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SEL",
-    "vin": "5NMS2DAJ9PH626982",
-    "stock": "P13239",
-    "exterior": "Serenity White Pearl",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH626982&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS01_640/2023HYS010096_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "47,588 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Hyundai Sonata SEL",
     "vin": "KMHL64JA2SA462384",
     "stock": "P13240",
@@ -2158,5 +2143,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "17,487 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SEL",
+    "vin": "5NMS2DAJ9PH626982",
+    "stock": "P13239",
+    "exterior": "Serenity White Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH626982&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS01_640/2023HYS010096_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "47,588 Miles"
   }
 ]
