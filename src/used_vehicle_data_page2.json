@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Rogue S",
+    "vin": "5N1AT2MT7LC748335",
+    "stock": "T25468B",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT7LC748335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd98458252d74dfa97b9a06cb4a323c9.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$13,988",
+    "mileage": "97,121 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Rogue Sport S",
     "vin": "JN1BJ1CV4LW274387",
     "stock": "25642B",
@@ -106,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV0LC201454",
-    "stock": "25929A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV0LC201454&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ab79ab6b8c38434c89ca834d02a03039.jpg",
-    "price": "$13,988",
-    "sutherlins_price": "$13,988",
-    "mileage": "64,167 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Hyundai Elantra SEL",
     "vin": "5NPLM4AG3NH076102",
     "stock": "P13230",
@@ -133,6 +133,36 @@
     "price": "$15,995",
     "sutherlins_price": "$15,995",
     "mileage": "61,418 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Dodge Grand Caravan SE",
+    "vin": "2C4RDGBG2LR155528",
+    "stock": "P13236",
+    "exterior": "Octane Red Pearlcoat",
+    "interior": "Black/Light Graystone",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBG2LR155528&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020DOV17_640/2020DOV170017_640_01.jpg",
+    "price": "$16,988",
+    "sutherlins_price": "$16,988",
+    "mileage": "72,766 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1CW5LW367489",
+    "stock": "P13231",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CW5LW367489&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bd9f9b6ce7d7485da6bb2c5ed069a25b.jpg",
+    "price": "$19,995",
+    "sutherlins_price": "$16,988",
+    "mileage": "76,549 Miles"
   },
   {
     "category": "used",
@@ -166,36 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV7PY268888",
-    "stock": "P13162A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY268888&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fc3c9af166f4884bcca3075a2c4dd9d.jpg",
-    "price": "$19,898",
-    "sutherlins_price": "$17,988",
-    "mileage": "19,178 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Dodge Grand Caravan SE",
-    "vin": "2C4RDGBG2LR155528",
-    "stock": "P13236",
-    "exterior": "Octane Red Pearlcoat",
-    "interior": "Black/Light Graystone",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBG2LR155528&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020DOV17_640/2020DOV170017_640_01.jpg",
-    "price": "$16,988",
-    "sutherlins_price": "$16,988",
-    "mileage": "72,766 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue S",
     "vin": "5N1AT3AA5MC827819",
     "stock": "P13192",
@@ -223,21 +223,6 @@
     "price": "$17,999",
     "sutherlins_price": "$17,888",
     "mileage": "74,054 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CW5LW367489",
-    "stock": "P13231",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CW5LW367489&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bd9f9b6ce7d7485da6bb2c5ed069a25b.jpg",
-    "price": "$19,995",
-    "sutherlins_price": "$16,988",
-    "mileage": "76,549 Miles"
   },
   {
     "category": "used",
@@ -313,6 +298,21 @@
     "price": "$17,988",
     "sutherlins_price": "$17,988",
     "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV7PY268888",
+    "stock": "P13162A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7PY268888&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fc3c9af166f4884bcca3075a2c4dd9d.jpg",
+    "price": "$19,898",
+    "sutherlins_price": "$17,988",
+    "mileage": "19,178 Miles"
   },
   {
     "category": "used",
