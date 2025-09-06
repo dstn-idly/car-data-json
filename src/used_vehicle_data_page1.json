@@ -301,6 +301,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Jeep Wrangler Unlimited Sport",
+    "vin": "1C4BJWDG1GL327290",
+    "stock": "T25597A",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4BJWDG1GL327290&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc148f7107594be09b1e4ed03b04ebed.jpg",
+    "price": "$11,995",
+    "sutherlins_price": "$12,988",
+    "mileage": "142,149 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Nissan Rogue SV",
     "vin": "KNMAT2MV9HP590327",
     "stock": "25820A",
@@ -361,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Jeep Wrangler Unlimited Sport",
-    "vin": "1C4BJWDG1GL327290",
-    "stock": "T25597A",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4BJWDG1GL327290&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc148f7107594be09b1e4ed03b04ebed.jpg",
-    "price": "$12,988",
-    "sutherlins_price": "$12,988",
-    "mileage": "142,149 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT9KW267931",
     "stock": "25807A",
@@ -430,7 +430,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3CZRU5H74JM721280&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/46dc9110839547708fdf2e9be4f60786.jpg",
-    "price": "$13,988",
+    "price": "$13,498",
     "sutherlins_price": "$13,988",
     "mileage": "88,176 Miles"
   },
