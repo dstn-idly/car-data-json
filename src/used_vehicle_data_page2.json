@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV0LC201454",
+    "stock": "25929A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV0LC201454&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ab79ab6b8c38434c89ca834d02a03039.jpg",
+    "price": "$13,988",
+    "sutherlins_price": "$13,988",
+    "mileage": "64,167 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Volkswagen Tiguan S",
+    "vin": "3VV1B7AX7LM176212",
+    "stock": "26005A",
+    "exterior": "Platinum Gray Metallic",
+    "interior": "Gray",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV1B7AX7LM176212&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020VWS03_640/2020VWS030047_640_01.jpg",
+    "price": "$13,988",
+    "sutherlins_price": "$13,988",
+    "mileage": "72,636 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Rogue S",
     "vin": "5N1AT2MT7LC748335",
     "stock": "T25468B",
@@ -448,35 +478,5 @@
     "price": "$23,475",
     "sutherlins_price": "$18,898",
     "mileage": "64,267 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV0PL475385",
-    "stock": "P13181",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV0PL475385&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d2e727a94298447a9c0fe426698aaf95.jpg",
-    "price": "$20,350",
-    "sutherlins_price": "$18,988",
-    "mileage": "30,185 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV8NN319998",
-    "stock": "25617A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV8NN319998&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ab2a31df9e7452eb5835f931b6d2f93.jpg",
-    "price": "$18,988",
-    "sutherlins_price": "$18,988",
-    "mileage": "70,054 Miles"
   }
 ]
