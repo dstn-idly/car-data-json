@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV7SY261691",
-    "stock": "25864A",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7SY261691&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/91e46955112f4fb298d920f4a6461f7b.jpg",
-    "price": "$24,125",
-    "sutherlins_price": "$20,988",
-    "mileage": "3,046 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Volkswagen Taos S",
     "vin": "3VVDX7B29PM350501",
     "stock": "25911A",
@@ -223,6 +208,21 @@
     "price": "$22,800",
     "sutherlins_price": "$20,988",
     "mileage": "23,338 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV7SY261691",
+    "stock": "25864A",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7SY261691&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/91e46955112f4fb298d920f4a6461f7b.jpg",
+    "price": "$24,125",
+    "sutherlins_price": "$20,988",
+    "mileage": "3,046 Miles"
   },
   {
     "category": "used",
@@ -251,7 +251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4FV3LN307147&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040081_640_01.jpg",
     "price": "$21,995",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$21,995",
     "mileage": "30,796 Miles"
   },
   {
