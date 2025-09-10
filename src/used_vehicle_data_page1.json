@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Versa Note SV",
-    "vin": "3N1CE2CP0FL358202",
-    "stock": "P13243",
-    "exterior": "Aspen White Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CE2CP0FL358202&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5fbaaf85deb049869c804f4c4bfa3cd4.jpg",
-    "price": "$4,988",
-    "sutherlins_price": "$4,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2015 Nissan Altima 2.5 SV",
     "vin": "1N4AL3AP0FC155170",
     "stock": "P13140A",
@@ -61,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2011 Nissan Frontier S",
-    "vin": "1N6AD0ER6BC402474",
-    "stock": "25586B",
-    "exterior": "Super Black",
-    "interior": "Steel",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER6BC402474&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf6e7e5db2a34795bcbd0f6eb35f694f.jpg",
-    "price": "$4,988",
-    "sutherlins_price": "$4,988",
-    "mileage": "205,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2012 Scion iQ Base",
     "vin": "JTNJJXB05CJ021833",
     "stock": "24706C",
@@ -88,21 +58,6 @@
     "price": "$6,625",
     "sutherlins_price": "$4,995",
     "mileage": "139,592 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Altima 2.5 SL",
-    "vin": "1N4AL3AP1HC116705",
-    "stock": "25847A",
-    "exterior": "Super Black",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP1HC116705&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fb6cf99d7bb541949fc51db87c2c4b40.jpg",
-    "price": "$10,050",
-    "sutherlins_price": "$5,988",
-    "mileage": "132,281 Miles"
   },
   {
     "category": "used",
@@ -163,6 +118,21 @@
     "price": "$14,375",
     "sutherlins_price": "$10,988",
     "mileage": "62,194 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Kia Forte LX",
+    "vin": "3KPFL4A75JE244367",
+    "stock": "25928A",
+    "exterior": "Snow White Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFL4A75JE244367&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/742cfaea536444dc999009fd2f29beb8.jpg",
+    "price": "$15,425",
+    "sutherlins_price": "$10,988",
+    "mileage": "52,709 Miles"
   },
   {
     "category": "used",
@@ -301,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Versa SV",
-    "vin": "3N1CN8EV5ML918064",
-    "stock": "25828A",
-    "exterior": "Scarlet Ember Pearl Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV5ML918064&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d5530886a874d0183a32d9ba847a8da.jpg",
-    "price": "$17,995",
-    "sutherlins_price": "$13,888",
-    "mileage": "44,024 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Chevrolet Malibu RS",
     "vin": "1G1ZG5ST9LF082361",
     "stock": "KP1059",
@@ -328,6 +283,21 @@
     "price": "$13,888",
     "sutherlins_price": "$13,888",
     "mileage": "79,177 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Versa SV",
+    "vin": "3N1CN8EV5ML918064",
+    "stock": "25828A",
+    "exterior": "Scarlet Ember Pearl Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV5ML918064&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d5530886a874d0183a32d9ba847a8da.jpg",
+    "price": "$17,995",
+    "sutherlins_price": "$13,888",
+    "mileage": "44,024 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$21,648",
     "sutherlins_price": "$17,498",
     "mileage": "66,855 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$17,498",
+    "mileage": "67,655 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Forte LXS",
+    "vin": "3KPF24AD5PE626075",
+    "stock": "25923A",
+    "exterior": "Steel Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
+    "price": "$20,100",
+    "sutherlins_price": "$17,798",
+    "mileage": "22,451 Miles"
   }
 ]
