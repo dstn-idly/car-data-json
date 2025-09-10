@@ -10,8 +10,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV9HP590327&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5f30c23be314470836fcdd77ec5f204.jpg",
-    "price": "$11,995",
-    "sutherlins_price": "$11,995",
+    "price": "$10,995",
+    "sutherlins_price": "$10,995",
     "mileage": "87,380 Miles"
   },
   {
@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT9KW267931&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b3bb2029fdb4f43ae14beedb9792d5c.jpg",
     "price": "$15,275",
-    "sutherlins_price": "$13,598",
+    "sutherlins_price": "$13,415",
     "mileage": "88,614 Miles"
   },
   {
@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0RY244601&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7d1b768e2d24392a12dbb66190eac24.jpg",
     "price": "$21,175",
-    "sutherlins_price": "$16,580",
+    "sutherlins_price": "$16,499",
     "mileage": "27,357 Miles"
   },
   {
@@ -121,21 +121,6 @@
   },
   {
     "category": "cpo",
-    "name": "2019 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV3KC211486",
-    "stock": "P13208",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3KC211486&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e701de18569b4636889b47c980c8d2e8.jpg",
-    "price": "$21,075",
-    "sutherlins_price": "$17,988",
-    "mileage": "42,227 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY220989",
     "stock": "P13202",
@@ -146,8 +131,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY220989&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b134e35d2a914d18b9d5edeba17034b5.jpg",
     "price": "$21,300",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$17,698",
     "mileage": "51,836 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2019 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV3KC211486",
+    "stock": "P13208",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3KC211486&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e701de18569b4636889b47c980c8d2e8.jpg",
+    "price": "$21,075",
+    "sutherlins_price": "$17,469",
+    "mileage": "42,227 Miles"
   },
   {
     "category": "cpo",
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4PC901030&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c4d87fc72d5a46f090447a6558ecf52a.jpg",
     "price": "$23,475",
-    "sutherlins_price": "$18,898",
+    "sutherlins_price": "$17,995",
     "mileage": "64,267 Miles"
   },
   {
@@ -206,8 +206,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV0PL475385&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d2e727a94298447a9c0fe426698aaf95.jpg",
     "price": "$20,350",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,995",
     "mileage": "30,185 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL474937",
+    "stock": "P13180",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL474937&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/562c33ac73654de9bdafdc621102cfde.jpg",
+    "price": "$20,525",
+    "sutherlins_price": "$17,856",
+    "mileage": "25,426 Miles"
   },
   {
     "category": "cpo",
@@ -226,21 +241,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL474937",
-    "stock": "P13180",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL474937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/562c33ac73654de9bdafdc621102cfde.jpg",
-    "price": "$20,525",
-    "sutherlins_price": "$18,988",
-    "mileage": "25,426 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV5RL484148",
     "stock": "P13179",
@@ -251,7 +251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL484148&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0adef306da574a57bd386de5d919dbab.jpg",
     "price": "$21,995",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$18,498",
     "mileage": "26,970 Miles"
   },
   {
@@ -340,8 +340,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV3PL517420&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/37aedc4a837f4e6e8fa9df91533f93f8.jpg",
-    "price": "$20,749",
-    "sutherlins_price": "$20,749",
+    "price": "$20,498",
+    "sutherlins_price": "$20,498",
     "mileage": "10,572 Miles"
   },
   {
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
     "price": "$25,025",
-    "sutherlins_price": "$21,498",
+    "sutherlins_price": "$20,598",
     "mileage": "39,094 Miles"
   },
   {
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC126840&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1d7ecadd808f45db8fda73a9061ae7a6.jpg",
     "price": "$26,995",
-    "sutherlins_price": "$23,988",
+    "sutherlins_price": "$22,913",
     "mileage": "45,029 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC678525&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/efc2e13158334dc591737678b34fe794.jpg",
     "price": "$28,898",
-    "sutherlins_price": "$24,498",
+    "sutherlins_price": "$23,719",
     "mileage": "36,402 Miles"
   },
   {
@@ -475,8 +475,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA4PC815618&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/29d0c0a8390741caaf3b1644481d7b2b.jpg",
-    "price": "$24,995",
-    "sutherlins_price": "$24,995",
+    "price": "$23,995",
+    "sutherlins_price": "$23,995",
     "mileage": "36,939 Miles"
   }
 ]
