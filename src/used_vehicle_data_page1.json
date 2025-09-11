@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2005 Dodge Dakota SLT",
-    "vin": "1D7HW42K15S180775",
-    "stock": "P13243A",
-    "exterior": "Deep Molten Red Pearlcoat",
-    "interior": "Gray",
-    "engine": "Gas V6 3.7L/226",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1D7HW42K15S180775&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/5213.jpg",
-    "price": "$5,995",
-    "sutherlins_price": "$5,995",
-    "mileage": "108,976 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Nissan Rogue Select S",
     "vin": "JN8AS5MT8FW159262",
     "stock": "25483A",
@@ -85,7 +70,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AS5MT8FW159262&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS15_640/2015NIS150001_640_01.jpg",
-    "price": "$6,995",
+    "price": "$8,813",
     "sutherlins_price": "$6,995",
     "mileage": "64,836 Miles"
   },
@@ -130,7 +115,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BF1FK9FU893546&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015TOC02_640/2015TOC020023_640_01.jpg",
-    "price": "$9,995",
+    "price": "$11,375",
     "sutherlins_price": "$9,995",
     "mileage": "139,579 Miles"
   },
@@ -295,7 +280,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9ML867703&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0460b13ccb6b459089033f600229feb6.jpg",
-    "price": "$12,995",
+    "price": "$13,698",
     "sutherlins_price": "$12,995",
     "mileage": "72,247 Miles"
   },
@@ -316,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Malibu RS",
-    "vin": "1G1ZG5ST9LF082361",
-    "stock": "KP1059",
-    "exterior": "Shadow Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST9LF082361&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16f3a99a381b45c3b100b76d97bf1e73.jpg",
-    "price": "$13,888",
-    "sutherlins_price": "$13,888",
-    "mileage": "79,177 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Versa SV",
     "vin": "3N1CN8EV5ML918064",
     "stock": "25828A",
@@ -343,6 +313,21 @@
     "price": "$17,995",
     "sutherlins_price": "$13,888",
     "mileage": "44,024 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Malibu RS",
+    "vin": "1G1ZG5ST9LF082361",
+    "stock": "KP1059",
+    "exterior": "Shadow Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST9LF082361&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16f3a99a381b45c3b100b76d97bf1e73.jpg",
+    "price": "$13,888",
+    "sutherlins_price": "$13,888",
+    "mileage": "79,177 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$21,075",
     "sutherlins_price": "$17,469",
     "mileage": "42,227 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue S",
+    "vin": "5N1AT3AA5MC827819",
+    "stock": "P13192",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
+    "price": "$21,648",
+    "sutherlins_price": "$17,498",
+    "mileage": "66,855 Miles"
   }
 ]
