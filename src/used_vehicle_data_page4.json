@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN309417",
-    "stock": "P13249",
-    "exterior": "Garnet Pearl Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN309417&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "36,740 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Versa SV",
     "vin": "3N1CN8EV9SL830826",
     "stock": "P13247",
@@ -403,6 +388,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "8,175 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN309417",
+    "stock": "P13249",
+    "exterior": "Garnet Pearl Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN309417&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "36,740 Miles"
   },
   {
     "category": "used",
@@ -421,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Titan SV",
-    "vin": "1N6AA1ED6PN100052",
-    "stock": "P13254",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED6PN100052&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT13_640/2023NIT130121_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "69,513 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV8PY312641",
     "stock": "P13244",
@@ -448,5 +433,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,291 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Titan SV",
+    "vin": "1N6AA1ED6PN100052",
+    "stock": "P13254",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED6PN100052&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT13_640/2023NIT130121_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "69,513 Miles"
   }
 ]
