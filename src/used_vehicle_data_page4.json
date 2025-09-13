@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFKT2KN620080&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/199babffb4064b77a5b558f23fd14d28.jpg",
     "price": "$38,725",
-    "sutherlins_price": "$33,498",
+    "sutherlins_price": "$32,988",
     "mileage": "80,126 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BZ4BH7RM367446&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5ea92a1225d445b38d433b8f8ae03420.jpg",
     "price": "$51,995",
-    "sutherlins_price": "$40,988",
+    "sutherlins_price": "$39,988",
     "mileage": "1,228 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFF5KE4NA621043&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a3dbf7b1ab1240a3ba8e31f422c11cd2.jpg",
     "price": "$53,825",
-    "sutherlins_price": "$50,599",
+    "sutherlins_price": "$48,988",
     "mileage": "60,915 Miles"
   },
   {
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Hyundai Tucson SEL",
-    "vin": "5NMJB3DE0SH444388",
-    "stock": "P13259",
-    "exterior": "Atlantis Blue",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE0SH444388&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025HYS02_640/2025HYS021990089_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "23,316 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Jeep Wagoneer L Series II",
     "vin": "1C4SJRBP1RS127006",
     "stock": "P13260",
@@ -403,6 +388,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "61,008 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Hyundai Tucson SEL",
+    "vin": "5NMJB3DE0SH444388",
+    "stock": "P13259",
+    "exterior": "Atlantis Blue",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE0SH444388&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025HYS02_640/2025HYS021990089_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "23,316 Miles"
   },
   {
     "category": "used",

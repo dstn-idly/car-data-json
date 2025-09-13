@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZAG3FH860968&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6e288d0c2b54789bc74b983e1fc81b9.jpg",
     "price": "$11,550",
-    "sutherlins_price": "$11,995",
+    "sutherlins_price": "$9,988",
     "mileage": "139,001 Miles"
   },
   {
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9ML867703&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0460b13ccb6b459089033f600229feb6.jpg",
     "price": "$13,698",
-    "sutherlins_price": "$12,995",
+    "sutherlins_price": "$11,988",
     "mileage": "72,247 Miles"
   },
   {
@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0RY244601&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7d1b768e2d24392a12dbb66190eac24.jpg",
     "price": "$21,175",
-    "sutherlins_price": "$16,499",
+    "sutherlins_price": "$16,988",
     "mileage": "27,357 Miles"
   },
   {
@@ -491,7 +491,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3YFREV8GW258069&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f7a6532509a84fb18c4b650504c32cef.jpg",
     "price": "$17,999",
-    "sutherlins_price": "$17,888",
+    "sutherlins_price": "$16,988",
     "mileage": "74,054 Miles"
   },
   {
@@ -541,21 +541,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CV8LW543605",
-    "stock": "25305B",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV8LW543605&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS17_640/2020NIS170048_640_01.jpg",
-    "price": "$20,175",
-    "sutherlins_price": "$17,995",
-    "mileage": "70,112 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV0PL475385",
     "stock": "P13181",
@@ -571,18 +556,18 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra SR",
-    "vin": "3N1AB8DVXMY229741",
-    "stock": "P13232",
-    "exterior": "Gun Metallic",
-    "interior": "Sport",
+    "name": "2020 Nissan Rogue Sport SL",
+    "vin": "JN1BJ1CV8LW543605",
+    "stock": "25305B",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Light Gray",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DVXMY229741&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fd670da28c84a72ab61fafc265f8f2a.jpg",
-    "price": "$20,025",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV8LW543605&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS17_640/2020NIS170048_640_01.jpg",
+    "price": "$20,175",
     "sutherlins_price": "$17,995",
-    "mileage": "59,789 Miles"
+    "mileage": "70,112 Miles"
   },
   {
     "category": "used",
@@ -598,6 +583,21 @@
     "price": "$23,475",
     "sutherlins_price": "$17,995",
     "mileage": "64,267 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SR",
+    "vin": "3N1AB8DVXMY229741",
+    "stock": "P13232",
+    "exterior": "Gun Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DVXMY229741&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fd670da28c84a72ab61fafc265f8f2a.jpg",
+    "price": "$20,025",
+    "sutherlins_price": "$17,995",
+    "mileage": "59,789 Miles"
   },
   {
     "category": "used",
@@ -776,7 +776,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MM7JC646924&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS070003_640/2018NIS070003_640_12.jpg",
     "price": "$24,850",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "40,065 Miles"
   },
   {
@@ -881,7 +881,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7SY261691&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/91e46955112f4fb298d920f4a6461f7b.jpg",
     "price": "$24,125",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$20,598",
     "mileage": "3,046 Miles"
   },
   {
@@ -911,7 +911,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK9NU057342&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/27d6fdff12f04a7d8ce47213aa82fd4e.jpg",
     "price": "$21,999",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$19,988",
     "mileage": "59,655 Miles"
   },
   {
@@ -986,7 +986,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDE17PPP23485&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3da67055060b4e4281f5b2cdaccb9fc4.jpg",
     "price": "$26,750",
-    "sutherlins_price": "$21,598",
+    "sutherlins_price": "$21,498",
     "mileage": "5,741 Miles"
   },
   {
@@ -1021,21 +1021,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Grand Cherokee Limited",
-    "vin": "1C4RJFBGXMC611966",
-    "stock": "P13233",
-    "exterior": "Velvet Red Pearlcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFBGXMC611966&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a00ecb010d422a891366e5ed5b5aef.jpg",
-    "price": "$26,500",
-    "sutherlins_price": "$21,995",
-    "mileage": "75,090 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Altima 2.0 Platinum",
     "vin": "1N4AL4FV3LN307147",
     "stock": "25689A",
@@ -1048,6 +1033,21 @@
     "price": "$26,278",
     "sutherlins_price": "$21,995",
     "mileage": "30,796 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Grand Cherokee Limited",
+    "vin": "1C4RJFBGXMC611966",
+    "stock": "P13233",
+    "exterior": "Velvet Red Pearlcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFBGXMC611966&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a00ecb010d422a891366e5ed5b5aef.jpg",
+    "price": "$26,500",
+    "sutherlins_price": "$21,995",
+    "mileage": "75,090 Miles"
   },
   {
     "category": "used",
@@ -1136,7 +1136,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FA6P8TH5N5141295&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f9240cff715c4d46a9e398bd2e442ed6.jpg",
     "price": "$29,350",
-    "sutherlins_price": "$23,849",
+    "sutherlins_price": "$22,988",
     "mileage": "37,243 Miles"
   },
   {
@@ -1151,7 +1151,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTGB4SC5MU046916&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/373bd9ad1cd14a07952af3719689d3b2.jpg",
     "price": "$28,750",
-    "sutherlins_price": "$23,898",
+    "sutherlins_price": "$22,988",
     "mileage": "109,892 Miles"
   },
   {
@@ -1169,6 +1169,21 @@
     "sutherlins_price": "$23,898",
     "mileage": "12,483 Miles",
     "age": 47
+  },
+  {
+    "category": "used",
+    "name": "2025 Hyundai Sonata SEL",
+    "vin": "KMHL64JA2SA462384",
+    "stock": "P13240",
+    "exterior": "Portofino Gray",
+    "interior": "Dark Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL64JA2SA462384&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7fec6ef9431467a8057d61b9351fd1c.jpg",
+    "price": "$28,995",
+    "sutherlins_price": "$23,988",
+    "mileage": "17,487 Miles"
   },
   {
     "category": "used",
@@ -1199,21 +1214,6 @@
     "price": "$24,550",
     "sutherlins_price": "$23,988",
     "mileage": "47,588 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Hyundai Sonata SEL",
-    "vin": "KMHL64JA2SA462384",
-    "stock": "P13240",
-    "exterior": "Portofino Gray",
-    "interior": "Dark Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL64JA2SA462384&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7fec6ef9431467a8057d61b9351fd1c.jpg",
-    "price": "$28,995",
-    "sutherlins_price": "$23,988",
-    "mileage": "17,487 Miles"
   },
   {
     "category": "used",
@@ -1377,7 +1377,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA0RC221748&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/41c5c240cbfc44f59f313629ff295ae5.jpg",
     "price": "$33,989",
-    "sutherlins_price": "$26,700",
+    "sutherlins_price": "$27,988",
     "mileage": "29,911 Miles"
   },
   {
@@ -1392,23 +1392,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC3NW121216&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27270e49dd5415aa83598115d3b0617.jpg",
     "price": "$26,597",
-    "sutherlins_price": "$26,898",
+    "sutherlins_price": "$26,597",
     "mileage": "34,417 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan 370Z Touring",
-    "vin": "JN1AZ4EH5HM953861",
-    "stock": "P13246",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-6 3.7 L/226",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AZ4EH5HM953861&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC140001_640/2017NIC140001_640_01.jpg",
-    "price": "$28,865",
-    "sutherlins_price": "$26,995",
-    "mileage": "48,963 Miles"
   },
   {
     "category": "used",
@@ -1424,6 +1409,21 @@
     "price": "$31,300",
     "sutherlins_price": "$26,995",
     "mileage": "33,974 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan 370Z Touring",
+    "vin": "JN1AZ4EH5HM953861",
+    "stock": "P13246",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-6 3.7 L/226",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AZ4EH5HM953861&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC140001_640/2017NIC140001_640_01.jpg",
+    "price": "$28,865",
+    "sutherlins_price": "$26,995",
+    "mileage": "48,963 Miles"
   },
   {
     "category": "used",
@@ -1632,7 +1632,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFKT2KN620080&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/199babffb4064b77a5b558f23fd14d28.jpg",
     "price": "$38,725",
-    "sutherlins_price": "$33,498",
+    "sutherlins_price": "$32,988",
     "mileage": "80,126 Miles"
   },
   {
@@ -1722,7 +1722,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BZ4BH7RM367446&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5ea92a1225d445b38d433b8f8ae03420.jpg",
     "price": "$51,995",
-    "sutherlins_price": "$40,988",
+    "sutherlins_price": "$39,988",
     "mileage": "1,228 Miles"
   },
   {
@@ -1782,7 +1782,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFF5KE4NA621043&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a3dbf7b1ab1240a3ba8e31f422c11cd2.jpg",
     "price": "$53,825",
-    "sutherlins_price": "$50,599",
+    "sutherlins_price": "$48,988",
     "mileage": "60,915 Miles"
   },
   {
@@ -1817,21 +1817,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Hyundai Tucson SEL",
-    "vin": "5NMJB3DE0SH444388",
-    "stock": "P13259",
-    "exterior": "Atlantis Blue",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE0SH444388&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025HYS02_640/2025HYS021990089_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "23,316 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Jeep Wagoneer L Series II",
     "vin": "1C4SJRBP1RS127006",
     "stock": "P13260",
@@ -1844,6 +1829,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "61,008 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Hyundai Tucson SEL",
+    "vin": "5NMJB3DE0SH444388",
+    "stock": "P13259",
+    "exterior": "Atlantis Blue",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE0SH444388&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025HYS02_640/2025HYS021990089_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "23,316 Miles"
   },
   {
     "category": "used",
@@ -1902,7 +1902,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0RY244601&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7d1b768e2d24392a12dbb66190eac24.jpg",
     "price": "$21,175",
-    "sutherlins_price": "$16,499",
+    "sutherlins_price": "$16,988",
     "mileage": "27,357 Miles"
   },
   {
@@ -2127,7 +2127,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MM7JC646924&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS070003_640/2018NIS070003_640_12.jpg",
     "price": "$24,850",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "40,065 Miles"
   },
   {
@@ -2202,7 +2202,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7SY261691&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/91e46955112f4fb298d920f4a6461f7b.jpg",
     "price": "$24,125",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$20,598",
     "mileage": "3,046 Miles"
   },
   {
@@ -2352,7 +2352,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA0RC221748&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/41c5c240cbfc44f59f313629ff295ae5.jpg",
     "price": "$33,989",
-    "sutherlins_price": "$26,700",
+    "sutherlins_price": "$27,988",
     "mileage": "29,911 Miles"
   },
   {
@@ -2457,7 +2457,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BZ4BH7RM367446&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5ea92a1225d445b38d433b8f8ae03420.jpg",
     "price": "$51,995",
-    "sutherlins_price": "$40,988",
+    "sutherlins_price": "$39,988",
     "mileage": "1,228 Miles"
   },
   {
@@ -4712,6 +4712,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab SV",
+    "vin": "1N6ED1EK0TN609118",
+    "stock": "TN609118",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Premium Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK0TN609118&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32216-exterior-kby.png.ximg.m_6_h.smart.png",
+    "price": "$42,855",
+    "sutherlins_price": "$41,855",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2025 Nissan Pathfinder SV",
     "vin": "5N1DR3BA9SC287222",
     "stock": "SC287222",
@@ -4742,6 +4757,36 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab SV",
+    "vin": "1N6ED1EK0TN608650",
+    "stock": "TN608650",
+    "exterior": "Glacier White",
+    "interior": "Premium Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK0TN608650&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32216-exterior-qak.png.ximg.m_6_h.smart.png",
+    "price": "$42,915",
+    "sutherlins_price": "$41,915",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab SV",
+    "vin": "1N6ED1EK6TN609074",
+    "stock": "TN609074",
+    "exterior": "Gun Metallic",
+    "interior": "Premium Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK6TN609074&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32216-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$42,915",
+    "sutherlins_price": "$41,915",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2025 Nissan Pathfinder SV",
     "vin": "5N1DR3BA9SC293554",
     "stock": "SC293554",
@@ -4757,51 +4802,6 @@
   },
   {
     "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab SV",
-    "vin": "1N6ED1EK0TN609118",
-    "stock": "TN609118",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Premium Charcoal Cloth",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK0TN609118&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32216-exterior-kby.png.ximg.m_6_h.smart.png",
-    "price": "$42,855",
-    "sutherlins_price": "$42,855",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab SV",
-    "vin": "1N6ED1EK0TN608650",
-    "stock": "TN608650",
-    "exterior": "Glacier White",
-    "interior": "Premium Charcoal Cloth",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK0TN608650&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32216-exterior-qak.png.ximg.m_6_h.smart.png",
-    "price": "$42,915",
-    "sutherlins_price": "$42,915",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab SV",
-    "vin": "1N6ED1EK6TN609074",
-    "stock": "TN609074",
-    "exterior": "Gun Metallic",
-    "interior": "Premium Charcoal Cloth",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK6TN609074&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32216-exterior-kad.png.ximg.m_6_h.smart.png",
-    "price": "$42,915",
-    "sutherlins_price": "$42,915",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
     "name": "2026 Nissan Frontier Crew Cab PRO-X",
     "vin": "1N6ED1EJ1TN606882",
     "stock": "TN606882",
@@ -4812,7 +4812,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1TN606882&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-kad.png.ximg.m_6_h.smart.png",
     "price": "$43,440",
-    "sutherlins_price": "$43,440",
+    "sutherlins_price": "$42,440",
     "mileage": "6 Miles"
   },
   {
@@ -4827,7 +4827,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJXTN607593&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-kh3.png.ximg.m_6_h.smart.png",
     "price": "$43,440",
-    "sutherlins_price": "$43,440",
+    "sutherlins_price": "$42,440",
     "mileage": "6 Miles"
   },
   {
@@ -4842,7 +4842,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ3TN606737&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-kby.png.ximg.m_6_h.smart.png",
     "price": "$43,890",
-    "sutherlins_price": "$43,890",
+    "sutherlins_price": "$42,890",
     "mileage": "6 Miles"
   },
   {
@@ -4937,6 +4937,36 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab PRO-X",
+    "vin": "1N6ED1EJ1TN610060",
+    "stock": "TN610060",
+    "exterior": "Glacier White",
+    "interior": "Charcoal Leather appointments with Lava Red Stitching",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1TN610060&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-qak.png.ximg.m_6_h.smart.png",
+    "price": "$46,520",
+    "sutherlins_price": "$45,520",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab PRO-X",
+    "vin": "1N6ED1EJ4TN610912",
+    "stock": "TN610912",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal Leather appointments with Lava Red Stitching",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ4TN610912&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$46,520",
+    "sutherlins_price": "$45,520",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2025 Nissan Murano SL",
     "vin": "5N1AZ3CS7SC137247",
     "stock": "25973",
@@ -4967,32 +4997,62 @@
   },
   {
     "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab PRO-X",
-    "vin": "1N6ED1EJ1TN610060",
-    "stock": "TN610060",
+    "name": "2026 Nissan Frontier Crew Cab PRO-4X",
+    "vin": "1N6ED1EK2TN606267",
+    "stock": "TN606267",
     "exterior": "Glacier White",
-    "interior": "Charcoal Leather appointments with Lava Red Stitching",
+    "interior": "Charcoal Cloth with Lava Red Stitching",
     "engine": "N/A",
     "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1TN610060&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-qak.png.ximg.m_6_h.smart.png",
-    "price": "$46,520",
-    "sutherlins_price": "$46,520",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK2TN606267&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-qak.png.ximg.m_6_h.smart.png",
+    "price": "$46,930",
+    "sutherlins_price": "$45,930",
     "mileage": "6 Miles"
   },
   {
     "category": "new",
     "name": "2026 Nissan Frontier Crew Cab PRO-X",
-    "vin": "1N6ED1EJ4TN610912",
-    "stock": "TN610912",
-    "exterior": "Gun Metallic",
+    "vin": "1N6ED1EJ1TN607918",
+    "stock": "TN607918",
+    "exterior": "Bluestone Pearl",
     "interior": "Charcoal Leather appointments with Lava Red Stitching",
     "engine": "N/A",
     "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ4TN610912&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-kad.png.ximg.m_6_h.smart.png",
-    "price": "$46,520",
-    "sutherlins_price": "$46,520",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1TN607918&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-rcf.png.ximg.m_6_h.smart.png",
+    "price": "$46,970",
+    "sutherlins_price": "$45,970",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab PRO-4X",
+    "vin": "1N6ED1EK6TN607924",
+    "stock": "TN607924",
+    "exterior": "Tactical Green Metallic",
+    "interior": "Charcoal Cloth with Lava Red Stitching",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK6TN607924&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-daq.png.ximg.m_6_h.smart.png",
+    "price": "$47,380",
+    "sutherlins_price": "$46,380",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab PRO-4X",
+    "vin": "1N6ED1EK4TN608988",
+    "stock": "TN608988",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal Cloth with Lava Red Stitching",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK4TN608988&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$47,640",
+    "sutherlins_price": "$46,640",
     "mileage": "6 Miles"
   },
   {
@@ -5072,36 +5132,6 @@
   },
   {
     "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab PRO-4X",
-    "vin": "1N6ED1EK2TN606267",
-    "stock": "TN606267",
-    "exterior": "Glacier White",
-    "interior": "Charcoal Cloth with Lava Red Stitching",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK2TN606267&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-qak.png.ximg.m_6_h.smart.png",
-    "price": "$46,930",
-    "sutherlins_price": "$46,930",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab PRO-X",
-    "vin": "1N6ED1EJ1TN607918",
-    "stock": "TN607918",
-    "exterior": "Bluestone Pearl",
-    "interior": "Charcoal Leather appointments with Lava Red Stitching",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1TN607918&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32516-exterior-rcf.png.ximg.m_6_h.smart.png",
-    "price": "$46,970",
-    "sutherlins_price": "$46,970",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
     "name": "2025 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DG0SC282198",
     "stock": "25959",
@@ -5132,21 +5162,6 @@
   },
   {
     "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab PRO-4X",
-    "vin": "1N6ED1EK6TN607924",
-    "stock": "TN607924",
-    "exterior": "Tactical Green Metallic",
-    "interior": "Charcoal Cloth with Lava Red Stitching",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK6TN607924&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-daq.png.ximg.m_6_h.smart.png",
-    "price": "$47,380",
-    "sutherlins_price": "$47,380",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
     "name": "2025 Nissan Murano Platinum",
     "vin": "5N1AZ3DT3SC137365",
     "stock": "25810",
@@ -5158,21 +5173,6 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5159b52e61fb44f2979839499003af96.jpg",
     "price": "$51,845",
     "sutherlins_price": "$47,473",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab PRO-4X",
-    "vin": "1N6ED1EK4TN608988",
-    "stock": "TN608988",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal Cloth with Lava Red Stitching",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK4TN608988&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-kad.png.ximg.m_6_h.smart.png",
-    "price": "$47,640",
-    "sutherlins_price": "$47,640",
     "mileage": "6 Miles"
   },
   {
@@ -5202,7 +5202,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK0TN601083&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-kad.png.ximg.m_6_h.smart.png",
     "price": "$48,980",
-    "sutherlins_price": "$48,980",
+    "sutherlins_price": "$47,980",
     "mileage": "6 Miles"
   },
   {
@@ -5217,7 +5217,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK8TN606550&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-qak.png.ximg.m_6_h.smart.png",
     "price": "$50,010",
-    "sutherlins_price": "$50,010",
+    "sutherlins_price": "$49,010",
     "mileage": "6 Miles"
   },
   {
@@ -5232,7 +5232,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK3TN607024&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-kh3.png.ximg.m_6_h.smart.png",
     "price": "$50,010",
-    "sutherlins_price": "$50,010",
+    "sutherlins_price": "$49,010",
     "mileage": "6 Miles"
   },
   {
@@ -5247,7 +5247,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK8TN607116&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-kby.png.ximg.m_6_h.smart.png",
     "price": "$50,460",
-    "sutherlins_price": "$50,460",
+    "sutherlins_price": "$49,460",
     "mileage": "6 Miles"
   },
   {
@@ -5262,7 +5262,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK0TN607949&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32416-exterior-qak.png.ximg.m_6_h.smart.png",
     "price": "$50,720",
-    "sutherlins_price": "$50,720",
+    "sutherlins_price": "$49,720",
     "mileage": "6 Miles"
   },
   {
