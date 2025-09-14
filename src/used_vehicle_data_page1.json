@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2007 Nissan Altima 2.5 S",
-    "vin": "1N4AL21E67C135550",
-    "stock": "P13146",
-    "exterior": "Radiant Silver Metallic",
-    "interior": "Frost",
-    "engine": "Gas I4 2.5L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL21E67C135550&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/450008f2e92b41c197b909f9ef4b3c91.jpg",
-    "price": "$2,998",
-    "sutherlins_price": "$2,998",
-    "mileage": "64,140 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Ford Escape SE",
     "vin": "1FMCU0GX5GUB43948",
     "stock": "25918A",
@@ -28,6 +13,21 @@
     "price": "$5,510",
     "sutherlins_price": "$3,988",
     "mileage": "167,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2007 Nissan Altima 2.5 S",
+    "vin": "1N4AL21E67C135550",
+    "stock": "P13146",
+    "exterior": "Radiant Silver Metallic",
+    "interior": "Frost",
+    "engine": "Gas I4 2.5L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL21E67C135550&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/450008f2e92b41c197b909f9ef4b3c91.jpg",
+    "price": "$4,988",
+    "sutherlins_price": "$4,988",
+    "mileage": "64,140 Miles"
   },
   {
     "category": "used",
@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Versa SV",
-    "vin": "3N1CN8EV9ML867703",
-    "stock": "25521A",
-    "exterior": "Super Black",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9ML867703&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0460b13ccb6b459089033f600229feb6.jpg",
-    "price": "$13,698",
-    "sutherlins_price": "$11,988",
-    "mileage": "72,247 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Kia Forte LX",
     "vin": "3KPFK4A74HE032072",
     "stock": "25615A",
@@ -133,21 +118,6 @@
     "price": "$13,243",
     "sutherlins_price": "$11,988",
     "mileage": "30,271 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Jeep Wrangler Unlimited Sport",
-    "vin": "1C4BJWDG1GL327290",
-    "stock": "T25597A",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4BJWDG1GL327290&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc148f7107594be09b1e4ed03b04ebed.jpg",
-    "price": "$11,995",
-    "sutherlins_price": "$11,995",
-    "mileage": "142,149 Miles"
   },
   {
     "category": "used",
@@ -178,21 +148,6 @@
     "price": "$16,350",
     "sutherlins_price": "$12,598",
     "mileage": "70,239 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Rogue SV",
-    "vin": "JN8AT2MT9KW267931",
-    "stock": "25807A",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT9KW267931&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b3bb2029fdb4f43ae14beedb9792d5c.jpg",
-    "price": "$15,275",
-    "sutherlins_price": "$13,415",
-    "mileage": "88,614 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$20,525",
     "sutherlins_price": "$17,856",
     "mileage": "25,426 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue SV",
+    "vin": "JN8AT2MT0KW266490",
+    "stock": "P13253",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Almond",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT0KW266490&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
+    "price": "$18,800",
+    "sutherlins_price": "$17,898",
+    "mileage": "54,141 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV1NN367441",
+    "stock": "P13238",
+    "exterior": "Glacier White",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1NN367441&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a5b170d57d41b9919e4610d5221117.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Kicks SR",
+    "vin": "3N1CP5DV4NL501756",
+    "stock": "25900A",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV4NL501756&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS26_640/2022NIS260002_640_01.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "28,694 Miles"
   }
 ]
