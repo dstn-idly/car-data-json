@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL474937",
-    "stock": "P13180",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL474937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/562c33ac73654de9bdafdc621102cfde.jpg",
-    "price": "$20,525",
-    "sutherlins_price": "$17,856",
-    "mileage": "25,426 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT0KW266490",
     "stock": "P13253",
@@ -478,5 +463,20 @@
     "price": "$23,000",
     "sutherlins_price": "$20,995",
     "mileage": "51,374 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Murano SV",
+    "vin": "5N1AZ2BJ5NC115335",
+    "stock": "T26017A",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ5NC115335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS02_640/2022NIS020001_640_01.jpg",
+    "price": "$20,675",
+    "sutherlins_price": "$21,498",
+    "mileage": "79,278 Miles"
   }
 ]
