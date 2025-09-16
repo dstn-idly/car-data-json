@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST8PF231521",
-    "stock": "P13223",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
-    "price": "$24,325",
-    "sutherlins_price": "$18,498",
-    "mileage": "44,340 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV5RL484148",
     "stock": "P13179",
@@ -133,6 +118,21 @@
     "price": "$21,995",
     "sutherlins_price": "$18,498",
     "mileage": "26,970 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8PF231521",
+    "stock": "P13223",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
+    "price": "$24,325",
+    "sutherlins_price": "$18,498",
+    "mileage": "44,340 Miles"
   },
   {
     "category": "used",
@@ -316,6 +316,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Honda Pilot EX-L",
+    "vin": "5FNYF5H55JB026837",
+    "stock": "25959A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Regular Unleaded V-6 3.5 L/212",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF5H55JB026837&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018HOS03_640/2018HOS030004_640_01.jpg",
+    "price": "$19,995",
+    "sutherlins_price": "$19,995",
+    "mileage": "86,208 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Mazda CX-5 Touring",
     "vin": "JM3KFACM2M0348715",
     "stock": "T25340B",
@@ -463,20 +478,5 @@
     "price": "$22,800",
     "sutherlins_price": "$20,988",
     "mileage": "23,338 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA3PC900386",
-    "stock": "P13248",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC900386&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
-    "price": "$23,000",
-    "sutherlins_price": "$20,995",
-    "mileage": "51,374 Miles"
   }
 ]
