@@ -166,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Genesis G80 2.5T",
-    "vin": "KMTGB4SC5MU046916",
-    "stock": "P13227",
-    "exterior": "Uyuni White",
-    "interior": "Black/Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTGB4SC5MU046916&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/373bd9ad1cd14a07952af3719689d3b2.jpg",
-    "price": "$28,750",
-    "sutherlins_price": "$22,988",
-    "mileage": "109,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Toyota Tacoma 2WD SR",
     "vin": "5TFAX5GN5MX190227",
     "stock": "P13132",
@@ -193,6 +178,21 @@
     "price": "$30,898",
     "sutherlins_price": "$22,988",
     "mileage": "88,488 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Genesis G80 2.5T",
+    "vin": "KMTGB4SC5MU046916",
+    "stock": "P13227",
+    "exterior": "Uyuni White",
+    "interior": "Black/Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTGB4SC5MU046916&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/373bd9ad1cd14a07952af3719689d3b2.jpg",
+    "price": "$28,750",
+    "sutherlins_price": "$22,988",
+    "mileage": "109,892 Miles"
   },
   {
     "category": "used",
@@ -452,21 +452,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota RAV4 LE",
-    "vin": "2T3H1RFV9RW321681",
-    "stock": "P13257",
-    "exterior": "Silver Sky",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV9RW321681&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111925764_640_01.jpg",
-    "price": "$31,300",
-    "sutherlins_price": "$26,995",
-    "mileage": "33,974 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan 370Z Touring",
     "vin": "JN1AZ4EH5HM953861",
     "stock": "P13246",
@@ -479,5 +464,20 @@
     "price": "$28,865",
     "sutherlins_price": "$26,995",
     "mileage": "48,963 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota RAV4 LE",
+    "vin": "2T3H1RFV9RW321681",
+    "stock": "P13257",
+    "exterior": "Silver Sky",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV9RW321681&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111925764_640_01.jpg",
+    "price": "$31,300",
+    "sutherlins_price": "$26,995",
+    "mileage": "33,974 Miles"
   }
 ]
