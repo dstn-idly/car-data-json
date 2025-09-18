@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Chevrolet Silverado 1500 LTZ",
-    "vin": "3GCUKSEC4FG244121",
-    "stock": "P13245",
-    "exterior": "Brownstone Metallic",
-    "interior": "Cocoa/Dune",
-    "engine": "Gas V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCUKSEC4FG244121&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f008f328bcfc434595f455bd2a0f073a.jpg",
-    "price": "$26,489",
-    "sutherlins_price": "$24,898",
-    "mileage": "86,945 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Hyundai Tucson SEL",
     "vin": "5NMJB3DE0SH444388",
     "stock": "P13259",
@@ -54,25 +39,10 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BBXPW468488&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8a9b4c20dde540b19d4d9e1047e1012f.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a584a57ca68441d4a669b7b728c4d384.jpg",
     "price": "$28,900",
     "sutherlins_price": "$24,995",
     "mileage": "19,415 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BS0PC130966",
-    "stock": "P13278",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS02_640/2023NIS020001_640_01.jpg",
-    "price": "$24,995",
-    "sutherlins_price": "$24,995",
-    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -85,9 +55,24 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB1PW461252&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
-    "price": "$24,995",
+    "price": "$26,275",
     "sutherlins_price": "$24,995",
-    "mileage": "N/A"
+    "mileage": "31,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BS0PC130966",
+    "stock": "P13278",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS02_640/2023NIS020001_640_01.jpg",
+    "price": "$26,025",
+    "sutherlins_price": "$24,995",
+    "mileage": "46,297 Miles"
   },
   {
     "category": "used",
@@ -106,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA6PC800636",
-    "stock": "25914A",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC800636&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e5ff2146e5f2448c9700b23f74b12ada.jpg",
-    "price": "$25,988",
-    "sutherlins_price": "$25,988",
-    "mileage": "7,335 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Rogue S",
     "vin": "5N1BT3AA6SC785968",
     "stock": "P13196",
@@ -133,6 +103,21 @@
     "price": "$31,698",
     "sutherlins_price": "$25,988",
     "mileage": "4,025 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA6PC800636",
+    "stock": "25914A",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC800636&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e5ff2146e5f2448c9700b23f74b12ada.jpg",
+    "price": "$25,988",
+    "sutherlins_price": "$25,988",
+    "mileage": "7,335 Miles"
   },
   {
     "category": "used",
@@ -166,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota RAV4 LE",
-    "vin": "2T3H1RFV9RW321681",
-    "stock": "P13257",
-    "exterior": "Silver Sky",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV9RW321681&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b9ceb1f4df4441f99a0680ed37d57bd9.jpg",
-    "price": "$31,300",
-    "sutherlins_price": "$26,995",
-    "mileage": "33,974 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan 370Z Touring",
     "vin": "JN1AZ4EH5HM953861",
     "stock": "P13246",
@@ -189,10 +159,25 @@
     "engine": "Premium Unleaded V-6 3.7 L/226",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AZ4EH5HM953861&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7b1be09c90af468780d8e3145a6b9090.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c24e1dc25c04447ea0b4d2a3f2d14ed2.jpg",
     "price": "$28,865",
     "sutherlins_price": "$26,995",
     "mileage": "48,963 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota RAV4 LE",
+    "vin": "2T3H1RFV9RW321681",
+    "stock": "P13257",
+    "exterior": "Silver Sky",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV9RW321681&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40365dc1e1ec45c3831a1a4ac3b03191.jpg",
+    "price": "$31,300",
+    "sutherlins_price": "$26,995",
+    "mileage": "33,974 Miles"
   },
   {
     "category": "used",
@@ -204,7 +189,7 @@
     "engine": "Regular Unleaded V-6 3.6 L/220",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2HE2CAXNC201882&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6b70da009dfa4704b0ca571a195ea981.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5501f6d79c343c9aa7912d6bf25bbcf.jpg",
     "price": "$29,875",
     "sutherlins_price": "$27,988",
     "mileage": "21,869 Miles"
@@ -235,9 +220,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ0PC106612&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS02_640/2023NIS020001_640_01.jpg",
-    "price": "$27,995",
+    "price": "$25,750",
     "sutherlins_price": "$27,995",
-    "mileage": "N/A"
+    "mileage": "17,934 Miles"
   },
   {
     "category": "used",
@@ -295,7 +280,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC8PW107931&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110063_640_01.jpg",
-    "price": "$28,995",
+    "price": "$32,250",
     "sutherlins_price": "$28,995",
     "mileage": "24,695 Miles"
   },
@@ -310,9 +295,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CB4PC816440&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110141_640_01.jpg",
-    "price": "$28,995",
+    "price": "$31,425",
     "sutherlins_price": "$28,995",
-    "mileage": "N/A"
+    "mileage": "24,326 Miles"
   },
   {
     "category": "used",
@@ -475,8 +460,23 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CC1PC207502&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS07_640/2023NIS070031_640_01.jpg",
-    "price": "$33,995",
+    "price": "$35,325",
     "sutherlins_price": "$33,995",
-    "mileage": "N/A"
+    "mileage": "31,799 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK1PN611384",
+    "stock": "P13277",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK1PN611384&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT12_640/2023NIT120062_640_01.jpg",
+    "price": "$34,995",
+    "sutherlins_price": "$34,995",
+    "mileage": "49,996 Miles"
   }
 ]
