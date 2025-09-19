@@ -160,7 +160,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST9LF082361&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/16f3a99a381b45c3b100b76d97bf1e73.jpg",
-    "price": "$13,888",
+    "price": "$11,995",
     "sutherlins_price": "$13,888",
     "mileage": "79,177 Miles"
   },
@@ -205,7 +205,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV4LW274387&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d2f1fc3505349bd8965b5d1a5e83676.jpg",
-    "price": "$14,988",
+    "price": "$13,986",
     "sutherlins_price": "$14,988",
     "mileage": "69,999 Miles"
   },
@@ -256,6 +256,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Hyundai Tucson SEL Plus",
+    "vin": "KM8J33A45JU648325",
+    "stock": "T24393B",
+    "exterior": "Black Noir Pearl",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A45JU648325&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018HYS02_640/2018HYS020003_640_01.jpg",
+    "price": "$15,988",
+    "sutherlins_price": "$15,988",
+    "mileage": "44,704 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Chevrolet Colorado 2WD Work Truck",
     "vin": "1GCHSBEAXK1172771",
     "stock": "25287A",
@@ -265,7 +280,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCHSBEAXK1172771&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd1a5ed0ab3d47e7a64c8e4240c760e0.jpg",
-    "price": "$16,498",
+    "price": "$15,995",
     "sutherlins_price": "$16,498",
     "mileage": "67,615 Miles"
   },
@@ -463,20 +478,5 @@
     "price": "$21,300",
     "sutherlins_price": "$17,698",
     "mileage": "51,836 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Kia Forte LXS",
-    "vin": "3KPF24AD5PE626075",
-    "stock": "25923A",
-    "exterior": "Steel Gray",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
-    "price": "$20,100",
-    "sutherlins_price": "$17,798",
-    "mileage": "22,451 Miles"
   }
 ]

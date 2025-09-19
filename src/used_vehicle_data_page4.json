@@ -1,18 +1,33 @@
 [
   {
     "category": "used",
-    "name": "2025 Hyundai Sonata SEL",
-    "vin": "KMHL64JA2SA462384",
-    "stock": "P13240",
-    "exterior": "Portofino Gray",
-    "interior": "Dark Gray",
+    "name": "2021 Honda CR-V EX",
+    "vin": "5J6RW1H57ML000622",
+    "stock": "25690A",
+    "exterior": "Sonic Gray Pearl",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RW1H57ML000622&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6958ae787b834093a54ac25e2e2b40b9.jpg",
+    "price": "$26,895",
+    "sutherlins_price": "$23,988",
+    "mileage": "33,322 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SEL",
+    "vin": "5NMS2DAJ9PH626982",
+    "stock": "P13239",
+    "exterior": "Serenity White Pearl",
+    "interior": "Black",
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL64JA2SA462384&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7fec6ef9431467a8057d61b9351fd1c.jpg",
-    "price": "$28,995",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH626982&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS01_640/2023HYS010096_640_01.jpg",
+    "price": "$24,550",
     "sutherlins_price": "$23,988",
-    "mileage": "17,487 Miles"
+    "mileage": "47,588 Miles"
   },
   {
     "category": "used",
@@ -190,7 +205,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC800636&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/50bd5e8ee616489c92b1b7f813a13c4d.jpg",
-    "price": "$25,988",
+    "price": "$24,898",
     "sutherlins_price": "$25,988",
     "mileage": "7,335 Miles"
   },
@@ -235,7 +250,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC3NW121216&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27270e49dd5415aa83598115d3b0617.jpg",
-    "price": "$26,597",
+    "price": "$25,995",
     "sutherlins_price": "$26,597",
     "mileage": "34,417 Miles"
   },
@@ -340,7 +355,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1NN648164&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/52d92497576c45aa9aa06e70a874fbc6.jpg",
-    "price": "$28,498",
+    "price": "$26,995",
     "sutherlins_price": "$28,498",
     "mileage": "47,406 Miles"
   },
@@ -445,7 +460,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ6PN618967&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c4c185983de24cc08c5ba3933402f3e9.jpg",
-    "price": "$30,498",
+    "price": "$29,798",
     "sutherlins_price": "$30,498",
     "mileage": "23,866 Miles"
   },
@@ -463,20 +478,5 @@
     "price": "$34,875",
     "sutherlins_price": "$30,898",
     "mileage": "35,525 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Frontier PRO-4X",
-    "vin": "1N6ED1EK7NN633838",
-    "stock": "P13258",
-    "exterior": "Baja Storm",
-    "interior": "Charcoal w/Lava Red Stit",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK7NN633838&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/55d639d3d2fd4f44819c96380b44c5f3.jpg",
-    "price": "$35,750",
-    "sutherlins_price": "$31,619",
-    "mileage": "69,433 Miles"
   }
 ]

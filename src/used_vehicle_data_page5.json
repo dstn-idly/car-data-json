@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK7NN633838",
+    "stock": "P13258",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK7NN633838&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/55d639d3d2fd4f44819c96380b44c5f3.jpg",
+    "price": "$35,750",
+    "sutherlins_price": "$31,619",
+    "mileage": "69,433 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Frontier SV",
     "vin": "1N6ED1EJ9RN647382",
     "stock": "P13255",
@@ -25,7 +40,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC298088&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9b34e52b901d4ec39402e0c361fd07b4.jpg",
-    "price": "$31,995",
+    "price": "$29,995",
     "sutherlins_price": "$31,995",
     "mileage": "14,354 Miles"
   },
@@ -253,20 +268,5 @@
     "price": "$94,896",
     "sutherlins_price": "$84,999",
     "mileage": "7,192 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Hyundai Tucson SEL Plus",
-    "vin": "KM8J33A45JU648325",
-    "stock": "T24393B",
-    "exterior": "Black Noir Pearl",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A45JU648325&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018HYS02_640/2018HYS020003_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "44,704 Miles"
   }
 ]
