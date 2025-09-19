@@ -215,7 +215,7 @@
     "vin": "3N1CP5CV8NL474563",
     "stock": "KP1061A",
     "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Blk Clth",
+    "interior": "N/A",
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8NL474563&source=BUP",
@@ -223,6 +223,21 @@
     "price": "$16,489",
     "sutherlins_price": "$14,995",
     "mileage": "100,103 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue SL",
+    "vin": "JN8AT2MT4JW488447",
+    "stock": "P13188",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT4JW488447&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/469a61693ba24a95ac780f1a264bc93e.jpg",
+    "price": "$19,995",
+    "sutherlins_price": "$15,459",
+    "mileage": "71,769 Miles"
   },
   {
     "category": "used",
@@ -238,21 +253,6 @@
     "price": "$16,725",
     "sutherlins_price": "$15,498",
     "mileage": "45,632 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2013 Nissan 370Z Base",
-    "vin": "JN1AZ4EH0DM381558",
-    "stock": "T24393A",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Gas V6 3.7L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AZ4EH0DM381558&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6a17c221bd3343deb6f38c1775a823a1.jpg",
-    "price": "$20,995",
-    "sutherlins_price": "$15,988",
-    "mileage": "55,687 Miles"
   },
   {
     "category": "used",
