@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CW5LW367489&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bd9f9b6ce7d7485da6bb2c5ed069a25b.jpg",
     "price": "$19,995",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$15,944",
     "mileage": "76,549 Miles"
   },
   {
@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3KC211486&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e701de18569b4636889b47c980c8d2e8.jpg",
     "price": "$21,075",
-    "sutherlins_price": "$17,469",
+    "sutherlins_price": "$16,671",
     "mileage": "42,227 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
     "price": "$21,648",
-    "sutherlins_price": "$17,498",
+    "sutherlins_price": "$16,784",
     "mileage": "66,855 Miles"
   },
   {
@@ -131,23 +131,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY220989&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b134e35d2a914d18b9d5edeba17034b5.jpg",
     "price": "$21,300",
-    "sutherlins_price": "$17,698",
+    "sutherlins_price": "$16,757",
     "mileage": "51,836 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2021 Nissan Sentra SR",
-    "vin": "3N1AB8DVXMY229741",
-    "stock": "P13232",
-    "exterior": "Gun Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DVXMY229741&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45be0526e9cc466ba59a21f8fe4f5bc5.jpg",
-    "price": "$20,025",
-    "sutherlins_price": "$17,995",
-    "mileage": "59,789 Miles"
   },
   {
     "category": "cpo",
@@ -161,8 +146,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4PC901030&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c4d87fc72d5a46f090447a6558ecf52a.jpg",
     "price": "$23,475",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$17,498",
     "mileage": "64,267 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Sentra SR",
+    "vin": "3N1AB8DVXMY229741",
+    "stock": "P13232",
+    "exterior": "Gun Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DVXMY229741&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45be0526e9cc466ba59a21f8fe4f5bc5.jpg",
+    "price": "$20,025",
+    "sutherlins_price": "$16,557",
+    "mileage": "59,789 Miles"
   },
   {
     "category": "cpo",
@@ -221,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY245102&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ef8111a59464ed6bc2fca29f5b3efad.jpg",
     "price": "$22,450",
-    "sutherlins_price": "$19,888",
+    "sutherlins_price": "$17,995",
     "mileage": "32,558 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN337899&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fbd49c54e454334b33cd13d7284c2eb.jpg",
     "price": "$24,750",
-    "sutherlins_price": "$19,898",
+    "sutherlins_price": "$18,995",
     "mileage": "42,886 Miles"
   },
   {
@@ -266,7 +266,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV3PL517420&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/37aedc4a837f4e6e8fa9df91533f93f8.jpg",
     "price": "$19,880",
-    "sutherlins_price": "$20,498",
+    "sutherlins_price": "$19,880",
     "mileage": "10,572 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
     "price": "$25,025",
-    "sutherlins_price": "$20,598",
+    "sutherlins_price": "$19,995",
     "mileage": "39,094 Miles"
   },
   {
@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC682501&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/55f6cc3264bc48dd8c26b6415b1b882a.jpg",
     "price": "$24,775",
-    "sutherlins_price": "$20,698",
+    "sutherlins_price": "$19,995",
     "mileage": "51,416 Miles"
   },
   {
@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV6NW347554&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/80b1d950d0b24cdab6f002b961679715.jpg",
     "price": "$19,794",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$19,794",
     "mileage": "22,451 Miles"
   },
   {
@@ -326,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
     "price": "$24,550",
-    "sutherlins_price": "$22,888",
+    "sutherlins_price": "$20,769",
     "mileage": "53,501 Miles"
   },
   {
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AAXSC674873&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/528dadd5926e4ebebb81beadbd51781b.jpg",
     "price": "$29,498",
-    "sutherlins_price": "$24,988",
+    "sutherlins_price": "$23,598",
     "mileage": "10,463 Miles"
   },
   {
@@ -401,7 +401,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA6SC785968&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d8f4fd8c45ac4c1da634b105204e82c1.jpg",
     "price": "$31,698",
-    "sutherlins_price": "$25,988",
+    "sutherlins_price": "$25,498",
     "mileage": "4,025 Miles"
   },
   {
