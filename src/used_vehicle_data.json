@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$17,498",
-    "mileage": "67,655 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV8PY312641",
     "stock": "P13244",
@@ -478,6 +463,21 @@
     "price": "$19,950",
     "sutherlins_price": "$17,498",
     "mileage": "56,291 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$17,498",
+    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
@@ -1577,21 +1577,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue Platinum",
-    "vin": "JN8BT3DC3NW121216",
-    "stock": "25508A",
-    "exterior": "Champagne Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC3NW121216&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27270e49dd5415aa83598115d3b0617.jpg",
-    "price": "$31,246",
-    "sutherlins_price": "$25,995",
-    "mileage": "34,417 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SR",
     "vin": "3N1AB8DV4RY389394",
     "stock": "P13279",
@@ -1607,18 +1592,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Frontier PRO-X",
-    "vin": "1N6ED1EJ1NN648164",
-    "stock": "25678A",
-    "exterior": "Super Black",
-    "interior": "Charcoal w/Lava Red Stit",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1NN648164&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/52d92497576c45aa9aa06e70a874fbc6.jpg",
-    "price": "$34,950",
-    "sutherlins_price": "$26,995",
-    "mileage": "47,406 Miles"
+    "name": "2022 Nissan Rogue Platinum",
+    "vin": "JN8BT3DC3NW121216",
+    "stock": "25508A",
+    "exterior": "Champagne Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC3NW121216&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27270e49dd5415aa83598115d3b0617.jpg",
+    "price": "$31,246",
+    "sutherlins_price": "$25,995",
+    "mileage": "34,417 Miles"
   },
   {
     "category": "used",
@@ -1634,6 +1619,21 @@
     "price": "$28,865",
     "sutherlins_price": "$26,995",
     "mileage": "48,963 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ1NN648164",
+    "stock": "25678A",
+    "exterior": "Super Black",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1NN648164&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/52d92497576c45aa9aa06e70a874fbc6.jpg",
+    "price": "$34,950",
+    "sutherlins_price": "$26,995",
+    "mileage": "47,406 Miles"
   },
   {
     "category": "used",
