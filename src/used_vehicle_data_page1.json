@@ -175,7 +175,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV4LW274387&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d2f1fc3505349bd8965b5d1a5e83676.jpg",
-    "price": "$13,986",
+    "price": "$17,489",
     "sutherlins_price": "$13,986",
     "mileage": "69,999 Miles"
   },
@@ -241,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SV",
-    "vin": "3N1CP5CV7LL548634",
-    "stock": "25460A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7LL548634&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d8f9a3215949449197b6750781a25a77.jpg",
-    "price": "$16,725",
-    "sutherlins_price": "$15,498",
-    "mileage": "45,632 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Rogue Sport SV",
     "vin": "JN1BJ1CW5LW367489",
     "stock": "P13231",
@@ -295,7 +280,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCHSBEAXK1172771&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd1a5ed0ab3d47e7a64c8e4240c760e0.jpg",
-    "price": "$15,995",
+    "price": "$22,478",
     "sutherlins_price": "$15,995",
     "mileage": "67,615 Miles"
   },
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Versa SV",
-    "vin": "3N1CN8EV9SL830826",
-    "stock": "P13247",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9SL830826&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/85ef59717c3e477589f221e88ef2cb8f.jpg",
-    "price": "$21,850",
-    "sutherlins_price": "$16,995",
-    "mileage": "8,175 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV8PL474937",
     "stock": "P13180",
@@ -478,5 +448,35 @@
     "price": "$23,475",
     "sutherlins_price": "$17,498",
     "mileage": "64,267 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$17,498",
+    "mileage": "67,655 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV8PY312641",
+    "stock": "P13244",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8PY312641&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f391db521ce04aacbbdc60723b56aee8.jpg",
+    "price": "$19,950",
+    "sutherlins_price": "$17,498",
+    "mileage": "56,291 Miles"
   }
 ]
