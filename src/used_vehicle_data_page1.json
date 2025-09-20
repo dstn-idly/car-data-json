@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Sentra S",
+    "vin": "3N1AB7AP4KY372827",
+    "stock": "25841A",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP4KY372827&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC06_640/2019NIC060048_640_01.jpg",
+    "price": "$9,578",
+    "sutherlins_price": "$7,995",
+    "mileage": "132,551 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Sentra SV",
     "vin": "3N1AB7AP8JY296494",
     "stock": "25897A",
@@ -226,18 +241,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Kicks SV",
-    "vin": "3N1CP5CV8NL474563",
-    "stock": "KP1061A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "N/A",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8NL474563&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS26_640/2022NIS260138_640_01.jpg",
-    "price": "$16,489",
-    "sutherlins_price": "$14,995",
-    "mileage": "100,103 Miles"
+    "name": "2018 Kia Optima EX",
+    "vin": "5XXGU4L36JG220100",
+    "stock": "25875A",
+    "exterior": "Titanium Silver",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGU4L36JG220100&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018KIC05_640/2018KIC050018_640_01.jpg",
+    "price": "$17,725",
+    "sutherlins_price": "$14,898",
+    "mileage": "45,952 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$19,950",
     "sutherlins_price": "$17,498",
     "mileage": "56,291 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$17,498",
-    "mileage": "67,655 Miles"
   }
 ]
