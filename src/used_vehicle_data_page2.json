@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$17,498",
-    "mileage": "67,655 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV8PY312641",
     "stock": "P13244",
@@ -28,6 +13,21 @@
     "price": "$19,950",
     "sutherlins_price": "$17,498",
     "mileage": "56,291 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$17,498",
+    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Pathfinder Platinum",
-    "vin": "5N1DR2MM7JC646924",
-    "stock": "P13213",
-    "exterior": "Magnetic Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MM7JC646924&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS070003_640/2018NIS070003_640_12.jpg",
-    "price": "$24,850",
-    "sutherlins_price": "$18,988",
-    "mileage": "40,065 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Mazda CX-5 Touring",
     "vin": "JM3KFACM2M0348715",
     "stock": "T25340B",
@@ -286,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV2RN337899",
-    "stock": "P13218",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN337899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fbd49c54e454334b33cd13d7284c2eb.jpg",
-    "price": "$24,750",
-    "sutherlins_price": "$18,995",
-    "mileage": "42,886 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV5PL565275",
     "stock": "25859A",
@@ -316,6 +286,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV2RN337899",
+    "stock": "P13218",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2RN337899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fbd49c54e454334b33cd13d7284c2eb.jpg",
+    "price": "$24,750",
+    "sutherlins_price": "$18,995",
+    "mileage": "42,886 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV7RY228538",
     "stock": "P13284",
@@ -325,7 +310,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7RY228538&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
-    "price": "$19,498",
+    "price": "$21,700",
     "sutherlins_price": "$19,498",
     "mileage": "29,763 Miles"
   },
@@ -370,7 +355,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV6NW347554&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/80b1d950d0b24cdab6f002b961679715.jpg",
-    "price": "$19,794",
+    "price": "$25,250",
     "sutherlins_price": "$19,794",
     "mileage": "22,451 Miles"
   },
@@ -385,7 +370,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV3PL517420&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/37aedc4a837f4e6e8fa9df91533f93f8.jpg",
-    "price": "$19,880",
+    "price": "$23,875",
     "sutherlins_price": "$19,880",
     "mileage": "10,572 Miles"
   },
@@ -415,7 +400,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV2PL541211&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260096_640_01.jpg",
-    "price": "$19,989",
+    "price": "$21,975",
     "sutherlins_price": "$19,989",
     "mileage": "40,411 Miles"
   },
@@ -430,7 +415,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL478220&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260096_640_01.jpg",
-    "price": "$19,992",
+    "price": "$20,725",
     "sutherlins_price": "$19,992",
     "mileage": "27,460 Miles"
   },
@@ -445,7 +430,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC682501&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/55f6cc3264bc48dd8c26b6415b1b882a.jpg",
-    "price": "$24,775",
+    "price": "$25,200",
     "sutherlins_price": "$19,995",
     "mileage": "51,416 Miles"
   },
@@ -469,14 +454,29 @@
     "name": "2018 Honda Pilot EX-L",
     "vin": "5FNYF5H55JB026837",
     "stock": "25959A",
-    "exterior": "",
-    "interior": "N/A",
+    "exterior": "White Diamond Pearl",
+    "interior": "Beige",
     "engine": "Regular Unleaded V-6 3.5 L/212",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF5H55JB026837&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/577cc2dec688471f95b5efdfbc7b920a.jpg",
-    "price": "$19,995",
+    "price": "$20,425",
     "sutherlins_price": "$19,995",
     "mileage": "86,208 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SR",
+    "vin": "3N1CP5DV0PL522722",
+    "stock": "P13275",
+    "exterior": "Monarch Orange Metallic/Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV0PL522722&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260005_640_01.jpg",
+    "price": "$19,995",
+    "sutherlins_price": "$19,995",
+    "mileage": "27,145 Miles"
   }
 ]
