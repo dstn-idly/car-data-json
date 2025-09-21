@@ -311,23 +311,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV3PL517420&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/37aedc4a837f4e6e8fa9df91533f93f8.jpg",
     "price": "$23,875",
-    "sutherlins_price": "$19,880",
+    "sutherlins_price": "$19,777",
     "mileage": "10,572 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Sentra SR",
-    "vin": "3N1AB8DV4RY262399",
-    "stock": "P13217",
-    "exterior": "Atlantic Gray Metallic/Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
-    "price": "$25,025",
-    "sutherlins_price": "$19,995",
-    "mileage": "39,094 Miles"
   },
   {
     "category": "cpo",
@@ -343,6 +328,21 @@
     "price": "$25,200",
     "sutherlins_price": "$19,995",
     "mileage": "51,416 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Sentra SR",
+    "vin": "3N1AB8DV4RY262399",
+    "stock": "P13217",
+    "exterior": "Atlantic Gray Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
+    "price": "$25,025",
+    "sutherlins_price": "$19,995",
+    "mileage": "39,094 Miles"
   },
   {
     "category": "cpo",
@@ -596,7 +596,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA0RC221748&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/41c5c240cbfc44f59f313629ff295ae5.jpg",
     "price": "$33,989",
-    "sutherlins_price": "$27,498",
+    "sutherlins_price": "$26,748",
     "mileage": "29,911 Miles"
   },
   {
