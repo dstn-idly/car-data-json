@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SR",
-    "vin": "3N1CP5DV1LL537370",
-    "stock": "25620A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV1LL537370&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS26_640/2020NIS260048_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "76,894 Miles"
-  },
-  {
-    "category": "used",
     "name": "2012 Ford Escape XLT",
     "vin": "1FMCU0D79CKC59762",
     "stock": "25895A",
@@ -121,6 +106,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Kicks SR",
+    "vin": "3N1CP5DV1LL537370",
+    "stock": "25620A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV1LL537370&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS26_640/2020NIS260048_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "76,894 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Buick Enclave Leather",
     "vin": "5GAKRBKD3GJ265401",
     "stock": "T25524B",
@@ -133,6 +133,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "272,790 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2008 Chrysler PT Cruiser LX",
+    "vin": "3A8FY48BX8T225582",
+    "stock": "26052A",
+    "exterior": "Silver Steel Metallic",
+    "interior": "Pastel Slate Gray",
+    "engine": "Gas I4 2.4L/148",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3A8FY48BX8T225582&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008CHR005b_640/2008CHR005b_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "129,677 Miles"
   },
   {
     "category": "used",
@@ -178,20 +193,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "24,796 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2008 Chrysler PT Cruiser LX",
-    "vin": "3A8FY48BX8T225582",
-    "stock": "26052A",
-    "exterior": "Silver Steel Metallic",
-    "interior": "Pastel Slate Gray",
-    "engine": "Gas I4 2.4L/148",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3A8FY48BX8T225582&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008CHR005b_640/2008CHR005b_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "129,677 Miles"
   }
 ]
