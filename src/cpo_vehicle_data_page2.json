@@ -131,8 +131,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DD0PW308781&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3826d8f659054517971380901269c1fd.jpg",
     "price": "$32,200",
-    "sutherlins_price": "$28,988",
+    "sutherlins_price": "$27,988",
     "mileage": "38,227 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Pathfinder S",
+    "vin": "5N1DR3AC8PC227426",
+    "stock": "25425A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AC8PC227426&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd76ccec4c1a46a094583b88818d4ab2.jpg",
+    "price": "$31,950",
+    "sutherlins_price": "$28,988",
+    "mileage": "39,414 Miles"
   },
   {
     "category": "cpo",
@@ -148,21 +163,6 @@
     "price": "$39,075",
     "sutherlins_price": "$29,798",
     "mileage": "23,866 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Pathfinder S",
-    "vin": "5N1DR3AC8PC227426",
-    "stock": "25425A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AC8PC227426&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd76ccec4c1a46a094583b88818d4ab2.jpg",
-    "price": "$31,950",
-    "sutherlins_price": "$29,898",
-    "mileage": "39,414 Miles"
   },
   {
     "category": "cpo",
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA6EV0PC501669&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c5553ddfe9c04dd4a3910bbc03d1816d.jpg",
     "price": "$36,995",
-    "sutherlins_price": "$33,898",
+    "sutherlins_price": "$32,988",
     "mileage": "24,529 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BZ4BH7RM367446&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5ea92a1225d445b38d433b8f8ae03420.jpg",
     "price": "$51,995",
-    "sutherlins_price": "$39,988",
+    "sutherlins_price": "$38,988",
     "mileage": "1,228 Miles"
   }
 ]
