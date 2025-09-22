@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$17,498",
-    "mileage": "67,655 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV8PY312641",
     "stock": "P13244",
@@ -388,6 +373,21 @@
     "price": "$19,950",
     "sutherlins_price": "$17,498",
     "mileage": "56,291 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$17,498",
+    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY245102",
+    "stock": "P13215",
+    "exterior": "Rosewood Metallic",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$19,825",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY245102&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ef8111a59464ed6bc2fca29f5b3efad.jpg",
+    "price": "$22,450",
     "sutherlins_price": "$17,995",
-    "mileage": "62,987 Miles"
+    "mileage": "32,558 Miles"
   }
 ]
