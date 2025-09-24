@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Nissan Rogue SV",
-    "vin": "JN8AT2MT0KW266490",
-    "stock": "P13253",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Almond",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT0KW266490&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b11e4e97146e4bbaaec8240dc6459fcc.jpg",
-    "price": "$18,800",
-    "sutherlins_price": "$17,898",
-    "mileage": "54,141 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CV8NY235203",
     "stock": "P13199",
@@ -43,21 +28,6 @@
     "price": "$19,989",
     "sutherlins_price": "$17,988",
     "mileage": "82,224 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CV8LW543605",
-    "stock": "25305B",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV8LW543605&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS17_640/2020NIS170048_640_01.jpg",
-    "price": "$20,175",
-    "sutherlins_price": "$17,995",
-    "mileage": "70,112 Miles"
   },
   {
     "category": "used",
@@ -151,6 +121,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV9NY295183",
+    "stock": "25695A",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9NY295183&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d95e6f278f2475b937cd8b9350cfcf3.jpg",
+    "price": "$18,995",
+    "sutherlins_price": "$18,995",
+    "mileage": "26,908 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Toyota Corolla LE",
     "vin": "JTDEPMAE0MJ160088",
     "stock": "P13250",
@@ -163,6 +148,21 @@
     "price": "$21,350",
     "sutherlins_price": "$18,995",
     "mileage": "29,740 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV7RY231005",
+    "stock": "26039A",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY231005&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f7ff7587c2a47c4a819a13aaa8de83d.jpg",
+    "price": "$18,995",
+    "sutherlins_price": "$18,995",
+    "mileage": "17,568 Miles"
   },
   {
     "category": "used",
@@ -249,7 +249,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV2PL541211&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ad77e30e7ede46459c6930ff94f99645.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1196ad5bddb4d6aa30be224c1305fcb.jpg",
     "price": "$21,975",
     "sutherlins_price": "$19,989",
     "mileage": "40,411 Miles"
@@ -264,7 +264,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL478220&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/072fefa2140f454480248d0d533b95d8.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b75471c0efa446b189024bb25d16a6f3.jpg",
     "price": "$20,725",
     "sutherlins_price": "$19,992",
     "mileage": "27,460 Miles"
@@ -316,6 +316,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Rogue Sport S",
+    "vin": "JN1BJ1AV0MW322827",
+    "stock": "26023A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AV0MW322827&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d3b2125c9db74fde9ec4737739361779.jpg",
+    "price": "$19,995",
+    "sutherlins_price": "$19,995",
+    "mileage": "13,771 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Honda Pilot EX-L",
     "vin": "5FNYF5H55JB026837",
     "stock": "25959A",
@@ -339,7 +354,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV0PL522722&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/205590a30774455e9b42ad836edac293.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ad71640e7447495cbcdf93d29e22fdae.jpg",
     "price": "$19,995",
     "sutherlins_price": "$19,995",
     "mileage": "27,145 Miles"
@@ -399,25 +414,25 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB8PC949608&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a16af58c92fe4adfa24fde281c94a3a9.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/34fd306310234d099a494b24d1fc5d8a.jpg",
     "price": "$20,798",
     "sutherlins_price": "$20,798",
     "mileage": "31,467 Miles"
   },
   {
     "category": "used",
-    "name": "2023 Jeep Renegade Altitude",
-    "vin": "ZACNJDE17PPP23485",
-    "stock": "25916A",
-    "exterior": "Alpine White Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 1.3 L/81",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDE17PPP23485&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3da67055060b4e4281f5b2cdaccb9fc4.jpg",
-    "price": "$26,750",
-    "sutherlins_price": "$20,798",
-    "mileage": "5,741 Miles"
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DVXRN388387",
+    "stock": "P13292",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DVXRN388387&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f0552eb446014ba69046c7f418f50005.jpg",
+    "price": "$20,898",
+    "sutherlins_price": "$20,898",
+    "mileage": "45,233 Miles"
   },
   {
     "category": "used",
@@ -429,7 +444,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN322095&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/53d94d32d1e3471eacd379a926b4a9e8.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dcca0cb8494f4e95a71f68ecd705e10a.jpg",
     "price": "$23,000",
     "sutherlins_price": "$20,898",
     "mileage": "55,085 Miles"
@@ -463,20 +478,5 @@
     "price": "$24,750",
     "sutherlins_price": "$20,988",
     "mileage": "33,729 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN313741",
-    "stock": "P13262",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
-    "price": "$23,895",
-    "sutherlins_price": "$20,995",
-    "mileage": "56,244 Miles"
   }
 ]
