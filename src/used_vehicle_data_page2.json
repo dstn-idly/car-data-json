@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CV8NY235203",
-    "stock": "P13199",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY235203&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e105196788f04587b4a2c8b3c69a190a.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "10,648 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV1NN367441",
     "stock": "P13238",
@@ -31,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$17,995",
-    "mileage": "62,987 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY245102",
     "stock": "P13215",
@@ -58,6 +28,21 @@
     "price": "$22,450",
     "sutherlins_price": "$17,995",
     "mileage": "32,558 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY244899",
+    "stock": "P13290",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$17,995",
+    "mileage": "62,987 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$24,750",
     "sutherlins_price": "$20,988",
     "mileage": "33,729 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BA4PW407371",
+    "stock": "P13267",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA4PW407371&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2833860781724136a0574ad2db33fbc6.jpg",
+    "price": "$23,575",
+    "sutherlins_price": "$20,995",
+    "mileage": "66,735 Miles"
   }
 ]
