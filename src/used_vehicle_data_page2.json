@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV5PL565275",
-    "stock": "25859A",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL565275&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/043476743a6342f7acb6fb6c40f631c2.jpg",
-    "price": "$18,598",
-    "sutherlins_price": "$18,598",
-    "mileage": "17,687 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV9RY231778",
-    "stock": "P13251",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9RY231778&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40176d942c1d4776b1b1120829c414af.jpg",
-    "price": "$21,450",
-    "sutherlins_price": "$18,898",
-    "mileage": "31,431 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Mazda CX-5 Touring",
     "vin": "JM3KFACM2M0348715",
     "stock": "T25340B",
@@ -309,7 +279,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AV0MW322827&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d3b2125c9db74fde9ec4737739361779.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a10b644d7164a4ea0900729827b4c16.jpg",
     "price": "$21,750",
     "sutherlins_price": "$19,995",
     "mileage": "13,771 Miles"
@@ -331,6 +301,21 @@
   },
   {
     "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV9SY280419",
+    "stock": "P13301",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY280419&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/356e7240314c4f84bc2cc68e951db274.jpg",
+    "price": "$23,680",
+    "sutherlins_price": "$19,995",
+    "mileage": "10,766 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV0PL522722",
     "stock": "P13275",
@@ -343,21 +328,6 @@
     "price": "$19,995",
     "sutherlins_price": "$19,995",
     "mileage": "27,145 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV9SY280419",
-    "stock": "P13301",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY280419&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC061924644_640_01.jpg",
-    "price": "$23,680",
-    "sutherlins_price": "$19,995",
-    "mileage": "10,766 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$24,750",
     "sutherlins_price": "$20,988",
     "mileage": "33,729 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BA4PW407371",
+    "stock": "P13267",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA4PW407371&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2833860781724136a0574ad2db33fbc6.jpg",
+    "price": "$23,575",
+    "sutherlins_price": "$20,995",
+    "mileage": "66,735 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN313741",
+    "stock": "P13262",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
+    "price": "$23,895",
+    "sutherlins_price": "$20,995",
+    "mileage": "56,244 Miles"
   }
 ]
