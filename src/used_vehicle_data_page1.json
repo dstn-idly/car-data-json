@@ -25,9 +25,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJN2A28F7177476&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015KIC10_640/2015KIC100001_640_01.jpg",
-    "price": "$5,988",
+    "price": "$8,150",
     "sutherlins_price": "$5,988",
-    "mileage": "N/A"
+    "mileage": "124,670 Miles"
   },
   {
     "category": "used",
@@ -88,6 +88,21 @@
     "price": "$11,550",
     "sutherlins_price": "$9,988",
     "mileage": "139,001 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Sentra S",
+    "vin": "3N1AB7AP2HY254834",
+    "stock": "26027A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP2HY254834&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC060002_640/2017NIC060002_640_01.jpg",
+    "price": "$10,625",
+    "sutherlins_price": "$9,995",
+    "mileage": "73,884 Miles"
   },
   {
     "category": "used",
@@ -385,24 +400,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU7P7210873&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023KIC10_640/2023KIC100096_640_01.jpg",
-    "price": "$17,988",
+    "price": "$19,050",
     "sutherlins_price": "$17,988",
     "mileage": "79,744 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$17,995",
-    "mileage": "62,987 Miles"
   },
   {
     "category": "used",
@@ -418,6 +418,21 @@
     "price": "$22,450",
     "sutherlins_price": "$17,995",
     "mileage": "32,558 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY244899",
+    "stock": "P13290",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$17,995",
+    "mileage": "62,987 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$21,450",
     "sutherlins_price": "$18,898",
     "mileage": "31,431 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Mazda CX-5 Touring",
-    "vin": "JM3KFACM2M0348715",
-    "stock": "T25340B",
-    "exterior": "Sonic Silver Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3KFACM2M0348715&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/820a5af22527434b85a343b592b25ef5.jpg",
-    "price": "$22,786",
-    "sutherlins_price": "$18,989",
-    "mileage": "68,625 Miles"
   }
 ]
