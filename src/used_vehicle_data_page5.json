@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Armada SL",
-    "vin": "JN8AY2BA9P9400888",
-    "stock": "P13288",
-    "exterior": "Hermosa Blue Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA9P9400888&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d9478e608d464d60baeae2ddb034c1d4.jpg",
-    "price": "$36,400",
-    "sutherlins_price": "$33,995",
-    "mileage": "78,608 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Frontier PRO-X",
     "vin": "1N6ED1EJ5NN663699",
     "stock": "25092A",
@@ -24,7 +9,7 @@
     "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ5NN663699&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/765c7350db584025a390a1b35e93f689.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc76e5e8e3dd4d2882efc5162c57a4af.jpg",
     "price": "$36,550",
     "sutherlins_price": "$33,995",
     "mileage": "24,796 Miles"
@@ -219,7 +204,7 @@
     "engine": "Intercooled Turbo Premium Unleaded I-6 3.0 L/183",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WZ1DB0C05NW051894&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022TOC13_640/2022TOC130001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6759747b444b4eb2b4a0e389879f0cfc.jpg",
     "price": "$57,350",
     "sutherlins_price": "$49,995",
     "mileage": "29,902 Miles"
@@ -238,5 +223,65 @@
     "price": "$94,896",
     "sutherlins_price": "$84,999",
     "mileage": "7,192 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks S",
+    "vin": "3N1CP5BV7PL544980",
+    "stock": "25885A",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV7PL544980&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260029_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "22,533 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2008 Volvo XC90 I6",
+    "vin": "YV4CZ982081482193",
+    "stock": "P13188A",
+    "exterior": "White",
+    "interior": "N/A",
+    "engine": "Gas I6 3.2L/195",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=YV4CZ982081482193&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008VLV009a_640/2008VLV009a_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "263,775 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1CP7JW104653",
+    "stock": "25673A",
+    "exterior": "Brilliant Silver",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7JW104653&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS170001_640/2018NIS170001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "62,196 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Mercedes-Benz GLS 550",
+    "vin": "4JGDF7DE4HA810490",
+    "stock": "P13313A",
+    "exterior": "Blue",
+    "interior": "Cashmere",
+    "engine": "Twin Turbo Premium Unleaded V-8 4.7 L/285",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGDF7DE4HA810490&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017MBS640001_640/2017MBS640001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "72,650 Miles"
   }
 ]

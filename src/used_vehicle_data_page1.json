@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Pathfinder SV",
-    "vin": "5N1DR2BMXLC610912",
-    "stock": "25992A",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2BMXLC610912&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS07_640/2020NIS070001_640_01.jpg",
-    "price": "$12,988",
-    "sutherlins_price": "$12,988",
-    "mileage": "116,756 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Honda HR-V EX-L Navi",
     "vin": "3CZRU5H74JM721280",
     "stock": "P13145A",
@@ -133,21 +118,6 @@
     "price": "$13,498",
     "sutherlins_price": "$13,498",
     "mileage": "88,176 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Nissan Rogue SL",
-    "vin": "JN8AT2MT4JW488447",
-    "stock": "P13188",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT4JW488447&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/469a61693ba24a95ac780f1a264bc93e.jpg",
-    "price": "$19,995",
-    "sutherlins_price": "$13,988",
-    "mileage": "71,769 Miles"
   },
   {
     "category": "used",
@@ -316,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV0RY220989",
-    "stock": "P13202",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY220989&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b134e35d2a914d18b9d5edeba17034b5.jpg",
-    "price": "$21,300",
-    "sutherlins_price": "$16,988",
-    "mileage": "51,836 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV3KC211486",
     "stock": "P13208",
@@ -343,6 +298,21 @@
     "price": "$21,075",
     "sutherlins_price": "$16,988",
     "mileage": "42,227 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY220989",
+    "stock": "P13202",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY220989&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b134e35d2a914d18b9d5edeba17034b5.jpg",
+    "price": "$21,300",
+    "sutherlins_price": "$16,988",
+    "mileage": "51,836 Miles"
   },
   {
     "category": "used",
@@ -459,10 +429,25 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9NY295183&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d95e6f278f2475b937cd8b9350cfcf3.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b42c230cf24d4b77aab1cc28bb36e58d.jpg",
     "price": "$20,700",
     "sutherlins_price": "$17,995",
     "mileage": "26,908 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY244899",
+    "stock": "P13290",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$17,995",
+    "mileage": "62,987 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$22,450",
     "sutherlins_price": "$17,995",
     "mileage": "32,558 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV5PL565275",
+    "stock": "25859A",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL565275&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/043476743a6342f7acb6fb6c40f631c2.jpg",
+    "price": "$17,995",
+    "sutherlins_price": "$17,995",
+    "mileage": "17,687 Miles"
   }
 ]
