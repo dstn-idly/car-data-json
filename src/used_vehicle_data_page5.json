@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CP7JW104653",
-    "stock": "25673A",
-    "exterior": "Brilliant Silver",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7JW104653&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS170001_640/2018NIS170001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "62,196 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Mercedes-Benz GLS 550",
     "vin": "4JGDF7DE4HA810490",
     "stock": "P13313A",
@@ -283,5 +268,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "72,650 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1CP7JW104653",
+    "stock": "25673A",
+    "exterior": "Brilliant Silver",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7JW104653&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS170001_640/2018NIS170001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "62,196 Miles"
   }
 ]
