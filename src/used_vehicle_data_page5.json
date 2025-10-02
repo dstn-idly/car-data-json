@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA5RC242271",
+    "stock": "P13307",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA5RC242271&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071937596_640_01.jpg",
+    "price": "$34,675",
+    "sutherlins_price": "$32,988",
+    "mileage": "42,155 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Maxima SR",
     "vin": "1N4AA6EV0PC501669",
     "stock": "P13222",
@@ -84,7 +99,7 @@
     "engine": "Premium Unleaded V-8 5.6 L/339",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED4MN525099&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/795bd9611ce04709a3f0fb8e1bb598c3.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3bf3fbcde5d445878fb36846f5945b6c.jpg",
     "price": "$41,175",
     "sutherlins_price": "$35,988",
     "mileage": "58,395 Miles"
@@ -271,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Nissan Murano SL",
-    "vin": "5N1AZ2MG1GN107404",
-    "stock": "25939A",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG1GN107404&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIS020004_640/2016NIS020004_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "140,986 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Hyundai Santa Fe SE",
     "vin": "5NMS23AD8LH154823",
     "stock": "26071A",
@@ -298,35 +298,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "52,861 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 BMW 3 Series 330e iPerformance",
-    "vin": "WBA8E1C55JA180280",
-    "stock": "KP1070",
-    "exterior": "Jet Black",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Gas/Electric I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA8E1C55JA180280&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018BMC710001_640/2018BMC710001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "124,829 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Nissan Versa Sedan S Plus",
-    "vin": "3N1CN7AP8JL823995",
-    "stock": "25922A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP8JL823995&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIC100001_640/2018NIC100001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "84,670 Miles"
   }
 ]

@@ -46,6 +46,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Nissan Versa Sedan S Plus",
+    "vin": "3N1CN7AP8JL823995",
+    "stock": "25922A",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP8JL823995&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIC100001_640/2018NIC100001_640_01.jpg",
+    "price": "$8,595",
+    "sutherlins_price": "$6,995",
+    "mileage": "84,670 Miles"
+  },
+  {
+    "category": "used",
     "name": "2010 Honda Civic Sdn LX",
     "vin": "2HGFA1F51AH539418",
     "stock": "25602B",
@@ -58,6 +73,21 @@
     "price": "$7,995",
     "sutherlins_price": "$7,995",
     "mileage": "99,315 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Nissan Murano SL",
+    "vin": "5N1AZ2MG1GN107404",
+    "stock": "25939A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG1GN107404&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIS020004_640/2016NIS020004_640_01.jpg",
+    "price": "$10,025",
+    "sutherlins_price": "$8,995",
+    "mileage": "140,986 Miles"
   },
   {
     "category": "used",
@@ -286,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV3KC211486",
-    "stock": "P13208",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3KC211486&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e701de18569b4636889b47c980c8d2e8.jpg",
-    "price": "$21,075",
-    "sutherlins_price": "$16,988",
-    "mileage": "42,227 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY220989",
     "stock": "P13202",
@@ -313,6 +328,21 @@
     "price": "$21,300",
     "sutherlins_price": "$16,988",
     "mileage": "51,836 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV3KC211486",
+    "stock": "P13208",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3KC211486&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e701de18569b4636889b47c980c8d2e8.jpg",
+    "price": "$21,075",
+    "sutherlins_price": "$16,988",
+    "mileage": "42,227 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$22,450",
     "sutherlins_price": "$17,995",
     "mileage": "32,558 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$17,995",
-    "mileage": "62,987 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV5PL565275",
-    "stock": "25859A",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL565275&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/043476743a6342f7acb6fb6c40f631c2.jpg",
-    "price": "$17,995",
-    "sutherlins_price": "$17,995",
-    "mileage": "17,687 Miles"
   }
 ]
