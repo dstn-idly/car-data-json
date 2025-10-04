@@ -271,18 +271,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV5RL484148",
-    "stock": "P13179",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL484148&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0adef306da574a57bd386de5d919dbab.jpg",
-    "price": "$21,995",
-    "sutherlins_price": "$16,498",
-    "mileage": "26,970 Miles"
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$15,988",
+    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
@@ -298,21 +298,6 @@
     "price": "$21,648",
     "sutherlins_price": "$16,784",
     "mileage": "66,855 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$16,798",
-    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
@@ -391,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV5RL484148",
+    "stock": "P13179",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL484148&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0adef306da574a57bd386de5d919dbab.jpg",
+    "price": "$21,995",
+    "sutherlins_price": "$16,988",
+    "mileage": "26,970 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV3KC211486",
     "stock": "P13208",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CV8NY235203",
-    "stock": "P13199",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY235203&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/28c3fab9d0154ffdacf0e57fd08a6c56.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "10,656 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV7PL479305",
     "stock": "26029A",
@@ -478,5 +463,20 @@
     "price": "$17,988",
     "sutherlins_price": "$17,988",
     "mileage": "24,544 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV8NY235203",
+    "stock": "P13199",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8NY235203&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/28c3fab9d0154ffdacf0e57fd08a6c56.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "10,656 Miles"
   }
 ]
