@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Pathfinder S",
+    "vin": "5N1DR3AC8PC227426",
+    "stock": "25425A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AC8PC227426&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd76ccec4c1a46a094583b88818d4ab2.jpg",
+    "price": "$31,950",
+    "sutherlins_price": "$28,988",
+    "mileage": "39,414 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Frontier S",
     "vin": "1N6ED1EK1NN623872",
     "stock": "25963A",
@@ -115,7 +130,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC3RU142323&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024GSC03_640/2024GSC031974560_640_01.jpg",
-    "price": "$30,898",
+    "price": "$35,150",
     "sutherlins_price": "$30,898",
     "mileage": "20,859 Miles"
   },
@@ -301,6 +316,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Pathfinder Platinum",
+    "vin": "5N1DR3DH0PC200535",
+    "stock": "25768A",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Chestnut",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DH0PC200535&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS07_640/2023NIS070043_640_01.jpg",
+    "price": "$36,898",
+    "sutherlins_price": "$36,898",
+    "mileage": "32,485 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Acura MDX with A-Spec Package",
     "vin": "5J8YE1H02NL048167",
     "stock": "25912A",
@@ -448,35 +478,5 @@
     "price": "$53,825",
     "sutherlins_price": "$46,988",
     "mileage": "60,915 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 RAM 1500 Laramie",
-    "vin": "1C6SRFJP2SN561844",
-    "stock": "P13291",
-    "exterior": "Diamond Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "Twin Turbo Regular Unleaded I-6 3.0 L/183",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFJP2SN561844&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3e6decbbfe774ade9a45b510ccaf6c35.jpg",
-    "price": "$56,675",
-    "sutherlins_price": "$47,995",
-    "mileage": "32,338 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Toyota GR Supra 3.0",
-    "vin": "WZ1DB0C05NW051894",
-    "stock": "KP1068",
-    "exterior": "Nocturnal",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-6 3.0 L/183",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WZ1DB0C05NW051894&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/be854ed2562a4730b9b828ea48606a0f.jpg",
-    "price": "$57,350",
-    "sutherlins_price": "$49,995",
-    "mileage": "29,902 Miles"
   }
 ]
