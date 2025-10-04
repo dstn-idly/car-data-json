@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV7PL479305",
-    "stock": "26029A",
-    "exterior": "Electric Blue Metallic/Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7PL479305&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/84dddae06d1c4377adf84146fd752397.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "24,544 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CV8NY235203",
     "stock": "P13199",
@@ -478,5 +463,20 @@
     "price": "$17,988",
     "sutherlins_price": "$17,988",
     "mileage": "10,656 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV7PL479305",
+    "stock": "26029A",
+    "exterior": "Electric Blue Metallic/Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7PL479305&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/84dddae06d1c4377adf84146fd752397.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "24,544 Miles"
   }
 ]
