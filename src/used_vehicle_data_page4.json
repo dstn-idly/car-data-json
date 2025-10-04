@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Tesla Model 3 Standard Range Plus",
+    "vin": "5YJ3E1EA7MF908488",
+    "stock": "P13261",
+    "exterior": "Deep Blue Metallic",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA7MF908488&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0d7700e8fd4748ca97310f8676a24c02.jpg",
+    "price": "$27,600",
+    "sutherlins_price": "$22,988",
+    "mileage": "48,939 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Hyundai Sonata SEL",
     "vin": "KMHL64JA2SA462384",
     "stock": "P13240",
@@ -61,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Ford Bronco Sport Outer Banks",
+    "vin": "3FMCR9C68MRB13350",
+    "stock": "P13298",
+    "exterior": "Gray Metallic",
+    "interior": "Navy Pier",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9C68MRB13350&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/07413d8b9cc64c3aa8a980c401e07255.jpg",
+    "price": "$24,975",
+    "sutherlins_price": "$22,995",
+    "mileage": "72,518 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Ford Explorer XLT",
     "vin": "1FMSK7DHXLGB71826",
     "stock": "25940A",
@@ -73,36 +103,6 @@
     "price": "$23,450",
     "sutherlins_price": "$22,995",
     "mileage": "54,220 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SL",
-    "vin": "5N1BT3CA1PC678525",
-    "stock": "P13186",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Light Gray",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC678525&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/efc2e13158334dc591737678b34fe794.jpg",
-    "price": "$28,898",
-    "sutherlins_price": "$23,498",
-    "mileage": "36,402 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Ford Bronco Sport Outer Banks",
-    "vin": "3FMCR9C68MRB13350",
-    "stock": "P13298",
-    "exterior": "Gray Metallic",
-    "interior": "Navy Pier",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9C68MRB13350&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/07413d8b9cc64c3aa8a980c401e07255.jpg",
-    "price": "$24,975",
-    "sutherlins_price": "$23,498",
-    "mileage": "72,518 Miles"
   },
   {
     "category": "used",
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA1RC225789&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/646461bbbacf424fb66cf525115ca5a1.jpg",
     "price": "$33,475",
-    "sutherlins_price": "$26,927",
+    "sutherlins_price": "$26,688",
     "mileage": "31,921 Miles"
   },
   {
