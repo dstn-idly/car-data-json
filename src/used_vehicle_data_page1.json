@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Nissan Murano SL",
-    "vin": "5N1AZ2MG1GN107404",
-    "stock": "25939A",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG1GN107404&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIS020004_640/2016NIS020004_640_01.jpg",
-    "price": "$10,025",
-    "sutherlins_price": "$8,995",
-    "mileage": "140,986 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Mazda CX-3 Touring",
     "vin": "JM1DKDC71G0137597",
     "stock": "T24785A",
@@ -286,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$15,988",
-    "mileage": "67,655 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Hyundai Elantra Value Edition",
     "vin": "5NPD84LF6LH595820",
     "stock": "25859B",
@@ -313,6 +283,21 @@
     "price": "$15,988",
     "sutherlins_price": "$15,988",
     "mileage": "20,634 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$15,988",
+    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$21,500",
     "sutherlins_price": "$17,835",
     "mileage": "50,246 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV7PL479305",
+    "stock": "26029A",
+    "exterior": "Electric Blue Metallic/Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7PL479305&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3421ff653f84499c9fd6da64548291e4.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "24,544 Miles"
   }
 ]
