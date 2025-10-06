@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2006 BMW 3 Series 330i",
-    "vin": "WBAVB33516KS33694",
-    "stock": "25673B",
-    "exterior": "Black",
-    "interior": "N/A",
-    "engine": "Gas 6-Cyl 3.0L/183",
-    "transmission": "6-Speed",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAVB33516KS33694&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/6508.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "180,568 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Mitsubishi Lancer ES",
     "vin": "JA32U2FUXHU015272",
     "stock": "26000B",
@@ -58,5 +43,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "150,695 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2006 BMW 3 Series 330i",
+    "vin": "WBAVB33516KS33694",
+    "stock": "25673B",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "Gas 6-Cyl 3.0L/183",
+    "transmission": "6-Speed",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAVB33516KS33694&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/6508.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "180,568 Miles"
   }
 ]
