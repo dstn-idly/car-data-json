@@ -76,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "2013 Hyundai Genesis 3.8L",
+    "vin": "KMHGC4DD6DU224183",
+    "stock": "P13316A",
+    "exterior": "Black Noir Pearl",
+    "interior": "Jet black",
+    "engine": "Gas V6 3.8L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHGC4DD6DU224183&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU010a_640/2013HYU010a_640_01.jpg",
+    "price": "$9,988",
+    "sutherlins_price": "$9,988",
+    "mileage": "65,096 Miles"
+  },
+  {
+    "category": "used",
     "name": "2014 Nissan Rogue SV",
     "vin": "5N1AT2MT9EC872190",
     "stock": "P12816",
@@ -193,6 +208,21 @@
     "price": "$15,960",
     "sutherlins_price": "$13,995",
     "mileage": "79,217 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV5MY260042",
+    "stock": "25860A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV5MY260042&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
+    "price": "$14,988",
+    "sutherlins_price": "$14,988",
+    "mileage": "63,254 Miles"
   },
   {
     "category": "used",
@@ -376,6 +406,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6MN402165",
+    "stock": "25840A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6MN402165&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040059_640_01.jpg",
+    "price": "$16,988",
+    "sutherlins_price": "$16,988",
+    "mileage": "62,126 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV5RL484148",
     "stock": "P13179",
@@ -433,50 +478,5 @@
     "price": "$19,989",
     "sutherlins_price": "$17,988",
     "mileage": "82,224 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Kia Soul S",
-    "vin": "KNDJ23AU7P7210873",
-    "stock": "P13309",
-    "exterior": "Clear White w/Black Roof",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU7P7210873&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0be2b04b3ac54b17ad34cb09fd08178e.jpg",
-    "price": "$19,050",
-    "sutherlins_price": "$17,988",
-    "mileage": "79,744 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Mazda CX-5 Touring",
-    "vin": "JM3KFACM2M0348715",
-    "stock": "T25340B",
-    "exterior": "Sonic Silver Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3KFACM2M0348715&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/820a5af22527434b85a343b592b25ef5.jpg",
-    "price": "$22,786",
-    "sutherlins_price": "$17,988",
-    "mileage": "68,625 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CV9NY295183",
-    "stock": "25695A",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9NY295183&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca317c5806b242a9a500b63a807c73d0.jpg",
-    "price": "$20,700",
-    "sutherlins_price": "$17,995",
-    "mileage": "26,908 Miles"
   }
 ]
