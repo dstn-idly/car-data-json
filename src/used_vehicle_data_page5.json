@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X5 xDrive40i",
-    "vin": "5UXCR6C02L9B49884",
-    "stock": "P13264A",
-    "exterior": "Phytonic Blue Metallic",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-6 3.0 L/183",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXCR6C02L9B49884&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020BMS19_640/2020BMS190033_640_01.jpg",
-    "price": "$34,750",
-    "sutherlins_price": "$33,995",
-    "mileage": "33,112 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Armada SL",
     "vin": "JN8AY2BA9P9400888",
     "stock": "P13288",
@@ -238,6 +223,21 @@
     "price": "$36,400",
     "sutherlins_price": "$33,995",
     "mileage": "78,608 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X5 xDrive40i",
+    "vin": "5UXCR6C02L9B49884",
+    "stock": "P13264A",
+    "exterior": "Phytonic Blue Metallic",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-6 3.0 L/183",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXCR6C02L9B49884&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020BMS19_640/2020BMS190033_640_01.jpg",
+    "price": "$34,750",
+    "sutherlins_price": "$33,995",
+    "mileage": "33,112 Miles"
   },
   {
     "category": "used",
