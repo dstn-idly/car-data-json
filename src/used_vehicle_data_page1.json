@@ -31,6 +31,21 @@
   },
   {
     "category": "used",
+    "name": "2013 Nissan Rogue SL",
+    "vin": "JN8AS5MV7DW611118",
+    "stock": "26018A",
+    "exterior": "Platinum Graphite",
+    "interior": "Gray",
+    "engine": "Gas I4 2.5L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AS5MV7DW611118&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013NIS010a_640/2013NIS010a_640_01.jpg",
+    "price": "$5,995",
+    "sutherlins_price": "$5,995",
+    "mileage": "110,050 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Versa Sedan S Plus",
     "vin": "3N1CN7AP8JL823995",
     "stock": "25922A",
@@ -76,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Hyundai Genesis 3.8L",
-    "vin": "KMHGC4DD6DU224183",
-    "stock": "P13316A",
-    "exterior": "Black Noir Pearl",
-    "interior": "Jet black",
-    "engine": "Gas V6 3.8L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHGC4DD6DU224183&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU010a_640/2013HYU010a_640_01.jpg",
-    "price": "$9,988",
-    "sutherlins_price": "$9,988",
-    "mileage": "65,096 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Rogue SV",
     "vin": "5N1AT2MT9EC872190",
     "stock": "P12816",
@@ -103,6 +103,21 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "113,907 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Hyundai Genesis 3.8L",
+    "vin": "KMHGC4DD6DU224183",
+    "stock": "P13316A",
+    "exterior": "Black Noir Pearl",
+    "interior": "Jet black",
+    "engine": "Gas V6 3.8L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHGC4DD6DU224183&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU010a_640/2013HYU010a_640_01.jpg",
+    "price": "$9,988",
+    "sutherlins_price": "$9,988",
+    "mileage": "65,096 Miles"
   },
   {
     "category": "used",
@@ -208,6 +223,21 @@
     "price": "$13,498",
     "sutherlins_price": "$13,498",
     "mileage": "88,176 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Kia Soul LX",
+    "vin": "KNDJ23AUXM7144380",
+    "stock": "25649B",
+    "exterior": "Snow White Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AUXM7144380&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021KIC10_640/2021KIC100027_640_01.jpg",
+    "price": "$13,995",
+    "sutherlins_price": "$13,995",
+    "mileage": "55,023 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$21,995",
     "sutherlins_price": "$16,988",
     "mileage": "26,970 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST8PF231521",
-    "stock": "P13223",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
-    "price": "$24,325",
-    "sutherlins_price": "$16,995",
-    "mileage": "44,340 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY215300",
-    "stock": "P13295",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY215300&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9ec59c78b734460297e8516ab1838a08.jpg",
-    "price": "$21,700",
-    "sutherlins_price": "$17,485",
-    "mileage": "29,554 Miles"
   }
 ]
