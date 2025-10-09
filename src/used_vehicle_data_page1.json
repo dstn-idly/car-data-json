@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Nissan Rogue SV",
-    "vin": "5N1AT2MT9EC872190",
-    "stock": "P12816",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9EC872190&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6d1a9021484ad0a1824263e3de8923.jpg",
-    "price": "$9,988",
-    "sutherlins_price": "$9,988",
-    "mileage": "113,907 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Hyundai Genesis 3.8L",
     "vin": "KMHGC4DD6DU224183",
     "stock": "P13316A",
@@ -118,6 +103,21 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "65,096 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Nissan Rogue SV",
+    "vin": "5N1AT2MT9EC872190",
+    "stock": "P12816",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9EC872190&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6d1a9021484ad0a1824263e3de8923.jpg",
+    "price": "$9,988",
+    "sutherlins_price": "$9,988",
+    "mileage": "113,907 Miles"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Elantra Value Edition",
-    "vin": "5NPD84LF6LH595820",
-    "stock": "25859B",
-    "exterior": "Quartz White Pearl",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPD84LF6LH595820&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/92ebd1d41f464d949514702429676471.jpg",
-    "price": "$15,988",
-    "sutherlins_price": "$15,988",
-    "mileage": "20,634 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF207829",
     "stock": "P13210",
@@ -358,6 +343,21 @@
     "price": "$22,600",
     "sutherlins_price": "$15,988",
     "mileage": "67,655 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Elantra Value Edition",
+    "vin": "5NPD84LF6LH595820",
+    "stock": "25859B",
+    "exterior": "Quartz White Pearl",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPD84LF6LH595820&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/92ebd1d41f464d949514702429676471.jpg",
+    "price": "$15,988",
+    "sutherlins_price": "$15,988",
+    "mileage": "20,634 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Kicks S",
-    "vin": "3N1CP5BV7PL544980",
-    "stock": "25885A",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV7PL544980&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7d607bcfa29d4288a05f00e49d34ef31.jpg",
-    "price": "$19,225",
-    "sutherlins_price": "$16,988",
-    "mileage": "22,533 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Kia Forte LXS",
     "vin": "3KPF24AD5PE626075",
     "stock": "25923A",
@@ -478,5 +463,20 @@
     "price": "$20,100",
     "sutherlins_price": "$16,988",
     "mileage": "22,451 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks S",
+    "vin": "3N1CP5BV7PL544980",
+    "stock": "25885A",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV7PL544980&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7d607bcfa29d4288a05f00e49d34ef31.jpg",
+    "price": "$19,225",
+    "sutherlins_price": "$16,988",
+    "mileage": "22,533 Miles"
   }
 ]
