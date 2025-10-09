@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Elantra Value Edition",
-    "vin": "5NPD84LF6LH595820",
-    "stock": "25859B",
-    "exterior": "Quartz White Pearl",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPD84LF6LH595820&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/92ebd1d41f464d949514702429676471.jpg",
-    "price": "$15,988",
-    "sutherlins_price": "$15,988",
-    "mileage": "20,634 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF207829",
     "stock": "P13210",
@@ -358,6 +343,21 @@
     "price": "$22,600",
     "sutherlins_price": "$15,988",
     "mileage": "67,655 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Elantra Value Edition",
+    "vin": "5NPD84LF6LH595820",
+    "stock": "25859B",
+    "exterior": "Quartz White Pearl",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPD84LF6LH595820&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/92ebd1d41f464d949514702429676471.jpg",
+    "price": "$15,988",
+    "sutherlins_price": "$15,988",
+    "mileage": "20,634 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Forte LXS",
-    "vin": "3KPF24AD5PE626075",
-    "stock": "25923A",
-    "exterior": "Steel Gray",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
-    "price": "$20,100",
-    "sutherlins_price": "$16,988",
-    "mileage": "22,451 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks S",
     "vin": "3N1CP5BV7PL544980",
     "stock": "25885A",
@@ -478,5 +463,20 @@
     "price": "$19,225",
     "sutherlins_price": "$16,988",
     "mileage": "22,533 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Forte LXS",
+    "vin": "3KPF24AD5PE626075",
+    "stock": "25923A",
+    "exterior": "Steel Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
+    "price": "$20,100",
+    "sutherlins_price": "$16,988",
+    "mileage": "22,451 Miles"
   }
 ]
