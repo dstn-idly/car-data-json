@@ -61,6 +61,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Nissan Altima 2.5 SR",
+    "vin": "1N4AL3AP2HC280318",
+    "stock": "25997A",
+    "exterior": "Scarlet Ember",
+    "interior": "Sport Interior",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP2HC280318&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC040003_640/2017NIC040003_640_01.jpg",
+    "price": "$7,988",
+    "sutherlins_price": "$7,988",
+    "mileage": "117,027 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Versa Sedan SV",
     "vin": "3N1CN7AP3KL864648",
     "stock": "25915A",
@@ -181,6 +196,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Hyundai Tucson Value",
+    "vin": "KM8J33A48KU846463",
+    "stock": "25842A",
+    "exterior": "Coliseum Gray",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A48KU846463&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019HYS02_640/2019HYS020001_640_01.jpg",
+    "price": "$11,988",
+    "sutherlins_price": "$11,988",
+    "mileage": "106,694 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Kicks SV",
     "vin": "3N1CP5CU3KL484470",
     "stock": "26045A",
@@ -250,9 +280,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6TRVBG4KE540169&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019RMV02_640/2019RMV020001_640_01.jpg",
-    "price": "$13,995",
+    "price": "$18,357",
     "sutherlins_price": "$13,995",
-    "mileage": "N/A"
+    "mileage": "200,870 Miles"
   },
   {
     "category": "used",
@@ -370,7 +400,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8KC740694&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110050_640_01.jpg",
-    "price": "$15,995",
+    "price": "$17,525",
     "sutherlins_price": "$15,995",
     "mileage": "70,369 Miles"
   },
@@ -448,35 +478,5 @@
     "price": "$18,325",
     "sutherlins_price": "$16,898",
     "mileage": "55,490 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Kia Forte LXS",
-    "vin": "3KPF24AD5PE626075",
-    "stock": "25923A",
-    "exterior": "Steel Gray",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
-    "price": "$20,100",
-    "sutherlins_price": "$16,988",
-    "mileage": "22,451 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks S",
-    "vin": "3N1CP5BV7PL544980",
-    "stock": "25885A",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV7PL544980&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7d607bcfa29d4288a05f00e49d34ef31.jpg",
-    "price": "$19,225",
-    "sutherlins_price": "$16,988",
-    "mileage": "22,533 Miles"
   }
 ]
