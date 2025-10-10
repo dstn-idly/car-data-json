@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2018 Nissan Rogue S",
+    "vin": "KNMAT2MT9JP553055",
+    "stock": "P13319",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT9JP553055&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/79cc0e6844644485859757cf03674926.jpg",
+    "price": "$18,325",
+    "sutherlins_price": "$16,898",
+    "mileage": "55,490 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Kia Forte LXS",
     "vin": "3KPF24AD5PE626075",
     "stock": "25923A",
@@ -166,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CV9NY295183",
-    "stock": "25695A",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9NY295183&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca317c5806b242a9a500b63a807c73d0.jpg",
-    "price": "$20,700",
-    "sutherlins_price": "$17,995",
-    "mileage": "26,908 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Sentra SV",
     "vin": "3N1AB8CV6LY214136",
     "stock": "25928A",
@@ -208,6 +208,21 @@
     "price": "$18,600",
     "sutherlins_price": "$17,995",
     "mileage": "47,593 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV9NY295183",
+    "stock": "25695A",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9NY295183&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca317c5806b242a9a500b63a807c73d0.jpg",
+    "price": "$20,700",
+    "sutherlins_price": "$17,995",
+    "mileage": "26,908 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$22,375",
     "sutherlins_price": "$19,988",
     "mileage": "39,089 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Honda CR-V Touring",
-    "vin": "5J6RW1H94HL004331",
-    "stock": "KP1067",
-    "exterior": "Gunmetal Metallic",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RW1H94HL004331&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f364010f81a84dac94a8ddf05259e13e.jpg",
-    "price": "$20,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "73,500 Miles"
   }
 ]

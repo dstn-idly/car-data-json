@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ6PN619830",
+    "stock": "25887B",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ6PN619830&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/942ab24c676c4e7588f9d18337fd6afb.jpg",
+    "price": "$37,775",
+    "sutherlins_price": "$34,995",
+    "mileage": "29,120 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Frontier PRO-4X",
     "vin": "1N6ED1EK1PN611384",
     "stock": "P13277",
@@ -238,5 +253,20 @@
     "price": "$94,896",
     "sutherlins_price": "$84,999",
     "mileage": "7,192 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Volkswagen Atlas 3.6L V6 SE with Technology",
+    "vin": "1V2WR2CA8MC606763",
+    "stock": "3T25502A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2WR2CA8MC606763&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021VWS05_640/2021VWS050125_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "98,257 Miles"
   }
 ]
