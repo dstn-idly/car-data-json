@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Honda CR-V Touring",
-    "vin": "5J6RW1H94HL004331",
-    "stock": "KP1067",
-    "exterior": "Gunmetal Metallic",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RW1H94HL004331&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f364010f81a84dac94a8ddf05259e13e.jpg",
-    "price": "$20,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "73,500 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DVXRN388387",
     "stock": "P13292",
@@ -478,5 +463,20 @@
     "price": "$21,898",
     "sutherlins_price": "$21,898",
     "mileage": "43,395 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6PN369432",
+    "stock": "P13315",
+    "exterior": "Gray Sky Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6PN369432&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1636df000d464c80bd78f03c4dd69688.jpg",
+    "price": "$22,750",
+    "sutherlins_price": "$21,898",
+    "mileage": "53,695 Miles"
   }
 ]
