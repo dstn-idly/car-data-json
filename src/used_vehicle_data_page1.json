@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Hyundai Genesis 3.8L",
-    "vin": "KMHGC4DD6DU224183",
-    "stock": "P13316A",
-    "exterior": "Black Noir Pearl",
-    "interior": "Jet black",
-    "engine": "Gas V6 3.8L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHGC4DD6DU224183&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU010a_640/2013HYU010a_640_01.jpg",
-    "price": "$9,988",
-    "sutherlins_price": "$9,988",
-    "mileage": "65,096 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Rogue SV",
     "vin": "5N1AT2MT9EC872190",
     "stock": "P12816",
@@ -136,18 +121,33 @@
   },
   {
     "category": "used",
+    "name": "2013 Hyundai Genesis 3.8L",
+    "vin": "KMHGC4DD6DU224183",
+    "stock": "P13316A",
+    "exterior": "Black Noir Pearl",
+    "interior": "Jet black",
+    "engine": "Gas V6 3.8L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHGC4DD6DU224183&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU010a_640/2013HYU010a_640_01.jpg",
+    "price": "$9,988",
+    "sutherlins_price": "$9,988",
+    "mileage": "65,096 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Honda Civic Sedan EX",
     "vin": "19XFB2F80FE050278",
     "stock": "P13342",
     "exterior": "Black",
-    "interior": "N/A",
+    "interior": "Black",
     "engine": "Regular Unleaded I-4 1.8 L/110",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XFB2F80FE050278&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015HOC02_640/2015HOC020116_640_01.jpg",
-    "price": "$9,995",
+    "price": "$11,850",
     "sutherlins_price": "$9,995",
-    "mileage": "N/A"
+    "mileage": "119,365 Miles"
   },
   {
     "category": "used",
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST4PF207829",
-    "stock": "P13210",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$15,988",
-    "mileage": "67,655 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Hyundai Elantra Value Edition",
     "vin": "5NPD84LF6LH595820",
     "stock": "25859B",
@@ -403,6 +388,21 @@
     "price": "$15,988",
     "sutherlins_price": "$15,988",
     "mileage": "20,634 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST4PF207829",
+    "stock": "P13210",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST4PF207829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a28928e3d9d4fc4a04415b791bccedb.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$15,988",
+    "mileage": "67,655 Miles"
   },
   {
     "category": "used",
