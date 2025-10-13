@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DVXRN388387",
+    "stock": "P13292",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DVXRN388387&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f0552eb446014ba69046c7f418f50005.jpg",
+    "price": "$23,675",
+    "sutherlins_price": "$19,995",
+    "mileage": "45,233 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra SR",
     "vin": "3N1AB8DV4RY262399",
     "stock": "P13217",
@@ -13,21 +28,6 @@
     "price": "$25,025",
     "sutherlins_price": "$19,995",
     "mileage": "39,094 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Honda CR-V Touring",
-    "vin": "5J6RW1H94HL004331",
-    "stock": "KP1067",
-    "exterior": "Gunmetal Metallic",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RW1H94HL004331&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f364010f81a84dac94a8ddf05259e13e.jpg",
-    "price": "$20,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "73,500 Miles"
   },
   {
     "category": "used",
@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1BW0NW489987",
-    "stock": "P13333",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BW0NW489987&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS17_640/2022NIS170017_640_01.jpg",
-    "price": "$25,025",
-    "sutherlins_price": "$19,995",
-    "mileage": "45,083 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV0PN349465",
     "stock": "P13311",
@@ -88,6 +73,21 @@
     "price": "$22,325",
     "sutherlins_price": "$19,995",
     "mileage": "57,886 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1BW0NW489987",
+    "stock": "P13333",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BW0NW489987&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS17_640/2022NIS170017_640_01.jpg",
+    "price": "$25,025",
+    "sutherlins_price": "$19,995",
+    "mileage": "45,083 Miles"
   },
   {
     "category": "used",
@@ -130,7 +130,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV0PL522722&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/98d15292026547f9858ee19a7f2ef14d.jpg",
-    "price": "$19,995",
+    "price": "$18,988",
     "sutherlins_price": "$19,995",
     "mileage": "27,145 Miles"
   },
@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SR",
-    "vin": "3N1CP5DV6PL568975",
-    "stock": "T25891A",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL568975&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df6449ed628c4812a92518b5840b751d.jpg",
-    "price": "$23,250",
-    "sutherlins_price": "$20,988",
-    "mileage": "21,330 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Ford Mustang EcoBoost",
     "vin": "1FA6P8TH5N5141295",
     "stock": "25813A",
@@ -253,6 +238,21 @@
     "price": "$29,350",
     "sutherlins_price": "$20,988",
     "mileage": "37,243 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SR",
+    "vin": "3N1CP5DV6PL568975",
+    "stock": "T25891A",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL568975&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df6449ed628c4812a92518b5840b751d.jpg",
+    "price": "$23,250",
+    "sutherlins_price": "$20,988",
+    "mileage": "21,330 Miles"
   },
   {
     "category": "used",
@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "JN8BT3BA4PW407371",
-    "stock": "P13267",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA4PW407371&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5da537028384c7e9a4650e4e8d28124.jpg",
-    "price": "$23,575",
-    "sutherlins_price": "$20,995",
-    "mileage": "66,735 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV1RN313741",
     "stock": "P13262",
@@ -313,6 +298,21 @@
     "price": "$23,895",
     "sutherlins_price": "$20,995",
     "mileage": "56,244 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BA4PW407371",
+    "stock": "P13267",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA4PW407371&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5da537028384c7e9a4650e4e8d28124.jpg",
+    "price": "$23,575",
+    "sutherlins_price": "$20,995",
+    "mileage": "66,735 Miles"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8PN387932",
-    "stock": "P13281",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8PN387932&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e59eabea3bc3425192da237538b0147f.jpg",
-    "price": "$22,675",
-    "sutherlins_price": "$20,995",
-    "mileage": "54,287 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AA3PC900386",
     "stock": "P13248",
@@ -358,6 +343,21 @@
     "price": "$23,000",
     "sutherlins_price": "$20,995",
     "mileage": "51,374 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8PN387932",
+    "stock": "P13281",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8PN387932&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e59eabea3bc3425192da237538b0147f.jpg",
+    "price": "$22,675",
+    "sutherlins_price": "$20,995",
+    "mileage": "54,287 Miles"
   },
   {
     "category": "used",
