@@ -1,6 +1,21 @@
 [
   {
     "category": "cpo",
+    "name": "2022 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK7NN633838",
+    "stock": "P13258",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK7NN633838&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/55d639d3d2fd4f44819c96380b44c5f3.jpg",
+    "price": "$35,750",
+    "sutherlins_price": "$29,988",
+    "mileage": "69,433 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2023 Nissan Armada SL",
     "vin": "JN8AY2BA9P9400888",
     "stock": "P13288",
@@ -11,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA9P9400888&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7006eb50d2954f3389d0ea64afca80c5.jpg",
     "price": "$36,400",
-    "sutherlins_price": "$31,898",
+    "sutherlins_price": "$30,988",
     "mileage": "78,608 Miles"
   },
   {
@@ -26,23 +41,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ5NN663699&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/27d88074118b4f45bd258f140413026b.jpg",
     "price": "$36,550",
-    "sutherlins_price": "$31,898",
+    "sutherlins_price": "$30,988",
     "mileage": "24,796 Miles"
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Maxima SR",
-    "vin": "1N4AA6EV0PC501669",
-    "stock": "P13222",
+    "name": "2024 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA5RC242271",
+    "stock": "P13307",
     "exterior": "Pearl White Tricoat",
     "interior": "Charcoal",
-    "engine": "Premium Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA6EV0PC501669&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c5553ddfe9c04dd4a3910bbc03d1816d.jpg",
-    "price": "$36,995",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA5RC242271&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7174ce0a46549e9856b80b0dbb7ec96.jpg",
+    "price": "$34,675",
     "sutherlins_price": "$31,988",
-    "mileage": "24,529 Miles"
+    "mileage": "42,155 Miles"
   },
   {
     "category": "cpo",
@@ -61,21 +76,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Pathfinder SL",
-    "vin": "5N1DR3CA5RC242271",
-    "stock": "P13307",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA5RC242271&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7174ce0a46549e9856b80b0dbb7ec96.jpg",
-    "price": "$34,675",
-    "sutherlins_price": "$32,988",
-    "mileage": "42,155 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Pathfinder SL",
     "vin": "5N1DR3CC1PC207502",
     "stock": "P13276",
@@ -86,8 +86,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CC1PC207502&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/01f0b37d66344494a971dd40100fc227.jpg",
     "price": "$35,325",
-    "sutherlins_price": "$33,995",
+    "sutherlins_price": "$32,988",
     "mileage": "31,799 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Titan PRO-4X",
+    "vin": "1N6AA1ED4MN525099",
+    "stock": "25829A",
+    "exterior": "Glacier White",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED4MN525099&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f307e9899bbe4b7b80eeada7682b3137.jpg",
+    "price": "$41,175",
+    "sutherlins_price": "$33,988",
+    "mileage": "58,395 Miles"
   },
   {
     "category": "cpo",
@@ -101,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ6PN619830&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d539865c4e24c58a8e885db35f64e39.jpg",
     "price": "$37,775",
-    "sutherlins_price": "$34,499",
+    "sutherlins_price": "$33,988",
     "mileage": "29,120 Miles"
   },
   {
@@ -116,23 +131,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK1PN611384&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT12_640/2023NIT120062_640_01.jpg",
     "price": "$33,988",
-    "sutherlins_price": "$34,995",
+    "sutherlins_price": "$33,988",
     "mileage": "49,996 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2021 Nissan Titan PRO-4X",
-    "vin": "1N6AA1ED4MN525099",
-    "stock": "25829A",
-    "exterior": "Glacier White",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED4MN525099&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f307e9899bbe4b7b80eeada7682b3137.jpg",
-    "price": "$41,175",
-    "sutherlins_price": "$35,499",
-    "mileage": "58,395 Miles"
   },
   {
     "category": "cpo",
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DH0PC200535&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/30331e76774842688cba40027ce643f1.jpg",
     "price": "$35,988",
-    "sutherlins_price": "$36,898",
+    "sutherlins_price": "$35,988",
     "mileage": "32,485 Miles"
   },
   {
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BD9SC237883&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/afc1dd770b1048228717d8f25916a34e.jpg",
     "price": "$39,988",
-    "sutherlins_price": "$41,898",
+    "sutherlins_price": "$39,988",
     "mileage": "17,305 Miles"
   }
 ]
