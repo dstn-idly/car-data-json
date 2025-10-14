@@ -55,7 +55,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AR2MN5EC604608&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS008a_640/2014NIS008a_640_01.jpg",
-    "price": "$6,995",
+    "price": "$8,425",
     "sutherlins_price": "$6,995",
     "mileage": "114,705 Miles"
   },
@@ -205,7 +205,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT6KP525909&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$13,498",
+    "price": "$14,300",
     "sutherlins_price": "$13,498",
     "mileage": "94,157 Miles"
   },
@@ -235,7 +235,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV2LC257492&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
-    "price": "$13,995",
+    "price": "$15,650",
     "sutherlins_price": "$13,995",
     "mileage": "89,184 Miles"
   },
@@ -350,12 +350,12 @@
     "vin": "5YFBURHE1KP900951",
     "stock": "25957A",
     "exterior": "White",
-    "interior": "N/A",
+    "interior": "Black",
     "engine": "Regular Unleaded I-4 1.8 L/110",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFBURHE1KP900951&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOC04_640/2019TOC040002_640_01.jpg",
-    "price": "$14,995",
+    "price": "$15,550",
     "sutherlins_price": "$14,995",
     "mileage": "41,699 Miles"
   },
@@ -407,21 +407,6 @@
   {
     "category": "used",
     "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST8PF231521",
-    "stock": "P13223",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
-    "price": "$24,325",
-    "sutherlins_price": "$15,988",
-    "mileage": "44,340 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF207829",
     "stock": "P13210",
     "exterior": "Summit White",
@@ -433,6 +418,21 @@
     "price": "$22,600",
     "sutherlins_price": "$15,988",
     "mileage": "67,655 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8PF231521",
+    "stock": "P13223",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
+    "price": "$24,325",
+    "sutherlins_price": "$15,988",
+    "mileage": "44,340 Miles"
   },
   {
     "category": "used",
