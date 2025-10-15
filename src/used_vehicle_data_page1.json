@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2012 Scion iQ Base",
-    "vin": "JTNJJXB05CJ021833",
-    "stock": "24706C",
-    "exterior": "Black Currant",
-    "interior": "Black",
-    "engine": "Gas I4 1.3L/81",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTNJJXB05CJ021833&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/413736bb4a1e48959cf482836723de1c.jpg",
-    "price": "$6,625",
-    "sutherlins_price": "$3,988",
-    "mileage": "139,592 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 Kia Sorento SX",
     "vin": "5XYKW4A29DG327897",
     "stock": "25672A",
@@ -28,6 +13,21 @@
     "price": "$3,988",
     "sutherlins_price": "$3,988",
     "mileage": "175,250 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Scion iQ Base",
+    "vin": "JTNJJXB05CJ021833",
+    "stock": "24706C",
+    "exterior": "Black Currant",
+    "interior": "Black",
+    "engine": "Gas I4 1.3L/81",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTNJJXB05CJ021833&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/413736bb4a1e48959cf482836723de1c.jpg",
+    "price": "$6,625",
+    "sutherlins_price": "$3,988",
+    "mileage": "139,592 Miles"
   },
   {
     "category": "used",
@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra S",
-    "vin": "3N1AB8BV0RY244601",
-    "stock": "P13174",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0RY244601&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7d1b768e2d24392a12dbb66190eac24.jpg",
-    "price": "$21,175",
-    "sutherlins_price": "$14,995",
-    "mileage": "27,357 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Toyota Corolla L",
     "vin": "5YFBURHE1KP900951",
     "stock": "25957A",
@@ -373,6 +358,21 @@
     "price": "$15,550",
     "sutherlins_price": "$14,995",
     "mileage": "41,699 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV0RY244601",
+    "stock": "P13174",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0RY244601&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7d1b768e2d24392a12dbb66190eac24.jpg",
+    "price": "$21,175",
+    "sutherlins_price": "$14,995",
+    "mileage": "27,357 Miles"
   },
   {
     "category": "used",
@@ -422,21 +422,6 @@
   {
     "category": "used",
     "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST8PF231521",
-    "stock": "P13223",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
-    "price": "$24,325",
-    "sutherlins_price": "$15,988",
-    "mileage": "44,340 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST4PF207829",
     "stock": "P13210",
     "exterior": "Summit White",
@@ -448,6 +433,21 @@
     "price": "$22,600",
     "sutherlins_price": "$15,988",
     "mileage": "67,655 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8PF231521",
+    "stock": "P13223",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8PF231521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c074340e97044279a1a10586f057161.jpg",
+    "price": "$24,325",
+    "sutherlins_price": "$15,988",
+    "mileage": "44,340 Miles"
   },
   {
     "category": "used",
