@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTNJJXB05CJ021833&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/413736bb4a1e48959cf482836723de1c.jpg",
     "price": "$6,625",
-    "sutherlins_price": "$3,988",
+    "sutherlins_price": "$2,988",
     "mileage": "139,592 Miles"
   },
   {
@@ -361,6 +361,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Kia Forte LXS",
+    "vin": "3KPF24AD5PE626075",
+    "stock": "25923A",
+    "exterior": "Steel Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
+    "price": "$20,100",
+    "sutherlins_price": "$15,988",
+    "mileage": "22,451 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Hyundai Santa Fe SE",
     "vin": "5NMS23AD8LH154823",
     "stock": "26071A",
@@ -421,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue SL",
-    "vin": "5N1AT2MT8KC740694",
-    "stock": "P13338",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8KC740694&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110050_640_01.jpg",
-    "price": "$17,525",
-    "sutherlins_price": "$15,995",
-    "mileage": "70,369 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Frontier SL",
     "vin": "1N6AD0ER0EN750599",
     "stock": "P13343",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Rogue SL",
+    "vin": "5N1AT2MT8KC740694",
+    "stock": "P13338",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8KC740694&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110050_640_01.jpg",
+    "price": "$17,525",
+    "sutherlins_price": "$15,995",
+    "mileage": "70,369 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Rogue S",
     "vin": "5N1AT3AA5MC827819",
     "stock": "P13192",
@@ -463,20 +478,5 @@
     "price": "$21,648",
     "sutherlins_price": "$16,498",
     "mileage": "66,855 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL474937",
-    "stock": "P13180",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL474937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/562c33ac73654de9bdafdc621102cfde.jpg",
-    "price": "$20,525",
-    "sutherlins_price": "$16,871",
-    "mileage": "25,426 Miles"
   }
 ]

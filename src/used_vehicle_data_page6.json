@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1K5J4GB1SN511682&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9cdb878b45de4b509fddbcdd1250bbc0.jpg",
     "price": "$51,869",
-    "sutherlins_price": "$35,988",
+    "sutherlins_price": "$34,988",
     "mileage": "22,047 Miles"
   },
   {
@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Genesis G70 2.5T",
-    "vin": "KMTG34SC9SU144406",
-    "stock": "P13347",
-    "exterior": "Vik Black",
-    "interior": "Fog Gray Two-Tone",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC9SU144406&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025GSC03_640/2025GSC031974560_640_01.jpg",
-    "price": "$44,455",
-    "sutherlins_price": "$36,995",
-    "mileage": "8,017 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Acura MDX with A-Spec Package",
     "vin": "5J8YE1H02NL048167",
     "stock": "25912A",
@@ -103,6 +88,21 @@
     "price": "$38,565",
     "sutherlins_price": "$36,995",
     "mileage": "86,060 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Genesis G70 2.5T",
+    "vin": "KMTG34SC9SU144406",
+    "stock": "P13347",
+    "exterior": "Vik Black",
+    "interior": "Fog Gray Two-Tone",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC9SU144406&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025GSC03_640/2025GSC031974560_640_01.jpg",
+    "price": "$44,455",
+    "sutherlins_price": "$36,995",
+    "mileage": "8,017 Miles"
   },
   {
     "category": "used",
