@@ -212,21 +212,6 @@
   {
     "category": "cpo",
     "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV4RY253977",
-    "stock": "P13280",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4RY253977&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f1f479b286524a2bba2980a0685ddc06.jpg",
-    "price": "$21,450",
-    "sutherlins_price": "$17,988",
-    "mileage": "34,495 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY245102",
     "stock": "P13215",
     "exterior": "Rosewood Metallic",
@@ -286,21 +271,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV0PN349465",
-    "stock": "P13311",
-    "exterior": "Garnet Pearl Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0PN349465&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c8977705d9a4b0baa875b2eb310e6ca.jpg",
-    "price": "$22,325",
-    "sutherlins_price": "$18,988",
-    "mileage": "57,886 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8RN322095",
     "stock": "P13287",
@@ -316,6 +286,21 @@
   },
   {
     "category": "cpo",
+    "name": "2023 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV0PN349465",
+    "stock": "P13311",
+    "exterior": "Garnet Pearl Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0PN349465&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c8977705d9a4b0baa875b2eb310e6ca.jpg",
+    "price": "$22,325",
+    "sutherlins_price": "$18,988",
+    "mileage": "57,886 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV0PL522722",
     "stock": "P13275",
@@ -328,21 +313,6 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "27,145 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA1RC682501",
-    "stock": "P13214",
-    "exterior": "Everest White Pearl",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC682501&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/55f6cc3264bc48dd8c26b6415b1b882a.jpg",
-    "price": "$25,200",
-    "sutherlins_price": "$18,995",
-    "mileage": "51,416 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +448,35 @@
     "price": "$23,000",
     "sutherlins_price": "$19,988",
     "mileage": "51,374 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6RN351189",
+    "stock": "P13211",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
+    "price": "$24,550",
+    "sutherlins_price": "$19,988",
+    "mileage": "53,501 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN309417",
+    "stock": "P13249",
+    "exterior": "Garnet Pearl Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN309417&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b75a97ef6c8411f8a03affd27992f47.jpg",
+    "price": "$25,750",
+    "sutherlins_price": "$19,988",
+    "mileage": "36,740 Miles"
   }
 ]
