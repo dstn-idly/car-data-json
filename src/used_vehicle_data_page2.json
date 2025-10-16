@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Forte LXS",
-    "vin": "3KPF24AD5PE626075",
-    "stock": "25923A",
-    "exterior": "Steel Gray",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
-    "price": "$20,100",
-    "sutherlins_price": "$16,988",
-    "mileage": "22,451 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks S",
     "vin": "3N1CP5BV7PL544980",
     "stock": "25885A",
@@ -103,6 +88,21 @@
     "price": "$19,225",
     "sutherlins_price": "$16,988",
     "mileage": "22,533 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Forte LXS",
+    "vin": "3KPF24AD5PE626075",
+    "stock": "25923A",
+    "exterior": "Steel Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD5PE626075&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b7d47aa63f544479267c262d2832ab6.jpg",
+    "price": "$20,100",
+    "sutherlins_price": "$16,988",
+    "mileage": "22,451 Miles"
   },
   {
     "category": "used",
@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Soul S",
-    "vin": "KNDJ23AU7P7210873",
-    "stock": "P13309",
-    "exterior": "Clear White w/Black Roof",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU7P7210873&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0be2b04b3ac54b17ad34cb09fd08178e.jpg",
-    "price": "$19,050",
-    "sutherlins_price": "$16,988",
-    "mileage": "79,744 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV1NN367441",
     "stock": "P13238",
@@ -148,6 +133,21 @@
     "price": "$19,989",
     "sutherlins_price": "$16,988",
     "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Soul S",
+    "vin": "KNDJ23AU7P7210873",
+    "stock": "P13309",
+    "exterior": "Clear White w/Black Roof",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU7P7210873&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0be2b04b3ac54b17ad34cb09fd08178e.jpg",
+    "price": "$19,050",
+    "sutherlins_price": "$16,988",
+    "mileage": "79,744 Miles"
   },
   {
     "category": "used",
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8RN322095",
-    "stock": "P13287",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN322095&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e72dddccc68447db8383461323b7dec.jpg",
-    "price": "$23,000",
-    "sutherlins_price": "$18,988",
-    "mileage": "55,085 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV0PN349465",
     "stock": "P13311",
@@ -433,6 +418,21 @@
     "price": "$22,825",
     "sutherlins_price": "$18,988",
     "mileage": "39,712 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8RN322095",
+    "stock": "P13287",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN322095&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e72dddccc68447db8383461323b7dec.jpg",
+    "price": "$23,000",
+    "sutherlins_price": "$18,988",
+    "mileage": "55,085 Miles"
   },
   {
     "category": "used",
