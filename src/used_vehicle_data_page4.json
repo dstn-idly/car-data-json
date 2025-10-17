@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Murano SL",
+    "vin": "5N1AZ2CJ5PC126840",
+    "stock": "P13191",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC126840&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1d7ecadd808f45db8fda73a9061ae7a6.jpg",
+    "price": "$26,995",
+    "sutherlins_price": "$21,484",
+    "mileage": "45,029 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Camry LE",
+    "vin": "4T1C11AK0PU122890",
+    "stock": "P13216",
+    "exterior": "Red",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK0PU122890&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fbee7c9ec5af4915abff236af1ae0d61.jpg",
+    "price": "$24,650",
+    "sutherlins_price": "$21,645",
+    "mileage": "55,688 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN383193",
     "stock": "P13318",
@@ -61,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Hyundai Sonata SEL Plus",
-    "vin": "KMHL44J23NA245025",
-    "stock": "P13303",
-    "exterior": "Portofino Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
-    "price": "$27,975",
-    "sutherlins_price": "$21,988",
-    "mileage": "26,782 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Hyundai Sonata SEL",
     "vin": "KMHL64JA2SA462384",
     "stock": "P13240",
@@ -121,6 +136,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Hyundai Sonata SEL Plus",
+    "vin": "KMHL44J23NA245025",
+    "stock": "P13303",
+    "exterior": "Portofino Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
+    "price": "$27,975",
+    "sutherlins_price": "$21,988",
+    "mileage": "26,782 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA2PC907117",
     "stock": "26078A",
@@ -148,21 +178,6 @@
     "price": "$25,600",
     "sutherlins_price": "$21,995",
     "mileage": "30,215 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SL",
-    "vin": "5N1BT3CA1PC678525",
-    "stock": "P13186",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Light Gray",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC678525&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/efc2e13158334dc591737678b34fe794.jpg",
-    "price": "$28,898",
-    "sutherlins_price": "$22,623",
-    "mileage": "36,402 Miles"
   },
   {
     "category": "used",
@@ -196,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA9PC672179",
-    "stock": "25683A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC672179&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/75f058cb7ccf422d930940991b2aca6f.jpg",
-    "price": "$22,988",
-    "sutherlins_price": "$22,988",
-    "mileage": "29,397 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Pathfinder S",
     "vin": "5N1DR3AA0NC200927",
     "stock": "25951A",
@@ -223,6 +223,21 @@
     "price": "$22,988",
     "sutherlins_price": "$22,988",
     "mileage": "43,008 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA9PC672179",
+    "stock": "25683A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC672179&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c75d97ccc9064c02964926e4f2f98289.jpg",
+    "price": "$22,988",
+    "sutherlins_price": "$22,988",
+    "mileage": "29,397 Miles"
   },
   {
     "category": "used",
@@ -268,21 +283,6 @@
     "price": "$27,375",
     "sutherlins_price": "$22,988",
     "mileage": "35,341 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Jeep Cherokee Latitude Lux",
-    "vin": "1C4PJLMXXMD158820",
-    "stock": "P13326A",
-    "exterior": "Spitfire Orange Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.2 L/198",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4PJLMXXMD158820&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021JES04_640/2021JES040001_640_01.jpg",
-    "price": "$25,400",
-    "sutherlins_price": "$22,988",
-    "mileage": "9,256 Miles"
   },
   {
     "category": "used",
@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "JN8BT3BB1PW461252",
-    "stock": "P13273",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB1PW461252&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4920d886e0674d66aeef5ea01cc7347d.jpg",
-    "price": "$26,275",
-    "sutherlins_price": "$23,988",
-    "mileage": "31,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BS0PC130966",
     "stock": "P13278",
@@ -373,6 +358,21 @@
     "price": "$26,025",
     "sutherlins_price": "$23,988",
     "mileage": "46,297 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BB1PW461252",
+    "stock": "P13273",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB1PW461252&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4920d886e0674d66aeef5ea01cc7347d.jpg",
+    "price": "$26,275",
+    "sutherlins_price": "$23,988",
+    "mileage": "31,943 Miles"
   },
   {
     "category": "used",
@@ -414,7 +414,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3RC746314&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bf3148ccacdd4f1a845a8cfec31ea2c5.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bc3d24f9f1a444dca0393bc25929f5d8.jpg",
     "price": "$26,250",
     "sutherlins_price": "$23,988",
     "mileage": "5,800 Miles"
@@ -477,6 +477,6 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025FOS13_640/2025FOS131999174_640_01.jpg",
     "price": "$24,988",
     "sutherlins_price": "$24,988",
-    "mileage": "N/A"
+    "mileage": "14,691 Miles"
   }
 ]

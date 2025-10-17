@@ -31,6 +31,21 @@
   },
   {
     "category": "used",
+    "name": "2015 Mitsubishi Outlander Sport 2.4 ES",
+    "vin": "4A4AP3AWXFE038201",
+    "stock": "T25833A",
+    "exterior": "Rally Red Metallic",
+    "interior": "Black",
+    "engine": "2.4L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4A4AP3AWXFE038201&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/569f72725ded449abcc75b19e653114a.jpg",
+    "price": "$7,490",
+    "sutherlins_price": "$4,995",
+    "mileage": "166,952 Miles"
+  },
+  {
+    "category": "used",
     "name": "2013 Nissan Rogue SL",
     "vin": "JN8AS5MV7DW611118",
     "stock": "26018A",
@@ -193,6 +208,21 @@
     "price": "$15,960",
     "sutherlins_price": "$12,900",
     "mileage": "79,217 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Toyota Tundra 2WD Truck SR",
+    "vin": "5TFRM5F18FX090135",
+    "stock": "26067B",
+    "exterior": "Super White",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-8 4.6 L/281",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFRM5F18FX090135&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015TOT10_640/2015TOT100035_640_01.jpg",
+    "price": "$12,995",
+    "sutherlins_price": "$12,995",
+    "mileage": "196,960 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$16,650",
     "sutherlins_price": "$15,995",
     "mileage": "113,494 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Rogue SL",
-    "vin": "5N1AT2MT8KC740694",
-    "stock": "P13338",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8KC740694&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e03dd8fd6694b52a8f035208b4db3e0.jpg",
-    "price": "$17,525",
-    "sutherlins_price": "$15,995",
-    "mileage": "70,369 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue S",
-    "vin": "5N1AT3AA5MC827819",
-    "stock": "P13192",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA5MC827819&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/60d38c6a62604a02b660378b6562a2c1.jpg",
-    "price": "$21,648",
-    "sutherlins_price": "$16,498",
-    "mileage": "66,855 Miles"
   }
 ]
