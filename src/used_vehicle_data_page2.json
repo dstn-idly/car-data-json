@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue SL",
-    "vin": "5N1AT2MT8KC740694",
-    "stock": "P13338",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8KC740694&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/641cd51b162046b78fbbc4f095a20692.jpg",
-    "price": "$17,525",
-    "sutherlins_price": "$15,995",
-    "mileage": "70,369 Miles"
-  },
-  {
-    "category": "used",
     "name": "2010 Jeep Wrangler Unlimited Rubicon",
     "vin": "1J4HA6H15AL204836",
     "stock": "204836",
@@ -43,6 +28,21 @@
     "price": "$16,600",
     "sutherlins_price": "$15,995",
     "mileage": "81,204 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue SL",
+    "vin": "5N1AT2MT8KC740694",
+    "stock": "P13338",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8KC740694&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/641cd51b162046b78fbbc4f095a20692.jpg",
+    "price": "$17,525",
+    "sutherlins_price": "$15,995",
+    "mileage": "70,369 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDEXRP090514",
-    "stock": "P13266",
-    "exterior": "Classic Silver",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP090514&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0a3f21d5c3d84cafb422dcb8324ad7b2.jpg",
-    "price": "$22,825",
-    "sutherlins_price": "$18,988",
-    "mileage": "39,712 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV0PN349465",
     "stock": "P13311",
@@ -478,5 +463,20 @@
     "price": "$22,325",
     "sutherlins_price": "$18,988",
     "mileage": "57,886 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDEXRP090514",
+    "stock": "P13266",
+    "exterior": "Classic Silver",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP090514&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0a3f21d5c3d84cafb422dcb8324ad7b2.jpg",
+    "price": "$22,825",
+    "sutherlins_price": "$18,988",
+    "mileage": "39,712 Miles"
   }
 ]
