@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Honda Insight Touring",
-    "vin": "19XZE4F9XNE000379",
-    "stock": "25861A",
-    "exterior": "Platinum White Pearl",
-    "interior": "Ivory",
-    "engine": "Gas/Electric I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XZE4F9XNE000379&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/095795ddc66e4f5eb9493e9f23c3635d.jpg",
-    "price": "$23,000",
-    "sutherlins_price": "$18,988",
-    "mileage": "98,822 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE4RP087690",
     "stock": "P13265",
@@ -271,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN309417",
-    "stock": "P13249",
-    "exterior": "Garnet Pearl Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN309417&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b75a97ef6c8411f8a03affd27992f47.jpg",
-    "price": "$25,750",
-    "sutherlins_price": "$19,988",
-    "mileage": "36,740 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV3PY240648",
     "stock": "25903A",
@@ -298,6 +268,21 @@
     "price": "$22,375",
     "sutherlins_price": "$19,988",
     "mileage": "39,089 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN309417",
+    "stock": "P13249",
+    "exterior": "Garnet Pearl Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN309417&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b75a97ef6c8411f8a03affd27992f47.jpg",
+    "price": "$25,750",
+    "sutherlins_price": "$19,988",
+    "mileage": "36,740 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$20,798",
     "sutherlins_price": "$20,798",
     "mileage": "31,467 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Kona SEL",
+    "vin": "KM8HB3AB6RU087337",
+    "stock": "P13302A",
+    "exterior": "Atlas White",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HB3AB6RU087337&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/41f3b38a82cc48b5988fcf0ac178fc4d.jpg",
+    "price": "$25,550",
+    "sutherlins_price": "$20,988",
+    "mileage": "13,219 Miles"
   }
 ]
