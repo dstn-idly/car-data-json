@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV8RL929373",
+    "stock": "P13314",
+    "exterior": "Gray Sky Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
+    "price": "$18,995",
+    "sutherlins_price": "$18,995",
+    "mileage": "20,165 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Toyota Corolla LE",
     "vin": "JTDEPMAE0MJ160088",
     "stock": "P13250",
@@ -181,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV6RN351189",
-    "stock": "P13211",
-    "exterior": "Deep Blue Pearl",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
-    "price": "$24,550",
-    "sutherlins_price": "$19,988",
-    "mileage": "53,501 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Ford Explorer XLT",
     "vin": "1FMSK7DHXLGB71826",
     "stock": "25940A",
@@ -208,6 +208,21 @@
     "price": "$23,450",
     "sutherlins_price": "$19,988",
     "mileage": "54,220 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6RN351189",
+    "stock": "P13211",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
+    "price": "$24,550",
+    "sutherlins_price": "$19,988",
+    "mileage": "53,501 Miles"
   },
   {
     "category": "used",
@@ -241,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN325066",
-    "stock": "P13263",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN325066&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/65c2d2759730472e8be19550f92f2d88.jpg",
-    "price": "$23,000",
-    "sutherlins_price": "$19,988",
-    "mileage": "57,735 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5PN406792",
     "stock": "TT25693A",
@@ -271,18 +271,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SR",
-    "vin": "3N1AB8DV4RY262399",
-    "stock": "P13217",
-    "exterior": "Atlantic Gray Metallic/Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN325066",
+    "stock": "P13263",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
-    "price": "$25,025",
-    "sutherlins_price": "$19,995",
-    "mileage": "39,094 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN325066&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/65c2d2759730472e8be19550f92f2d88.jpg",
+    "price": "$23,000",
+    "sutherlins_price": "$19,988",
+    "mileage": "57,735 Miles"
   },
   {
     "category": "used",
@@ -298,6 +298,21 @@
     "price": "$23,675",
     "sutherlins_price": "$19,995",
     "mileage": "45,233 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SR",
+    "vin": "3N1AB8DV4RY262399",
+    "stock": "P13217",
+    "exterior": "Atlantic Gray Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
+    "price": "$25,025",
+    "sutherlins_price": "$19,995",
+    "mileage": "39,094 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$20,675",
     "sutherlins_price": "$20,988",
     "mileage": "79,278 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Jeep Grand Cherokee Limited",
-    "vin": "1C4RJFBGXMC611966",
-    "stock": "P13233",
-    "exterior": "Velvet Red Pearlcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFBGXMC611966&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a00ecb010d422a891366e5ed5b5aef.jpg",
-    "price": "$26,500",
-    "sutherlins_price": "$20,988",
-    "mileage": "75,090 Miles"
   }
 ]
