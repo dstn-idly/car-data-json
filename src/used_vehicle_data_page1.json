@@ -46,18 +46,18 @@
   },
   {
     "category": "used",
-    "name": "2016 Volkswagen Jetta Sedan 1.8T Sport",
-    "vin": "3VWD17AJ8GM297747",
-    "stock": "24981B",
-    "exterior": "Black Uni",
-    "interior": "2-Tone Beige/Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.8 L/110",
+    "name": "2013 Hyundai Sonata GLS",
+    "vin": "5NPEB4AC0DH653050",
+    "stock": "KP1071",
+    "exterior": "Iridescent Silver Blue Pearl",
+    "interior": "Gray",
+    "engine": "Gas I4 2.4L/144",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VWD17AJ8GM297747&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016VWC030001_640/2016VWC030001_640_01.jpg",
-    "price": "$6,995",
-    "sutherlins_price": "$6,995",
-    "mileage": "142,031 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEB4AC0DH653050&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU006a_640/2013HYU006a_640_01.jpg",
+    "price": "$6,988",
+    "sutherlins_price": "$6,988",
+    "mileage": "54,395 Miles"
   },
   {
     "category": "used",
@@ -94,8 +94,8 @@
     "name": "2007 Mercedes-Benz S-Class 5.5L V8",
     "vin": "WDDNG86X37A112242",
     "stock": "KP1072",
-    "exterior": "",
-    "interior": "N/A",
+    "exterior": "Flint Gray Metallic",
+    "interior": "Black",
     "engine": "Gas V8 5.5L/333",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WDDNG86X37A112242&source=BUP",
@@ -133,6 +133,21 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "113,907 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Nissan Sentra SV",
+    "vin": "3N1AB7AP7GY232309",
+    "stock": "P13344A",
+    "exterior": "Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP7GY232309&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC060002_640/2016NIC060002_640_01.jpg",
+    "price": "$9,995",
+    "sutherlins_price": "$9,995",
+    "mileage": "68,561 Miles"
   },
   {
     "category": "used",
@@ -205,7 +220,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4MN353189&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040059_640_01.jpg",
-    "price": "$11,995",
+    "price": "$15,925",
     "sutherlins_price": "$11,995",
     "mileage": "146,604 Miles"
   },
@@ -265,7 +280,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV6ML884250&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC10_640/2021NIC100001_640_01.jpg",
-    "price": "$12,995",
+    "price": "$13,850",
     "sutherlins_price": "$12,995",
     "mileage": "63,906 Miles"
   },
@@ -331,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SV",
-    "vin": "3N1CP5CV3LL565737",
-    "stock": "25885B",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV3LL565737&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fcfdeb145b147869eaa3bbed1696c66.jpg",
-    "price": "$14,850",
-    "sutherlins_price": "$13,995",
-    "mileage": "94,476 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Sentra S",
     "vin": "3N1AB8BV8MY288970",
     "stock": "25952A",
@@ -373,6 +373,21 @@
     "price": "$14,100",
     "sutherlins_price": "$13,995",
     "mileage": "90,384 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Kicks SV",
+    "vin": "3N1CP5CV3LL565737",
+    "stock": "25885B",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV3LL565737&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fcfdeb145b147869eaa3bbed1696c66.jpg",
+    "price": "$14,850",
+    "sutherlins_price": "$13,995",
+    "mileage": "94,476 Miles"
   },
   {
     "category": "used",
@@ -429,7 +444,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN1MK690962&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIV19_640/2021NIV190001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9e26ac0644804bcdac76b40983298f69.jpg",
     "price": "$15,988",
     "sutherlins_price": "$14,995",
     "mileage": "110,771 Miles"
@@ -463,20 +478,5 @@
     "price": "$19,775",
     "sutherlins_price": "$15,988",
     "mileage": "100,197 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Mazda CX-5 Touring",
-    "vin": "JM3KFACM2M0348715",
-    "stock": "T25340B",
-    "exterior": "Sonic Silver Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3KFACM2M0348715&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/820a5af22527434b85a343b592b25ef5.jpg",
-    "price": "$22,786",
-    "sutherlins_price": "$15,988",
-    "mileage": "68,625 Miles"
   }
 ]
