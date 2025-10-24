@@ -361,21 +361,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN313741",
-    "stock": "P13262",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
-    "price": "$23,895",
-    "sutherlins_price": "$19,988",
-    "mileage": "56,244 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA4PW407371",
     "stock": "P13267",
@@ -388,6 +373,21 @@
     "price": "$23,575",
     "sutherlins_price": "$19,988",
     "mileage": "66,735 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN313741",
+    "stock": "P13262",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
+    "price": "$23,895",
+    "sutherlins_price": "$19,988",
+    "mileage": "56,244 Miles"
   },
   {
     "category": "cpo",
@@ -421,21 +421,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN309821",
-    "stock": "P13241",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN309821&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9e84bf1bc8b54e68996cb4e25e7799a0.jpg",
-    "price": "$24,750",
-    "sutherlins_price": "$19,988",
-    "mileage": "33,729 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8PN387932",
     "stock": "P13281",
@@ -466,17 +451,32 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV6RN351189",
-    "stock": "P13211",
-    "exterior": "Deep Blue Pearl",
-    "interior": "Sport",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN309821",
+    "stock": "P13241",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
-    "price": "$24,550",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN309821&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9e84bf1bc8b54e68996cb4e25e7799a0.jpg",
+    "price": "$24,750",
     "sutherlins_price": "$19,988",
-    "mileage": "53,501 Miles"
+    "mileage": "33,729 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Sentra SR",
+    "vin": "3N1AB8DV3PY240648",
+    "stock": "25903A",
+    "exterior": "Aspen White Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV3PY240648&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/107847252e47433aac0f60ae21b55d0b.jpg",
+    "price": "$22,375",
+    "sutherlins_price": "$19,988",
+    "mileage": "39,089 Miles"
   }
 ]
