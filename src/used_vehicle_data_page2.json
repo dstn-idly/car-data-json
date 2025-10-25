@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Soul S",
-    "vin": "KNDJ23AU7P7210873",
-    "stock": "P13309",
-    "exterior": "Clear White w/Black Roof",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU7P7210873&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0be2b04b3ac54b17ad34cb09fd08178e.jpg",
-    "price": "$19,050",
-    "sutherlins_price": "$16,988",
-    "mileage": "79,744 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV1NN367441",
     "stock": "P13238",
@@ -178,6 +163,21 @@
     "price": "$19,989",
     "sutherlins_price": "$16,988",
     "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Soul S",
+    "vin": "KNDJ23AU7P7210873",
+    "stock": "P13309",
+    "exterior": "Clear White w/Black Roof",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU7P7210873&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0be2b04b3ac54b17ad34cb09fd08178e.jpg",
+    "price": "$19,050",
+    "sutherlins_price": "$16,988",
+    "mileage": "79,744 Miles"
   },
   {
     "category": "used",
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SR",
-    "vin": "3N1CP5DV6PL568975",
-    "stock": "T25891A",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL568975&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df6449ed628c4812a92518b5840b751d.jpg",
-    "price": "$23,250",
-    "sutherlins_price": "$18,988",
-    "mileage": "21,330 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue S",
     "vin": "JN8AT3AA2MW005549",
     "stock": "25977A",
@@ -403,6 +388,21 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "44,730 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SR",
+    "vin": "3N1CP5DV6PL568975",
+    "stock": "T25891A",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL568975&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df6449ed628c4812a92518b5840b751d.jpg",
+    "price": "$23,250",
+    "sutherlins_price": "$18,988",
+    "mileage": "21,330 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Honda Insight Touring",
-    "vin": "19XZE4F9XNE000379",
-    "stock": "25861A",
-    "exterior": "Platinum White Pearl",
-    "interior": "Ivory",
-    "engine": "Gas/Electric I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XZE4F9XNE000379&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/095795ddc66e4f5eb9493e9f23c3635d.jpg",
-    "price": "$23,000",
-    "sutherlins_price": "$18,988",
-    "mileage": "98,822 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA8NC677208",
     "stock": "26037A",
@@ -478,5 +463,20 @@
     "price": "$22,100",
     "sutherlins_price": "$18,988",
     "mileage": "66,220 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda Insight Touring",
+    "vin": "19XZE4F9XNE000379",
+    "stock": "25861A",
+    "exterior": "Platinum White Pearl",
+    "interior": "Ivory",
+    "engine": "Gas/Electric I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XZE4F9XNE000379&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/095795ddc66e4f5eb9493e9f23c3635d.jpg",
+    "price": "$23,000",
+    "sutherlins_price": "$18,988",
+    "mileage": "98,822 Miles"
   }
 ]
