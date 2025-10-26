@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Versa Sedan S Plus",
-    "vin": "3N1CN7AP8JL823995",
-    "stock": "25922A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP8JL823995&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9f36c66a03504783b861245c93f44913.jpg",
-    "price": "$8,595",
-    "sutherlins_price": "$6,995",
-    "mileage": "84,670 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 GMC Terrain SLE",
     "vin": "2GKALMEK6H6346946",
     "stock": "P13323A",
@@ -361,18 +346,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue S",
-    "vin": "5N1AT2MT6LC732420",
-    "stock": "250002A",
-    "exterior": "Glacier White",
+    "name": "2020 Nissan Kicks SV",
+    "vin": "3N1CP5CV3LL565737",
+    "stock": "25885B",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT6LC732420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/db00625e06cc4a0c92c15e147f719a0e.jpg",
-    "price": "$14,100",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV3LL565737&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fcfdeb145b147869eaa3bbed1696c66.jpg",
+    "price": "$14,850",
     "sutherlins_price": "$13,995",
-    "mileage": "90,384 Miles"
+    "mileage": "94,476 Miles"
   },
   {
     "category": "used",
@@ -391,18 +376,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SV",
-    "vin": "3N1CP5CV3LL565737",
-    "stock": "25885B",
-    "exterior": "Gun Metallic",
+    "name": "2020 Nissan Rogue S",
+    "vin": "5N1AT2MT6LC732420",
+    "stock": "250002A",
+    "exterior": "Glacier White",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV3LL565737&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fcfdeb145b147869eaa3bbed1696c66.jpg",
-    "price": "$14,850",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT6LC732420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/db00625e06cc4a0c92c15e147f719a0e.jpg",
+    "price": "$14,100",
     "sutherlins_price": "$13,995",
-    "mileage": "94,476 Miles"
+    "mileage": "90,384 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$15,988",
     "sutherlins_price": "$15,988",
     "mileage": "17,857 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA9NC711415",
+    "stock": "T25213A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9NC711415&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fc368ab3422c4fde9d4b18235ac2b129.jpg",
+    "price": "$19,775",
+    "sutherlins_price": "$15,988",
+    "mileage": "100,197 Miles"
   }
 ]
