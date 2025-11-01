@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK7NN633838",
+    "stock": "P13258",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK7NN633838&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/55d639d3d2fd4f44819c96380b44c5f3.jpg",
+    "price": "$35,750",
+    "sutherlins_price": "$29,988",
+    "mileage": "69,433 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DG3PC247131",
     "stock": "P13337",
@@ -136,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Titan PRO-4X",
-    "vin": "1N6AA1ED4MN525099",
-    "stock": "25829A",
-    "exterior": "Glacier White",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED4MN525099&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f307e9899bbe4b7b80eeada7682b3137.jpg",
-    "price": "$41,175",
-    "sutherlins_price": "$33,988",
-    "mileage": "58,395 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mercedes-Benz CLA 250",
     "vin": "W1K5J4GB1SN511682",
     "stock": "P13201",
@@ -163,6 +163,21 @@
     "price": "$51,869",
     "sutherlins_price": "$33,988",
     "mileage": "22,047 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Titan PRO-4X",
+    "vin": "1N6AA1ED4MN525099",
+    "stock": "25829A",
+    "exterior": "Glacier White",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED4MN525099&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f307e9899bbe4b7b80eeada7682b3137.jpg",
+    "price": "$41,175",
+    "sutherlins_price": "$33,988",
+    "mileage": "58,395 Miles"
   },
   {
     "category": "used",
@@ -219,7 +234,7 @@
     "engine": "Electric",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBY83FB00RFS02873&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5193633ed05a44beb082f9cb16bc213f.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/401df10f1c9c474bb5077624d67becb6.jpg",
     "price": "$46,375",
     "sutherlins_price": "$35,988",
     "mileage": "27,928 Miles"
@@ -286,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Pathfinder Rock Creek",
-    "vin": "5N1DR3BD9SC237883",
-    "stock": "P13329",
-    "exterior": "Baja Storm",
-    "interior": "Charcoal",
-    "engine": "Premium Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BD9SC237883&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/afc1dd770b1048228717d8f25916a34e.jpg",
-    "price": "$39,988",
-    "sutherlins_price": "$39,988",
-    "mileage": "17,305 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 RAM 2500 Big Horn",
     "vin": "3C6UR5JJ1RG343265",
     "stock": "P13354",
@@ -313,6 +313,21 @@
     "price": "$39,988",
     "sutherlins_price": "$39,988",
     "mileage": "33,063 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Pathfinder Rock Creek",
+    "vin": "5N1DR3BD9SC237883",
+    "stock": "P13329",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal",
+    "engine": "Premium Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BD9SC237883&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/afc1dd770b1048228717d8f25916a34e.jpg",
+    "price": "$39,988",
+    "sutherlins_price": "$39,988",
+    "mileage": "17,305 Miles"
   },
   {
     "category": "used",
@@ -433,35 +448,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Honda Pilot EX",
-    "vin": "5FNYF4H41FB074070",
-    "stock": "26090A",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Regular Unleaded V-6 3.5 L/212",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF4H41FB074070&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015HOS03_640/2015HOS030120_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "171,000 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV3KC111842",
-    "stock": "250057A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3KC111842&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC04_640/2019NIC040094_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "60,964 Miles"
   }
 ]
