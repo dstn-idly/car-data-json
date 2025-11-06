@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT9JP553055&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/79cc0e6844644485859757cf03674926.jpg",
     "price": "$18,325",
-    "sutherlins_price": "$16,898",
+    "sutherlins_price": "$15,988",
     "mileage": "55,490 Miles"
   },
   {
@@ -76,21 +76,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Versa SV",
-    "vin": "3N1CN8EV8RL929373",
-    "stock": "P13314",
-    "exterior": "Gray Sky Pearl",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
-    "price": "$19,125",
-    "sutherlins_price": "$18,995",
-    "mileage": "20,165 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV5PL478220",
     "stock": "P13283",
@@ -101,8 +86,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL478220&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d96d1ff2a810413bb0dcb4369231eed3.jpg",
     "price": "$20,725",
-    "sutherlins_price": "$18,898",
+    "sutherlins_price": "$17,988",
     "mileage": "27,460 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV8RL929373",
+    "stock": "P13314",
+    "exterior": "Gray Sky Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
+    "price": "$19,125",
+    "sutherlins_price": "$17,988",
+    "mileage": "20,165 Miles"
   },
   {
     "category": "cpo",
@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0PN349465&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c8977705d9a4b0baa875b2eb310e6ca.jpg",
     "price": "$22,325",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "57,886 Miles"
   },
   {
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8PN387932&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e59eabea3bc3425192da237538b0147f.jpg",
     "price": "$22,675",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$17,988",
     "mileage": "54,287 Miles"
   },
   {
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY245102&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ef8111a59464ed6bc2fca29f5b3efad.jpg",
     "price": "$22,450",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$17,498",
     "mileage": "32,558 Miles"
   },
   {
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
     "price": "$23,895",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "56,244 Miles"
   },
   {
@@ -221,23 +221,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA4PW407371&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f5da537028384c7e9a4650e4e8d28124.jpg",
     "price": "$23,575",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "66,735 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2022 Nissan Murano SV",
-    "vin": "5N1AZ2BJ5NC115335",
-    "stock": "T26017A",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ5NC115335&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45d2e96f02704f0ca5c9be34cd7f1a19.jpg",
-    "price": "$20,675",
-    "sutherlins_price": "$20,988",
-    "mileage": "79,278 Miles"
   },
   {
     "category": "cpo",
@@ -256,6 +241,21 @@
   },
   {
     "category": "cpo",
+    "name": "2022 Nissan Murano SV",
+    "vin": "5N1AZ2BJ5NC115335",
+    "stock": "T26017A",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ5NC115335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45d2e96f02704f0ca5c9be34cd7f1a19.jpg",
+    "price": "$20,675",
+    "sutherlins_price": "$18,988",
+    "mileage": "79,278 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AA3PC900386",
     "stock": "P13248",
@@ -266,7 +266,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC900386&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/57318266b07947979999751fc7830355.jpg",
     "price": "$23,000",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "51,374 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV3PY240648&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/107847252e47433aac0f60ae21b55d0b.jpg",
     "price": "$22,375",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "39,089 Miles"
   },
   {
@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN325066&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/65c2d2759730472e8be19550f92f2d88.jpg",
     "price": "$23,000",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "57,735 Miles"
   },
   {
@@ -346,6 +346,21 @@
   },
   {
     "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6RN351189",
+    "stock": "P13211",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
+    "price": "$24,550",
+    "sutherlins_price": "$18,995",
+    "mileage": "53,501 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN309417",
     "stock": "P13249",
@@ -358,21 +373,6 @@
     "price": "$25,750",
     "sutherlins_price": "$19,988",
     "mileage": "36,740 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV6RN351189",
-    "stock": "P13211",
-    "exterior": "Deep Blue Pearl",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
-    "price": "$24,550",
-    "sutherlins_price": "$19,988",
-    "mileage": "53,501 Miles"
   },
   {
     "category": "cpo",
