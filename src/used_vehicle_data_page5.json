@@ -24,7 +24,7 @@
     "engine": "Electric",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1CF0BB3RM734179&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4681feee8262414593a18e9799002029.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ea9ac1d3bb26467da9620b343f3190c7.jpg",
     "price": "$30,225",
     "sutherlins_price": "$24,998",
     "mileage": "11,159 Miles"
@@ -103,21 +103,6 @@
     "price": "$27,200",
     "sutherlins_price": "$25,995",
     "mileage": "41,127 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Tesla Model 3 Base",
-    "vin": "5YJ3E1EA5PF691298",
-    "stock": "P13358",
-    "exterior": "Blue",
-    "interior": "N/A",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA5PF691298&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/34d2d4b91142448783f7f80e65f8804e.jpg",
-    "price": "$36,200",
-    "sutherlins_price": "$26,799",
-    "mileage": "16,312 Miles"
   },
   {
     "category": "used",
@@ -265,7 +250,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DD9PW301571&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6333f5cc28fb44cd891e316fda95a95b.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bed3c9fa06554d5ea42c5315440904f4.jpg",
     "price": "$32,757",
     "sutherlins_price": "$28,498",
     "mileage": "22,201 Miles"
@@ -362,21 +347,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA9RC262301",
-    "stock": "25974A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA9RC262301&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d9cb6c9d677642ca89574786806df401.jpg",
-    "price": "$33,475",
-    "sutherlins_price": "$30,988",
-    "mileage": "18,241 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SL",
     "vin": "5N1DR3CA5RC242271",
     "stock": "P13307",
@@ -389,6 +359,21 @@
     "price": "$34,675",
     "sutherlins_price": "$30,988",
     "mileage": "42,155 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA9RC262301",
+    "stock": "25974A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA9RC262301&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d9cb6c9d677642ca89574786806df401.jpg",
+    "price": "$33,475",
+    "sutherlins_price": "$30,988",
+    "mileage": "18,241 Miles"
   },
   {
     "category": "used",
@@ -445,7 +430,7 @@
     "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ8PN672772&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/34ab8a31e7ce44f8b26c94a7837e8b10.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/68865b17d053445fa173c86b9e4cb3a9.jpg",
     "price": "$39,250",
     "sutherlins_price": "$32,988",
     "mileage": "19,293 Miles"
@@ -479,5 +464,20 @@
     "price": "$38,025",
     "sutherlins_price": "$33,995",
     "mileage": "60,017 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Genesis G70 2.5T",
+    "vin": "KMTG34SC9SU144406",
+    "stock": "P13347",
+    "exterior": "Vik Black",
+    "interior": "Fog Gray Two-Tone",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC9SU144406&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e4bc3ceaf42d41afa935a4b43a309f67.jpg",
+    "price": "$44,455",
+    "sutherlins_price": "$35,898",
+    "mileage": "8,017 Miles"
   }
 ]
