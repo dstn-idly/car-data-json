@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2025 Genesis G70 2.5T",
+    "vin": "KMTG34SC9SU144406",
+    "stock": "P13347",
+    "exterior": "Vik Black",
+    "interior": "Fog Gray Two-Tone",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC9SU144406&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e4bc3ceaf42d41afa935a4b43a309f67.jpg",
+    "price": "$44,455",
+    "sutherlins_price": "$35,898",
+    "mileage": "8,017 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Hyundai Palisade XRT",
     "vin": "KM8R3DGE3SU839610",
     "stock": "P13286",
@@ -12,7 +27,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/62a27728dd2e4f22aa339c233b3ee166.jpg",
     "price": "$41,925",
     "sutherlins_price": "$35,988",
-    "mileage": "N/A"
+    "mileage": "21,695 Miles"
   },
   {
     "category": "used",
@@ -99,7 +114,7 @@
     "engine": "Regular Unleaded V-8 6.4 L/392",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6UR5JJ1RG343265&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7b605d876b8247919cc1cda51d798140.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/665c9819eab94ef0804e5be970bcc071.jpg",
     "price": "$53,225",
     "sutherlins_price": "$39,988",
     "mileage": "33,063 Miles"
@@ -177,7 +192,7 @@
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WP0CA2994SS343389&vehicletype=Truck",
     "price": "$49,988",
     "sutherlins_price": "$49,988",
-    "mileage": "N/A"
+    "mileage": "78,625 Miles"
   },
   {
     "category": "used",
@@ -208,65 +223,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Murano",
-    "vin": "5N1AZ2MG3HN101475",
-    "stock": "P13358A",
-    "exterior": "Gray",
-    "interior": "N/A",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG3HN101475&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS020002_640/2017NIS020002_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "77,637 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2006 Toyota RAV4 Limited",
-    "vin": "JTMBD31V965031025",
-    "stock": "P13364A",
-    "exterior": "Blue",
-    "interior": "Taupe",
-    "engine": "Gas I4 2.4L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMBD31V965031025&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/9023.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "171,073 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Versa Sedan S Plus",
-    "vin": "3N1CN7AP4HL831408",
-    "stock": "25318A",
-    "exterior": "Graphite Blue",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP4HL831408&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC100001_640/2017NIC100001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "163,911 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Dodge Challenger SXT",
-    "vin": "2C3CDZAG3HH658943",
-    "stock": "25813B",
-    "exterior": "Pitch Black Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZAG3HH658943&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017DOC190001_640/2017DOC190001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "123,233 Miles"
   }
 ]
