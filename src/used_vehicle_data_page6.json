@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2025 Genesis G70 2.5T",
+    "vin": "KMTG34SC9SU144406",
+    "stock": "P13347",
+    "exterior": "Vik Black",
+    "interior": "Fog Gray Two-Tone",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC9SU144406&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e4bc3ceaf42d41afa935a4b43a309f67.jpg",
+    "price": "$44,455",
+    "sutherlins_price": "$34,498",
+    "mileage": "8,017 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Hyundai Palisade XRT",
+    "vin": "KM8R3DGE3SU839610",
+    "stock": "P13286",
+    "exterior": "Hyper White",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R3DGE3SU839610&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/62a27728dd2e4f22aa339c233b3ee166.jpg",
+    "price": "$41,925",
+    "sutherlins_price": "$35,988",
+    "mileage": "21,695 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 BMW i4 xDrive40",
     "vin": "WBY83FB00RFS02873",
     "stock": "P13367",
@@ -193,35 +223,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2007 Ford F-150",
-    "vin": "1FTRX12W27FA08361",
-    "stock": "25295C",
-    "exterior": "Gray",
-    "interior": "N/A",
-    "engine": "Gas V8 4.6L/281",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTRX12W27FA08361&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/9565.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "153,000 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Kicks SV",
-    "vin": "3N1CP5CV5ML529243",
-    "stock": "26132A",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5ML529243&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS26_640/2021NIS260064_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "38,396 Miles"
   }
 ]
