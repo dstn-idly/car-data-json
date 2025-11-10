@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Kia Soul LX",
-    "vin": "KNDJ23AUXM7144380",
-    "stock": "25649B",
-    "exterior": "Snow White Pearl",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AUXM7144380&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d9fb706bb4a843a4ae0564baea9ee399.jpg",
-    "price": "$16,275",
-    "sutherlins_price": "$12,988",
-    "mileage": "55,023 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Rogue SL",
     "vin": "5N1AT2MTXJC842738",
     "stock": "P12504A",
@@ -178,6 +163,21 @@
     "price": "$15,300",
     "sutherlins_price": "$12,988",
     "mileage": "85,089 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Kia Soul LX",
+    "vin": "KNDJ23AUXM7144380",
+    "stock": "25649B",
+    "exterior": "Snow White Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AUXM7144380&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d9fb706bb4a843a4ae0564baea9ee399.jpg",
+    "price": "$16,275",
+    "sutherlins_price": "$12,988",
+    "mileage": "55,023 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$15,988",
-    "mileage": "62,987 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA9NC711415",
     "stock": "T25213A",
@@ -478,5 +463,20 @@
     "price": "$19,775",
     "sutherlins_price": "$15,988",
     "mileage": "100,197 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY244899",
+    "stock": "P13290",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$15,988",
+    "mileage": "62,987 Miles"
   }
 ]
