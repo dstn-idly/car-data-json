@@ -316,21 +316,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV2PL541211",
-    "stock": "P13282",
-    "exterior": "Gray/Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV2PL541211&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c30df70ae4df46bfa20a2c56ea73ea4d.jpg",
-    "price": "$21,975",
-    "sutherlins_price": "$17,988",
-    "mileage": "40,411 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8PN387932",
     "stock": "P13281",
@@ -343,6 +328,21 @@
     "price": "$22,675",
     "sutherlins_price": "$17,988",
     "mileage": "54,287 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV2PL541211",
+    "stock": "P13282",
+    "exterior": "Gray/Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV2PL541211&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c30df70ae4df46bfa20a2c56ea73ea4d.jpg",
+    "price": "$21,975",
+    "sutherlins_price": "$17,988",
+    "mileage": "40,411 Miles"
   },
   {
     "category": "cpo",
@@ -376,21 +376,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Rogue S",
-    "vin": "JN8AT3AA2MW005549",
-    "stock": "25977A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3AA2MW005549&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/519f72b5d7f34e20bb7da4ce806aded0.jpg",
-    "price": "$21,925",
-    "sutherlins_price": "$17,995",
-    "mileage": "44,730 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2020 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CV5LW265651",
     "stock": "25686A",
@@ -403,6 +388,21 @@
     "price": "$20,175",
     "sutherlins_price": "$17,995",
     "mileage": "70,561 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Rogue S",
+    "vin": "JN8AT3AA2MW005549",
+    "stock": "25977A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3AA2MW005549&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/519f72b5d7f34e20bb7da4ce806aded0.jpg",
+    "price": "$21,925",
+    "sutherlins_price": "$17,995",
+    "mileage": "44,730 Miles"
   },
   {
     "category": "cpo",
@@ -466,36 +466,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DVXRN388387",
-    "stock": "P13292",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DVXRN388387&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f0552eb446014ba69046c7f418f50005.jpg",
-    "price": "$23,675",
-    "sutherlins_price": "$18,988",
-    "mileage": "45,233 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN313741",
-    "stock": "P13262",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
-    "price": "$23,895",
-    "sutherlins_price": "$18,988",
-    "mileage": "56,244 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA4PW407371",
     "stock": "P13267",
@@ -508,6 +478,21 @@
     "price": "$23,575",
     "sutherlins_price": "$18,988",
     "mileage": "66,735 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DVXRN388387",
+    "stock": "P13292",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DVXRN388387&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f0552eb446014ba69046c7f418f50005.jpg",
+    "price": "$23,675",
+    "sutherlins_price": "$18,988",
+    "mileage": "45,233 Miles"
   },
   {
     "category": "cpo",
@@ -1142,21 +1127,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA3RC203647",
-    "stock": "25953A",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ae3bb730d64ef79302c57864bbdc06.jpg",
-    "price": "$33,700",
-    "sutherlins_price": "$29,988",
-    "mileage": "22,521 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Frontier PRO-X",
     "vin": "1N6ED1EJ5NN663699",
     "stock": "25092A",
@@ -1169,6 +1139,21 @@
     "price": "$36,550",
     "sutherlins_price": "$29,988",
     "mileage": "24,796 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "25953A",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ae3bb730d64ef79302c57864bbdc06.jpg",
+    "price": "$33,700",
+    "sutherlins_price": "$29,988",
+    "mileage": "22,521 Miles"
   },
   {
     "category": "cpo",

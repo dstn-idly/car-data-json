@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Hyundai Kona SEL",
+    "vin": "KM8HB3AB6RU087337",
+    "stock": "P13302A",
+    "exterior": "Atlas White",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HB3AB6RU087337&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/41f3b38a82cc48b5988fcf0ac178fc4d.jpg",
+    "price": "$25,550",
+    "sutherlins_price": "$20,750",
+    "mileage": "13,219 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AB8PC949608",
     "stock": "25970A",
@@ -28,6 +43,21 @@
     "price": "$24,500",
     "sutherlins_price": "$20,798",
     "mileage": "85,686 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Pathfinder SV",
+    "vin": "5N1DR2BN7LC632424",
+    "stock": "P13393",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2BN7LC632424&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS07_640/2020NIS070001_640_01.jpg",
+    "price": "$20,898",
+    "sutherlins_price": "$20,898",
+    "mileage": "35,475 Miles"
   },
   {
     "category": "used",
@@ -106,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BJ9PC128639",
-    "stock": "P13325",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ9PC128639&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/859e424041574e76965a97424c2c6b64.jpg",
-    "price": "$24,825",
-    "sutherlins_price": "$21,988",
-    "mileage": "55,598 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue SL",
     "vin": "5N1AT3CA1MC670657",
     "stock": "26151A",
@@ -133,6 +148,21 @@
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "41,183 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ9PC128639",
+    "stock": "P13325",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ9PC128639&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/859e424041574e76965a97424c2c6b64.jpg",
+    "price": "$24,825",
+    "sutherlins_price": "$21,988",
+    "mileage": "55,598 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$26,675",
     "sutherlins_price": "$23,988",
     "mileage": "24,543 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Camry SE",
-    "vin": "4T1G11AK8RU912877",
-    "stock": "P13340",
-    "exterior": "Celestial Silver",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK8RU912877&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae9bd57d3fbe48c5ab6a32415141b620.jpg",
-    "price": "$28,075",
-    "sutherlins_price": "$23,988",
-    "mileage": "36,906 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA1RC730692",
-    "stock": "P13374",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC730692&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f7bddfa911134b378a02101fab77460f.jpg",
-    "price": "$26,375",
-    "sutherlins_price": "$23,995",
-    "mileage": "25,606 Miles"
   }
 ]
