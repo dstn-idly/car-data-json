@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDG9KW675555&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/11aae32c0939473d903a5603d92ff205.jpg",
     "price": "$20,988",
-    "sutherlins_price": "$21,988",
+    "sutherlins_price": "$20,988",
     "mileage": "78,016 Miles"
   },
   {
@@ -251,7 +251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMH1RFV3ND087786&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/936b4191accc45f9a3acab30344ffed1.jpg",
     "price": "$26,450",
-    "sutherlins_price": "$22,988",
+    "sutherlins_price": "$21,988",
     "mileage": "70,987 Miles"
   },
   {
@@ -421,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Titan SV",
-    "vin": "1N6AA1EE8MN528449",
-    "stock": "P13391",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIT13_640/2021NIT130080_640_01.jpg",
-    "price": "$29,050",
-    "sutherlins_price": "$24,898",
-    "mileage": "79,174 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Cadillac XT6 AWD Sport",
     "vin": "1GYKPGRS6LZ170827",
     "stock": "25955A",
@@ -448,6 +433,21 @@
     "price": "$28,700",
     "sutherlins_price": "$24,898",
     "mileage": "95,733 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Titan SV",
+    "vin": "1N6AA1EE8MN528449",
+    "stock": "P13391",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIT13_640/2021NIT130080_640_01.jpg",
+    "price": "$29,050",
+    "sutherlins_price": "$24,898",
+    "mileage": "79,174 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2019 Honda Accord Sedan EX-L 1.5T",
-    "vin": "1HGCV1F57KA010482",
-    "stock": "P13371",
-    "exterior": "White",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "name": "2025 Buick Encore GX Sport Touring",
+    "vin": "KL4AMDSL8SB023213",
+    "stock": "250003A",
+    "exterior": "Ocean Blue Metallic",
+    "interior": "Whisper Beige seats with Ebony interior accents",
+    "engine": "Turbocharged 1.3/",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F57KA010482&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7a17b3cf02e415d9a7fdb0871d3e446.jpg",
-    "price": "$25,458",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4AMDSL8SB023213&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c9b8b63902944a378bcdef307d0bdcc8.jpg",
+    "price": "$27,525",
     "sutherlins_price": "$24,995",
-    "mileage": "50,928 Miles"
+    "mileage": "16,216 Miles"
   }
 ]
