@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Chrysler Pacifica Touring",
+    "vin": "2C4RC1FG5RR110408",
+    "stock": "P13390",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024CRV09_640/2024CRV090001_640_01.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$29,995",
+    "mileage": "29,206 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Titan PRO-4X",
     "vin": "1N6AA1ED4MN525099",
     "stock": "25829A",
@@ -85,7 +100,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BC4P9183039&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS10_640/2023NIS100073_640_01.jpg",
-    "price": "$33,995",
+    "price": "$38,825",
     "sutherlins_price": "$33,995",
     "mileage": "57,857 Miles"
   },
@@ -252,7 +267,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022CHS27_640/2022CHS270016_640_01.jpg",
     "price": "$40,988",
     "sutherlins_price": "$40,988",
-    "mileage": "N/A"
+    "mileage": "1 Miles"
   },
   {
     "category": "used",
@@ -316,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Cadillac XT6 AWD Sport",
-    "vin": "1GYKPGRS6LZ170827",
-    "stock": "25955A",
-    "exterior": "Stellar Black Metallic",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYKPGRS6LZ170827&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CAS08_640/2020CAS080042_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "95,733 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan ARIYA ENGAGE+",
     "vin": "JN1DF0BB4PM701550",
     "stock": "P13346",
@@ -343,35 +343,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Jeep Wrangler Sport",
-    "vin": "1C4GJXAG8JW271743",
-    "stock": "P13392",
-    "exterior": "Mojito! Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018JES01_640/2018JES010001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "44,202 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Honda Odyssey EX-L",
-    "vin": "5FNRL5H6XGB056964",
-    "stock": "26142A",
-    "exterior": "Brown",
-    "interior": "N/A",
-    "engine": "Regular Unleaded V-6 3.5 L/212",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNRL5H6XGB056964&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HOV010006_640/2016HOV010006_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "166,620 Miles"
   }
 ]

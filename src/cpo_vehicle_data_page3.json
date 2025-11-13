@@ -40,7 +40,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV0SN414471&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3987c80e27e14680bf457b8402bc502e.jpg",
-    "price": "$26,988",
+    "price": "$31,745",
     "sutherlins_price": "$26,988",
     "mileage": "361 Miles"
   },
@@ -182,21 +182,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Frontier PRO-X",
-    "vin": "1N6ED1EJ5NN663699",
-    "stock": "25092A",
-    "exterior": "Glacier White",
-    "interior": "Charcoal w/Lava Red Stit",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ5NN663699&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/27d88074118b4f45bd258f140413026b.jpg",
-    "price": "$36,550",
-    "sutherlins_price": "$29,988",
-    "mileage": "24,796 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA3RC203647",
     "stock": "25953A",
@@ -209,6 +194,21 @@
     "price": "$33,700",
     "sutherlins_price": "$29,988",
     "mileage": "22,521 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ5NN663699",
+    "stock": "25092A",
+    "exterior": "Glacier White",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ5NN663699&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/27d88074118b4f45bd258f140413026b.jpg",
+    "price": "$36,550",
+    "sutherlins_price": "$29,988",
+    "mileage": "24,796 Miles"
   },
   {
     "category": "cpo",
