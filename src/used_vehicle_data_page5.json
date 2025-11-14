@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 GMC Canyon 2WD Elevation",
+    "vin": "1GTG5CEN9N1258640",
+    "stock": "P13285",
+    "exterior": "Onyx Black",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTG5CEN9N1258640&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/03f2069b3b1147c1a4ae174165d50d59.jpg",
+    "price": "$34,350",
+    "sutherlins_price": "$24,988",
+    "mileage": "10,890 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Buick Encore GX Sport Touring",
     "vin": "KL4AMDSL8SB023213",
     "stock": "250003A",
@@ -13,6 +28,21 @@
     "price": "$27,525",
     "sutherlins_price": "$24,995",
     "mileage": "16,216 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Honda Accord Sedan EX-L 1.5T",
+    "vin": "1HGCV1F57KA010482",
+    "stock": "P13371",
+    "exterior": "White",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F57KA010482&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7a17b3cf02e415d9a7fdb0871d3e446.jpg",
+    "price": "$25,458",
+    "sutherlins_price": "$24,995",
+    "mileage": "50,928 Miles"
   },
   {
     "category": "used",
@@ -318,6 +348,21 @@
   {
     "category": "used",
     "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "25953A",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ae3bb730d64ef79302c57864bbdc06.jpg",
+    "price": "$33,700",
+    "sutherlins_price": "$29,988",
+    "mileage": "22,521 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BAXRC236466",
     "stock": "26103A",
     "exterior": "Pearl White Tricoat",
@@ -340,25 +385,10 @@
     "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019AUC19_640/2019AUC190018_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1fbbf95ad764592994c04e52fca99f0.jpg",
     "price": "$33,150",
     "sutherlins_price": "$29,988",
     "mileage": "36,711 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA3RC203647",
-    "stock": "25953A",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ae3bb730d64ef79302c57864bbdc06.jpg",
-    "price": "$33,700",
-    "sutherlins_price": "$29,988",
-    "mileage": "22,521 Miles"
   },
   {
     "category": "used",
@@ -449,35 +479,5 @@
     "price": "$51,869",
     "sutherlins_price": "$33,612",
     "mileage": "22,047 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Armada SL",
-    "vin": "JN8AY2BC4P9183039",
-    "stock": "P13395",
-    "exterior": "Aspen White Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BC4P9183039&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS10_640/2023NIS100073_640_01.jpg",
-    "price": "$38,825",
-    "sutherlins_price": "$33,995",
-    "mileage": "57,857 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Hyundai Palisade XRT",
-    "vin": "KM8R3DGE3SU839610",
-    "stock": "P13286",
-    "exterior": "Hyper White",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R3DGE3SU839610&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/62a27728dd2e4f22aa339c233b3ee166.jpg",
-    "price": "$41,925",
-    "sutherlins_price": "$35,988",
-    "mileage": "21,695 Miles"
   }
 ]
