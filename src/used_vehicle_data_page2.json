@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Versa SV",
-    "vin": "3N1CN8EV8RL929373",
-    "stock": "P13314",
-    "exterior": "Gray Sky Pearl",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
-    "price": "$19,125",
-    "sutherlins_price": "$17,988",
-    "mileage": "20,165 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV5PL478220",
     "stock": "P13283",
@@ -358,6 +343,21 @@
     "price": "$20,725",
     "sutherlins_price": "$17,988",
     "mileage": "27,460 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV8RL929373",
+    "stock": "P13314",
+    "exterior": "Gray Sky Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
+    "price": "$19,125",
+    "sutherlins_price": "$17,988",
+    "mileage": "20,165 Miles"
   },
   {
     "category": "used",
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV2MN419642",
-    "stock": "250063A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2MN419642&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040026_640_01.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "33,627 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV2PL541211",
     "stock": "P13282",
@@ -451,18 +436,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE4RP087690",
-    "stock": "P13265",
-    "exterior": "Ice",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "name": "2021 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV2MN419642",
+    "stock": "250063A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE4RP087690&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/22677c861a984533b0149be03fdd4111.jpg",
-    "price": "$22,825",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2MN419642&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040026_640_01.jpg",
+    "price": "$22,330",
     "sutherlins_price": "$17,988",
-    "mileage": "35,732 Miles"
+    "mileage": "33,627 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$22,375",
     "sutherlins_price": "$17,988",
     "mileage": "39,089 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE4RP087690",
+    "stock": "P13265",
+    "exterior": "Ice",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE4RP087690&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/22677c861a984533b0149be03fdd4111.jpg",
+    "price": "$22,825",
+    "sutherlins_price": "$17,988",
+    "mileage": "35,732 Miles"
   }
 ]
