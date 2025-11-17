@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
     "price": "$19,825",
-    "sutherlins_price": "$15,988",
+    "sutherlins_price": "$14,898",
     "mileage": "62,987 Miles"
   },
   {
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY245102&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ef8111a59464ed6bc2fca29f5b3efad.jpg",
     "price": "$22,450",
-    "sutherlins_price": "$16,917",
+    "sutherlins_price": "$16,766",
     "mileage": "32,558 Miles"
   },
   {
@@ -241,6 +241,21 @@
   },
   {
     "category": "cpo",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV5PL478220",
+    "stock": "P13283",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL478220&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d96d1ff2a810413bb0dcb4369231eed3.jpg",
+    "price": "$20,725",
+    "sutherlins_price": "$16,457",
+    "mileage": "27,460 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2024 Nissan Versa SV",
     "vin": "3N1CN8EV8RL929373",
     "stock": "P13314",
@@ -256,18 +271,18 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV5PL478220",
-    "stock": "P13283",
-    "exterior": "Super Black",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8RN322095",
+    "stock": "P13287",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5PL478220&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d96d1ff2a810413bb0dcb4369231eed3.jpg",
-    "price": "$20,725",
-    "sutherlins_price": "$17,988",
-    "mileage": "27,460 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN322095&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e72dddccc68447db8383461323b7dec.jpg",
+    "price": "$23,000",
+    "sutherlins_price": "$16,694",
+    "mileage": "55,085 Miles"
   },
   {
     "category": "cpo",
@@ -281,23 +296,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0PN349465&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c8977705d9a4b0baa875b2eb310e6ca.jpg",
     "price": "$22,325",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,723",
     "mileage": "57,886 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8RN322095",
-    "stock": "P13287",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN322095&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e72dddccc68447db8383461323b7dec.jpg",
-    "price": "$23,000",
-    "sutherlins_price": "$17,988",
-    "mileage": "55,085 Miles"
   },
   {
     "category": "cpo",
@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV2PL541211&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c30df70ae4df46bfa20a2c56ea73ea4d.jpg",
     "price": "$21,975",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,898",
     "mileage": "40,411 Miles"
   },
   {
@@ -356,7 +356,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY280419&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7332e3c0375d48e48c9143f81726880e.jpg",
     "price": "$23,680",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,498",
     "mileage": "10,766 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN325066&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/65c2d2759730472e8be19550f92f2d88.jpg",
     "price": "$23,000",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,741",
     "mileage": "57,735 Miles"
   },
   {
@@ -391,21 +391,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Rogue S",
-    "vin": "JN8AT3AA2MW005549",
-    "stock": "25977A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3AA2MW005549&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/519f72b5d7f34e20bb7da4ce806aded0.jpg",
-    "price": "$21,925",
-    "sutherlins_price": "$17,995",
-    "mileage": "44,730 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2020 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CV5LW265651",
     "stock": "25686A",
@@ -418,6 +403,21 @@
     "price": "$20,175",
     "sutherlins_price": "$17,995",
     "mileage": "70,561 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Rogue S",
+    "vin": "JN8AT3AA2MW005549",
+    "stock": "25977A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3AA2MW005549&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/519f72b5d7f34e20bb7da4ce806aded0.jpg",
+    "price": "$21,925",
+    "sutherlins_price": "$17,995",
+    "mileage": "44,730 Miles"
   },
   {
     "category": "cpo",
@@ -466,17 +466,17 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN309417",
-    "stock": "P13249",
-    "exterior": "Garnet Pearl Metallic",
-    "interior": "Charcoal",
+    "name": "2024 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6RN351189",
+    "stock": "P13211",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Sport",
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN309417&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b75a97ef6c8411f8a03affd27992f47.jpg",
-    "price": "$25,750",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
+    "price": "$24,550",
     "sutherlins_price": "$18,498",
-    "mileage": "36,740 Miles"
+    "mileage": "53,501 Miles"
   }
 ]
