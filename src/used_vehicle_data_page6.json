@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Mercedes-Benz CLA 250",
-    "vin": "W1K5J4GB1SN511682",
-    "stock": "P13201",
-    "exterior": "Black",
-    "interior": "aluminum",
-    "engine": "Intercooled Turbo Gas/Electric I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1K5J4GB1SN511682&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9cdb878b45de4b509fddbcdd1250bbc0.jpg",
-    "price": "$51,869",
-    "sutherlins_price": "$33,498",
-    "mileage": "22,047 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Armada SL",
-    "vin": "JN8AY2BC4P9183039",
-    "stock": "P13395",
-    "exterior": "Aspen White Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BC4P9183039&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS10_640/2023NIS100073_640_01.jpg",
-    "price": "$38,825",
-    "sutherlins_price": "$33,698",
-    "mileage": "57,857 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Hyundai Palisade XRT",
     "vin": "KM8R3DGE3SU839610",
     "stock": "P13286",
@@ -253,5 +223,50 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Nissan JUKE SL",
+    "vin": "JN8AF5MR8ET356490",
+    "stock": "25619A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 1.6 L/99",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AF5MR8ET356490&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS017a_640/2014NIS017a_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "211,981 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2007 Hyundai Elantra",
+    "vin": "KMHDU46D47U051748",
+    "stock": "25699B",
+    "exterior": "Red",
+    "interior": "N/A",
+    "engine": "Gas I4 2.0L/121",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHDU46D47U051748&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHDU46D47U051748&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "175,250 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Frontier SV V6",
+    "vin": "1N6AD0ER1JN742134",
+    "stock": "26058B",
+    "exterior": "Magnetic Black",
+    "interior": "Steel",
+    "engine": "Regular Unleaded V-6 4.0 L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER1JN742134&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIT12_640/2018NIT120144_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "88,295 Miles"
   }
 ]
