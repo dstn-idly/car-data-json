@@ -376,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV8RL929373",
+    "stock": "P13314",
+    "exterior": "Gray Sky Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
+    "price": "$19,125",
+    "sutherlins_price": "$16,988",
+    "mileage": "20,165 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CVXNY222470",
     "stock": "P13387",
@@ -463,20 +478,5 @@
     "price": "$17,450",
     "sutherlins_price": "$17,450",
     "mileage": "10,325 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN383193",
-    "stock": "P13318",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN383193&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e01709198449436fbd2251276f2d6bac.jpg",
-    "price": "$24,350",
-    "sutherlins_price": "$17,649",
-    "mileage": "43,395 Miles"
   }
 ]

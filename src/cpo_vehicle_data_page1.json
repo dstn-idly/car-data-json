@@ -46,21 +46,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$14,898",
-    "mileage": "62,987 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2018 Nissan Rogue S",
     "vin": "KNMAT2MT9JP553055",
     "stock": "P13319",
@@ -73,6 +58,21 @@
     "price": "$18,325",
     "sutherlins_price": "$13,988",
     "mileage": "55,490 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY244899",
+    "stock": "P13290",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$14,898",
+    "mileage": "62,987 Miles"
   },
   {
     "category": "cpo",
@@ -331,6 +331,21 @@
   },
   {
     "category": "cpo",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV8RL929373",
+    "stock": "P13314",
+    "exterior": "Gray Sky Pearl",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
+    "price": "$19,125",
+    "sutherlins_price": "$16,988",
+    "mileage": "20,165 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN309417",
     "stock": "P13249",
@@ -418,21 +433,6 @@
     "price": "$22,620",
     "sutherlins_price": "$17,799",
     "mileage": "72,371 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Versa SV",
-    "vin": "3N1CN8EV8RL929373",
-    "stock": "P13314",
-    "exterior": "Gray Sky Pearl",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL929373&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8fa4378d93404b0689172cc74fa0d685.jpg",
-    "price": "$19,125",
-    "sutherlins_price": "$16,988",
-    "mileage": "20,165 Miles"
   },
   {
     "category": "cpo",
