@@ -31,21 +31,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Sentra S",
-    "vin": "3N1AB8BV4MY317087",
-    "stock": "250019A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4MY317087&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/47c35ae1f11648eea4f00006bca87d3a.jpg",
-    "price": "$17,550",
-    "sutherlins_price": "$13,954",
-    "mileage": "48,041 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2018 Nissan Rogue S",
     "vin": "KNMAT2MT9JP553055",
     "stock": "P13319",
@@ -478,5 +463,20 @@
     "price": "$18,600",
     "sutherlins_price": "$17,995",
     "mileage": "47,593 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Rogue S",
+    "vin": "JN8AT3AA2MW005549",
+    "stock": "25977A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3AA2MW005549&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/519f72b5d7f34e20bb7da4ce806aded0.jpg",
+    "price": "$21,925",
+    "sutherlins_price": "$17,995",
+    "mileage": "44,730 Miles"
   }
 ]
