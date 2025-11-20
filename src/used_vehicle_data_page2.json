@@ -91,6 +91,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Versa SV",
+    "vin": "3N1CN8EV0PL824792",
+    "stock": "P13398",
+    "exterior": "Super Black",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL824792&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC10_640/2023NIC100016_640_01.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "55,830 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT5KW258627",
     "stock": "P13186A",
@@ -463,20 +478,5 @@
     "price": "$22,620",
     "sutherlins_price": "$17,799",
     "mileage": "72,371 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV2MN419642",
-    "stock": "250063A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV2MN419642&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040026_640_01.jpg",
-    "price": "$22,330",
-    "sutherlins_price": "$17,988",
-    "mileage": "33,627 Miles"
   }
 ]
