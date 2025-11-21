@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2022 INFINITI QX50 LUXE",
+    "vin": "3PCAJ5BA6NF122309",
+    "stock": "P13378",
+    "exterior": "Slate Gray",
+    "interior": "Graphite",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/120",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3PCAJ5BA6NF122309&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9f18df5c3be74cf99ca5042ae866e823.jpg",
+    "price": "$27,200",
+    "sutherlins_price": "$24,498",
+    "mileage": "41,127 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Armada SV",
+    "vin": "JN8AY2AC3N9162987",
+    "stock": "P13289",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC3N9162987&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae19b9e7046e468b96c58d744e483162.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$24,589",
+    "mileage": "77,094 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Titan SV",
     "vin": "1N6AA1EE8MN528449",
     "stock": "P13391",
@@ -449,35 +479,5 @@
     "price": "$38,825",
     "sutherlins_price": "$33,698",
     "mileage": "57,857 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Hyundai Palisade XRT",
-    "vin": "KM8R3DGE3SU839610",
-    "stock": "P13286",
-    "exterior": "Hyper White",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R3DGE3SU839610&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/62a27728dd2e4f22aa339c233b3ee166.jpg",
-    "price": "$41,925",
-    "sutherlins_price": "$35,498",
-    "mileage": "21,695 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 BMW i4 xDrive40",
-    "vin": "WBY83FB00RFS02873",
-    "stock": "P13367",
-    "exterior": "Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBY83FB00RFS02873&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/63a840f0a4a442a68e28ffb2336b7bd7.jpg",
-    "price": "$46,375",
-    "sutherlins_price": "$35,988",
-    "mileage": "27,928 Miles"
   }
 ]
