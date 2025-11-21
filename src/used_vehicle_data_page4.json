@@ -1,6 +1,51 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ9PC128639",
+    "stock": "P13325",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ9PC128639&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/859e424041574e76965a97424c2c6b64.jpg",
+    "price": "$24,825",
+    "sutherlins_price": "$20,498",
+    "mileage": "55,598 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SEL",
+    "vin": "5NMS2DAJ9PH626982",
+    "stock": "P13239",
+    "exterior": "Serenity White Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH626982&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1967ff4d26654045a3854ce02e97cc76.jpg",
+    "price": "$24,550",
+    "sutherlins_price": "$20,498",
+    "mileage": "47,588 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Sonata SEL Plus",
+    "vin": "KMHL44J23NA245025",
+    "stock": "P13303",
+    "exterior": "Portofino Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
+    "price": "$27,975",
+    "sutherlins_price": "$20,498",
+    "mileage": "26,782 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Toyota Camry LE",
     "vin": "4T1C11AK8RU211657",
     "stock": "P13212",
@@ -16,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Palisade SEL",
-    "vin": "KM8R44HE9LU121993",
-    "stock": "250037A",
-    "exterior": "Steel Graphite",
-    "interior": "Black/Gray",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R44HE9LU121993&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/aea5a6cdfe9445a9b6f1e7e1cb20c8b6.jpg",
-    "price": "$23,600",
-    "sutherlins_price": "$20,598",
-    "mileage": "85,168 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Pathfinder SV",
     "vin": "5N1DR3BA8NC251655",
     "stock": "P13351",
@@ -43,6 +73,21 @@
     "price": "$24,500",
     "sutherlins_price": "$20,598",
     "mileage": "85,686 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Palisade SEL",
+    "vin": "KM8R44HE9LU121993",
+    "stock": "250037A",
+    "exterior": "Steel Graphite",
+    "interior": "Black/Gray",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R44HE9LU121993&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/aea5a6cdfe9445a9b6f1e7e1cb20c8b6.jpg",
+    "price": "$23,600",
+    "sutherlins_price": "$20,598",
+    "mileage": "85,168 Miles"
   },
   {
     "category": "used",
@@ -421,21 +466,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Wrangler Sport",
-    "vin": "1C4GJXAG8JW271743",
-    "stock": "P13392",
-    "exterior": "Mojito! Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018JES01_640/2018JES010001_640_01.jpg",
-    "price": "$26,250",
-    "sutherlins_price": "$23,995",
-    "mileage": "44,202 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota RAV4 XLE",
     "vin": "2T3W1RFV3NC186944",
     "stock": "25999A",
@@ -448,35 +478,5 @@
     "price": "$23,995",
     "sutherlins_price": "$23,995",
     "mileage": "85,266 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Cadillac XT6 AWD Sport",
-    "vin": "1GYKPGRS6LZ170827",
-    "stock": "25955A",
-    "exterior": "Stellar Black Metallic",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYKPGRS6LZ170827&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0aa897978676434b8a203ab22865a0ec.jpg",
-    "price": "$28,700",
-    "sutherlins_price": "$24,498",
-    "mileage": "95,733 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 INFINITI QX50 LUXE",
-    "vin": "3PCAJ5BA6NF122309",
-    "stock": "P13378",
-    "exterior": "Slate Gray",
-    "interior": "Graphite",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/120",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3PCAJ5BA6NF122309&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9f18df5c3be74cf99ca5042ae866e823.jpg",
-    "price": "$27,200",
-    "sutherlins_price": "$24,498",
-    "mileage": "41,127 Miles"
   }
 ]

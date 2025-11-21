@@ -1,21 +1,6 @@
 [
   {
     "category": "cpo",
-    "name": "2023 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV1PN409160",
-    "stock": "250048A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN409160&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d6ce7f70aa104d949a90db1583f5a719.jpg",
-    "price": "$21,950",
-    "sutherlins_price": "$17,995",
-    "mileage": "39,841 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SR",
     "vin": "3N1AB8DV4RY262399",
     "stock": "P13217",
@@ -31,21 +16,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV6RN351189",
-    "stock": "P13211",
-    "exterior": "Deep Blue Pearl",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
-    "price": "$24,550",
-    "sutherlins_price": "$18,498",
-    "mileage": "53,501 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2020 Nissan Murano SL",
     "vin": "5N1AZ2CS1LN113526",
     "stock": "P13335",
@@ -58,6 +28,21 @@
     "price": "$21,298",
     "sutherlins_price": "$18,498",
     "mileage": "84,663 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV6RN351189",
+    "stock": "P13211",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV6RN351189&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ed942c9d5be64983a57f9e102a49d155.jpg",
+    "price": "$24,550",
+    "sutherlins_price": "$18,498",
+    "mileage": "53,501 Miles"
   },
   {
     "category": "cpo",
@@ -479,5 +464,20 @@
     "price": "$32,757",
     "sutherlins_price": "$28,498",
     "mileage": "22,201 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK7NN633838",
+    "stock": "P13258",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK7NN633838&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bfbf2c681ee04c34bf274e5bb6054119.jpg",
+    "price": "$35,750",
+    "sutherlins_price": "$28,498",
+    "mileage": "69,433 Miles"
   }
 ]
