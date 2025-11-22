@@ -4,13 +4,13 @@
     "name": "2006 Honda Civic Cpe LX",
     "vin": "2HGFG11686H551314",
     "stock": "P13300A",
-    "exterior": "",
-    "interior": "N/A",
+    "exterior": "Galaxy Gray Metallic",
+    "interior": "Black",
     "engine": "Gas I4 1.8L/110",
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFG11686H551314&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/8752.jpg",
-    "price": "$2,988",
+    "price": "$7,425",
     "sutherlins_price": "$2,988",
     "mileage": "338,720 Miles"
   },
@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2011 Nissan Armada SL",
-    "vin": "5N1BA0ND5BN611337",
-    "stock": "P13341A",
-    "exterior": "Blizzard",
-    "interior": "Almond",
-    "engine": "Gas/Ethanol V8 5.6L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BA0ND5BN611337&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13330.jpg",
-    "price": "$4,998",
-    "sutherlins_price": "$4,998",
-    "mileage": "233,126 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Nissan Rogue Select S",
     "vin": "JN8AS5MV9FW250297",
     "stock": "T25980B",
@@ -85,7 +70,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNKRHKD3FJ141376&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015CHS29_640/2015CHS290023_640_01.jpg",
-    "price": "$5,995",
+    "price": "$6,525",
     "sutherlins_price": "$5,995",
     "mileage": "132,973 Miles"
   },
@@ -175,7 +160,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW451387&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
-    "price": "$10,988",
+    "price": "$12,100",
     "sutherlins_price": "$10,988",
     "mileage": "103,065 Miles"
   },
@@ -294,7 +279,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV3HP517003&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/18cc025abde54bbbadf23899a9f6a02f.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b84a8ed5d989444bb67107a9d6316aba.jpg",
     "price": "$10,250",
     "sutherlins_price": "$11,995",
     "mileage": "116,715 Miles"
@@ -414,7 +399,7 @@
     "engine": "Electric",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC16_640/2023NIC160031_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f022d226bc3f4c71a035f15dcf4b4bb3.jpg",
     "price": "$14,988",
     "sutherlins_price": "$14,988",
     "mileage": "24,507 Miles"
@@ -478,5 +463,20 @@
     "price": "$19,989",
     "sutherlins_price": "$14,995",
     "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Honda Civic Sedan EX-T",
+    "vin": "2HGFC1F38GH654101",
+    "stock": "250060A",
+    "exterior": "Red",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFC1F38GH654101&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HOC020005_640/2016HOC020005_640_01.jpg",
+    "price": "$16,050",
+    "sutherlins_price": "$14,995",
+    "mileage": "71,103 Miles"
   }
 ]
