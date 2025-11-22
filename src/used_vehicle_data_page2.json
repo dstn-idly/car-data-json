@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2018 Chevrolet Equinox Premier",
-    "vin": "3GNAXXEU0JS552409",
-    "stock": "P13407",
-    "exterior": "Cajun Red Tintcoat",
-    "interior": "Medium Ash Gray",
-    "engine": "Turbocharged Diesel I4 1.6L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXXEU0JS552409&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018CHS15_640/2018CHS150345_640_01.jpg",
-    "price": "$15,625",
-    "sutherlins_price": "$14,995",
-    "mileage": "107,913 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA9NC711415",
     "stock": "T25213A",
@@ -421,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN383193",
-    "stock": "P13318",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN383193&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e01709198449436fbd2251276f2d6bac.jpg",
-    "price": "$24,350",
-    "sutherlins_price": "$16,851",
-    "mileage": "43,395 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Versa SV",
     "vin": "3N1CN8EV8RL929373",
     "stock": "P13314",
@@ -478,5 +448,35 @@
     "price": "$19,300",
     "sutherlins_price": "$16,995",
     "mileage": "43,277 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV7RY358756",
+    "stock": "P13328",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
+    "price": "$16,995",
+    "sutherlins_price": "$16,995",
+    "mileage": "10,325 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "5N1AT3BA0MC729733",
+    "stock": "25768B",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
+    "price": "$20,375",
+    "sutherlins_price": "$16,995",
+    "mileage": "78,798 Miles"
   }
 ]
