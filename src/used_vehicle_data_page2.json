@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Nissan Rogue SV",
-    "vin": "KNMAT2MV5LP503239",
-    "stock": "P13347A",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5LP503239&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/132a24baba3545688443388600d6a326.jpg",
-    "price": "$18,800",
-    "sutherlins_price": "$15,598",
-    "mileage": "57,125 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV4NN349371",
     "stock": "25984A",
@@ -28,6 +13,21 @@
     "price": "$20,000",
     "sutherlins_price": "$15,598",
     "mileage": "98,801 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue SV",
+    "vin": "KNMAT2MV5LP503239",
+    "stock": "P13347A",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5LP503239&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/132a24baba3545688443388600d6a326.jpg",
+    "price": "$18,800",
+    "sutherlins_price": "$15,598",
+    "mileage": "57,125 Miles"
   },
   {
     "category": "used",
