@@ -1,18 +1,33 @@
 [
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BA0MC729733",
-    "stock": "25768B",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CVXNY222470",
+    "stock": "P13387",
+    "exterior": "Fresh Powder",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
-    "price": "$20,375",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXNY222470&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd942c8932c14c84bf779b02c372ebec.jpg",
+    "price": "$19,225",
+    "sutherlins_price": "$16,988",
+    "mileage": "48,009 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV7RY358756",
+    "stock": "P13328",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
+    "price": "$16,995",
     "sutherlins_price": "$16,995",
-    "mileage": "78,798 Miles"
+    "mileage": "10,325 Miles"
   },
   {
     "category": "used",
@@ -88,21 +103,6 @@
     "price": "$22,620",
     "sutherlins_price": "$17,799",
     "mileage": "72,371 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV8PN323974",
-    "stock": "25199A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV8PN323974&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040086_640_01.jpg",
-    "price": "$19,975",
-    "sutherlins_price": "$17,799",
-    "mileage": "64,810 Miles"
   },
   {
     "category": "used",
@@ -346,6 +346,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Pathfinder SV",
+    "vin": "5N1DR2BN7LC632424",
+    "stock": "P13393",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2BN7LC632424&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/477ce9e510b2468a85ee7db9f61f0bbb.jpg",
+    "price": "$22,650",
+    "sutherlins_price": "$19,598",
+    "mileage": "35,475 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Santa Fe SEL",
     "vin": "5NMS2DAJ9PH626982",
     "stock": "P13239",
@@ -361,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Pathfinder SV",
-    "vin": "5N1DR2BN7LC632424",
-    "stock": "P13393",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2BN7LC632424&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/477ce9e510b2468a85ee7db9f61f0bbb.jpg",
-    "price": "$22,650",
-    "sutherlins_price": "$19,698",
-    "mileage": "35,475 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV8PY242265",
     "stock": "P13336",
@@ -388,6 +388,21 @@
     "price": "$22,475",
     "sutherlins_price": "$19,727",
     "mileage": "35,923 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1BV5MW319503",
+    "stock": "26120A",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV5MW319503&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5df47a0109034d2aa8c00368a72079cf.jpg",
+    "price": "$22,660",
+    "sutherlins_price": "$19,759",
+    "mileage": "29,963 Miles"
   },
   {
     "category": "used",
@@ -421,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA9PC761993",
-    "stock": "P13306A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC761993&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e31db5db5a2b4c2f94ecc34ecbd84065.jpg",
-    "price": "$23,975",
-    "sutherlins_price": "$19,995",
-    "mileage": "49,540 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 INFINITI Q50 3.0t LUXE",
     "vin": "JN1EV7BP2MM703353",
     "stock": "P13406",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA9PC761993",
+    "stock": "P13306A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC761993&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e31db5db5a2b4c2f94ecc34ecbd84065.jpg",
+    "price": "$23,975",
+    "sutherlins_price": "$19,995",
+    "mileage": "49,540 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Trailblazer LT",
     "vin": "KL79MPS21PB042773",
     "stock": "4T25278A",
@@ -463,20 +478,5 @@
     "price": "$24,850",
     "sutherlins_price": "$19,995",
     "mileage": "15,972 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Frontier SV",
-    "vin": "1N6AD0ER4KN767045",
-    "stock": "250062B",
-    "exterior": "Gun Metallic",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER4KN767045&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6adbe264ad464989a6adbed1de6aee14.jpg",
-    "price": "$23,925",
-    "sutherlins_price": "$19,995",
-    "mileage": "53,352 Miles"
   }
 ]

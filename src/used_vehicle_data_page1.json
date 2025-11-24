@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2011 Nissan Altima 2.5 S",
-    "vin": "1N4AL2AP1BC113188",
-    "stock": "P13382",
-    "exterior": "Tuscan Sun Metallic",
-    "interior": "Blonde",
-    "engine": "Gas I4 2.5L/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL2AP1BC113188&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edeb5ecc517e4db18fd184c9d00fa02f.jpg",
-    "price": "$7,025",
-    "sutherlins_price": "$4,995",
-    "mileage": "114,798 Miles"
-  },
-  {
-    "category": "used",
     "name": "2009 Nissan Rogue S",
     "vin": "JN8AS58T69W043251",
     "stock": "25999B",
@@ -58,6 +43,21 @@
     "price": "$4,995",
     "sutherlins_price": "$4,995",
     "mileage": "177,732 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2011 Nissan Altima 2.5 S",
+    "vin": "1N4AL2AP1BC113188",
+    "stock": "P13382",
+    "exterior": "Tuscan Sun Metallic",
+    "interior": "Blonde",
+    "engine": "Gas I4 2.5L/",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL2AP1BC113188&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edeb5ecc517e4db18fd184c9d00fa02f.jpg",
+    "price": "$7,025",
+    "sutherlins_price": "$4,995",
+    "mileage": "114,798 Miles"
   },
   {
     "category": "used",
@@ -181,36 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "JN8AT2MT3JW451387",
-    "stock": "26144A",
-    "exterior": "Magnetic Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW451387&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
-    "price": "$12,100",
-    "sutherlins_price": "$10,988",
-    "mileage": "103,065 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Ford Escape SE",
-    "vin": "1FMCU0GD7KUC46254",
-    "stock": "25688B",
-    "exterior": "Oxford White",
-    "interior": "Charcoal Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/92",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GD7KUC46254&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48e7c42fe21a4e1c880babf90bb6abc3.jpg",
-    "price": "$13,700",
-    "sutherlins_price": "$10,988",
-    "mileage": "76,076 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 BMW X1 xDrive28i",
     "vin": "WBXHT3C32J5L30098",
     "stock": "26074A",
@@ -253,6 +223,21 @@
     "price": "$10,995",
     "sutherlins_price": "$10,995",
     "mileage": "100,700 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue SV",
+    "vin": "JN8AT2MT3JW451387",
+    "stock": "26144A",
+    "exterior": "Magnetic Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW451387&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
+    "price": "$12,100",
+    "sutherlins_price": "$11,498",
+    "mileage": "103,065 Miles"
   },
   {
     "category": "used",
@@ -313,6 +298,36 @@
     "price": "$15,960",
     "sutherlins_price": "$11,998",
     "mileage": "79,217 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Ford Escape SE",
+    "vin": "1FMCU0GD7KUC46254",
+    "stock": "25688B",
+    "exterior": "Oxford White",
+    "interior": "Charcoal Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GD7KUC46254&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48e7c42fe21a4e1c880babf90bb6abc3.jpg",
+    "price": "$13,700",
+    "sutherlins_price": "$12,897",
+    "mileage": "76,076 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV3LC238188",
+    "stock": "26137A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV3LC238188&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d015a8a72ef4646a66f49494ef715f1.jpg",
+    "price": "$16,025",
+    "sutherlins_price": "$12,995",
+    "mileage": "84,233 Miles"
   },
   {
     "category": "used",
@@ -388,21 +403,6 @@
     "price": "$16,255",
     "sutherlins_price": "$13,995",
     "mileage": "90,384 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV3LC238188",
-    "stock": "26137A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV3LC238188&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d015a8a72ef4646a66f49494ef715f1.jpg",
-    "price": "$16,025",
-    "sutherlins_price": "$14,598",
-    "mileage": "84,233 Miles"
   },
   {
     "category": "used",
