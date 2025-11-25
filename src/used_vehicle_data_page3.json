@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AW7NW681134&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf107a7d84014fe18c4d30a84bb501f7.jpg",
     "price": "$18,600",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$15,988",
     "mileage": "47,593 Miles"
   },
   {
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
     "price": "$21,298",
-    "sutherlins_price": "$18,498",
+    "sutherlins_price": "$17,988",
     "mileage": "84,663 Miles"
   },
   {
@@ -251,7 +251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BW0NW489987&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9652e10df6a1474c8f0f361e99dd562f.jpg",
     "price": "$25,025",
-    "sutherlins_price": "$18,995",
+    "sutherlins_price": "$17,988",
     "mileage": "45,083 Miles"
   },
   {
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 INFINITI Q50 3.0t LUXE",
-    "vin": "JN1EV7BP2MM703353",
-    "stock": "P13406",
-    "exterior": "Pure White",
-    "interior": "Graphite",
-    "engine": "Twin Turbo Premium Unleaded V-6 3.0 L/183",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1EV7BP2MM703353&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fbaf9a18db9a4c32bf8eb6ba6884f80c.jpg",
-    "price": "$23,075",
-    "sutherlins_price": "$19,995",
-    "mileage": "88,610 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA9PC761993",
     "stock": "P13306A",
@@ -433,6 +418,21 @@
     "price": "$23,975",
     "sutherlins_price": "$19,995",
     "mileage": "49,540 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 INFINITI Q50 3.0t LUXE",
+    "vin": "JN1EV7BP2MM703353",
+    "stock": "P13406",
+    "exterior": "Pure White",
+    "interior": "Graphite",
+    "engine": "Twin Turbo Premium Unleaded V-6 3.0 L/183",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1EV7BP2MM703353&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fbaf9a18db9a4c32bf8eb6ba6884f80c.jpg",
+    "price": "$23,075",
+    "sutherlins_price": "$19,995",
+    "mileage": "88,610 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Frontier SV",
-    "vin": "1N6AD0ER4KN767045",
-    "stock": "250062B",
-    "exterior": "Gun Metallic",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER4KN767045&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6adbe264ad464989a6adbed1de6aee14.jpg",
-    "price": "$23,925",
-    "sutherlins_price": "$19,995",
-    "mileage": "53,352 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota RAV4 LE",
     "vin": "2T3H1RFV4NC189649",
     "stock": "P13257A",
@@ -478,5 +463,20 @@
     "price": "$23,250",
     "sutherlins_price": "$19,995",
     "mileage": "121,032 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Frontier SV",
+    "vin": "1N6AD0ER4KN767045",
+    "stock": "250062B",
+    "exterior": "Gun Metallic",
+    "interior": "Steel",
+    "engine": "Regular Unleaded V-6 4.0 L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER4KN767045&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6adbe264ad464989a6adbed1de6aee14.jpg",
+    "price": "$23,925",
+    "sutherlins_price": "$19,995",
+    "mileage": "53,352 Miles"
   }
 ]
