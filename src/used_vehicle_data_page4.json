@@ -69,7 +69,7 @@
     "engine": "Twin Turbo Premium Unleaded V-8 4.0 L/244",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUH2AFC2GN163893&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016AUC030002_640/2016AUC030002_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1561b28902294a57adac45ea71e9b99e.jpg",
     "price": "$24,375",
     "sutherlins_price": "$20,898",
     "mileage": "94,777 Miles"
@@ -144,7 +144,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1NW042936&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4981b3a1af384ae7867a1afd56fc92c8.jpg",
     "price": "$23,675",
     "sutherlins_price": "$20,995",
     "mileage": "45,177 Miles"
@@ -234,7 +234,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3CA1MC670657&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c47a3e0e2064caaa4cc580843fa68d1.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/de5af2b34bec41b2bf1607e16ca24343.jpg",
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "41,183 Miles"
@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Buick Encore GX Sport Touring",
-    "vin": "KL4AMDSL8SB023213",
-    "stock": "250003A",
-    "exterior": "Ocean Blue Metallic",
-    "interior": "Whisper Beige seats with Ebony interior accents",
-    "engine": "Turbocharged 1.3/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4AMDSL8SB023213&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c9b8b63902944a378bcdef307d0bdcc8.jpg",
-    "price": "$27,525",
-    "sutherlins_price": "$22,927",
-    "mileage": "16,216 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV3SL481238",
     "stock": "P13380",
@@ -324,7 +309,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F36LA144948&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HOC01_640/2020HOC010121_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/025e52055cd14b3daa9c496a28a25931.jpg",
     "price": "$23,200",
     "sutherlins_price": "$22,988",
     "mileage": "62,173 Miles"
@@ -384,7 +369,7 @@
     "engine": "Turbocharged Gas I4 2.7L/166",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRAAEK2NZ640606&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022CHT27_640/2022CHT270001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/030c614e1cb5428b81ca25b341374fd7.jpg",
     "price": "$24,250",
     "sutherlins_price": "$23,988",
     "mileage": "79,800 Miles"
@@ -414,7 +399,7 @@
     "engine": "Regular Unleaded V-6 3.6 L/220",
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018JES01_640/2018JES010001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1bac22189a4d4569a4c6bf806876f1f2.jpg",
     "price": "$26,250",
     "sutherlins_price": "$23,995",
     "mileage": "44,202 Miles"
@@ -478,5 +463,20 @@
     "price": "$31,100",
     "sutherlins_price": "$24,859",
     "mileage": "18,654 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Titan SV",
+    "vin": "1N6AA1EE8MN528449",
+    "stock": "P13391",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
+    "price": "$29,050",
+    "sutherlins_price": "$24,898",
+    "mileage": "79,174 Miles"
   }
 ]
