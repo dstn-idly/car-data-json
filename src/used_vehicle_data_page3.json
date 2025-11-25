@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Toyota RAV4 LE",
-    "vin": "2T3H1RFV4NC189649",
-    "stock": "P13257A",
-    "exterior": "Silver Sky",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV4NC189649&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c319f576ac84573a7631d9e8079c960.jpg",
-    "price": "$23,250",
-    "sutherlins_price": "$19,995",
-    "mileage": "121,032 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Frontier SV",
     "vin": "1N6AD0ER4KN767045",
     "stock": "250062B",
@@ -478,5 +463,20 @@
     "price": "$23,925",
     "sutherlins_price": "$19,995",
     "mileage": "53,352 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Toyota RAV4 LE",
+    "vin": "2T3H1RFV4NC189649",
+    "stock": "P13257A",
+    "exterior": "Silver Sky",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV4NC189649&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c319f576ac84573a7631d9e8079c960.jpg",
+    "price": "$23,250",
+    "sutherlins_price": "$19,995",
+    "mileage": "121,032 Miles"
   }
 ]
