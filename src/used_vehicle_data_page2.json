@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV1NN367441",
-    "stock": "P13238",
-    "exterior": "Glacier White",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1NN367441&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a5b170d57d41b9919e4610d5221117.jpg",
-    "price": "$19,989",
-    "sutherlins_price": "$14,995",
-    "mileage": "82,224 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Honda Civic Sedan EX-T",
-    "vin": "2HGFC1F38GH654101",
-    "stock": "250060A",
-    "exterior": "Red",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFC1F38GH654101&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HOC020005_640/2016HOC020005_640_01.jpg",
-    "price": "$16,050",
-    "sutherlins_price": "$14,995",
-    "mileage": "71,103 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Chevrolet Equinox Premier",
     "vin": "3GNAXXEU0JS552409",
     "stock": "P13407",
@@ -55,7 +25,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT0JC833627&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
-    "price": "$14,995",
+    "price": "$16,225",
     "sutherlins_price": "$14,995",
     "mileage": "80,173 Miles"
   },
@@ -76,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue SV",
-    "vin": "KNMAT2MV5LP503239",
-    "stock": "P13347A",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5LP503239&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/132a24baba3545688443388600d6a326.jpg",
-    "price": "$18,800",
-    "sutherlins_price": "$15,598",
-    "mileage": "57,125 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV4NN349371",
     "stock": "25984A",
@@ -103,6 +58,21 @@
     "price": "$20,000",
     "sutherlins_price": "$15,598",
     "mileage": "98,801 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue SV",
+    "vin": "KNMAT2MV5LP503239",
+    "stock": "P13347A",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5LP503239&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/132a24baba3545688443388600d6a326.jpg",
+    "price": "$18,800",
+    "sutherlins_price": "$15,598",
+    "mileage": "57,125 Miles"
   },
   {
     "category": "used",
@@ -271,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV8PN323974",
-    "stock": "25199A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV8PN323974&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040086_640_01.jpg",
-    "price": "$19,975",
-    "sutherlins_price": "$15,995",
-    "mileage": "64,810 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan NV200 Compact Cargo SV",
     "vin": "3N6CM0KN0MK695215",
     "stock": "P13385",
@@ -298,6 +253,21 @@
     "price": "$18,929",
     "sutherlins_price": "$15,995",
     "mileage": "113,392 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV8PN323974",
+    "stock": "25199A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV8PN323974&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040086_640_01.jpg",
+    "price": "$19,975",
+    "sutherlins_price": "$15,995",
+    "mileage": "64,810 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$19,125",
     "sutherlins_price": "$16,988",
     "mileage": "20,165 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CVXNY222470",
+    "stock": "P13387",
+    "exterior": "Fresh Powder",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXNY222470&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd942c8932c14c84bf779b02c372ebec.jpg",
+    "price": "$19,225",
+    "sutherlins_price": "$16,988",
+    "mileage": "48,009 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV7RY358756",
+    "stock": "P13328",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
+    "price": "$16,995",
+    "sutherlins_price": "$16,995",
+    "mileage": "10,325 Miles"
   }
 ]

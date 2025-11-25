@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Toyota RAV4 LE",
-    "vin": "2T3H1RFV4NC189649",
-    "stock": "P13257A",
-    "exterior": "Silver Sky",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV4NC189649&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c319f576ac84573a7631d9e8079c960.jpg",
-    "price": "$23,250",
-    "sutherlins_price": "$19,995",
-    "mileage": "121,032 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Frontier SV",
-    "vin": "1N6AD0ER4KN767045",
-    "stock": "250062B",
-    "exterior": "Gun Metallic",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER4KN767045&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6adbe264ad464989a6adbed1de6aee14.jpg",
-    "price": "$23,925",
-    "sutherlins_price": "$19,995",
-    "mileage": "53,352 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Camry LE",
     "vin": "4T1C11AK8RU211657",
     "stock": "P13212",
@@ -91,6 +61,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Audi S6 Prestige",
+    "vin": "WAUH2AFC2GN163893",
+    "stock": "25092B",
+    "exterior": "Moonlight Blue",
+    "interior": "Silver",
+    "engine": "Twin Turbo Premium Unleaded V-8 4.0 L/244",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUH2AFC2GN163893&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016AUC030002_640/2016AUC030002_640_01.jpg",
+    "price": "$24,375",
+    "sutherlins_price": "$20,898",
+    "mileage": "94,777 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BS0PC130966",
     "stock": "P13278",
@@ -148,6 +133,21 @@
     "price": "$26,775",
     "sutherlins_price": "$20,995",
     "mileage": "22,003 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "JN8BT3BA1NW042936",
+    "stock": "P13307A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1NW042936&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "price": "$23,675",
+    "sutherlins_price": "$20,995",
+    "mileage": "45,177 Miles"
   },
   {
     "category": "used",
@@ -253,21 +253,6 @@
     "price": "$21,995",
     "sutherlins_price": "$21,995",
     "mileage": "15,398 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV6NC206782",
-    "stock": "P13269A",
-    "exterior": "Silver",
-    "interior": "Ash",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV6NC206782&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022TOS11_640/2022TOS110147_640_01.jpg",
-    "price": "$21,995",
-    "sutherlins_price": "$21,995",
-    "mileage": "71,488 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$30,925",
     "sutherlins_price": "$24,498",
     "mileage": "30,183 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Honda Civic Sedan Hybrid Sport",
+    "vin": "2HGFE4F8XSH308647",
+    "stock": "P13317",
+    "exterior": "Blue",
+    "interior": "Black",
+    "engine": "Gas/Electric I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE4F8XSH308647&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ee26b46c35b941728a70733353facef7.jpg",
+    "price": "$31,100",
+    "sutherlins_price": "$24,859",
+    "mileage": "18,654 Miles"
   }
 ]
