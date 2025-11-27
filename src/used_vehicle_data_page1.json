@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2006 Honda Civic Cpe LX",
-    "vin": "2HGFG11686H551314",
-    "stock": "P13300A",
-    "exterior": "Galaxy Gray Metallic",
-    "interior": "Black",
-    "engine": "Gas I4 1.8L/110",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFG11686H551314&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8c4af3fae4f7447882d9c11709484c3c.jpg",
-    "price": "$7,425",
-    "sutherlins_price": "$2,988",
-    "mileage": "338,720 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Volkswagen Tiguan S",
-    "vin": "WVGAV7AX9GW005906",
-    "stock": "P13298A",
-    "exterior": "Night Blue",
-    "interior": "Sandstone Beige",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVGAV7AX9GW005906&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/756d646a457a4a6686ae2de55345caa2.jpg",
-    "price": "$6,650",
-    "sutherlins_price": "$4,995",
-    "mileage": "133,351 Miles"
-  },
-  {
-    "category": "used",
     "name": "2011 Nissan Altima 2.5 S",
     "vin": "1N4AL2AP1BC113188",
     "stock": "P13382",
@@ -58,21 +28,6 @@
     "price": "$7,250",
     "sutherlins_price": "$5,988",
     "mileage": "112,090 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Chevrolet Traverse LT",
-    "vin": "1GNKRHKD3FJ141376",
-    "stock": "25949A",
-    "exterior": "Silver Ice Metallic",
-    "interior": "Dark Titanium/Light Titanium",
-    "engine": "Gas V6 3.6L/217",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNKRHKD3FJ141376&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bda827aa945d4f28a8cd4e82b450b229.jpg",
-    "price": "$6,525",
-    "sutherlins_price": "$5,995",
-    "mileage": "132,973 Miles"
   },
   {
     "category": "used",
@@ -181,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "KNMAT2MT9JP553234",
-    "stock": "26003A",
-    "exterior": "Pearl White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT9JP553234&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b6be09e683364c4c8733abb559721519.jpg",
-    "price": "$12,100",
-    "sutherlins_price": "$10,995",
-    "mileage": "100,499 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Alfa Romeo Giulia Ti",
     "vin": "ZARFAEENXH7537721",
     "stock": "P13397A",
@@ -208,6 +148,21 @@
     "price": "$13,850",
     "sutherlins_price": "$10,995",
     "mileage": "100,700 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue SV",
+    "vin": "KNMAT2MT9JP553234",
+    "stock": "26003A",
+    "exterior": "Pearl White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT9JP553234&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b6be09e683364c4c8733abb559721519.jpg",
+    "price": "$12,100",
+    "sutherlins_price": "$10,995",
+    "mileage": "100,499 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$17,075",
     "sutherlins_price": "$14,988",
     "mileage": "59,623 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV9RY231778",
+    "stock": "P13251",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9RY231778&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40176d942c1d4776b1b1120829c414af.jpg",
+    "price": "$21,450",
+    "sutherlins_price": "$14,995",
+    "mileage": "31,431 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV1NN367441",
+    "stock": "P13238",
+    "exterior": "Glacier White",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1NN367441&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a5b170d57d41b9919e4610d5221117.jpg",
+    "price": "$19,989",
+    "sutherlins_price": "$14,995",
+    "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Honda Civic Sedan EX-T",
+    "vin": "2HGFC1F38GH654101",
+    "stock": "250060A",
+    "exterior": "Red",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFC1F38GH654101&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/71142714f9214bfca4303804d8dfb5f2.jpg",
+    "price": "$16,050",
+    "sutherlins_price": "$14,995",
+    "mileage": "71,103 Miles"
   }
 ]
