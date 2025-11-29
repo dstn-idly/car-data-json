@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC730692&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f7bddfa911134b378a02101fab77460f.jpg",
     "price": "$26,375",
-    "sutherlins_price": "$22,598",
+    "sutherlins_price": "$22,449",
     "mileage": "25,606 Miles"
   },
   {
@@ -376,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Cadillac XT6 AWD Sport",
+    "vin": "1GYKPGRS6LZ170827",
+    "stock": "25955A",
+    "exterior": "Stellar Black Metallic",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYKPGRS6LZ170827&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0aa897978676434b8a203ab22865a0ec.jpg",
+    "price": "$28,700",
+    "sutherlins_price": "$23,899",
+    "mileage": "95,733 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Chevrolet Silverado 1500 Work Truck",
     "vin": "1GCRAAEK2NZ640606",
     "stock": "P13404",
@@ -406,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Wrangler Sport",
-    "vin": "1C4GJXAG8JW271743",
-    "stock": "P13392",
-    "exterior": "Mojito! Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
-    "price": "$26,250",
-    "sutherlins_price": "$23,995",
-    "mileage": "44,202 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan ARIYA EVOLVE+",
     "vin": "JN1BF0BA4RM430233",
     "stock": "P13420",
@@ -436,6 +436,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Jeep Wrangler Sport",
+    "vin": "1C4GJXAG8JW271743",
+    "stock": "P13392",
+    "exterior": "Mojito! Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
+    "price": "$26,250",
+    "sutherlins_price": "$23,995",
+    "mileage": "44,202 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Armada SV",
     "vin": "JN8AY2AC3N9162987",
     "stock": "P13289",
@@ -448,21 +463,6 @@
     "price": "$32,225",
     "sutherlins_price": "$24,449",
     "mileage": "77,094 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Cadillac XT6 AWD Sport",
-    "vin": "1GYKPGRS6LZ170827",
-    "stock": "25955A",
-    "exterior": "Stellar Black Metallic",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYKPGRS6LZ170827&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0aa897978676434b8a203ab22865a0ec.jpg",
-    "price": "$28,700",
-    "sutherlins_price": "$24,498",
-    "mileage": "95,733 Miles"
   },
   {
     "category": "used",
