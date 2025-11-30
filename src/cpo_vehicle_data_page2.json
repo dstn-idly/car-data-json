@@ -1,21 +1,6 @@
 [
   {
     "category": "cpo",
-    "name": "2024 Nissan Sentra S",
-    "vin": "3N1AB8BV7RY358756",
-    "stock": "P13328",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
-    "price": "$17,988",
-    "sutherlins_price": "$17,988",
-    "mileage": "10,325 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Rogue Sport SV",
     "vin": "JN1BJ1BW0NW489987",
     "stock": "P13333",
@@ -58,21 +43,6 @@
     "price": "$21,298",
     "sutherlins_price": "$17,988",
     "mileage": "84,663 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV5NY316688",
-    "stock": "26044A",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5NY316688&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/482093cff477420a9b36924259da4ce4.jpg",
-    "price": "$21,650",
-    "sutherlins_price": "$17,988",
-    "mileage": "34,597 Miles"
   },
   {
     "category": "cpo",
@@ -479,5 +449,35 @@
     "price": "$36,400",
     "sutherlins_price": "$26,996",
     "mileage": "78,608 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK7NN633838",
+    "stock": "P13258",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK7NN633838&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bfbf2c681ee04c34bf274e5bb6054119.jpg",
+    "price": "$35,750",
+    "sutherlins_price": "$27,498",
+    "mileage": "69,433 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "25953A",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ae3bb730d64ef79302c57864bbdc06.jpg",
+    "price": "$33,700",
+    "sutherlins_price": "$27,988",
+    "mileage": "22,521 Miles"
   }
 ]

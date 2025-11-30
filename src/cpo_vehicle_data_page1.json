@@ -91,21 +91,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Kicks SV",
-    "vin": "3N1CP5CV5ML529243",
-    "stock": "26132A",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5ML529243&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4ae25361265d4355b01c488723b4cb19.jpg",
-    "price": "$17,850",
-    "sutherlins_price": "$14,995",
-    "mileage": "38,396 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV1NN367441",
     "stock": "P13238",
@@ -118,6 +103,21 @@
     "price": "$19,989",
     "sutherlins_price": "$14,995",
     "mileage": "82,224 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Kicks SV",
+    "vin": "3N1CP5CV5ML529243",
+    "stock": "26132A",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5ML529243&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4ae25361265d4355b01c488723b4cb19.jpg",
+    "price": "$17,850",
+    "sutherlins_price": "$14,995",
+    "mileage": "38,396 Miles"
   },
   {
     "category": "cpo",
@@ -211,21 +211,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BA0MC729733",
-    "stock": "25768B",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
-    "price": "$20,375",
-    "sutherlins_price": "$15,995",
-    "mileage": "78,798 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Versa SV",
     "vin": "3N1CN8EV0PL824792",
     "stock": "P13398",
@@ -238,6 +223,21 @@
     "price": "$17,800",
     "sutherlins_price": "$15,995",
     "mileage": "55,830 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "5N1AT3BA0MC729733",
+    "stock": "25768B",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
+    "price": "$20,375",
+    "sutherlins_price": "$15,995",
+    "mileage": "78,798 Miles"
   },
   {
     "category": "cpo",
@@ -391,21 +391,6 @@
   },
   {
     "category": "cpo",
-    "name": "2019 Nissan Murano SL",
-    "vin": "5N1AZ2MJ8KN131655",
-    "stock": "25449A",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MJ8KN131655&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0d395d0ade664e91a64cb866d4bdfde9.jpg",
-    "price": "$21,100",
-    "sutherlins_price": "$16,943",
-    "mileage": "61,657 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Versa SV",
     "vin": "3N1CN8EV8RL929373",
     "stock": "P13314",
@@ -478,5 +463,20 @@
     "price": "$21,650",
     "sutherlins_price": "$17,786",
     "mileage": "9,313 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV7RY358756",
+    "stock": "P13328",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
+    "price": "$17,988",
+    "sutherlins_price": "$17,988",
+    "mileage": "10,325 Miles"
   }
 ]
