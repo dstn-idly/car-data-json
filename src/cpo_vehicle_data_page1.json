@@ -106,21 +106,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Kicks SV",
-    "vin": "3N1CP5CV5ML529243",
-    "stock": "26132A",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5ML529243&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4ae25361265d4355b01c488723b4cb19.jpg",
-    "price": "$17,850",
-    "sutherlins_price": "$14,995",
-    "mileage": "38,396 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2020 Nissan Rogue SV",
     "vin": "KNMAT2MV5LP503239",
     "stock": "P13347A",
@@ -478,5 +463,20 @@
     "price": "$17,988",
     "sutherlins_price": "$17,988",
     "mileage": "10,325 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1BW0NW489987",
+    "stock": "P13333",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BW0NW489987&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9652e10df6a1474c8f0f361e99dd562f.jpg",
+    "price": "$25,025",
+    "sutherlins_price": "$17,988",
+    "mileage": "45,083 Miles"
   }
 ]
