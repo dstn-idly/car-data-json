@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2025 BMW Z4 sDrive30i",
+    "vin": "WBAHF3C08SWY44136",
+    "stock": "P13366",
+    "exterior": "Blue",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAHF3C08SWY44136&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/00b9cff619a74af9962991eacd256d4d.jpg",
+    "price": "$59,375",
+    "sutherlins_price": "$47,988",
+    "mileage": "19,829 Miles"
+  },
+  {
+    "category": "used",
     "name": "1995 Porsche 911 Carrera",
     "vin": "WP0CA2994SS343389",
     "stock": "P13356",
@@ -73,20 +88,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV1PN353526",
-    "stock": "26092A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1PN353526&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040087_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "22,054 Miles"
   }
 ]
