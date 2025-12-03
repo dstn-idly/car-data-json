@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Hyundai Sonata GLS",
-    "vin": "5NPEB4AC1EH946344",
-    "stock": "26094B",
-    "exterior": "Venetian Red Metallic",
-    "interior": "Camel",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEB4AC1EH946344&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014HYU006a_640/2014HYU006a_640_01.jpg",
-    "price": "$7,475",
-    "sutherlins_price": "$6,995",
-    "mileage": "125,650 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Nissan Sentra S",
     "vin": "3N1AB7AP9FY265830",
     "stock": "250016A",
@@ -478,5 +463,20 @@
     "price": "$16,050",
     "sutherlins_price": "$14,995",
     "mileage": "71,103 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Chevrolet Equinox Premier",
+    "vin": "3GNAXXEU0JS552409",
+    "stock": "P13407",
+    "exterior": "Cajun Red Tintcoat",
+    "interior": "Medium Ash Gray",
+    "engine": "Turbocharged Diesel I4 1.6L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXXEU0JS552409&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018CHS15_640/2018CHS150345_640_01.jpg",
+    "price": "$15,625",
+    "sutherlins_price": "$14,995",
+    "mileage": "107,913 Miles"
   }
 ]
