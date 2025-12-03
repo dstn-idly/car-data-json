@@ -181,21 +181,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BA0MC729733",
-    "stock": "25768B",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
-    "price": "$20,375",
-    "sutherlins_price": "$15,995",
-    "mileage": "78,798 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Versa SV",
     "vin": "3N1CN8EV0PL824792",
     "stock": "P13398",
@@ -208,6 +193,21 @@
     "price": "$17,800",
     "sutherlins_price": "$15,995",
     "mileage": "55,830 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "5N1AT3BA0MC729733",
+    "stock": "25768B",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
+    "price": "$20,375",
+    "sutherlins_price": "$15,995",
+    "mileage": "78,798 Miles"
   },
   {
     "category": "cpo",
@@ -1022,21 +1022,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan ARIYA ENGAGE+",
-    "vin": "JN1DF0BB4PM701550",
-    "stock": "P13346",
-    "exterior": "Black Diamond Pearl",
-    "interior": "Light Gray",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1DF0BB4PM701550&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/576763ef9faf4d57a68c20bf51f7c5b6.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "28,594 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA0PC750512",
     "stock": "26229A",
@@ -1049,5 +1034,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "31,388 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan ARIYA ENGAGE+",
+    "vin": "JN1DF0BB4PM701550",
+    "stock": "P13346",
+    "exterior": "Black Diamond Pearl",
+    "interior": "Light Gray",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1DF0BB4PM701550&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/576763ef9faf4d57a68c20bf51f7c5b6.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "28,594 Miles"
   }
 ]
