@@ -271,21 +271,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Murano SV",
-    "vin": "5N1AZ2BJ5NC115335",
-    "stock": "T26017A",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ5NC115335&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45d2e96f02704f0ca5c9be34cd7f1a19.jpg",
-    "price": "$20,675",
-    "sutherlins_price": "$16,498",
-    "mileage": "79,278 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY245102",
     "stock": "P13215",
@@ -478,5 +463,20 @@
     "price": "$22,675",
     "sutherlins_price": "$17,988",
     "mileage": "54,287 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Sentra SR",
+    "vin": "3N1AB8DV4RY262399",
+    "stock": "P13217",
+    "exterior": "Atlantic Gray Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV4RY262399&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/658f32a37c4a4c368cf526436a7b9dba.jpg",
+    "price": "$25,025",
+    "sutherlins_price": "$18,423",
+    "mileage": "39,094 Miles"
   }
 ]
