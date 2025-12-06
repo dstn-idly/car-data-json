@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Rogue Select S",
-    "vin": "JN8AS5MV9FW250297",
-    "stock": "T25980B",
-    "exterior": "Brilliant Silver",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AS5MV9FW250297&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS15_640/2015NIS150001_640_01.jpg",
-    "price": "$7,250",
-    "sutherlins_price": "$5,988",
-    "mileage": "112,090 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 BMW 3 Series 328i",
     "vin": "WBA3A5C57DF357755",
     "stock": "KP1076",
@@ -193,21 +178,6 @@
     "price": "$13,225",
     "sutherlins_price": "$10,995",
     "mileage": "76,935 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "JN8AT2MT3JW451387",
-    "stock": "26144A",
-    "exterior": "Magnetic Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW451387&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1ba86b6674734dc68ef08788908dc5be.jpg",
-    "price": "$12,100",
-    "sutherlins_price": "$11,498",
-    "mileage": "103,065 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$19,825",
     "sutherlins_price": "$14,598",
     "mileage": "62,987 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CVXLW273096",
+    "stock": "26014A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CVXLW273096&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/918c8c7fc8d84be48a9e25aca0ffafae.jpg",
+    "price": "$17,075",
+    "sutherlins_price": "$14,817",
+    "mileage": "59,623 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan LEAF S",
+    "vin": "1N4AZ1BV2PC553806",
+    "stock": "T26143A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
+    "price": "$16,525",
+    "sutherlins_price": "$14,988",
+    "mileage": "24,507 Miles"
   }
 ]
