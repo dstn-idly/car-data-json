@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2025 Nissan Rogue S",
+    "vin": "5N1BT3AA4SC864748",
+    "stock": "P13432",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA4SC864748&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS11_640/2025NIS111982523_640_01.jpg",
+    "price": "$26,400",
+    "sutherlins_price": "$24,995",
+    "mileage": "1,835 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Frontier SV",
+    "vin": "1N6ED1FK2NN616220",
+    "stock": "26102A",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1FK2NN616220&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ba136baebad4480aa8bd308cd95d2e20.jpg",
+    "price": "$30,150",
+    "sutherlins_price": "$25,995",
+    "mileage": "67,184 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Altima SR",
     "vin": "1N4BL4CV0SN414471",
     "stock": "250054A",
@@ -13,6 +43,21 @@
     "price": "$31,745",
     "sutherlins_price": "$26,988",
     "mileage": "361 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mercedes-Benz E-Class E 350",
+    "vin": "W1KZF8EB1MA971643",
+    "stock": "P13402A",
+    "exterior": "White",
+    "interior": "N/A",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KZF8EB1MA971643&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3bc723b646d04b20b9449d8df155b57b.jpg",
+    "price": "$26,988",
+    "sutherlins_price": "$26,988",
+    "mileage": "78,028 Miles"
   },
   {
     "category": "used",
@@ -91,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford F-150 XLT",
-    "vin": "1FTEW1E44LFB00867",
-    "stock": "P13410",
-    "exterior": "Magma",
-    "interior": "Grey 40 20 40",
-    "engine": "Regular Unleaded 3.5 L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E44LFB00867&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/667fe9fbae9042d1ace3524e756b9ecd.jpg",
-    "price": "$30,625",
-    "sutherlins_price": "$27,995",
-    "mileage": "87,111 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR48PS228493",
     "stock": "P13372",
@@ -118,6 +148,21 @@
     "price": "$32,750",
     "sutherlins_price": "$27,995",
     "mileage": "28,355 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford F-150 XLT",
+    "vin": "1FTEW1E44LFB00867",
+    "stock": "P13410",
+    "exterior": "Magma",
+    "interior": "Grey 40 20 40",
+    "engine": "Regular Unleaded 3.5 L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E44LFB00867&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/667fe9fbae9042d1ace3524e756b9ecd.jpg",
+    "price": "$30,625",
+    "sutherlins_price": "$27,995",
+    "mileage": "87,111 Miles"
   },
   {
     "category": "used",
@@ -226,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BAXRC236466",
-    "stock": "26103A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$29,988",
-    "mileage": "18,033 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Audi A5 Cabriolet Premium Plus",
     "vin": "WAUYNGF50KN000969",
     "stock": "25962B",
@@ -253,6 +283,21 @@
     "price": "$33,150",
     "sutherlins_price": "$29,988",
     "mileage": "36,711 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BAXRC236466",
+    "stock": "26103A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$29,988",
+    "mileage": "18,033 Miles"
   },
   {
     "category": "used",
@@ -433,50 +478,5 @@
     "price": "$47,650",
     "sutherlins_price": "$39,598",
     "mileage": "37,260 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Hyundai Santa Fe Calligraphy",
-    "vin": "5NMP54GL5SH129278",
-    "stock": "P13427",
-    "exterior": "Ecotronic Gray Matte",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMP54GL5SH129278&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025HYS01_640/2025HYS011961489_640_01.jpg",
-    "price": "$41,825",
-    "sutherlins_price": "$41,988",
-    "mileage": "10,276 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Chevrolet Suburban LT",
-    "vin": "1GNSCCKD4NR318134",
-    "stock": "P13389",
-    "exterior": "Iridescent Pearl Tricoat",
-    "interior": "Jet Black",
-    "engine": "Gas V8 5.3L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCCKD4NR318134&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3fd1aa987bb94c9d8675f550308cfad6.jpg",
-    "price": "$45,200",
-    "sutherlins_price": "$45,898",
-    "mileage": "54,933 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 BMW Z4 sDrive30i",
-    "vin": "WBAHF3C08SWY44136",
-    "stock": "P13366",
-    "exterior": "Blue",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAHF3C08SWY44136&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/00b9cff619a74af9962991eacd256d4d.jpg",
-    "price": "$59,375",
-    "sutherlins_price": "$47,988",
-    "mileage": "19,829 Miles"
   }
 ]

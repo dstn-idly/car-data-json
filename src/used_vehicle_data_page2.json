@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CVXLW273096",
+    "stock": "26014A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CVXLW273096&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/918c8c7fc8d84be48a9e25aca0ffafae.jpg",
+    "price": "$17,075",
+    "sutherlins_price": "$14,817",
+    "mileage": "59,623 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan LEAF S",
+    "vin": "1N4AZ1BV2PC553806",
+    "stock": "T26143A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
+    "price": "$16,525",
+    "sutherlins_price": "$14,988",
+    "mileage": "24,507 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV9RY231778",
     "stock": "P13251",
@@ -196,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV0SY220899",
-    "stock": "P13379",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0SY220899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c7cc216029d946e3b0dd51c4a60e3344.jpg",
-    "price": "$21,650",
-    "sutherlins_price": "$15,995",
-    "mileage": "9,313 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Compass Limited",
     "vin": "3C4NJCCB3LT176498",
     "stock": "P13339",
@@ -238,6 +253,21 @@
     "price": "$18,275",
     "sutherlins_price": "$15,995",
     "mileage": "98,536 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV0SY220899",
+    "stock": "P13379",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0SY220899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c7cc216029d946e3b0dd51c4a60e3344.jpg",
+    "price": "$21,650",
+    "sutherlins_price": "$15,995",
+    "mileage": "9,313 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$22,675",
     "sutherlins_price": "$16,988",
     "mileage": "54,287 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Subaru Crosstrek Limited",
-    "vin": "JF2GTAMC5K8347457",
-    "stock": "25441A",
-    "exterior": "Dark Gray Metallic",
-    "interior": "Gray",
-    "engine": "Regular Unleaded H-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTAMC5K8347457&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/174dcf862276443baf0e05716749563c.jpg",
-    "price": "$21,575",
-    "sutherlins_price": "$16,995",
-    "mileage": "75,458 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Kicks S",
-    "vin": "3N1CP5BVXRL531322",
-    "stock": "26197A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BVXRL531322&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4967e450e40940a9bed1cacb0491d62c.jpg",
-    "price": "$19,650",
-    "sutherlins_price": "$16,995",
-    "mileage": "35,539 Miles"
   }
 ]
