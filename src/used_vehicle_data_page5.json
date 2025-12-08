@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR48PS228493",
-    "stock": "P13372",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.0L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR48PS228493&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5065dd399fd64d13b12d348c4bdcb00b.jpg",
-    "price": "$32,750",
-    "sutherlins_price": "$27,995",
-    "mileage": "28,355 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Ford F-150 XLT",
     "vin": "1FTEW1E44LFB00867",
     "stock": "P13410",
@@ -58,6 +43,21 @@
     "price": "$30,625",
     "sutherlins_price": "$27,995",
     "mileage": "87,111 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR48PS228493",
+    "stock": "P13372",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 2.0L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR48PS228493&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5065dd399fd64d13b12d348c4bdcb00b.jpg",
+    "price": "$32,750",
+    "sutherlins_price": "$27,995",
+    "mileage": "28,355 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Rogue SV",
-    "vin": "KNMAT2MT5FP501994",
-    "stock": "25914C",
-    "exterior": "Super Black",
-    "interior": "Almond",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT5FP501994&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS11_640/2015NIS110023_640_01.jpg",
+    "name": "2023 Nissan ARIYA ENGAGE+",
+    "vin": "JN1DF0BB4PM701550",
+    "stock": "P13346",
+    "exterior": "Black Diamond Pearl",
+    "interior": "Light Gray",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1DF0BB4PM701550&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/576763ef9faf4d57a68c20bf51f7c5b6.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "112,408 Miles"
+    "mileage": "28,594 Miles"
   }
 ]
