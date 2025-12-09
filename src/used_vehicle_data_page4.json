@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Honda Accord Sedan Sport",
-    "vin": "1HGCV1F36LA144948",
-    "stock": "P13405",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F36LA144948&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/634986514e3f446588a5a35b17f27b0b.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$22,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2019 Honda Accord Sedan EX-L 1.5T",
     "vin": "1HGCV1F57KA010482",
     "stock": "P13371",
@@ -256,6 +241,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan ARIYA EVOLVE+",
+    "vin": "JN1BF0BA4RM430233",
+    "stock": "P13420",
+    "exterior": "Deep Ocean Blue Pearl/Black Diamond Pearl",
+    "interior": "Charcoal",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BF0BA4RM430233&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7af2e23265144acf8c782737b4d1f7bb.jpg",
+    "price": "$31,125",
+    "sutherlins_price": "$23,995",
+    "mileage": "18,678 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Jeep Wrangler Sport",
     "vin": "1C4GJXAG8JW271743",
     "stock": "P13392",
@@ -283,21 +283,6 @@
     "price": "$26,075",
     "sutherlins_price": "$23,995",
     "mileage": "33,599 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan ARIYA EVOLVE+",
-    "vin": "JN1BF0BA4RM430233",
-    "stock": "P13420",
-    "exterior": "Deep Ocean Blue Pearl/Black Diamond Pearl",
-    "interior": "Charcoal",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BF0BA4RM430233&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7af2e23265144acf8c782737b4d1f7bb.jpg",
-    "price": "$31,125",
-    "sutherlins_price": "$23,995",
-    "mileage": "18,678 Miles"
   },
   {
     "category": "used",
@@ -479,5 +464,20 @@
     "price": "$33,700",
     "sutherlins_price": "$27,988",
     "mileage": "22,521 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR48PS228493",
+    "stock": "P13372",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 2.0L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR48PS228493&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5065dd399fd64d13b12d348c4bdcb00b.jpg",
+    "price": "$32,750",
+    "sutherlins_price": "$27,995",
+    "mileage": "28,355 Miles"
   }
 ]
