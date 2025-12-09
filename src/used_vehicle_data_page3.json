@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1SY280866&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1e9f3dbb1e354c128b30387259f99b9c.jpg",
     "price": "$22,950",
-    "sutherlins_price": "$17,498",
+    "sutherlins_price": "$16,699",
     "mileage": "11,607 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7PC817379&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
     "price": "$21,625",
-    "sutherlins_price": "$19,598",
+    "sutherlins_price": "$18,995",
     "mileage": "40,985 Miles"
   },
   {
@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BA9PC761993",
-    "stock": "P13306A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC761993&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5c818f95adee42b8957aba3776adf6af.jpg",
-    "price": "$23,975",
-    "sutherlins_price": "$19,995",
-    "mileage": "49,540 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 INFINITI Q50 3.0t LUXE",
     "vin": "JN1EV7BP2MM703353",
     "stock": "P13406",
@@ -373,6 +358,21 @@
     "price": "$23,075",
     "sutherlins_price": "$19,995",
     "mileage": "88,610 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA9PC761993",
+    "stock": "P13306A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9PC761993&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5c818f95adee42b8957aba3776adf6af.jpg",
+    "price": "$23,975",
+    "sutherlins_price": "$19,995",
+    "mileage": "49,540 Miles"
   },
   {
     "category": "used",
