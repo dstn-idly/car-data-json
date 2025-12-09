@@ -76,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Versa Sedan S Plus",
+    "vin": "3N1CN7AP3KL828247",
+    "stock": "250018A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP3KL828247&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC10_640/2019NIC100001_640_01.jpg",
+    "price": "$7,988",
+    "sutherlins_price": "$7,988",
+    "mileage": "65,646 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Versa SV",
     "vin": "3N1CN8EV5LL802717",
     "stock": "250070A",
@@ -301,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Sentra S",
-    "vin": "3N1AB8BV9LY241204",
-    "stock": "26114B",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV9LY241204&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7315c6a65ae94a60ba73d12e73c1fe3f.jpg",
-    "price": "$16,750",
-    "sutherlins_price": "$13,898",
-    "mileage": "32,776 Miles"
-  },
-  {
-    "category": "used",
     "name": "2010 Jeep Wrangler Unlimited Rubicon",
     "vin": "1J4HA6H15AL204836",
     "stock": "P13277A1",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan LEAF SV PLUS",
-    "vin": "1N4BZ1CV9MC555521",
-    "stock": "26151B",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC16_640/2021NIC160011_640_01.jpg",
-    "price": "$155,757",
-    "sutherlins_price": "$13,988",
-    "mileage": "39,702 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Ford EcoSport Titanium",
     "vin": "MAJ6P1WL8JC219324",
     "stock": "P13429",
@@ -358,6 +343,21 @@
     "price": "$15,075",
     "sutherlins_price": "$13,988",
     "mileage": "56,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan LEAF SV PLUS",
+    "vin": "1N4BZ1CV9MC555521",
+    "stock": "26151B",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC16_640/2021NIC160011_640_01.jpg",
+    "price": "$155,757",
+    "sutherlins_price": "$13,988",
+    "mileage": "39,702 Miles"
   },
   {
     "category": "used",
@@ -378,7 +378,7 @@
     "category": "used",
     "name": "2020 Nissan Kicks SV",
     "vin": "3N1CP5CV5LL562709",
-    "stock": "30",
+    "stock": "26050A",
     "exterior": "Deep Blue Pearl Metallic",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 1.6 L/98",
@@ -1351,21 +1351,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Frontier SV",
-    "vin": "1N6ED0EA4MN721813",
-    "stock": "P13363",
-    "exterior": "Glacier White",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED0EA4MN721813&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/457eea96b1124a5c9e0b10f71be81be7.jpg",
-    "price": "$24,550",
-    "sutherlins_price": "$19,995",
-    "mileage": "33,447 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Camry LE",
     "vin": "4T1C11AK8RU211657",
     "stock": "P13212",
@@ -1408,6 +1393,21 @@
     "price": "$28,725",
     "sutherlins_price": "$20,498",
     "mileage": "14,691 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA8NC251655",
+    "stock": "P13351",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA8NC251655&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5e555c26e8674ed5812ca9c03f7dbd7d.jpg",
+    "price": "$24,500",
+    "sutherlins_price": "$20,598",
+    "mileage": "85,686 Miles"
   },
   {
     "category": "used",
@@ -1907,21 +1907,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford F-150 XLT",
-    "vin": "1FTEW1E44LFB00867",
-    "stock": "P13410",
-    "exterior": "Magma",
-    "interior": "Grey 40 20 40",
-    "engine": "Regular Unleaded 3.5 L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E44LFB00867&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/667fe9fbae9042d1ace3524e756b9ecd.jpg",
-    "price": "$30,625",
-    "sutherlins_price": "$27,995",
-    "mileage": "87,111 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR48PS228493",
     "stock": "P13372",
@@ -1934,6 +1919,21 @@
     "price": "$32,750",
     "sutherlins_price": "$27,995",
     "mileage": "28,355 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford F-150 XLT",
+    "vin": "1FTEW1E44LFB00867",
+    "stock": "P13410",
+    "exterior": "Magma",
+    "interior": "Grey 40 20 40",
+    "engine": "Regular Unleaded 3.5 L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E44LFB00867&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/667fe9fbae9042d1ace3524e756b9ecd.jpg",
+    "price": "$30,625",
+    "sutherlins_price": "$27,995",
+    "mileage": "87,111 Miles"
   },
   {
     "category": "used",
@@ -2042,21 +2042,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Audi A5 Cabriolet Premium Plus",
-    "vin": "WAUYNGF50KN000969",
-    "stock": "25962B",
-    "exterior": "Monsoon Gray Metallic",
-    "interior": "Gray",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$29,988",
-    "mileage": "36,711 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BAXRC236466",
     "stock": "26103A",
@@ -2069,6 +2054,21 @@
     "price": "$33,150",
     "sutherlins_price": "$29,988",
     "mileage": "18,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Audi A5 Cabriolet Premium Plus",
+    "vin": "WAUYNGF50KN000969",
+    "stock": "25962B",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Gray",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$29,988",
+    "mileage": "36,711 Miles"
   },
   {
     "category": "used",
@@ -2114,21 +2114,6 @@
     "price": "$36,925",
     "sutherlins_price": "$30,995",
     "mileage": "33,214 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Genesis G70 2.5T",
-    "vin": "KMTG34SC9SU144406",
-    "stock": "P13347",
-    "exterior": "Vik Black",
-    "interior": "Fog Gray Two-Tone",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC9SU144406&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e4bc3ceaf42d41afa935a4b43a309f67.jpg",
-    "price": "$44,455",
-    "sutherlins_price": "$30,995",
-    "mileage": "8,017 Miles"
   },
   {
     "category": "used",
@@ -2369,5 +2354,50 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "112,408 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ3NN681568",
+    "stock": "25985A",
+    "exterior": "Super Black",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ3NN681568&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIT12_640/2022NIT120001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "49,093 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA0RC722597",
+    "stock": "25989A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0RC722597&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "6,391 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2011 Cadillac SRX Luxury Collection",
+    "vin": "3GYFNDEY2BS668244",
+    "stock": "P13363A",
+    "exterior": "Radiant Silver Metallic",
+    "interior": "Ebony w/Titanium accents",
+    "engine": "Gas V6 3.0L/183",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GYFNDEY2BS668244&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13180.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "151,009 Miles"
   }
 ]
