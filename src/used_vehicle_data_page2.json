@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Jeep Compass Limited",
-    "vin": "3C4NJCCB3LT176498",
-    "stock": "P13339",
-    "exterior": "White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB3LT176498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e67fa05c9b4413f9141ed343184ff75.jpg",
-    "price": "$21,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "58,043 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Grand Cherokee Laredo E",
     "vin": "1C4RJEAG9LC140936",
     "stock": "P13329A",
@@ -253,6 +238,21 @@
     "price": "$21,650",
     "sutherlins_price": "$15,995",
     "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2020 Jeep Compass Limited",
+    "vin": "3C4NJCCB3LT176498",
+    "stock": "P13339",
+    "exterior": "White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB3LT176498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e67fa05c9b4413f9141ed343184ff75.jpg",
+    "price": "$21,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "58,043 Miles"
   },
   {
     "category": "used",
@@ -421,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV1SY280866",
+    "stock": "P13414",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1SY280866&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1e9f3dbb1e354c128b30387259f99b9c.jpg",
+    "price": "$22,950",
+    "sutherlins_price": "$16,699",
+    "mileage": "11,607 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV5RN309417",
     "stock": "P13249",
@@ -463,20 +478,5 @@
     "price": "$22,675",
     "sutherlins_price": "$16,988",
     "mileage": "54,287 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Subaru Crosstrek Limited",
-    "vin": "JF2GTAMC5K8347457",
-    "stock": "25441A",
-    "exterior": "Dark Gray Metallic",
-    "interior": "Gray",
-    "engine": "Regular Unleaded H-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTAMC5K8347457&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e713fa82bb1f4ca9987249b6779222c1.jpg",
-    "price": "$21,575",
-    "sutherlins_price": "$16,995",
-    "mileage": "75,458 Miles"
   }
 ]
