@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Versa Sedan S Plus",
-    "vin": "3N1CN7AP3KL828247",
-    "stock": "250018A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP3KL828247&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC10_640/2019NIC100001_640_01.jpg",
-    "price": "$7,988",
-    "sutherlins_price": "$7,988",
-    "mileage": "65,646 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Versa SV",
     "vin": "3N1CN8EV5LL802717",
     "stock": "250070A",
@@ -103,6 +88,21 @@
     "price": "$8,950",
     "sutherlins_price": "$7,988",
     "mileage": "97,787 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Versa Sedan S Plus",
+    "vin": "3N1CN7AP3KL828247",
+    "stock": "250018A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP3KL828247&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC10_640/2019NIC100001_640_01.jpg",
+    "price": "$7,995",
+    "sutherlins_price": "$7,995",
+    "mileage": "65,646 Miles"
   },
   {
     "category": "used",
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV3HP517003&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c13b60a422e24e539465b1100a558343.jpg",
     "price": "$10,250",
-    "sutherlins_price": "$11,995",
+    "sutherlins_price": "$7,995",
     "mileage": "116,715 Miles"
   },
   {
@@ -691,21 +691,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Jeep Compass Limited",
-    "vin": "3C4NJCCB3LT176498",
-    "stock": "P13339",
-    "exterior": "White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB3LT176498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e67fa05c9b4413f9141ed343184ff75.jpg",
-    "price": "$21,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "58,043 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Grand Cherokee Laredo E",
     "vin": "1C4RJEAG9LC140936",
     "stock": "P13329A",
@@ -718,6 +703,21 @@
     "price": "$18,275",
     "sutherlins_price": "$15,995",
     "mileage": "98,536 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Jeep Compass Limited",
+    "vin": "3C4NJCCB3LT176498",
+    "stock": "P13339",
+    "exterior": "White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB3LT176498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e67fa05c9b4413f9141ed343184ff75.jpg",
+    "price": "$21,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "58,043 Miles"
   },
   {
     "category": "used",
@@ -1651,6 +1651,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA0RC722597",
+    "stock": "25989A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0RC722597&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
+    "price": "$22,995",
+    "sutherlins_price": "$22,995",
+    "mileage": "6,391 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Honda Accord Sedan EX-L 1.5T",
     "vin": "1HGCV1F57KA010482",
     "stock": "P13371",
@@ -2042,6 +2057,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BAXRC236466",
+    "stock": "26103A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$29,988",
+    "mileage": "18,033 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Audi A5 Cabriolet Premium Plus",
     "vin": "WAUYNGF50KN000969",
     "stock": "25962B",
@@ -2057,18 +2087,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BAXRC236466",
-    "stock": "26103A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "name": "2022 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ3NN681568",
+    "stock": "25985A",
+    "exterior": "Super Black",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$29,988",
-    "mileage": "18,033 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ3NN681568&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIT12_640/2022NIT120001_640_01.jpg",
+    "price": "$29,995",
+    "sutherlins_price": "$29,995",
+    "mileage": "49,093 Miles"
   },
   {
     "category": "used",
@@ -2354,36 +2384,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "112,408 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA0RC722597",
-    "stock": "25989A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0RC722597&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "6,391 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Frontier PRO-X",
-    "vin": "1N6ED1EJ3NN681568",
-    "stock": "25985A",
-    "exterior": "Super Black",
-    "interior": "Charcoal w/Lava Red Stit",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ3NN681568&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIT12_640/2022NIT120001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "49,093 Miles"
   },
   {
     "category": "used",
