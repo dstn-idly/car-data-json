@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Nissan Versa Note SV",
-    "vin": "3N1CE2CP7FL397238",
-    "stock": "26120B",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CE2CP7FL397238&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC17_640/2015NIC170001_640_01.jpg",
-    "price": "$5,350",
-    "sutherlins_price": "$3,988",
-    "mileage": "129,156 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Kia Soul +",
     "vin": "KNDJP3A56H7452310",
     "stock": "26137B",
@@ -136,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Rogue SV",
-    "vin": "KNMAT2MT8FP509054",
-    "stock": "26190A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT8FP509054&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS11_640/2015NIS110023_640_01.jpg",
-    "price": "$13,075",
-    "sutherlins_price": "$9,988",
-    "mileage": "58,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Hyundai Sonata Limited",
     "vin": "5NPE34AB6KH805866",
     "stock": "25899A",
@@ -252,7 +222,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/fc368ab3422c4fde9d4b18235ac2b129.jpg",
     "price": "$19,775",
     "sutherlins_price": "$12,905",
-    "mileage": "100,197 Miles"
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -316,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan LEAF SV PLUS",
-    "vin": "1N4BZ1CV9MC555521",
-    "stock": "26151B",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC16_640/2021NIC160011_640_01.jpg",
-    "price": "$155,757",
-    "sutherlins_price": "$13,988",
-    "mileage": "39,702 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Ford EcoSport Titanium",
     "vin": "MAJ6P1WL8JC219324",
     "stock": "P13429",
@@ -343,6 +298,21 @@
     "price": "$15,075",
     "sutherlins_price": "$13,988",
     "mileage": "56,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan LEAF SV PLUS",
+    "vin": "1N4BZ1CV9MC555521",
+    "stock": "26151B",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC16_640/2021NIC160011_640_01.jpg",
+    "price": "$155,757",
+    "sutherlins_price": "$13,988",
+    "mileage": "39,702 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$19,825",
     "sutherlins_price": "$14,598",
     "mileage": "62,987 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CVXLW273096",
+    "stock": "26014A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CVXLW273096&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/918c8c7fc8d84be48a9e25aca0ffafae.jpg",
+    "price": "$17,075",
+    "sutherlins_price": "$14,817",
+    "mileage": "59,623 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan LEAF S",
+    "vin": "1N4AZ1BV2PC553806",
+    "stock": "T26143A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
+    "price": "$16,525",
+    "sutherlins_price": "$14,988",
+    "mileage": "24,507 Miles"
   }
 ]
