@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA0MC729733&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/557e275dd366469c84efcbae25effddd.jpg",
     "price": "$20,375",
-    "sutherlins_price": "$15,598",
+    "sutherlins_price": "$15,398",
     "mileage": "78,798 Miles"
   },
   {
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLL4AG7PU374014&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a78489b553e34c1293efcf35d4e9eba6.jpg",
     "price": "$19,675",
-    "sutherlins_price": "$15,898",
+    "sutherlins_price": "$15,598",
     "mileage": "40,807 Miles"
   },
   {
@@ -166,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Jeep Compass Limited",
-    "vin": "3C4NJCCB3LT176498",
-    "stock": "P13339",
-    "exterior": "White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB3LT176498&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e67fa05c9b4413f9141ed343184ff75.jpg",
-    "price": "$21,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "58,043 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Grand Cherokee Laredo E",
     "vin": "1C4RJEAG9LC140936",
     "stock": "P13329A",
@@ -191,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJEAG9LC140936&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc904f436e534b0c981e1792437c3330.jpg",
     "price": "$18,275",
-    "sutherlins_price": "$15,995",
+    "sutherlins_price": "$15,598",
     "mileage": "98,536 Miles"
   },
   {
@@ -208,6 +193,21 @@
     "price": "$21,650",
     "sutherlins_price": "$15,995",
     "mileage": "9,313 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Jeep Compass Limited",
+    "vin": "3C4NJCCB3LT176498",
+    "stock": "P13339",
+    "exterior": "White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB3LT176498&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e67fa05c9b4413f9141ed343184ff75.jpg",
+    "price": "$21,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "58,043 Miles"
   },
   {
     "category": "used",
