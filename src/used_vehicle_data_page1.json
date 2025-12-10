@@ -100,7 +100,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7AP3KL828247&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC10_640/2019NIC100001_640_01.jpg",
-    "price": "$7,995",
+    "price": "$8,950",
     "sutherlins_price": "$7,995",
     "mileage": "65,646 Miles"
   },
@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "5N1AT2MT0JC833627",
-    "stock": "26031A",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT0JC833627&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04e87cbd9f084affb8e9b2dcaac7d1e8.jpg",
-    "price": "$16,225",
-    "sutherlins_price": "$11,598",
-    "mileage": "80,173 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Rogue S",
     "vin": "KNMAT2MV3HP517003",
     "stock": "P13252A",
@@ -331,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan LEAF SV PLUS",
-    "vin": "1N4BZ1CV9MC555521",
-    "stock": "26151B",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC16_640/2021NIC160011_640_01.jpg",
-    "price": "$155,757",
-    "sutherlins_price": "$13,988",
-    "mileage": "39,702 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Ford EcoSport Titanium",
     "vin": "MAJ6P1WL8JC219324",
     "stock": "P13429",
@@ -358,6 +328,21 @@
     "price": "$15,075",
     "sutherlins_price": "$13,988",
     "mileage": "56,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan LEAF SV PLUS",
+    "vin": "1N4BZ1CV9MC555521",
+    "stock": "26151B",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC16_640/2021NIC160011_640_01.jpg",
+    "price": "$155,757",
+    "sutherlins_price": "$13,988",
+    "mileage": "39,702 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$16,850",
     "sutherlins_price": "$14,498",
     "mileage": "44,241 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY244899",
+    "stock": "P13290",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$14,598",
+    "mileage": "62,987 Miles"
   }
 ]

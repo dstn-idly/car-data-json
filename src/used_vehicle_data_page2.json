@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY244899",
-    "stock": "P13290",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY244899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0376e4a37b44befa3a72c3eae00d27a.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$14,598",
-    "mileage": "62,987 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Rogue Sport S",
     "vin": "JN1BJ1CVXLW273096",
     "stock": "26014A",
@@ -219,7 +204,7 @@
     "engine": "Regular Unleaded V-6 3.6 L/220",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJEAG9LC140936&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0d8cd2142b424de9b7c19a752e109a33.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc904f436e534b0c981e1792437c3330.jpg",
     "price": "$18,275",
     "sutherlins_price": "$15,995",
     "mileage": "98,536 Miles"
@@ -478,5 +463,20 @@
     "price": "$22,675",
     "sutherlins_price": "$16,988",
     "mileage": "54,287 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Subaru Crosstrek Limited",
+    "vin": "JF2GTAMC5K8347457",
+    "stock": "25441A",
+    "exterior": "Dark Gray Metallic",
+    "interior": "Gray",
+    "engine": "Regular Unleaded H-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTAMC5K8347457&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e713fa82bb1f4ca9987249b6779222c1.jpg",
+    "price": "$21,575",
+    "sutherlins_price": "$16,995",
+    "mileage": "75,458 Miles"
   }
 ]
