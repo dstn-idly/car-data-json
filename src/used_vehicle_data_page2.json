@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV0SY220899",
-    "stock": "P13379",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0SY220899&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c7cc216029d946e3b0dd51c4a60e3344.jpg",
-    "price": "$21,650",
-    "sutherlins_price": "$15,995",
-    "mileage": "9,313 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Compass Limited",
     "vin": "3C4NJCCB3LT176498",
     "stock": "P13339",
@@ -208,6 +193,21 @@
     "price": "$21,475",
     "sutherlins_price": "$15,995",
     "mileage": "58,043 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV0SY220899",
+    "stock": "P13379",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV0SY220899&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c7cc216029d946e3b0dd51c4a60e3344.jpg",
+    "price": "$21,650",
+    "sutherlins_price": "$15,995",
+    "mileage": "9,313 Miles"
   },
   {
     "category": "used",
@@ -238,6 +238,21 @@
     "price": "$22,450",
     "sutherlins_price": "$15,995",
     "mileage": "32,558 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue SL",
+    "vin": "5N1AT2MT4KC801071",
+    "stock": "P13440",
+    "exterior": "Gun Metallic",
+    "interior": "Platinum",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT4KC801071&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110050_640_01.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$19,650",
     "sutherlins_price": "$16,995",
     "mileage": "35,539 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Murano SL",
-    "vin": "5N1AZ2CS1LN113526",
-    "stock": "P13335",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Cashmere",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
-    "price": "$21,298",
-    "sutherlins_price": "$16,995",
-    "mileage": "84,663 Miles"
   }
 ]
