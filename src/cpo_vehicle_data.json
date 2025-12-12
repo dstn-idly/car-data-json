@@ -481,21 +481,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV2NY289837",
-    "stock": "P13305",
-    "exterior": "Electric Blue Metallic/Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$19,498",
-    "mileage": "13,492 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV8PY242265",
     "stock": "P13336",
@@ -508,6 +493,21 @@
     "price": "$22,475",
     "sutherlins_price": "$18,988",
     "mileage": "35,923 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV2NY289837",
+    "stock": "P13305",
+    "exterior": "Electric Blue Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
+    "price": "$23,200",
+    "sutherlins_price": "$19,498",
+    "mileage": "13,492 Miles"
   },
   {
     "category": "cpo",
