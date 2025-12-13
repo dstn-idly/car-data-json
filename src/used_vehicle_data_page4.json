@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC730692&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f7bddfa911134b378a02101fab77460f.jpg",
     "price": "$26,375",
-    "sutherlins_price": "$20,799",
+    "sutherlins_price": "$19,988",
     "mileage": "25,606 Miles"
   },
   {
@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUH2AFC2GN163893&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b1667b8778c44e28872cd5dcad65ab5.jpg",
     "price": "$24,375",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$19,988",
     "mileage": "94,777 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC762289&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/4b968e528bbe4bd29314a340e2b36a95.jpg",
     "price": "$23,575",
-    "sutherlins_price": "$20,995",
+    "sutherlins_price": "$19,498",
     "mileage": "47,592 Miles"
   },
   {
@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3TCBCY5N0601789&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/21fc25ad18df4882898762a62a71d830.jpg",
     "price": "$23,775",
-    "sutherlins_price": "$21,597",
+    "sutherlins_price": "$20,798",
     "mileage": "71,784 Miles"
   },
   {
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BA3SL381748&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2dcd493997dc4076a8fc0d1f7b4f7f96.jpg",
     "price": "$21,425",
-    "sutherlins_price": "$21,995",
+    "sutherlins_price": "$20,995",
     "mileage": "10,827 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV3SL481238&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/caf446c166e041af8a0be9f66e92db48.jpg",
     "price": "$24,365",
-    "sutherlins_price": "$22,988",
+    "sutherlins_price": "$20,988",
     "mileage": "3,074 Miles"
   },
   {
@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Murano SL",
-    "vin": "5N1AZ2CJ6MC120959",
-    "stock": "26141A",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ6MC120959&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c95de07e3e994c078c4e362a1c34ac6f.jpg",
-    "price": "$26,075",
-    "sutherlins_price": "$23,995",
-    "mileage": "33,599 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Jeep Wrangler Sport",
     "vin": "1C4GJXAG8JW271743",
     "stock": "P13392",
@@ -311,8 +296,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
     "price": "$26,250",
-    "sutherlins_price": "$23,995",
+    "sutherlins_price": "$19,988",
     "mileage": "44,202 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Murano SL",
+    "vin": "5N1AZ2CJ6MC120959",
+    "stock": "26141A",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ6MC120959&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c95de07e3e994c078c4e362a1c34ac6f.jpg",
+    "price": "$26,075",
+    "sutherlins_price": "$23,798",
+    "mileage": "33,599 Miles"
   },
   {
     "category": "used",
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
     "price": "$29,050",
-    "sutherlins_price": "$24,898",
+    "sutherlins_price": "$23,988",
     "mileage": "79,174 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E44LFB00867&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/667fe9fbae9042d1ace3524e756b9ecd.jpg",
     "price": "$30,625",
-    "sutherlins_price": "$27,995",
+    "sutherlins_price": "$26,498",
     "mileage": "87,111 Miles"
   },
   {
@@ -446,7 +446,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV0SN414471&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3987c80e27e14680bf457b8402bc502e.jpg",
     "price": "$31,745",
-    "sutherlins_price": "$26,988",
+    "sutherlins_price": "$24,988",
     "mileage": "361 Miles"
   },
   {
@@ -461,7 +461,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KZF8EB1MA971643&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca06625674ea4ab5b69444e5dad9c0d7.jpg",
     "price": "$25,988",
-    "sutherlins_price": "$26,988",
+    "sutherlins_price": "$25,988",
     "mileage": "78,028 Miles"
   },
   {
