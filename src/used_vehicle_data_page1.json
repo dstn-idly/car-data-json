@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan NV200 Compact Cargo SV",
-    "vin": "3N6CM0KN0MK695215",
-    "stock": "P13385",
-    "exterior": "Fresh Powder",
-    "interior": "Grey",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN0MK695215&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1034a54ce724b13b5be78c722182436.jpg",
-    "price": "$18,929",
-    "sutherlins_price": "$13,988",
-    "mileage": "113,392 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Nissan Murano S",
     "vin": "5N1AZ2MG9FN286788",
     "stock": "P13424",
@@ -358,6 +343,21 @@
     "price": "$14,850",
     "sutherlins_price": "$13,988",
     "mileage": "88,132 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan NV200 Compact Cargo SV",
+    "vin": "3N6CM0KN0MK695215",
+    "stock": "P13385",
+    "exterior": "Fresh Powder",
+    "interior": "Grey",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN0MK695215&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1034a54ce724b13b5be78c722182436.jpg",
+    "price": "$18,929",
+    "sutherlins_price": "$13,988",
+    "mileage": "113,392 Miles"
   },
   {
     "category": "used",
@@ -446,23 +446,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CVXLW273096&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/918c8c7fc8d84be48a9e25aca0ffafae.jpg",
     "price": "$17,075",
-    "sutherlins_price": "$14,817",
+    "sutherlins_price": "$12,498",
     "mileage": "59,623 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan LEAF S",
-    "vin": "1N4AZ1BV2PC553806",
-    "stock": "T26143A",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
-    "price": "$16,525",
-    "sutherlins_price": "$14,988",
-    "mileage": "24,507 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$21,475",
     "sutherlins_price": "$14,988",
     "mileage": "58,043 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan LEAF S",
+    "vin": "1N4AZ1BV2PC553806",
+    "stock": "T26143A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
+    "price": "$16,525",
+    "sutherlins_price": "$14,988",
+    "mileage": "24,507 Miles"
   }
 ]
