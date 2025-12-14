@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra SE",
+    "vin": "KMHLL4AG7PU374014",
+    "stock": "25387A",
+    "exterior": "Intense Blue",
+    "interior": "Medium Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLL4AG7PU374014&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a78489b553e34c1293efcf35d4e9eba6.jpg",
+    "price": "$19,675",
+    "sutherlins_price": "$14,995",
+    "mileage": "40,807 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Jeep Grand Cherokee Laredo E",
     "vin": "1C4RJEAG9LC140936",
     "stock": "P13329A",
@@ -43,21 +58,6 @@
     "price": "$21,450",
     "sutherlins_price": "$14,995",
     "mileage": "31,431 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra SE",
-    "vin": "KMHLL4AG7PU374014",
-    "stock": "25387A",
-    "exterior": "Intense Blue",
-    "interior": "Medium Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLL4AG7PU374014&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a78489b553e34c1293efcf35d4e9eba6.jpg",
-    "price": "$19,675",
-    "sutherlins_price": "$14,995",
-    "mileage": "40,807 Miles"
   },
   {
     "category": "used",
@@ -211,6 +211,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Toyota Corolla LE",
+    "vin": "JTDEPMAE3MJ167343",
+    "stock": "P13446",
+    "exterior": "Black Sand Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE3MJ167343&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021TOC04_640/2021TOC040096_640_01.jpg",
+    "price": "$16,675",
+    "sutherlins_price": "$15,995",
+    "mileage": "91,224 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Versa SV",
     "vin": "3N1CN8EV0PL824792",
     "stock": "P13398",
@@ -223,6 +238,21 @@
     "price": "$17,800",
     "sutherlins_price": "$15,995",
     "mileage": "55,830 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CR2JW250525",
+    "stock": "P13445",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS170001_640/2018NIS170001_640_01.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "63,606 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$21,298",
     "sutherlins_price": "$16,995",
     "mileage": "84,663 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra S",
-    "vin": "3N1AB8BV2RY335840",
-    "stock": "P13428",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV2RY335840&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e62a00961614e85bf85322a888a76f9.jpg",
-    "price": "$19,250",
-    "sutherlins_price": "$17,598",
-    "mileage": "29,060 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY373797",
-    "stock": "P13394",
-    "exterior": "Gun Metallic",
-    "interior": "SV Premium",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY373797&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04c8807aeb5a4d6c801b83a5a6103583.jpg",
-    "price": "$21,500",
-    "sutherlins_price": "$17,777",
-    "mileage": "24,093 Miles"
   }
 ]
