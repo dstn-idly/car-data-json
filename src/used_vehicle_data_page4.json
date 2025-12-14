@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Mazda CX-9 Touring",
-    "vin": "JM3TCBCY5N0601789",
-    "stock": "250007A",
-    "exterior": "Snowflake White Pearl Mica",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3TCBCY5N0601789&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/21fc25ad18df4882898762a62a71d830.jpg",
-    "price": "$23,775",
-    "sutherlins_price": "$20,798",
-    "mileage": "71,784 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BS0PC130966",
-    "stock": "P13278",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/218df18c02aa40a4b6430851cb4ec290.jpg",
-    "price": "$26,025",
-    "sutherlins_price": "$20,967",
-    "mileage": "46,297 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV3SL481238",
     "stock": "P13380",
@@ -178,21 +148,6 @@
     "price": "$25,458",
     "sutherlins_price": "$22,995",
     "mileage": "50,928 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Murano SL",
-    "vin": "5N1AZ2CJ6MC120959",
-    "stock": "26141A",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ6MC120959&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c95de07e3e994c078c4e362a1c34ac6f.jpg",
-    "price": "$26,075",
-    "sutherlins_price": "$23,798",
-    "mileage": "33,599 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$33,150",
     "sutherlins_price": "$28,419",
     "mileage": "29,492 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue Platinum",
+    "vin": "JN8BT3DC9PW105279",
+    "stock": "P13426",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC9PW105279&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f642dad6c944dde8cd9a902a92c3883.jpg",
+    "price": "$29,400",
+    "sutherlins_price": "$28,498",
+    "mileage": "32,018 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Armada SL",
+    "vin": "JN8AY2BC4P9183039",
+    "stock": "P13395",
+    "exterior": "Aspen White Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BC4P9183039&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77243d838b034f7f98565086e46c5503.jpg",
+    "price": "$38,825",
+    "sutherlins_price": "$28,598",
+    "mileage": "57,857 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC264383",
+    "stock": "26061A",
+    "exterior": "Deep Ocean Blue Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC264383&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ebe87f1a9ed4f5db6ded35cace57d31.jpg",
+    "price": "$34,650",
+    "sutherlins_price": "$28,988",
+    "mileage": "4,006 Miles"
   }
 ]
