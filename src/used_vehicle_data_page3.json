@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Toyota Corolla LE",
-    "vin": "5YFEPRAE2LP115029",
-    "stock": "P13431",
-    "exterior": "Blizzard Pearl",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFEPRAE2LP115029&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e62125e3aa1746c9afb5bb1e7c3bdcd1.jpg",
-    "price": "$19,200",
-    "sutherlins_price": "$17,988",
-    "mileage": "43,922 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra S",
     "vin": "3N1AB8BV7RY358756",
     "stock": "P13328",
@@ -331,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA1RC730692",
-    "stock": "P13374",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1RC730692&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f7bddfa911134b378a02101fab77460f.jpg",
-    "price": "$26,375",
-    "sutherlins_price": "$19,988",
-    "mileage": "25,606 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Jeep Wrangler Sport",
     "vin": "1C4GJXAG8JW271743",
     "stock": "P13392",
@@ -478,5 +448,35 @@
     "price": "$26,025",
     "sutherlins_price": "$20,967",
     "mileage": "46,297 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV3SL481238",
+    "stock": "P13380",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV3SL481238&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/caf446c166e041af8a0be9f66e92db48.jpg",
+    "price": "$24,365",
+    "sutherlins_price": "$20,988",
+    "mileage": "3,074 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Chevrolet Silverado 1500 LT",
+    "vin": "3GCPYDEK0KG249566",
+    "stock": "25860B",
+    "exterior": "Black",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 2.7L/166",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPYDEK0KG249566&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a5d932ac30a74fcfa70e6f1f60b86c1c.jpg",
+    "price": "$26,745",
+    "sutherlins_price": "$20,988",
+    "mileage": "95,415 Miles"
   }
 ]
