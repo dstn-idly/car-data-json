@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "P13353",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
-    "price": "$28,725",
-    "sutherlins_price": "$20,498",
-    "mileage": "14,691 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Mazda CX-9 Touring",
-    "vin": "JM3TCBCY5N0601789",
-    "stock": "250007A",
-    "exterior": "Snowflake White Pearl Mica",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3TCBCY5N0601789&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/21fc25ad18df4882898762a62a71d830.jpg",
-    "price": "$23,775",
-    "sutherlins_price": "$20,798",
-    "mileage": "71,784 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BS0PC130966",
     "stock": "P13278",
@@ -58,21 +28,6 @@
     "price": "$24,365",
     "sutherlins_price": "$20,988",
     "mileage": "3,074 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Chevrolet Silverado 1500 LT",
-    "vin": "3GCPYDEK0KG249566",
-    "stock": "25860B",
-    "exterior": "Black",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.7L/166",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPYDEK0KG249566&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c023c511b8b247c0ba7c1f9d33f76b6e.jpg",
-    "price": "$26,745",
-    "sutherlins_price": "$20,988",
-    "mileage": "95,415 Miles"
   },
   {
     "category": "used",
@@ -169,7 +124,7 @@
     "name": "2022 Toyota Highlander L",
     "vin": "5TDCZRAH0NS539542",
     "stock": "250003A",
-    "exterior": "Green",
+    "exterior": "Magnetic Gray",
     "interior": "Graphite",
     "engine": "Regular Unleaded V-6 3.5 L/211",
     "transmission": "Automatic",
@@ -295,7 +250,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CAXPC897564&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110141_640_01.jpg",
-    "price": "$24,498",
+    "price": "$28,975",
     "sutherlins_price": "$24,498",
     "mileage": "18,341 Miles"
   },
@@ -460,7 +415,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AA9RC238744&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071937432_640_01.jpg",
-    "price": "$26,995",
+    "price": "$28,725",
     "sutherlins_price": "$26,995",
     "mileage": "26,266 Miles"
   },
@@ -478,5 +433,50 @@
     "price": "$36,400",
     "sutherlins_price": "$26,996",
     "mileage": "78,608 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota RAV4 XLE",
+    "vin": "2T3W1RFV2PC239278",
+    "stock": "25701A",
+    "exterior": "Magnetic Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV2PC239278&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOS11_640/2023TOS111927533_640_01.jpg",
+    "price": "$27,898",
+    "sutherlins_price": "$27,898",
+    "mileage": "25,520 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "25953A",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/95ae3bb730d64ef79302c57864bbdc06.jpg",
+    "price": "$33,700",
+    "sutherlins_price": "$27,988",
+    "mileage": "22,521 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue Platinum",
+    "vin": "JN8BT3DD7PW309894",
+    "stock": "P13437",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DD7PW309894&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b4f4cab585d47cc876070871574b1e6.jpg",
+    "price": "$30,975",
+    "sutherlins_price": "$27,995",
+    "mileage": "31,601 Miles"
   }
 ]

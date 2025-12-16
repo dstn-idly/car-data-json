@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Sentra SV",
-    "vin": "3N1AB8CV9LY224255",
-    "stock": "26177A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9LY224255&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1ed65a4a2493441494bde31f93079af8.jpg",
-    "price": "$15,825",
-    "sutherlins_price": "$15,598",
-    "mileage": "40,469 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Rogue Sport S",
     "vin": "JN1BJ1CV4LW552642",
     "stock": "P13401",
@@ -478,5 +463,20 @@
     "price": "$21,298",
     "sutherlins_price": "$16,995",
     "mileage": "84,663 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV2RY335840",
+    "stock": "P13428",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV2RY335840&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e62a00961614e85bf85322a888a76f9.jpg",
+    "price": "$19,250",
+    "sutherlins_price": "$17,598",
+    "mileage": "29,060 Miles"
   }
 ]
