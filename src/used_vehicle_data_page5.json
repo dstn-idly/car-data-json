@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Nissan Sentra",
-    "vin": "3N1AB7AP8GY277078",
-    "stock": "P13217A",
-    "exterior": "Red",
-    "interior": "N/A",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP8GY277078&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC060002_640/2016NIC060002_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SL",
     "vin": "5N1BT3CAXPC897564",
     "stock": "26310A",
@@ -406,6 +391,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Nissan Sentra",
+    "vin": "3N1AB7AP8GY277078",
+    "stock": "P13217A",
+    "exterior": "Red",
+    "interior": "N/A",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP8GY277078&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC060002_640/2016NIC060002_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2015 Nissan Sentra S",
     "vin": "3N1AB7AP0FY241271",
     "stock": "P13436A",
@@ -418,6 +418,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "113,930 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Altima 2.5 S",
+    "vin": "1N4AL3AP2HC236254",
+    "stock": "P13374A",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP2HC236254&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC040001_640/2017NIC040001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "214,000 Miles"
   },
   {
     "category": "used",
@@ -448,20 +463,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "109,495 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Altima 2.5 S",
-    "vin": "1N4AL3AP2HC236254",
-    "stock": "P13374A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP2HC236254&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC040001_640/2017NIC040001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "214,000 Miles"
   }
 ]
