@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2007 Dodge Grand Caravan SXT",
+    "vin": "2D4GP44L47R247918",
+    "stock": "KP1081",
+    "exterior": "Magnesium Pearlcoat",
+    "interior": "Gray",
+    "engine": "Gas V6 3.8L/230",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2D4GP44L47R247918&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/9744.jpg",
+    "price": "$3,995",
+    "sutherlins_price": "$3,995",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2016 Nissan Sentra SR",
     "vin": "3N1AB7AP8GY277078",
     "stock": "P13217A",
@@ -463,20 +478,5 @@
     "price": "$16,850",
     "sutherlins_price": "$14,498",
     "mileage": "44,241 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CP8KW233843",
-    "stock": "25671A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP8KW233843&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ed4ddacce404a96a6047ea3ce42bc04.jpg",
-    "price": "$14,550",
-    "sutherlins_price": "$14,598",
-    "mileage": "61,134 Miles"
   }
 ]
