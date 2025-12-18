@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CP8KW233843",
-    "stock": "25671A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP8KW233843&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ed4ddacce404a96a6047ea3ce42bc04.jpg",
-    "price": "$14,550",
-    "sutherlins_price": "$14,598",
-    "mileage": "61,134 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV2PY244899",
     "stock": "P13290",
@@ -28,21 +13,6 @@
     "price": "$19,825",
     "sutherlins_price": "$14,598",
     "mileage": "62,987 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan LEAF S",
-    "vin": "1N4AZ1BV2PC553806",
-    "stock": "T26143A",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
-    "price": "$16,525",
-    "sutherlins_price": "$14,988",
-    "mileage": "24,507 Miles"
   },
   {
     "category": "used",
@@ -61,6 +31,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan LEAF S",
+    "vin": "1N4AZ1BV2PC553806",
+    "stock": "T26143A",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV2PC553806&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca9867ba243040089a11160990967ae3.jpg",
+    "price": "$16,525",
+    "sutherlins_price": "$14,988",
+    "mileage": "24,507 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Chevrolet Colorado 2WD WT",
     "vin": "1GCHSAEA7F1219805",
     "stock": "P13384",
@@ -76,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV9RY231778",
-    "stock": "P13251",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9RY231778&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40176d942c1d4776b1b1120829c414af.jpg",
-    "price": "$21,450",
-    "sutherlins_price": "$14,995",
-    "mileage": "31,431 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Grand Cherokee Laredo E",
     "vin": "1C4RJEAG9LC140936",
     "stock": "P13329A",
@@ -103,6 +73,21 @@
     "price": "$18,275",
     "sutherlins_price": "$14,995",
     "mileage": "98,536 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV9RY231778",
+    "stock": "P13251",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9RY231778&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40176d942c1d4776b1b1120829c414af.jpg",
+    "price": "$21,450",
+    "sutherlins_price": "$14,995",
+    "mileage": "31,431 Miles"
   },
   {
     "category": "used",
@@ -371,7 +356,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV9ML550109&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d06f484da2ee4334acbb1780bb886226.jpg",
     "price": "$20,025",
-    "sutherlins_price": "$16,645",
+    "sutherlins_price": "$14,995",
     "mileage": "42,543 Miles"
   },
   {
@@ -478,5 +463,20 @@
     "price": "$21,298",
     "sutherlins_price": "$16,995",
     "mileage": "84,663 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV2RY335840",
+    "stock": "P13428",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV2RY335840&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4e62a00961614e85bf85322a888a76f9.jpg",
+    "price": "$19,250",
+    "sutherlins_price": "$17,498",
+    "mileage": "29,060 Miles"
   }
 ]
