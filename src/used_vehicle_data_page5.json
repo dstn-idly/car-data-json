@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2018 Toyota Highlander XLE",
-    "vin": "5TDKZRFH8JS274481",
-    "stock": "250004A",
-    "exterior": "Shoreline Blue Pearl",
-    "interior": "Ash",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDKZRFH8JS274481&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018TOS14_640/2018TOS140052_640_01.jpg",
-    "price": "$28,375",
-    "sutherlins_price": "$25,995",
-    "mileage": "28,750 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Frontier SV",
     "vin": "1N6ED1FK2NN616220",
     "stock": "26102A",
@@ -286,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Audi A5 Cabriolet Premium Plus",
-    "vin": "WAUYNGF50KN000969",
-    "stock": "25962B",
-    "exterior": "Monsoon Gray Metallic",
-    "interior": "Gray",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$28,988",
-    "mileage": "36,711 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chrysler Pacifica Touring",
     "vin": "2C4RC1FG5RR110408",
     "stock": "P13390",
@@ -313,6 +283,21 @@
     "price": "$32,225",
     "sutherlins_price": "$28,988",
     "mileage": "29,206 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Audi A5 Cabriolet Premium Plus",
+    "vin": "WAUYNGF50KN000969",
+    "stock": "25962B",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Gray",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$28,988",
+    "mileage": "36,711 Miles"
   },
   {
     "category": "used",
@@ -446,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZBT9PH695974&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ec48ed0ad454084a19fb560864912d3.jpg",
     "price": "$37,950",
-    "sutherlins_price": "$32,497",
+    "sutherlins_price": "$31,995",
     "mileage": "29,325 Miles"
   },
   {
@@ -478,5 +463,20 @@
     "price": "$32,988",
     "sutherlins_price": "$32,988",
     "mileage": "28,032 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 BMW i4 xDrive40",
+    "vin": "WBY83FB00RFS02873",
+    "stock": "P13367",
+    "exterior": "Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBY83FB00RFS02873&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/63a840f0a4a442a68e28ffb2336b7bd7.jpg",
+    "price": "$46,375",
+    "sutherlins_price": "$33,988",
+    "mileage": "27,928 Miles"
   }
 ]
