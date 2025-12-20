@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Ford EcoSport Titanium",
-    "vin": "MAJ6P1WL8JC219324",
-    "stock": "P13429",
-    "exterior": "Moondust",
-    "interior": "Ebony Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
-    "price": "$15,075",
-    "sutherlins_price": "$13,988",
-    "mileage": "56,931 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan LEAF SV PLUS",
     "vin": "1N4BZ1CV9MC555521",
     "stock": "26151B",
@@ -406,18 +391,18 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Murano S",
-    "vin": "5N1AZ2MG9FN286788",
-    "stock": "P13424",
-    "exterior": "Magnetic Black Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG9FN286788&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9dbb7b8514cd4a9aa25c9277d7ab3654.jpg",
-    "price": "$14,850",
+    "name": "2018 Ford EcoSport Titanium",
+    "vin": "MAJ6P1WL8JC219324",
+    "stock": "P13429",
+    "exterior": "Moondust",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
+    "price": "$15,075",
     "sutherlins_price": "$13,988",
-    "mileage": "88,132 Miles"
+    "mileage": "56,931 Miles"
   },
   {
     "category": "used",
@@ -433,6 +418,21 @@
     "price": "$18,929",
     "sutherlins_price": "$13,988",
     "mileage": "113,392 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Murano S",
+    "vin": "5N1AZ2MG9FN286788",
+    "stock": "P13424",
+    "exterior": "Magnetic Black Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG9FN286788&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9dbb7b8514cd4a9aa25c9277d7ab3654.jpg",
+    "price": "$14,850",
+    "sutherlins_price": "$13,988",
+    "mileage": "88,132 Miles"
   },
   {
     "category": "used",
@@ -596,7 +596,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLL4AG7PU374014&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a78489b553e34c1293efcf35d4e9eba6.jpg",
     "price": "$19,675",
-    "sutherlins_price": "$14,995",
+    "sutherlins_price": "$14,498",
     "mileage": "40,807 Miles"
   },
   {
@@ -746,23 +746,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE3MJ167343&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/940d653e9c094a169fd3f9bf5fca604a.jpg",
     "price": "$16,675",
-    "sutherlins_price": "$15,995",
+    "sutherlins_price": "$14,917",
     "mileage": "91,224 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Versa SV",
-    "vin": "3N1CN8EV0PL824792",
-    "stock": "P13398",
-    "exterior": "Super Black",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL824792&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c9539eab798049e09bcd20ada0b1e5cb.jpg",
-    "price": "$17,800",
-    "sutherlins_price": "$15,995",
-    "mileage": "55,830 Miles"
   },
   {
     "category": "used",
@@ -778,6 +763,21 @@
     "price": "$15,995",
     "sutherlins_price": "$15,995",
     "mileage": "63,606 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Versa SV",
+    "vin": "3N1CN8EV0PL824792",
+    "stock": "P13398",
+    "exterior": "Super Black",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0PL824792&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c9539eab798049e09bcd20ada0b1e5cb.jpg",
+    "price": "$17,800",
+    "sutherlins_price": "$15,995",
+    "mileage": "55,830 Miles"
   },
   {
     "category": "used",
@@ -956,7 +956,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BVXRL531322&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6bbe2c6d413c4395aa812a07b4ae6548.jpg",
     "price": "$19,650",
-    "sutherlins_price": "$16,995",
+    "sutherlins_price": "$15,965",
     "mileage": "35,539 Miles"
   },
   {
@@ -1181,7 +1181,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD7NE458654&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6517eb4b0c9e482a8c959889f087c9b3.jpg",
     "price": "$21,000",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,995",
     "mileage": "30,899 Miles"
   },
   {
@@ -1706,7 +1706,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA4RW005739&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bc9032ebf911454e90285132cac33f9d.jpg",
     "price": "$22,750",
-    "sutherlins_price": "$23,898",
+    "sutherlins_price": "$22,750",
     "mileage": "14,592 Miles"
   },
   {
@@ -1976,7 +1976,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPACEKXPG324702&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHT27_640/2023CHT271970033_640_01.jpg",
     "price": "$32,650",
-    "sutherlins_price": "$27,499",
+    "sutherlins_price": "$26,977",
     "mileage": "90,015 Miles"
   },
   {
@@ -2101,18 +2101,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Chrysler Pacifica Touring",
-    "vin": "2C4RC1FG5RR110408",
-    "stock": "P13390",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BAXRC236466",
+    "stock": "26103A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
-    "price": "$32,225",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
+    "price": "$33,150",
     "sutherlins_price": "$28,988",
-    "mileage": "29,206 Miles"
+    "mileage": "18,033 Miles"
   },
   {
     "category": "used",
@@ -2131,18 +2131,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BAXRC236466",
-    "stock": "26103A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "name": "2024 Chrysler Pacifica Touring",
+    "vin": "2C4RC1FG5RR110408",
+    "stock": "P13390",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
-    "price": "$33,150",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
+    "price": "$32,225",
     "sutherlins_price": "$28,988",
-    "mileage": "18,033 Miles"
+    "mileage": "29,206 Miles"
   },
   {
     "category": "used",
@@ -2366,7 +2366,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCCKD4NR318134&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3fd1aa987bb94c9d8675f550308cfad6.jpg",
     "price": "$45,200",
-    "sutherlins_price": "$42,769",
+    "sutherlins_price": "$42,498",
     "mileage": "54,933 Miles"
   },
   {
