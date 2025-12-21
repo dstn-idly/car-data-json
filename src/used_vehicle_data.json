@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan LEAF SV PLUS",
-    "vin": "1N4BZ1CV9MC555521",
-    "stock": "26151B",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3fae3f9bcdc484ba565115b190ac9b3.jpg",
-    "price": "$155,757",
-    "sutherlins_price": "$13,988",
-    "mileage": "39,702 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Ford EcoSport Titanium",
     "vin": "MAJ6P1WL8JC219324",
     "stock": "P13429",
@@ -436,18 +421,18 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan NV200 Compact Cargo SV",
-    "vin": "3N6CM0KN0MK695215",
-    "stock": "P13385",
-    "exterior": "Fresh Powder",
-    "interior": "Grey",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN0MK695215&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1034a54ce724b13b5be78c722182436.jpg",
-    "price": "$18,929",
+    "name": "2021 Nissan LEAF SV PLUS",
+    "vin": "1N4BZ1CV9MC555521",
+    "stock": "26151B",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3fae3f9bcdc484ba565115b190ac9b3.jpg",
+    "price": "$155,757",
     "sutherlins_price": "$13,988",
-    "mileage": "113,392 Miles"
+    "mileage": "39,702 Miles"
   },
   {
     "category": "used",
@@ -463,6 +448,21 @@
     "price": "$14,850",
     "sutherlins_price": "$13,988",
     "mileage": "88,132 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan NV200 Compact Cargo SV",
+    "vin": "3N6CM0KN0MK695215",
+    "stock": "P13385",
+    "exterior": "Fresh Powder",
+    "interior": "Grey",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN0MK695215&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1034a54ce724b13b5be78c722182436.jpg",
+    "price": "$18,929",
+    "sutherlins_price": "$13,988",
+    "mileage": "113,392 Miles"
   },
   {
     "category": "used",
@@ -571,21 +571,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra S",
-    "vin": "3N1AB8BV3MY267928",
-    "stock": "P13449",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3MY267928&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c5e5f9022dc4665a05a1c0aa3ea2ad9.jpg",
-    "price": "$16,375",
-    "sutherlins_price": "$14,988",
-    "mileage": "47,757 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Compass Limited",
     "vin": "3C4NJCCB3LT176498",
     "stock": "P13339",
@@ -613,6 +598,21 @@
     "price": "$16,525",
     "sutherlins_price": "$14,988",
     "mileage": "24,507 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra S",
+    "vin": "3N1AB8BV3MY267928",
+    "stock": "P13449",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3MY267928&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c5e5f9022dc4665a05a1c0aa3ea2ad9.jpg",
+    "price": "$16,375",
+    "sutherlins_price": "$14,988",
+    "mileage": "47,757 Miles"
   },
   {
     "category": "used",
@@ -1111,21 +1111,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Kicks S",
-    "vin": "3N1CP5BV5RL472728",
-    "stock": "26116A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5RL472728&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/957600a14ebf44a3ae652c664934fa21.jpg",
-    "price": "$20,275",
-    "sutherlins_price": "$17,995",
-    "mileage": "11,425 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Kia Forte GT-Line",
     "vin": "3KPF54AD7NE458654",
     "stock": "P13454",
@@ -1153,6 +1138,21 @@
     "price": "$23,850",
     "sutherlins_price": "$17,995",
     "mileage": "39,820 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Kicks S",
+    "vin": "3N1CP5BV5RL472728",
+    "stock": "26116A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5RL472728&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/957600a14ebf44a3ae652c664934fa21.jpg",
+    "price": "$20,275",
+    "sutherlins_price": "$17,995",
+    "mileage": "11,425 Miles"
   },
   {
     "category": "used",
@@ -1351,21 +1351,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV2NY289837",
-    "stock": "P13305",
-    "exterior": "Electric Blue Metallic/Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$19,498",
-    "mileage": "13,492 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Toyota Corolla SE",
     "vin": "5YFP4MCE7PP157851",
     "stock": "P13438",
@@ -1378,6 +1363,21 @@
     "price": "$22,975",
     "sutherlins_price": "$19,498",
     "mileage": "61,299 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV2NY289837",
+    "stock": "P13305",
+    "exterior": "Electric Blue Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
+    "price": "$23,200",
+    "sutherlins_price": "$19,498",
+    "mileage": "13,492 Miles"
   },
   {
     "category": "used",
@@ -1426,21 +1426,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "P13353",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
-    "price": "$28,725",
-    "sutherlins_price": "$19,988",
-    "mileage": "14,691 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Jeep Wrangler Unlimited Sport",
     "vin": "1C4HJXDG9KW675555",
     "stock": "P13296",
@@ -1453,6 +1438,21 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "78,016 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Ford Escape Active",
+    "vin": "1FMCU0GN2SUA82016",
+    "stock": "P13353",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
+    "price": "$28,725",
+    "sutherlins_price": "$19,988",
+    "mileage": "14,691 Miles"
   },
   {
     "category": "used",
@@ -2131,6 +2131,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BAXRC236466",
+    "stock": "26103A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$28,988",
+    "mileage": "18,033 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chrysler Pacifica Touring",
     "vin": "2C4RC1FG5RR110408",
     "stock": "P13390",
@@ -2158,21 +2173,6 @@
     "price": "$33,150",
     "sutherlins_price": "$28,988",
     "mileage": "36,711 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BAXRC236466",
-    "stock": "26103A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$28,988",
-    "mileage": "18,033 Miles"
   },
   {
     "category": "used",
