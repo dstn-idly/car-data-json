@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Honda Fit Sport",
-    "vin": "JHMGE8G53CC027193",
-    "stock": "KP1079A",
-    "exterior": "Blue",
-    "interior": "N/A",
-    "engine": "Gas I4 1.5L/91",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JHMGE8G53CC027193&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14395.jpg",
-    "price": "$4,995",
-    "sutherlins_price": "$4,995",
-    "mileage": "188,048 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Nissan Sentra S",
     "vin": "3N1AB7AP9FY265830",
     "stock": "250016A",
@@ -190,39 +175,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP5JY284142&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIC060001_640/2018NIC060001_640_01.jpg",
-    "price": "$9,995",
+    "price": "$11,385",
     "sutherlins_price": "$9,995",
     "mileage": "60,777 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Volkswagen Tiguan",
-    "vin": "WVGAV7AX6FW597490",
-    "stock": "26284A",
-    "exterior": "Gold",
-    "interior": "N/A",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVGAV7AX6FW597490&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015VWS03_640/2015VWS030001_640_01.jpg",
-    "price": "$9,995",
-    "sutherlins_price": "$9,995",
-    "mileage": "109,000 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Buick Encore Preferred",
-    "vin": "KL4CJASB6KB743407",
-    "stock": "T25931B",
-    "exterior": "Summit White",
-    "interior": "Ebony",
-    "engine": "Turbocharged I4 1.4/83",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJASB6KB743407&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019BUS04_640/2019BUS040001_640_01.jpg",
-    "price": "$9,995",
-    "sutherlins_price": "$9,995",
-    "mileage": "103,113 Miles"
   },
   {
     "category": "used",
@@ -238,6 +193,36 @@
     "price": "$11,400",
     "sutherlins_price": "$9,995",
     "mileage": "69,950 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Volkswagen Tiguan S",
+    "vin": "WVGAV7AX6FW597490",
+    "stock": "26284A",
+    "exterior": "Gold",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVGAV7AX6FW597490&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015VWS03_640/2015VWS030001_640_01.jpg",
+    "price": "$8,175",
+    "sutherlins_price": "$9,995",
+    "mileage": "109,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Buick Encore Preferred",
+    "vin": "KL4CJASB6KB743407",
+    "stock": "T25931B",
+    "exterior": "Summit White",
+    "interior": "Ebony",
+    "engine": "Turbocharged I4 1.4/83",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJASB6KB743407&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019BUS04_640/2019BUS040001_640_01.jpg",
+    "price": "$11,225",
+    "sutherlins_price": "$9,995",
+    "mileage": "103,113 Miles"
   },
   {
     "category": "used",
@@ -295,7 +280,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG5GN128952&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIS020005_640/2016NIS020005_640_01.jpg",
-    "price": "$10,995",
+    "price": "$12,700",
     "sutherlins_price": "$10,995",
     "mileage": "63,543 Miles"
   },
@@ -478,5 +463,20 @@
     "price": "$155,757",
     "sutherlins_price": "$13,988",
     "mileage": "39,702 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Ford EcoSport Titanium",
+    "vin": "MAJ6P1WL8JC219324",
+    "stock": "P13429",
+    "exterior": "Moondust",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
+    "price": "$15,075",
+    "sutherlins_price": "$13,988",
+    "mileage": "56,931 Miles"
   }
 ]
