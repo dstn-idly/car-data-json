@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2018 Jeep Wrangler Sport",
+    "vin": "1C4GJXAG8JW271743",
+    "stock": "P13392",
+    "exterior": "Mojito! Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
+    "price": "$26,250",
+    "sutherlins_price": "$19,988",
+    "mileage": "44,202 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 INFINITI Q50 3.0t LUXE",
     "vin": "JN1EV7BP2MM703353",
     "stock": "P13406",
@@ -16,18 +31,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Mazda CX-9 Touring",
-    "vin": "JM3TCBCY5N0601789",
-    "stock": "250007A",
-    "exterior": "Snowflake White Pearl Mica",
+    "name": "2022 Hyundai Sonata SEL Plus",
+    "vin": "KMHL44J23NA245025",
+    "stock": "P13303",
+    "exterior": "Portofino Gray",
     "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.5 L/152",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3TCBCY5N0601789&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fc632b1866d6410b8b1e627667b73086.jpg",
-    "price": "$23,775",
-    "sutherlins_price": "$19,797",
-    "mileage": "71,784 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
+    "price": "$27,975",
+    "sutherlins_price": "$19,995",
+    "mileage": "26,782 Miles"
   },
   {
     "category": "used",
@@ -43,21 +58,6 @@
     "price": "$27,375",
     "sutherlins_price": "$20,437",
     "mileage": "35,388 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Hyundai Sonata SEL Plus",
-    "vin": "KMHL44J23NA245025",
-    "stock": "P13303",
-    "exterior": "Portofino Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
-    "price": "$27,975",
-    "sutherlins_price": "$19,995",
-    "mileage": "26,782 Miles"
   },
   {
     "category": "used",
@@ -106,6 +106,36 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Titan SV",
+    "vin": "1N6AA1EE8MN528449",
+    "stock": "P13391",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
+    "price": "$29,050",
+    "sutherlins_price": "$21,389",
+    "mileage": "79,174 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Camry SE",
+    "vin": "4T1G11AK8RU912877",
+    "stock": "P13340",
+    "exterior": "Celestial Silver",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK8RU912877&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae9bd57d3fbe48c5ab6a32415141b620.jpg",
+    "price": "$28,075",
+    "sutherlins_price": "$21,474",
+    "mileage": "36,906 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 INFINITI QX50 LUXE",
     "vin": "3PCAJ5BA6NF122309",
     "stock": "P13378",
@@ -151,18 +181,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Camry SE",
-    "vin": "4T1G11AK8RU912877",
-    "stock": "P13340",
-    "exterior": "Celestial Silver",
-    "interior": "Black",
+    "name": "2025 Nissan Altima S",
+    "vin": "1N4BL4BV1SN304353",
+    "stock": "P13381",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK8RU912877&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae9bd57d3fbe48c5ab6a32415141b620.jpg",
-    "price": "$28,075",
-    "sutherlins_price": "$21,474",
-    "mileage": "36,906 Miles"
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1SN304353&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c45cfab1b554b2bbc71f30905501179.jpg",
+    "price": "$28,140",
+    "sutherlins_price": "$21,907",
+    "mileage": "3,663 Miles"
   },
   {
     "category": "used",
@@ -178,21 +208,6 @@
     "price": "$23,725",
     "sutherlins_price": "$21,988",
     "mileage": "27,899 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Altima S",
-    "vin": "1N4BL4BV1SN304353",
-    "stock": "P13381",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1SN304353&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c45cfab1b554b2bbc71f30905501179.jpg",
-    "price": "$28,140",
-    "sutherlins_price": "$21,907",
-    "mileage": "3,663 Miles"
   },
   {
     "category": "used",
@@ -238,21 +253,6 @@
     "price": "$24,525",
     "sutherlins_price": "$21,995",
     "mileage": "6,783 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Titan SV",
-    "vin": "1N6AA1EE8MN528449",
-    "stock": "P13391",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
-    "price": "$29,050",
-    "sutherlins_price": "$21,389",
-    "mileage": "79,174 Miles"
   },
   {
     "category": "used",
@@ -406,6 +406,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Rogue Platinum",
+    "vin": "JN8BT3DD9PW301571",
+    "stock": "P13377",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Tan",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DD9PW301571&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bed3c9fa06554d5ea42c5315440904f4.jpg",
+    "price": "$32,757",
+    "sutherlins_price": "$25,727",
+    "mileage": "22,201 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Mercedes-Benz E-Class E 350",
     "vin": "W1KZF8EB1MA971643",
     "stock": "P13402A",
@@ -463,20 +478,5 @@
     "price": "$33,025",
     "sutherlins_price": "$26,282",
     "mileage": "84,956 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Silverado 1500 LT",
-    "vin": "3GCPACEKXPG324702",
-    "stock": "P13444",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.7L/166",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GCPACEKXPG324702&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHT27_640/2023CHT271970033_640_01.jpg",
-    "price": "$32,650",
-    "sutherlins_price": "$26,977",
-    "mileage": "90,015 Miles"
   }
 ]
