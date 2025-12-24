@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTAMC5K8347457&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e713fa82bb1f4ca9987249b6779222c1.jpg",
     "price": "$21,575",
-    "sutherlins_price": "$16,995",
+    "sutherlins_price": "$15,894",
     "mileage": "75,458 Miles"
   },
   {
@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY373797&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/04c8807aeb5a4d6c801b83a5a6103583.jpg",
     "price": "$21,500",
-    "sutherlins_price": "$16,995",
+    "sutherlins_price": "$15,995",
     "mileage": "24,093 Miles"
   },
   {
@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
     "price": "$21,298",
-    "sutherlins_price": "$16,995",
+    "sutherlins_price": "$16,498",
     "mileage": "84,663 Miles"
   },
   {
@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4NC678940&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0acf2c5d93974bdea71e0b5d8f0bfe04.jpg",
     "price": "$21,775",
-    "sutherlins_price": "$17,598",
+    "sutherlins_price": "$16,995",
     "mileage": "63,131 Miles"
   },
   {
@@ -121,33 +121,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AB1PC675717",
-    "stock": "25324A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB1PC675717&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/31965be308044eb1baa6f8295a52a81a.jpg",
-    "price": "$23,850",
-    "sutherlins_price": "$17,995",
-    "mileage": "39,820 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Kia Forte GT-Line",
-    "vin": "3KPF54AD7NE458654",
-    "stock": "P13454",
-    "exterior": "Snow White Pearl",
+    "name": "2018 Dodge Challenger SXT Plus",
+    "vin": "2C3CDZAG8JH146584",
+    "stock": "26309B",
+    "exterior": "Octane Red Pearlcoat",
     "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD7NE458654&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6517eb4b0c9e482a8c959889f087c9b3.jpg",
-    "price": "$21,000",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZAG8JH146584&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018DOC19_640/2018DOC190103_640_01.jpg",
+    "price": "$22,600",
     "sutherlins_price": "$17,995",
-    "mileage": "30,899 Miles"
+    "mileage": "59,135 Miles"
   },
   {
     "category": "used",
@@ -166,18 +151,33 @@
   },
   {
     "category": "used",
-    "name": "2018 Dodge Challenger SXT Plus",
-    "vin": "2C3CDZAG8JH146584",
-    "stock": "26309B",
-    "exterior": "Octane Red Pearlcoat",
+    "name": "2022 Kia Forte GT-Line",
+    "vin": "3KPF54AD7NE458654",
+    "stock": "P13454",
+    "exterior": "Snow White Pearl",
     "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZAG8JH146584&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018DOC19_640/2018DOC190103_640_01.jpg",
-    "price": "$22,600",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD7NE458654&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6517eb4b0c9e482a8c959889f087c9b3.jpg",
+    "price": "$21,000",
     "sutherlins_price": "$17,995",
-    "mileage": "59,135 Miles"
+    "mileage": "30,899 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AB1PC675717",
+    "stock": "25324A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB1PC675717&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/31965be308044eb1baa6f8295a52a81a.jpg",
+    "price": "$23,850",
+    "sutherlins_price": "$17,995",
+    "mileage": "39,820 Miles"
   },
   {
     "category": "used",
@@ -221,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC807321&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f6d148eda4794c73b136e2d71f3359d3.jpg",
     "price": "$23,575",
-    "sutherlins_price": "$18,901",
+    "sutherlins_price": "$18,743",
     "mileage": "32,199 Miles"
   },
   {
@@ -266,7 +266,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV8PY242265&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0a19b9ec3d5486a910ab423e0a74fb3.jpg",
     "price": "$22,475",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,898",
     "mileage": "35,923 Miles"
   },
   {
@@ -376,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV2NY289837",
+    "stock": "P13305",
+    "exterior": "Electric Blue Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
+    "price": "$23,200",
+    "sutherlins_price": "$18,898",
+    "mileage": "13,492 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Toyota Corolla SE",
     "vin": "5YFP4MCE7PP157851",
     "stock": "P13438",
@@ -388,21 +403,6 @@
     "price": "$22,975",
     "sutherlins_price": "$19,498",
     "mileage": "61,299 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV2NY289837",
-    "stock": "P13305",
-    "exterior": "Electric Blue Metallic/Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$19,498",
-    "mileage": "13,492 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "P13353",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
-    "price": "$28,725",
-    "sutherlins_price": "$19,988",
-    "mileage": "14,691 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Jeep Wrangler Sport",
     "vin": "1C4GJXAG8JW271743",
     "stock": "P13392",
@@ -478,5 +463,20 @@
     "price": "$26,250",
     "sutherlins_price": "$19,988",
     "mileage": "44,202 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Ford Escape Active",
+    "vin": "1FMCU0GN2SUA82016",
+    "stock": "P13353",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
+    "price": "$28,725",
+    "sutherlins_price": "$19,988",
+    "mileage": "14,691 Miles"
   }
 ]

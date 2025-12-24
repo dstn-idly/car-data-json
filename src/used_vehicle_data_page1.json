@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPG4A31JG418945&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018KIS020001_640/2018KIS020001_640_01.jpg",
     "price": "$9,870",
-    "sutherlins_price": "$8,995",
+    "sutherlins_price": "$7,977",
     "mileage": "103,289 Miles"
   },
   {
@@ -166,6 +166,21 @@
   },
   {
     "category": "used",
+    "name": "2015 Volkswagen Tiguan S",
+    "vin": "WVGAV7AX6FW597490",
+    "stock": "26284A",
+    "exterior": "Gold",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVGAV7AX6FW597490&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015VWS03_640/2015VWS030001_640_01.jpg",
+    "price": "$8,175",
+    "sutherlins_price": "$7,995",
+    "mileage": "109,000 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Chevrolet Spark LT",
     "vin": "KL8CD6SA8LC415427",
     "stock": "P13302B",
@@ -178,21 +193,6 @@
     "price": "$11,400",
     "sutherlins_price": "$9,995",
     "mileage": "69,950 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Volkswagen Tiguan S",
-    "vin": "WVGAV7AX6FW597490",
-    "stock": "26284A",
-    "exterior": "Gold",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVGAV7AX6FW597490&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015VWS03_640/2015VWS030001_640_01.jpg",
-    "price": "$8,175",
-    "sutherlins_price": "$9,995",
-    "mileage": "109,000 Miles"
   },
   {
     "category": "used",
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXXEU0JS552409&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/28998a82fa3747538a1e0673a31d03f2.jpg",
     "price": "$15,625",
-    "sutherlins_price": "$10,995",
+    "sutherlins_price": "$10,898",
     "mileage": "107,913 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV3HP517003&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c13b60a422e24e539465b1100a558343.jpg",
     "price": "$10,250",
-    "sutherlins_price": "$6,988",
+    "sutherlins_price": "$5,994",
     "mileage": "116,715 Miles"
   },
   {
@@ -431,23 +431,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1J4HA6H15AL204836&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c83331beab8a47578b0570584c9fde9a.jpg",
     "price": "$16,600",
-    "sutherlins_price": "$13,988",
+    "sutherlins_price": "$13,576",
     "mileage": "81,204 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Ford EcoSport Titanium",
-    "vin": "MAJ6P1WL8JC219324",
-    "stock": "P13429",
-    "exterior": "Moondust",
-    "interior": "Ebony Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
-    "price": "$15,075",
-    "sutherlins_price": "$13,988",
-    "mileage": "56,931 Miles"
   },
   {
     "category": "used",
@@ -463,6 +448,21 @@
     "price": "$155,757",
     "sutherlins_price": "$13,988",
     "mileage": "39,702 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Ford EcoSport Titanium",
+    "vin": "MAJ6P1WL8JC219324",
+    "stock": "P13429",
+    "exterior": "Moondust",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
+    "price": "$15,075",
+    "sutherlins_price": "$13,988",
+    "mileage": "56,931 Miles"
   },
   {
     "category": "used",
