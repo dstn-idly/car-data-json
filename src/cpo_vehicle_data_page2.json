@@ -1,6 +1,21 @@
 [
   {
     "category": "cpo",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BS0PC130966",
+    "stock": "P13278",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/218df18c02aa40a4b6430851cb4ec290.jpg",
+    "price": "$26,025",
+    "sutherlins_price": "$20,967",
+    "mileage": "46,297 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV3SL481238",
     "stock": "P13380",
@@ -13,21 +28,6 @@
     "price": "$24,365",
     "sutherlins_price": "$20,988",
     "mileage": "3,074 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2021 Nissan Titan SV",
-    "vin": "1N6AA1EE8MN528449",
-    "stock": "P13391",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
-    "price": "$29,050",
-    "sutherlins_price": "$20,924",
-    "mileage": "79,174 Miles"
   },
   {
     "category": "cpo",
@@ -76,21 +76,6 @@
   },
   {
     "category": "cpo",
-    "name": "2025 Nissan Rogue S",
-    "vin": "5N1BT3AA4SC864748",
-    "stock": "P13432",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA4SC864748&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b07b408f67ce44baae941e54eadd315f.jpg",
-    "price": "$26,400",
-    "sutherlins_price": "$24,995",
-    "mileage": "1,835 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue Platinum",
     "vin": "JN8BT3DD9PW301571",
     "stock": "P13377",
@@ -106,6 +91,21 @@
   },
   {
     "category": "cpo",
+    "name": "2025 Nissan Rogue S",
+    "vin": "5N1BT3AA4SC864748",
+    "stock": "P13432",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA4SC864748&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b07b408f67ce44baae941e54eadd315f.jpg",
+    "price": "$26,400",
+    "sutherlins_price": "$24,995",
+    "mileage": "1,835 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2022 Nissan Frontier SV",
     "vin": "1N6ED1FK2NN616220",
     "stock": "26102A",
@@ -118,6 +118,36 @@
     "price": "$30,150",
     "sutherlins_price": "$25,995",
     "mileage": "67,184 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BAXRC236466",
+    "stock": "26103A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$26,399",
+    "mileage": "18,033 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA5RC211362",
+    "stock": "250025A",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA5RC211362&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/20f2873add464880977000df64650ed3.jpg",
+    "price": "$33,075",
+    "sutherlins_price": "$26,995",
+    "mileage": "11,726 Miles"
   },
   {
     "category": "cpo",
@@ -151,18 +181,18 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BAXRC236466",
-    "stock": "26103A",
+    "name": "2023 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA7PC230944",
+    "stock": "P13348",
     "exterior": "Pearl White Tricoat",
     "interior": "Charcoal",
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BAXRC236466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/770507c3bf564e8cadefb94a0d0be27f.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA7PC230944&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/72024de1b65f4215b7a61668e44ae4d1.jpg",
     "price": "$33,150",
-    "sutherlins_price": "$26,399",
-    "mileage": "18,033 Miles"
+    "sutherlins_price": "$27,725",
+    "mileage": "29,492 Miles"
   },
   {
     "category": "cpo",
@@ -178,21 +208,6 @@
     "price": "$33,700",
     "sutherlins_price": "$27,988",
     "mileage": "22,521 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Pathfinder SL",
-    "vin": "5N1DR3CA7PC230944",
-    "stock": "P13348",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA7PC230944&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/72024de1b65f4215b7a61668e44ae4d1.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$27,725",
-    "mileage": "29,492 Miles"
   },
   {
     "category": "cpo",
@@ -223,21 +238,6 @@
     "price": "$34,650",
     "sutherlins_price": "$28,988",
     "mileage": "4,010 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA5RC211362",
-    "stock": "250025A",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA5RC211362&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/20f2873add464880977000df64650ed3.jpg",
-    "price": "$33,075",
-    "sutherlins_price": "$26,995",
-    "mileage": "11,726 Miles"
   },
   {
     "category": "cpo",
