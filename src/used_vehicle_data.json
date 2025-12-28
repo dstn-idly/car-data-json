@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Hyundai Tucson Limited",
-    "vin": "KM8J33A27GU200580",
-    "stock": "26328A",
-    "exterior": "Sedona Sunset",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/97",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A27GU200580&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HYS020002_640/2016HYS020002_640_01.jpg",
-    "price": "$13,758",
-    "sutherlins_price": "$11,995",
-    "mileage": "136,650 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport S",
     "vin": "JN1BJ1CP7KW218248",
     "stock": "26105B",
@@ -403,6 +388,21 @@
     "price": "$12,300",
     "sutherlins_price": "$11,995",
     "mileage": "80,427 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Hyundai Tucson Limited",
+    "vin": "KM8J33A27GU200580",
+    "stock": "26328A",
+    "exterior": "Sedona Sunset",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/97",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A27GU200580&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HYS020002_640/2016HYS020002_640_01.jpg",
+    "price": "$13,758",
+    "sutherlins_price": "$11,995",
+    "mileage": "136,650 Miles"
   },
   {
     "category": "used",
@@ -466,21 +466,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Ford EcoSport Titanium",
-    "vin": "MAJ6P1WL8JC219324",
-    "stock": "P13429",
-    "exterior": "Moondust",
-    "interior": "Ebony Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
-    "price": "$15,075",
-    "sutherlins_price": "$13,988",
-    "mileage": "56,931 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan LEAF SV PLUS",
     "vin": "1N4BZ1CV9MC555521",
     "stock": "26151B",
@@ -496,18 +481,18 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Murano S",
-    "vin": "5N1AZ2MG9FN286788",
-    "stock": "P13424",
-    "exterior": "Magnetic Black Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG9FN286788&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/20bdcef7ec4941c180b35aefaa6bcdac.jpg",
-    "price": "$14,850",
+    "name": "2018 Ford EcoSport Titanium",
+    "vin": "MAJ6P1WL8JC219324",
+    "stock": "P13429",
+    "exterior": "Moondust",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
+    "price": "$15,075",
     "sutherlins_price": "$13,988",
-    "mileage": "88,132 Miles"
+    "mileage": "56,931 Miles"
   },
   {
     "category": "used",
@@ -523,6 +508,21 @@
     "price": "$18,929",
     "sutherlins_price": "$13,988",
     "mileage": "113,392 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Murano S",
+    "vin": "5N1AZ2MG9FN286788",
+    "stock": "P13424",
+    "exterior": "Magnetic Black Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG9FN286788&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/20bdcef7ec4941c180b35aefaa6bcdac.jpg",
+    "price": "$14,850",
+    "sutherlins_price": "$13,988",
+    "mileage": "88,132 Miles"
   },
   {
     "category": "used",
@@ -1456,6 +1456,21 @@
   },
   {
     "category": "used",
+    "name": "2025 Ford Escape Active",
+    "vin": "1FMCU0GN2SUA82016",
+    "stock": "P13353",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
+    "price": "$28,725",
+    "sutherlins_price": "$19,988",
+    "mileage": "14,691 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Jeep Wrangler Unlimited Sport",
     "vin": "1C4HJXDG9KW675555",
     "stock": "P13296",
@@ -1471,18 +1486,18 @@
   },
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "P13353",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "Intercooled Turbo Premium Unleaded I-3 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfe539ec877c45d7b5ce9b5178f9f4eb.jpg",
-    "price": "$28,725",
-    "sutherlins_price": "$19,988",
-    "mileage": "14,691 Miles"
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BAXPC740246",
+    "stock": "P13461",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXPC740246&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "price": "$23,150",
+    "sutherlins_price": "$19,995",
+    "mileage": "47,603 Miles"
   },
   {
     "category": "used",
@@ -1513,21 +1528,6 @@
     "price": "$21,025",
     "sutherlins_price": "$19,995",
     "mileage": "66,718 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BAXPC740246",
-    "stock": "P13461",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXPC740246&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
-    "price": "$23,150",
-    "sutherlins_price": "$19,995",
-    "mileage": "47,603 Miles"
   },
   {
     "category": "used",
@@ -2206,21 +2206,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Audi A5 Cabriolet Premium Plus",
-    "vin": "WAUYNGF50KN000969",
-    "stock": "25962B",
-    "exterior": "Monsoon Gray Metallic",
-    "interior": "Gray",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
-    "price": "$33,150",
-    "sutherlins_price": "$28,988",
-    "mileage": "36,711 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chrysler Pacifica Touring",
     "vin": "2C4RC1FG5RR110408",
     "stock": "P13390",
@@ -2233,6 +2218,21 @@
     "price": "$32,225",
     "sutherlins_price": "$28,988",
     "mileage": "29,206 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Audi A5 Cabriolet Premium Plus",
+    "vin": "WAUYNGF50KN000969",
+    "stock": "25962B",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Gray",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$28,988",
+    "mileage": "36,711 Miles"
   },
   {
     "category": "used",
@@ -2536,6 +2536,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Nissan Altima 2.5 SL",
+    "vin": "1N4AL3AP7GC225815",
+    "stock": "26264A",
+    "exterior": "Super Black",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP7GC225815&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC040006_640/2016NIC040006_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "127,291 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Chevrolet Silverado 1500 Custom",
     "vin": "1GCRABEK5SZ248981",
     "stock": "26061B",
@@ -2566,18 +2581,18 @@
   },
   {
     "category": "used",
-    "name": "2016 Nissan Altima 2.5 SL",
-    "vin": "1N4AL3AP7GC225815",
-    "stock": "26264A",
-    "exterior": "Super Black",
-    "interior": "Beige",
+    "name": "2018 Nissan Rogue SV",
+    "vin": "5N1AT2MV0JC833869",
+    "stock": "25725A",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP7GC225815&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC040006_640/2016NIC040006_640_01.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV0JC833869&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "127,291 Miles"
+    "mileage": "93,110 Miles"
   },
   {
     "category": "used",
@@ -2593,20 +2608,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "99,136 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "5N1AT2MV0JC833869",
-    "stock": "25725A",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV0JC833869&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "93,110 Miles"
   }
 ]
