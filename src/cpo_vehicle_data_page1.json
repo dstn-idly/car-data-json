@@ -46,21 +46,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Sentra SV",
-    "vin": "3N1AB8CVXNY222470",
-    "stock": "P13387",
-    "exterior": "Fresh Powder",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXNY222470&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd942c8932c14c84bf779b02c372ebec.jpg",
-    "price": "$19,225",
-    "sutherlins_price": "$13,849",
-    "mileage": "48,009 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV1NN367441",
     "stock": "P13238",
@@ -196,21 +181,6 @@
   },
   {
     "category": "cpo",
-    "name": "2018 Nissan Rogue Sport S",
-    "vin": "JN1BJ1CR2JW250525",
-    "stock": "P13445",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
-    "price": "$15,995",
-    "sutherlins_price": "$15,995",
-    "mileage": "63,606 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Rogue Sport SV",
     "vin": "JN1BJ1BW0NW489987",
     "stock": "P13333",
@@ -223,6 +193,21 @@
     "price": "$25,025",
     "sutherlins_price": "$15,995",
     "mileage": "45,083 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2018 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CR2JW250525",
+    "stock": "P13445",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "63,606 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +463,20 @@
     "price": "$20,925",
     "sutherlins_price": "$18,988",
     "mileage": "29,635 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA7PC817379",
+    "stock": "26222A",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7PC817379&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45c7f383b2574af5875c4ed846984d27.jpg",
+    "price": "$21,625",
+    "sutherlins_price": "$18,995",
+    "mileage": "40,985 Miles"
   }
 ]
