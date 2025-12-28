@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Spark LT",
-    "vin": "KL8CD6SA8LC415427",
-    "stock": "P13302B",
-    "exterior": "Silver Ice",
-    "interior": "Jet Black/Dark Anderson Silver Metallic",
-    "engine": "Gas I4 1.4L/85",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CD6SA8LC415427&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870f7861de0a45fcb033a86ec3d49b76.jpg",
-    "price": "$11,400",
-    "sutherlins_price": "$9,995",
-    "mileage": "69,950 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Volkswagen Tiguan S",
     "vin": "WVGAV7AX6FW597490",
     "stock": "26284A",
@@ -238,6 +223,21 @@
     "price": "$11,225",
     "sutherlins_price": "$9,995",
     "mileage": "103,113 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Spark LT",
+    "vin": "KL8CD6SA8LC415427",
+    "stock": "P13302B",
+    "exterior": "Silver Ice",
+    "interior": "Jet Black/Dark Anderson Silver Metallic",
+    "engine": "Gas I4 1.4L/85",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CD6SA8LC415427&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870f7861de0a45fcb033a86ec3d49b76.jpg",
+    "price": "$11,400",
+    "sutherlins_price": "$9,995",
+    "mileage": "69,950 Miles"
   },
   {
     "category": "used",
@@ -421,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue Sport S",
-    "vin": "JN1BJ1CP7KW218248",
-    "stock": "26105B",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7KW218248&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d149aaf48b024535963afaf4f907a5a0.jpg",
-    "price": "$12,300",
-    "sutherlins_price": "$11,995",
-    "mileage": "80,427 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Hyundai Tucson Limited",
     "vin": "KM8J33A27GU200580",
     "stock": "26328A",
@@ -448,6 +433,21 @@
     "price": "$13,758",
     "sutherlins_price": "$11,995",
     "mileage": "136,650 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CP7KW218248",
+    "stock": "26105B",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7KW218248&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d149aaf48b024535963afaf4f907a5a0.jpg",
+    "price": "$12,300",
+    "sutherlins_price": "$11,995",
+    "mileage": "80,427 Miles"
   },
   {
     "category": "used",
@@ -526,21 +526,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan LEAF SV PLUS",
-    "vin": "1N4BZ1CV9MC555521",
-    "stock": "26151B",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3fae3f9bcdc484ba565115b190ac9b3.jpg",
-    "price": "$155,757",
-    "sutherlins_price": "$13,988",
-    "mileage": "39,702 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Ford EcoSport Titanium",
     "vin": "MAJ6P1WL8JC219324",
     "stock": "P13429",
@@ -553,6 +538,21 @@
     "price": "$15,075",
     "sutherlins_price": "$13,988",
     "mileage": "56,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan LEAF SV PLUS",
+    "vin": "1N4BZ1CV9MC555521",
+    "stock": "26151B",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3fae3f9bcdc484ba565115b190ac9b3.jpg",
+    "price": "$155,757",
+    "sutherlins_price": "$13,988",
+    "mileage": "39,702 Miles"
   },
   {
     "category": "used",
@@ -901,21 +901,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue Sport S",
-    "vin": "JN1BJ1CR2JW250525",
-    "stock": "P13445",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
-    "price": "$15,995",
-    "sutherlins_price": "$15,995",
-    "mileage": "63,606 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue Sport SV",
     "vin": "JN1BJ1BW0NW489987",
     "stock": "P13333",
@@ -928,6 +913,21 @@
     "price": "$25,025",
     "sutherlins_price": "$15,995",
     "mileage": "45,083 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CR2JW250525",
+    "stock": "P13445",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "63,606 Miles"
   },
   {
     "category": "used",
@@ -976,21 +976,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Murano SL",
-    "vin": "5N1AZ2CS1LN113526",
-    "stock": "P13335",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Cashmere",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
-    "price": "$21,298",
-    "sutherlins_price": "$16,498",
-    "mileage": "84,663 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue SL",
     "vin": "5N1AT2MT4KC801071",
     "stock": "P13440",
@@ -1003,6 +988,21 @@
     "price": "$17,325",
     "sutherlins_price": "$16,498",
     "mileage": "69,348 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Murano SL",
+    "vin": "5N1AZ2CS1LN113526",
+    "stock": "P13335",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Cashmere",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
+    "price": "$21,298",
+    "sutherlins_price": "$16,498",
+    "mileage": "84,663 Miles"
   },
   {
     "category": "used",
@@ -2161,21 +2161,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Armada SL",
-    "vin": "JN8AY2NC9LX519513",
-    "stock": "P13413",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2NC9LX519513&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae8a8eb8b99b4b3dbd76e6dc6b010385.jpg",
-    "price": "$31,725",
-    "sutherlins_price": "$26,995",
-    "mileage": "51,195 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA5RC211362",
     "stock": "250025A",
@@ -2188,6 +2173,21 @@
     "price": "$33,075",
     "sutherlins_price": "$26,995",
     "mileage": "11,726 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Armada SL",
+    "vin": "JN8AY2NC9LX519513",
+    "stock": "P13413",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2NC9LX519513&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae8a8eb8b99b4b3dbd76e6dc6b010385.jpg",
+    "price": "$31,725",
+    "sutherlins_price": "$26,995",
+    "mileage": "51,195 Miles"
   },
   {
     "category": "used",
