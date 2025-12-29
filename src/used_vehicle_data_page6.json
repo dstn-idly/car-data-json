@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Titan SV",
-    "vin": "1N6AA1E65JN550803",
-    "stock": "P13419A",
-    "exterior": "Brilliant Silver",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1E65JN550803&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIT13_640/2018NIT130065_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "99,136 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Rogue SV",
     "vin": "5N1AT2MV0JC833869",
     "stock": "25725A",
@@ -208,5 +193,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "93,110 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Titan SV",
+    "vin": "1N6AA1E65JN550803",
+    "stock": "P13419A",
+    "exterior": "Brilliant Silver",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1E65JN550803&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIT13_640/2018NIT130065_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "99,136 Miles"
   }
 ]
