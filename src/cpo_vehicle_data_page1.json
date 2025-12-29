@@ -316,21 +316,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AB1PC675717",
-    "stock": "25324A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB1PC675717&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/31965be308044eb1baa6f8295a52a81a.jpg",
-    "price": "$23,850",
-    "sutherlins_price": "$17,538",
-    "mileage": "39,820 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV8PY242265",
     "stock": "P13336",
@@ -478,5 +463,20 @@
     "price": "$21,625",
     "sutherlins_price": "$18,995",
     "mileage": "40,985 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA6PC762289",
+    "stock": "26209A",
+    "exterior": "Super Black",
+    "interior": "Light Gray",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC762289&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9d861fb242464ed1b1f94f206ac04ca3.jpg",
+    "price": "$23,575",
+    "sutherlins_price": "$18,995",
+    "mileage": "47,592 Miles"
   }
 ]

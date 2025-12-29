@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Ford F-150 XL",
-    "vin": "1FTEW1E54KFD34689",
-    "stock": "P13473",
-    "exterior": "Oxford White",
-    "interior": "Gray",
-    "engine": "Regular Unleaded V8 5.0 L",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E54KFD34689&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019FOT11_640/2019FOT110129_640_01.jpg",
-    "price": "$27,325",
-    "sutherlins_price": "$24,598",
-    "mileage": "86,668 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Ford F-150 XLT",
     "vin": "1FTEW1E44LFB00867",
     "stock": "P13410",
@@ -43,6 +28,21 @@
     "price": "$31,100",
     "sutherlins_price": "$24,859",
     "mileage": "18,654 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Toyota Highlander",
+    "vin": "5TDDZRFH9KS729672",
+    "stock": "250081A",
+    "exterior": "Silver",
+    "interior": "Ash",
+    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDDZRFH9KS729672&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOS14_640/2019TOS140016_640_01.jpg",
+    "price": "$24,898",
+    "sutherlins_price": "$24,898",
+    "mileage": "89,951 Miles"
   },
   {
     "category": "used",
@@ -100,7 +100,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2ND3L9109061&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS10_640/2020NIS100068_640_01.jpg",
-    "price": "$25,898",
+    "price": "$25,375",
     "sutherlins_price": "$25,898",
     "mileage": "72,154 Miles"
   },
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chrysler Pacifica Touring",
-    "vin": "2C4RC1FG5RR110408",
-    "stock": "P13390",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
-    "price": "$32,225",
-    "sutherlins_price": "$28,988",
-    "mileage": "29,206 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Audi A5 Cabriolet Premium Plus",
     "vin": "WAUYNGF50KN000969",
     "stock": "25962B",
@@ -403,6 +388,21 @@
     "price": "$33,150",
     "sutherlins_price": "$28,988",
     "mileage": "36,711 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chrysler Pacifica Touring",
+    "vin": "2C4RC1FG5RR110408",
+    "stock": "P13390",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$28,988",
+    "mileage": "29,206 Miles"
   },
   {
     "category": "used",
