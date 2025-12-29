@@ -226,18 +226,18 @@
   },
   {
     "category": "used",
-    "name": "2019 Buick Encore Preferred",
-    "vin": "KL4CJASB6KB743407",
-    "stock": "T25931B",
-    "exterior": "Summit White",
-    "interior": "Ebony",
-    "engine": "Turbocharged I4 1.4/83",
+    "name": "2020 Chevrolet Spark LT",
+    "vin": "KL8CD6SA8LC415427",
+    "stock": "P13302B",
+    "exterior": "Silver Ice",
+    "interior": "Jet Black/Dark Anderson Silver Metallic",
+    "engine": "Gas I4 1.4L/85",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJASB6KB743407&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4348e89ebed2455a93566ca06c08f8e3.jpg",
-    "price": "$11,225",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CD6SA8LC415427&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870f7861de0a45fcb033a86ec3d49b76.jpg",
+    "price": "$11,400",
     "sutherlins_price": "$9,995",
-    "mileage": "103,113 Miles"
+    "mileage": "69,950 Miles"
   },
   {
     "category": "used",
@@ -256,18 +256,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Spark LT",
-    "vin": "KL8CD6SA8LC415427",
-    "stock": "P13302B",
-    "exterior": "Silver Ice",
-    "interior": "Jet Black/Dark Anderson Silver Metallic",
-    "engine": "Gas I4 1.4L/85",
+    "name": "2019 Buick Encore Preferred",
+    "vin": "KL4CJASB6KB743407",
+    "stock": "T25931B",
+    "exterior": "Summit White",
+    "interior": "Ebony",
+    "engine": "Turbocharged I4 1.4/83",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CD6SA8LC415427&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870f7861de0a45fcb033a86ec3d49b76.jpg",
-    "price": "$11,400",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJASB6KB743407&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4348e89ebed2455a93566ca06c08f8e3.jpg",
+    "price": "$11,225",
     "sutherlins_price": "$9,995",
-    "mileage": "69,950 Miles"
+    "mileage": "103,113 Miles"
   },
   {
     "category": "used",
@@ -358,21 +358,6 @@
     "price": "$14,000",
     "sutherlins_price": "$11,898",
     "mileage": "63,894 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Rogue SV",
-    "vin": "JN8AT2MT3KW501934",
-    "stock": "P13417",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW501934&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d4c8d17cbdbd426da8632889a6da9eb0.jpg",
-    "price": "$17,550",
-    "sutherlins_price": "$13,806",
-    "mileage": "74,333 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$19,300",
     "sutherlins_price": "$13,431",
     "mileage": "43,277 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue SV",
+    "vin": "JN8AT2MT3KW501934",
+    "stock": "P13417",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW501934&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d4c8d17cbdbd426da8632889a6da9eb0.jpg",
+    "price": "$17,550",
+    "sutherlins_price": "$13,806",
+    "mileage": "74,333 Miles"
   }
 ]
