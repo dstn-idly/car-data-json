@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Spark LT",
-    "vin": "KL8CD6SA8LC415427",
-    "stock": "P13302B",
-    "exterior": "Silver Ice",
-    "interior": "Jet Black/Dark Anderson Silver Metallic",
-    "engine": "Gas I4 1.4L/85",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CD6SA8LC415427&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870f7861de0a45fcb033a86ec3d49b76.jpg",
-    "price": "$11,400",
-    "sutherlins_price": "$9,995",
-    "mileage": "69,950 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Volkswagen Tiguan S",
     "vin": "WVGAV7AX6FW597490",
     "stock": "26284A",
@@ -298,6 +283,21 @@
     "price": "$11,225",
     "sutherlins_price": "$9,995",
     "mileage": "103,113 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Spark LT",
+    "vin": "KL8CD6SA8LC415427",
+    "stock": "P13302B",
+    "exterior": "Silver Ice",
+    "interior": "Jet Black/Dark Anderson Silver Metallic",
+    "engine": "Gas I4 1.4L/85",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL8CD6SA8LC415427&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870f7861de0a45fcb033a86ec3d49b76.jpg",
+    "price": "$11,400",
+    "sutherlins_price": "$9,995",
+    "mileage": "69,950 Miles"
   },
   {
     "category": "used",
@@ -961,6 +961,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Murano SL",
+    "vin": "5N1AZ2CS1LN113526",
+    "stock": "P13335",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Cashmere",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
+    "price": "$21,298",
+    "sutherlins_price": "$16,498",
+    "mileage": "84,663 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV0PN349465",
     "stock": "P13311",
@@ -1471,21 +1486,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Wrangler Sport",
-    "vin": "1C4GJXAG8JW271743",
-    "stock": "P13392",
-    "exterior": "Mojito! Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
-    "price": "$26,250",
-    "sutherlins_price": "$19,988",
-    "mileage": "44,202 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Ford Escape Active",
     "vin": "1FMCU0GN2SUA82016",
     "stock": "P13353",
@@ -1516,18 +1516,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA0NC724506",
-    "stock": "P13467",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0NC724506&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
-    "price": "$21,025",
-    "sutherlins_price": "$19,995",
-    "mileage": "66,718 Miles"
+    "name": "2018 Jeep Wrangler Sport",
+    "vin": "1C4GJXAG8JW271743",
+    "stock": "P13392",
+    "exterior": "Mojito! Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
+    "price": "$26,250",
+    "sutherlins_price": "$19,988",
+    "mileage": "44,202 Miles"
   },
   {
     "category": "used",
@@ -1558,6 +1558,21 @@
     "price": "$23,075",
     "sutherlins_price": "$19,995",
     "mileage": "88,610 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA0NC724506",
+    "stock": "P13467",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0NC724506&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "price": "$21,025",
+    "sutherlins_price": "$19,995",
+    "mileage": "66,718 Miles"
   },
   {
     "category": "used",
@@ -1756,21 +1771,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Buick Encore GX Essence",
-    "vin": "KL4MMFSLXNB015174",
-    "stock": "26267A",
-    "exterior": "Sapphire Metallic",
-    "interior": "Ebony with Ebony interior accents",
-    "engine": "Turbocharged 1.3/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4MMFSLXNB015174&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d77e1a4d7ba4fac9b431d7c245c0d42.jpg",
-    "price": "$23,725",
-    "sutherlins_price": "$21,988",
-    "mileage": "27,899 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV4SL475321",
     "stock": "P13469",
@@ -1783,6 +1783,21 @@
     "price": "$22,225",
     "sutherlins_price": "$21,988",
     "mileage": "3,877 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Buick Encore GX Essence",
+    "vin": "KL4MMFSLXNB015174",
+    "stock": "26267A",
+    "exterior": "Sapphire Metallic",
+    "interior": "Ebony with Ebony interior accents",
+    "engine": "Turbocharged 1.3/",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4MMFSLXNB015174&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d77e1a4d7ba4fac9b431d7c245c0d42.jpg",
+    "price": "$23,725",
+    "sutherlins_price": "$21,988",
+    "mileage": "27,899 Miles"
   },
   {
     "category": "used",
@@ -2131,21 +2146,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Armada SL",
-    "vin": "JN8AY2NC9LX519513",
-    "stock": "P13413",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2NC9LX519513&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae8a8eb8b99b4b3dbd76e6dc6b010385.jpg",
-    "price": "$31,725",
-    "sutherlins_price": "$26,995",
-    "mileage": "51,195 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA5RC211362",
     "stock": "250025A",
@@ -2158,6 +2158,21 @@
     "price": "$33,075",
     "sutherlins_price": "$26,995",
     "mileage": "11,726 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Armada SL",
+    "vin": "JN8AY2NC9LX519513",
+    "stock": "P13413",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2NC9LX519513&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae8a8eb8b99b4b3dbd76e6dc6b010385.jpg",
+    "price": "$31,725",
+    "sutherlins_price": "$26,995",
+    "mileage": "51,195 Miles"
   },
   {
     "category": "used",
