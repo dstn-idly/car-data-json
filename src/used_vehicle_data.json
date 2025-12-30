@@ -205,7 +205,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP7KL606682&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC06_640/2019NIC060048_640_01.jpg",
-    "price": "$9,898",
+    "price": "$13,813",
     "sutherlins_price": "$9,898",
     "mileage": "44,186 Miles"
   },
@@ -235,7 +235,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP9HN366598&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC040001_640/2017NIC040001_640_01.jpg",
-    "price": "$9,989",
+    "price": "$11,075",
     "sutherlins_price": "$9,989",
     "mileage": "103,688 Miles"
   },
@@ -871,21 +871,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue Sport S",
-    "vin": "JN1BJ1CR2JW250525",
-    "stock": "P13445",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
-    "price": "$15,995",
-    "sutherlins_price": "$15,995",
-    "mileage": "63,606 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue Sport SV",
     "vin": "JN1BJ1BW0NW489987",
     "stock": "P13333",
@@ -898,6 +883,21 @@
     "price": "$25,025",
     "sutherlins_price": "$15,995",
     "mileage": "45,083 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CR2JW250525",
+    "stock": "P13445",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "63,606 Miles"
   },
   {
     "category": "used",
@@ -1111,6 +1111,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Kicks S",
+    "vin": "3N1CP5BV1PL526443",
+    "stock": "26242A",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1PL526443&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260029_640_01.jpg",
+    "price": "$18,425",
+    "sutherlins_price": "$17,898",
+    "mileage": "24,680 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV8PY242265",
     "stock": "P13336",
@@ -1123,21 +1138,6 @@
     "price": "$22,475",
     "sutherlins_price": "$17,898",
     "mileage": "35,923 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks S",
-    "vin": "3N1CP5BV1PL526443",
-    "stock": "26242A",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1PL526443&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260029_640_01.jpg",
-    "price": "$17,898",
-    "sutherlins_price": "$17,898",
-    "mileage": "24,680 Miles"
   },
   {
     "category": "used",
@@ -1486,21 +1486,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Jeep Wrangler Sport",
-    "vin": "1C4GJXAG8JW271743",
-    "stock": "P13392",
-    "exterior": "Mojito! Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
-    "price": "$26,250",
-    "sutherlins_price": "$19,988",
-    "mileage": "44,202 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Ford Escape Active",
     "vin": "1FMCU0GN2SUA82016",
     "stock": "P13353",
@@ -1528,6 +1513,21 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "78,016 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Jeep Wrangler Sport",
+    "vin": "1C4GJXAG8JW271743",
+    "stock": "P13392",
+    "exterior": "Mojito! Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
+    "price": "$26,250",
+    "sutherlins_price": "$19,988",
+    "mileage": "44,202 Miles"
   },
   {
     "category": "used",
@@ -1750,7 +1750,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC750046&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
-    "price": "$21,898",
+    "price": "$25,625",
     "sutherlins_price": "$21,898",
     "mileage": "18,749 Miles"
   },
@@ -1951,7 +1951,7 @@
   },
   {
     "category": "used",
-    "name": "2019 Toyota Highlander",
+    "name": "2019 Toyota Highlander Limited",
     "vin": "5TDDZRFH9KS729672",
     "stock": "250081A",
     "exterior": "Silver",
@@ -1960,7 +1960,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDDZRFH9KS729672&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOS14_640/2019TOS140016_640_01.jpg",
-    "price": "$24,898",
+    "price": "$28,275",
     "sutherlins_price": "$24,898",
     "mileage": "89,951 Miles"
   },
@@ -2608,35 +2608,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2008 Dodge Caliber SE",
-    "vin": "1B3HB28B48D585685",
-    "stock": "25419A",
-    "exterior": "Brilliant Black Crystal Prl",
-    "interior": "Dark Slate Gray",
-    "engine": "Gas I4 2.0L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1B3HB28B48D585685&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008DOD002a_640/2008DOD002a_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
-    "name": "2008 Kia Amanti Base",
-    "vin": "KNALD125785167841",
-    "stock": "25324B",
-    "exterior": "Pewter Beige",
-    "interior": "Beige",
-    "engine": "Gas V6 3.8L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNALD125785167841&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008KIA001a_640/2008KIA001a_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "104,143 Miles"
   }
 ]
