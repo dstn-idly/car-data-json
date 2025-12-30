@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Rogue SL",
+    "vin": "5N1AT2MT4KC801071",
+    "stock": "P13440",
+    "exterior": "Gun Metallic",
+    "interior": "Platinum",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT4KC801071&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c577437ad7864d599cc1feb0f0854cc8.jpg",
+    "price": "$17,325",
+    "sutherlins_price": "$16,498",
+    "mileage": "69,348 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV0PN349465",
     "stock": "P13311",
@@ -43,21 +58,6 @@
     "price": "$21,975",
     "sutherlins_price": "$16,698",
     "mileage": "40,411 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8PN387932",
-    "stock": "P13281",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8PN387932&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e59eabea3bc3425192da237538b0147f.jpg",
-    "price": "$22,675",
-    "sutherlins_price": "$16,988",
-    "mileage": "54,287 Miles"
   },
   {
     "category": "used",
@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Dodge Challenger SXT Plus",
-    "vin": "2C3CDZAG8JH146584",
-    "stock": "26309B",
-    "exterior": "Octane Red Pearlcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZAG8JH146584&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e37cbcca64944aa6a23624986e4f0573.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$17,995",
-    "mileage": "59,135 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AA3PC807321",
     "stock": "250006A",
@@ -331,18 +316,18 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan LEAF SV PLUS",
-    "vin": "1N4CZ1CV4SC559994",
-    "stock": "P13420A",
-    "exterior": "Super Black/Pearl White",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4CZ1CV4SC559994&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ea0981133f21403da456c49abfc5f564.jpg",
-    "price": "$20,250",
+    "name": "2024 Nissan Rogue S",
+    "vin": "5N1BT3AAXRC738596",
+    "stock": "26344A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AAXRC738596&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982523_640_01.jpg",
+    "price": "$18,988",
     "sutherlins_price": "$18,988",
-    "mileage": "6,602 Miles"
+    "mileage": "27,610 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$25,300",
     "sutherlins_price": "$19,895",
     "mileage": "25,098 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA0PC792839",
+    "stock": "26254A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0PC792839&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "price": "$22,425",
+    "sutherlins_price": "$19,898",
+    "mileage": "59,285 Miles"
   }
 ]
