@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV4NN307184",
-    "stock": "T26157A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "111,238 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan ARIYA ENGAGE+",
     "vin": "JN1DF0BB4PM701550",
     "stock": "P13346",
@@ -28,6 +13,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV4NN307184",
+    "stock": "T26157A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "111,238 Miles"
   },
   {
     "category": "used",
@@ -106,6 +106,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLM4AG6PU597481",
+    "stock": "25150A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYC02_640/2023HYC020026_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA7RW351428",
     "stock": "26270A",
@@ -148,20 +163,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "77,845 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLM4AG6PU597481",
-    "stock": "25150A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYC02_640/2023HYC020026_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
   }
 ]
