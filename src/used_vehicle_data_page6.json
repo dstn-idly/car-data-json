@@ -121,36 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLM4AG6PU597481",
-    "stock": "25150A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYC02_640/2023HYC020026_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
-    "name": "2008 GMC Yukon SLT with 4SB",
-    "vin": "1GKFK13088R178319",
-    "stock": "26306B",
-    "exterior": "Summit White",
-    "interior": "Light tan",
-    "engine": "Gas/Ethanol V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKFK13088R178319&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008GMC008a_640/2008GMC008a_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "243,458 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Kicks SV",
     "vin": "3N1CP5CU0JL506701",
     "stock": "26049A",
@@ -178,5 +148,35 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "41,924 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLM4AG6PU597481",
+    "stock": "25150A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYC02_640/2023HYC020026_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2008 GMC Yukon SLT with 4SB",
+    "vin": "1GKFK13088R178319",
+    "stock": "26306B",
+    "exterior": "Summit White",
+    "interior": "Light tan",
+    "engine": "Gas/Ethanol V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKFK13088R178319&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008GMC008a_640/2008GMC008a_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "243,458 Miles"
   }
 ]
