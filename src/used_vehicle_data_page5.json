@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Chevrolet Tahoe Premier",
-    "vin": "1GNSCCKC7JR341831",
-    "stock": "26282A",
-    "exterior": "Black",
-    "interior": "Cocoa/Mahogany",
-    "engine": "Gas/Ethanol V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCCKC7JR341831&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edff9aa303c047b2ab8410a5e4e58dfd.jpg",
-    "price": "$26,988",
-    "sutherlins_price": "$26,988",
-    "mileage": "85,728 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chrysler Pacifica Touring",
     "vin": "2C4RC1FG5RR110408",
     "stock": "P13390",
@@ -88,6 +73,21 @@
     "price": "$32,225",
     "sutherlins_price": "$26,988",
     "mileage": "29,206 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Chevrolet Tahoe Premier",
+    "vin": "1GNSCCKC7JR341831",
+    "stock": "26282A",
+    "exterior": "Black",
+    "interior": "Cocoa/Mahogany",
+    "engine": "Gas/Ethanol V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCCKC7JR341831&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edff9aa303c047b2ab8410a5e4e58dfd.jpg",
+    "price": "$26,988",
+    "sutherlins_price": "$26,988",
+    "mileage": "85,728 Miles"
   },
   {
     "category": "used",
@@ -436,6 +436,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV4NN307184",
+    "stock": "T26157A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "111,238 Miles"
+  },
+  {
+    "category": "used",
     "name": "2007 Toyota Camry",
     "vin": "JTNBE46K773003895",
     "stock": "P13265B",
@@ -463,20 +478,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV4NN307184",
-    "stock": "T26157A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "111,238 Miles"
   }
 ]
