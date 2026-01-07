@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Armada SL",
+    "vin": "JN8AY2NC9LX519513",
+    "stock": "P13413",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2NC9LX519513&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae8a8eb8b99b4b3dbd76e6dc6b010385.jpg",
+    "price": "$31,725",
+    "sutherlins_price": "$25,988",
+    "mileage": "51,195 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Chevrolet Blazer RS",
+    "vin": "3GNKBERS3NS216436",
+    "stock": "P13476",
+    "exterior": "Black",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBERS3NS216436&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d0c8220dd9734c8b98889d0dd1a89cd8.jpg",
+    "price": "$30,100",
+    "sutherlins_price": "$25,988",
+    "mileage": "37,528 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Audi A5 Cabriolet Premium Plus",
     "vin": "WAUYNGF50KN000969",
     "stock": "25962B",
@@ -84,25 +114,10 @@
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC202515&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071936156_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a22c19fa4184ef89a76e94311119b20.jpg",
     "price": "$28,375",
     "sutherlins_price": "$26,898",
     "mileage": "42,215 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Chrysler Pacifica Touring",
-    "vin": "2C4RC1FG5RR110408",
-    "stock": "P13390",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
-    "price": "$32,225",
-    "sutherlins_price": "$26,988",
-    "mileage": "29,206 Miles"
   },
   {
     "category": "used",
@@ -118,6 +133,21 @@
     "price": "$26,988",
     "sutherlins_price": "$26,988",
     "mileage": "85,728 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chrysler Pacifica Touring",
+    "vin": "2C4RC1FG5RR110408",
+    "stock": "P13390",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$26,988",
+    "mileage": "29,206 Miles"
   },
   {
     "category": "used",
@@ -181,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Genesis G70 2.0T",
-    "vin": "KMTG34TAXNU089661",
-    "stock": "P13409",
-    "exterior": "Vik Black",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXNU089661&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48b40074782249268548107f5d98788b.jpg",
-    "price": "$30,925",
-    "sutherlins_price": "$27,988",
-    "mileage": "39,415 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue Platinum",
     "vin": "JN8BT3DC9PW105279",
     "stock": "P13426",
@@ -208,6 +223,21 @@
     "price": "$29,400",
     "sutherlins_price": "$27,988",
     "mileage": "32,018 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Genesis G70 2.0T",
+    "vin": "KMTG34TAXNU089661",
+    "stock": "P13409",
+    "exterior": "Vik Black",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXNU089661&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48b40074782249268548107f5d98788b.jpg",
+    "price": "$30,925",
+    "sutherlins_price": "$27,988",
+    "mileage": "39,415 Miles"
   },
   {
     "category": "used",
@@ -346,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Frontier PRO-4X",
+    "vin": "1N6ED1EK6PN666087",
+    "stock": "26253A",
+    "exterior": "Baja Storm",
+    "interior": "Charcoal w/Lava Red",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK6PN666087&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/963337478d5c43da8f80356051ad0eb7.jpg",
+    "price": "$34,988",
+    "sutherlins_price": "$34,988",
+    "mileage": "19,081 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Chevrolet Silverado 1500 Custom",
     "vin": "1GCRABEK5SZ248981",
     "stock": "26061B",
@@ -421,21 +466,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Armada SL",
-    "vin": "JN8AY2BA9M9372778",
-    "stock": "P13451A",
-    "exterior": "Aspen White Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA9M9372778&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS10_640/2021NIS100063_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "76,931 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan ARIYA ENGAGE+",
     "vin": "JN1DF0BB4PM701550",
     "stock": "P13346",
@@ -448,35 +478,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Rogue SV",
-    "vin": "5N1AT2MV9LC724572",
-    "stock": "250005A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV9LC724572&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS11_640/2020NIS110034_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "104,119 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CW8PN334075",
-    "stock": "26337A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CW8PN334075&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040087_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "35,400 Miles"
   }
 ]
