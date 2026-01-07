@@ -331,6 +331,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST6PF136973",
+    "stock": "P13490",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6PF136973&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHC11_640/2023CHC110038_640_01.jpg",
+    "price": "$15,798",
+    "sutherlins_price": "$15,798",
+    "mileage": "69,902 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra S",
     "vin": "3N1AB8BV2RY335840",
     "stock": "P13428",
@@ -354,7 +369,7 @@
     "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTHBA1D28H5054117&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e131b614b0bd476ba7800027144b8437.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/705a404dd46b40c3aa675dadca619690.jpg",
     "price": "$15,898",
     "sutherlins_price": "$15,898",
     "mileage": "120,826 Miles"
@@ -429,7 +444,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BB0MC787611&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0f062a8c1f4461cbd8402244619f086.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3359dcff27874c01bd679ddfaa525e24.jpg",
     "price": "$18,150",
     "sutherlins_price": "$16,498",
     "mileage": "96,911 Miles"
@@ -463,20 +478,5 @@
     "price": "$20,275",
     "sutherlins_price": "$17,749",
     "mileage": "11,425 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra S",
-    "vin": "3N1AB8BV7RY358756",
-    "stock": "P13328",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
-    "price": "$21,250",
-    "sutherlins_price": "$17,988",
-    "mileage": "10,325 Miles"
   }
 ]
