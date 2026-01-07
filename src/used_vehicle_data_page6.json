@@ -241,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Mitsubishi Outlander SE Black Edition",
-    "vin": "JA4J4UA84PZ017033",
-    "stock": "MP039",
-    "exterior": "Mercury Gray Metallic/Black Roof",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA84PZ017033&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023MIS03_640/2023MIS030031_640_01.jpg",
-    "price": "$32,445",
-    "sutherlins_price": "$21,888",
-    "mileage": "53,213 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mitsubishi Outlander Sport ES",
     "vin": "JA4ARUAU8SU014544",
     "stock": "MP008",
@@ -478,5 +463,20 @@
     "price": "$32,999",
     "sutherlins_price": "$28,888",
     "mileage": "5,089 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "MP049",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071936156_640_01.jpg",
+    "price": "$28,888",
+    "sutherlins_price": "$28,888",
+    "mileage": "22,521 Miles"
   }
 ]

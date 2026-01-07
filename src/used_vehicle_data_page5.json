@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2019 Audi A5 Cabriolet Premium Plus",
+    "vin": "WAUYNGF50KN000969",
+    "stock": "25962B",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Gray",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUYNGF50KN000969&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4af57afdd7fa4518897ce0bbdfa42b91.jpg",
+    "price": "$33,150",
+    "sutherlins_price": "$25,988",
+    "mileage": "36,711 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder S",
+    "vin": "5N1DR3AA9RC238744",
+    "stock": "26281A",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3AA9RC238744&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7620ad18c85b4bb8937b903d2fbee0fc.jpg",
+    "price": "$28,725",
+    "sutherlins_price": "$25,988",
+    "mileage": "26,266 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BAXRC236466",
     "stock": "26103A",
@@ -61,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chrysler Pacifica Touring",
-    "vin": "2C4RC1FG5RR110408",
-    "stock": "P13390",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
-    "price": "$32,225",
-    "sutherlins_price": "$26,988",
-    "mileage": "29,206 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Chevrolet Tahoe Premier",
     "vin": "1GNSCCKC7JR341831",
     "stock": "26282A",
@@ -88,6 +103,21 @@
     "price": "$26,988",
     "sutherlins_price": "$26,988",
     "mileage": "85,728 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chrysler Pacifica Touring",
+    "vin": "2C4RC1FG5RR110408",
+    "stock": "P13390",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$26,988",
+    "mileage": "29,206 Miles"
   },
   {
     "category": "used",
@@ -418,36 +448,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,594 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2011 Mercedes-Benz E-Class E 550",
-    "vin": "WDDHF9ABXBA395944",
-    "stock": "26123A",
-    "exterior": "Gray",
-    "interior": "N/A",
-    "engine": "Gas V8 5.5L/333",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WDDHF9ABXBA395944&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14357.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "108,329 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BB0MC787611",
-    "stock": "26335A",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BB0MC787611&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "96,911 Miles"
   },
   {
     "category": "used",
