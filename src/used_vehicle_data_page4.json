@@ -11,23 +11,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
     "price": "$27,975",
-    "sutherlins_price": "$19,995",
+    "sutherlins_price": "$19,671",
     "mileage": "26,782 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA7RW351428",
-    "stock": "26270A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA7RW351428&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/917d4e4f5f674500bf3b9d89f441030e.jpg",
-    "price": "$22,625",
-    "sutherlins_price": "$19,898",
-    "mileage": "41,924 Miles"
   },
   {
     "category": "used",
@@ -43,6 +28,21 @@
     "price": "$19,898",
     "sutherlins_price": "$19,898",
     "mileage": "30,416 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "JN8BT3BA7RW351428",
+    "stock": "26270A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA7RW351428&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/917d4e4f5f674500bf3b9d89f441030e.jpg",
+    "price": "$22,625",
+    "sutherlins_price": "$19,697",
+    "mileage": "41,924 Miles"
   },
   {
     "category": "used",
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
     "price": "$29,050",
-    "sutherlins_price": "$20,924",
+    "sutherlins_price": "$20,498",
     "mileage": "79,174 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK3RU873467&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/79130cabcd574d56a24136707ae52877.jpg",
     "price": "$28,125",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$20,574",
     "mileage": "29,927 Miles"
   },
   {
@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFS4MCE0RP185360&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/76c2f787f138408795364ccd9171e28c.jpg",
     "price": "$24,625",
-    "sutherlins_price": "$21,995",
+    "sutherlins_price": "$20,898",
     "mileage": "25,511 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC750046&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/efdbda3264264dd281641663488ca288.jpg",
     "price": "$25,625",
-    "sutherlins_price": "$21,898",
+    "sutherlins_price": "$21,789",
     "mileage": "18,749 Miles"
   },
   {
@@ -271,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Mitsubishi Outlander",
-    "vin": "JA4J4UA8XPZ010975",
-    "stock": "TT25551A",
-    "exterior": "Black",
-    "interior": "N/A",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA8XPZ010975&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2aab6bdb09764731b177f3aa9b28f38f.jpg",
-    "price": "$23,800",
-    "sutherlins_price": "$21,988",
-    "mileage": "45,898 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Honda Accord Sedan EX-L 1.5T",
     "vin": "1HGCV1F57KA010482",
     "stock": "P13371",
@@ -298,6 +283,21 @@
     "price": "$25,458",
     "sutherlins_price": "$21,988",
     "mileage": "50,928 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Mitsubishi Outlander",
+    "vin": "JA4J4UA8XPZ010975",
+    "stock": "TT25551A",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA8XPZ010975&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2aab6bdb09764731b177f3aa9b28f38f.jpg",
+    "price": "$23,800",
+    "sutherlins_price": "$21,988",
+    "mileage": "45,898 Miles"
   },
   {
     "category": "used",
@@ -356,7 +356,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/03e396fc6b31445999e46b37dbbf2174.jpg",
     "price": "$25,850",
-    "sutherlins_price": "$22,898",
+    "sutherlins_price": "$22,498",
     "mileage": "46,531 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EF2NN101360&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIT13_640/2022NIT130032_640_01.jpg",
     "price": "$29,625",
-    "sutherlins_price": "$21,988",
+    "sutherlins_price": "$22,498",
     "mileage": "93,298 Miles"
   },
   {
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2ND3L9109061&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f45e47524e64dd5bae38d3dfa15d1d2.jpg",
     "price": "$25,375",
-    "sutherlins_price": "$25,898",
+    "sutherlins_price": "$22,898",
     "mileage": "72,154 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1FK2NN616220&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/290bed37a3654f258f2006204e7c0bc4.jpg",
     "price": "$30,150",
-    "sutherlins_price": "$24,988",
+    "sutherlins_price": "$23,787",
     "mileage": "67,184 Miles"
   },
   {
@@ -446,7 +446,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA4SC864748&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b07b408f67ce44baae941e54eadd315f.jpg",
     "price": "$26,400",
-    "sutherlins_price": "$24,995",
+    "sutherlins_price": "$23,898",
     "mileage": "1,835 Miles"
   },
   {
@@ -461,7 +461,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1E44LFB00867&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/667fe9fbae9042d1ace3524e756b9ecd.jpg",
     "price": "$30,625",
-    "sutherlins_price": "$24,798",
+    "sutherlins_price": "$23,898",
     "mileage": "87,111 Miles"
   },
   {

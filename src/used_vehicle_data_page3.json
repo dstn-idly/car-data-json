@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV7RY358756&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/16b9d469b09842aba5f290967efaa479.jpg",
     "price": "$21,250",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,943",
     "mileage": "10,325 Miles"
   },
   {
@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD7NE458654&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d2e61da6e71a475dbe741245fceba41a.jpg",
     "price": "$21,000",
-    "sutherlins_price": "$17,474",
+    "sutherlins_price": "$16,995",
     "mileage": "30,899 Miles"
   },
   {
@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ec794304902644d7ae7320fe6b1e29f5.jpg",
     "price": "$18,725",
-    "sutherlins_price": "$17,398",
+    "sutherlins_price": "$16,898",
     "mileage": "111,238 Miles"
   },
   {
@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDS4MCE7NJ092642&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d645ba85070421d9e097bd089e41d4c.jpg",
     "price": "$21,875",
-    "sutherlins_price": "$17,498",
+    "sutherlins_price": "$17,420",
     "mileage": "48,367 Miles"
   },
   {
@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLM4AG6PU597481",
-    "stock": "25150A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e5360d5f59c74d379ff05b435beabfcb.jpg",
-    "price": "$18,800",
-    "sutherlins_price": "$17,498",
-    "mileage": "53,501 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV8PY242265",
     "stock": "P13336",
@@ -116,23 +101,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV8PY242265&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0a19b9ec3d5486a910ab423e0a74fb3.jpg",
     "price": "$22,475",
-    "sutherlins_price": "$17,898",
+    "sutherlins_price": "$17,498",
     "mileage": "35,923 Miles"
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV2NY289837",
-    "stock": "P13305",
-    "exterior": "Electric Blue Metallic/Super Black",
-    "interior": "Sport",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLM4AG6PU597481",
+    "stock": "25150A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$17,988",
-    "mileage": "13,492 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e5360d5f59c74d379ff05b435beabfcb.jpg",
+    "price": "$18,800",
+    "sutherlins_price": "$14,598",
+    "mileage": "53,501 Miles"
   },
   {
     "category": "used",
@@ -146,8 +131,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXNC678571&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
     "price": "$21,775",
-    "sutherlins_price": "$17,598",
+    "sutherlins_price": "$15,613",
     "mileage": "64,331 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV2NY289837",
+    "stock": "P13305",
+    "exterior": "Electric Blue Metallic/Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY289837&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/45bd437786204552a403e645840d935b.jpg",
+    "price": "$23,200",
+    "sutherlins_price": "$17,598",
+    "mileage": "13,492 Miles"
   },
   {
     "category": "used",
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRX7B22NM037423&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0d144fc1abc3492e8b75356d4bbf00a7.jpg",
     "price": "$20,500",
-    "sutherlins_price": "$17,798",
+    "sutherlins_price": "$17,749",
     "mileage": "20,075 Miles"
   },
   {
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0PC792839&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bdaeff7dbeb448e3b255acb9da32275c.jpg",
     "price": "$22,425",
-    "sutherlins_price": "$19,898",
+    "sutherlins_price": "$17,898",
     "mileage": "59,285 Miles"
   },
   {
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7PC817379&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/45c7f383b2574af5875c4ed846984d27.jpg",
     "price": "$21,625",
-    "sutherlins_price": "$18,995",
+    "sutherlins_price": "$17,979",
     "mileage": "40,985 Miles"
   },
   {
@@ -266,7 +266,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0PN391053&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040026_640_01.jpg",
     "price": "$22,625",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$18,498",
     "mileage": "36,272 Miles"
   },
   {
@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCBKC6KR113699&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7a723829a56e442f99642085683496f0.jpg",
     "price": "$24,650",
-    "sutherlins_price": "$18,898",
+    "sutherlins_price": "$22,404",
     "mileage": "116,531 Miles"
   },
   {
@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA8PC832455&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/cb61b3180c7f4244bc65715b29557af8.jpg",
     "price": "$21,525",
-    "sutherlins_price": "$18,898",
+    "sutherlins_price": "$17,898",
     "mileage": "50,723 Miles"
   },
   {
@@ -326,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AAXRC738596&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/989c913fe12a4cadace7c2ea1fbfe3db.jpg",
     "price": "$23,000",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$18,898",
     "mileage": "27,610 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV3SL481238&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/caf446c166e041af8a0be9f66e92db48.jpg",
     "price": "$24,365",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "3,074 Miles"
   },
   {
@@ -401,7 +401,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV0NW352280&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/341f6f83f3a24ccb8568fe8d9e3b4a94.jpg",
     "price": "$26,025",
-    "sutherlins_price": "$18,994",
+    "sutherlins_price": "$16,898",
     "mileage": "39,374 Miles"
   },
   {
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXPC740246&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ad19119c49c444fd894d5046c094048f.jpg",
     "price": "$23,150",
-    "sutherlins_price": "$19,995",
+    "sutherlins_price": "$18,995",
     "mileage": "47,603 Miles"
   },
   {
