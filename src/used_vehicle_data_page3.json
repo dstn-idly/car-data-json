@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLM4AG6PU597481",
-    "stock": "25150A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/26b29813475b4d9ca699f0ce98fa4958.jpg",
-    "price": "$18,800",
-    "sutherlins_price": "$17,498",
-    "mileage": "53,501 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota Corolla SE",
     "vin": "JTDS4MCE7NJ092642",
     "stock": "P13418",
@@ -28,6 +13,21 @@
     "price": "$21,875",
     "sutherlins_price": "$17,498",
     "mileage": "48,367 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLM4AG6PU597481",
+    "stock": "25150A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLM4AG6PU597481&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/26b29813475b4d9ca699f0ce98fa4958.jpg",
+    "price": "$18,800",
+    "sutherlins_price": "$17,498",
+    "mileage": "53,501 Miles"
   },
   {
     "category": "used",
@@ -91,6 +91,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Sentra SR",
+    "vin": "3N1AB8DV8PY242265",
+    "stock": "P13336",
+    "exterior": "Gun Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV8PY242265&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0a19b9ec3d5486a910ab423e0a74fb3.jpg",
+    "price": "$22,475",
+    "sutherlins_price": "$17,898",
+    "mileage": "35,923 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Kicks S",
     "vin": "3N1CP5BV1PL526443",
     "stock": "26242A",
@@ -106,18 +121,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SR",
-    "vin": "3N1AB8DV8PY242265",
-    "stock": "P13336",
-    "exterior": "Gun Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV8PY242265&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e0a19b9ec3d5486a910ab423e0a74fb3.jpg",
-    "price": "$22,475",
-    "sutherlins_price": "$17,898",
-    "mileage": "35,923 Miles"
+    "name": "2018 Jeep Wrangler Sport",
+    "vin": "1C4GJXAG8JW271743",
+    "stock": "P13392",
+    "exterior": "Mojito! Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
+    "price": "$26,250",
+    "sutherlins_price": "$17,988",
+    "mileage": "44,202 Miles"
   },
   {
     "category": "used",
@@ -148,21 +163,6 @@
     "price": "$23,075",
     "sutherlins_price": "$17,988",
     "mileage": "88,610 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Jeep Wrangler Sport",
-    "vin": "1C4GJXAG8JW271743",
-    "stock": "P13392",
-    "exterior": "Mojito! Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4GJXAG8JW271743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/67b645c5fa7b42d7b009f945756979ff.jpg",
-    "price": "$26,250",
-    "sutherlins_price": "$17,988",
-    "mileage": "44,202 Miles"
   },
   {
     "category": "used",
@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chevrolet Malibu LT",
-    "vin": "1G1ZD5STXRF187444",
-    "stock": "KP1077",
-    "exterior": "Sterling Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5STXRF187444&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef77e395abf24c399e29fb7075500c23.jpg",
-    "price": "$25,300",
-    "sutherlins_price": "$18,988",
-    "mileage": "25,098 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Kicks S",
     "vin": "3N1CP5BV9RL578423",
     "stock": "P13441",
@@ -283,6 +268,21 @@
     "price": "$20,500",
     "sutherlins_price": "$18,988",
     "mileage": "3,934 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5STXRF187444",
+    "stock": "KP1077",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5STXRF187444&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef77e395abf24c399e29fb7075500c23.jpg",
+    "price": "$25,300",
+    "sutherlins_price": "$18,988",
+    "mileage": "25,098 Miles"
   },
   {
     "category": "used",
