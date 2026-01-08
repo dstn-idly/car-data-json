@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Hyundai Sonata SEL Plus",
+    "vin": "KMHL44J23NA245025",
+    "stock": "P13303",
+    "exterior": "Portofino Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHL44J23NA245025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/affab1bd12e64421b72661a487bfebb4.jpg",
+    "price": "$27,975",
+    "sutherlins_price": "$19,671",
+    "mileage": "26,782 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA7RW351428",
     "stock": "26270A",
@@ -9,7 +24,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA7RW351428&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/917d4e4f5f674500bf3b9d89f441030e.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6fd9afeabf1a47fbb5d52ffb7eab59d4.jpg",
     "price": "$22,625",
     "sutherlins_price": "$19,697",
     "mileage": "41,924 Miles"
@@ -25,7 +40,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4DG4RU838202&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024HYC02_640/2024HYC022006061_640_01.jpg",
-    "price": "$19,898",
+    "price": "$20,650",
     "sutherlins_price": "$19,898",
     "mileage": "30,416 Miles"
   },
@@ -55,7 +70,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4BJWDG4FL564953&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015JES16_640/2015JES160001_640_01.jpg",
-    "price": "$19,995",
+    "price": "$20,263",
     "sutherlins_price": "$19,995",
     "mileage": "56,333 Miles"
   },
@@ -101,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA6AV7KC382534&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf0b212fbf1342d5bbd8eb6096681f4e.jpg",
     "price": "$21,775",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$19,477",
     "mileage": "54,289 Miles"
   },
   {
@@ -130,7 +145,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CW8PN334075&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040087_640_01.jpg",
-    "price": "$20,988",
+    "price": "$23,550",
     "sutherlins_price": "$20,988",
     "mileage": "35,400 Miles"
   },
@@ -151,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Buick Encore GX Essence",
-    "vin": "KL4MMFSLXNB015174",
-    "stock": "26267A",
-    "exterior": "Sapphire Metallic",
-    "interior": "Ebony with Ebony interior accents",
-    "engine": "Turbocharged 1.3/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4MMFSLXNB015174&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d77e1a4d7ba4fac9b431d7c245c0d42.jpg",
-    "price": "$23,725",
-    "sutherlins_price": "$20,988",
-    "mileage": "27,899 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV0SL475820",
     "stock": "P13443",
@@ -178,6 +178,21 @@
     "price": "$22,700",
     "sutherlins_price": "$20,988",
     "mileage": "2,684 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Buick Encore GX Essence",
+    "vin": "KL4MMFSLXNB015174",
+    "stock": "26267A",
+    "exterior": "Sapphire Metallic",
+    "interior": "Ebony with Ebony interior accents",
+    "engine": "Turbocharged 1.3/",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4MMFSLXNB015174&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d77e1a4d7ba4fac9b431d7c245c0d42.jpg",
+    "price": "$23,725",
+    "sutherlins_price": "$20,988",
+    "mileage": "27,899 Miles"
   },
   {
     "category": "used",
@@ -310,7 +325,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F20RA011626&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024HOC01_640/2024HOC011931745_640_01.jpg",
-    "price": "$21,995",
+    "price": "$22,700",
     "sutherlins_price": "$21,995",
     "mileage": "60,622 Miles"
   },
@@ -346,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA4NC234707",
-    "stock": "250055A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/03e396fc6b31445999e46b37dbbf2174.jpg",
-    "price": "$25,850",
-    "sutherlins_price": "$22,498",
-    "mileage": "46,531 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Titan SV",
     "vin": "1N6AA1EF2NN101360",
     "stock": "P13435",
@@ -373,6 +373,21 @@
     "price": "$29,625",
     "sutherlins_price": "$22,498",
     "mileage": "93,298 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA4NC234707",
+    "stock": "250055A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/03e396fc6b31445999e46b37dbbf2174.jpg",
+    "price": "$25,850",
+    "sutherlins_price": "$22,498",
+    "mileage": "46,531 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$30,625",
     "sutherlins_price": "$23,898",
     "mileage": "87,111 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Kia Telluride EX",
-    "vin": "5XYP34HCXMG181121",
-    "stock": "KP1084",
-    "exterior": "Glacial White Pearl",
-    "interior": "Gray",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYP34HCXMG181121&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/33109e086d0f46ec9e41b66c6ca06321.jpg",
-    "price": "$23,988",
-    "sutherlins_price": "$23,988",
-    "mileage": "46,292 Miles"
   }
 ]

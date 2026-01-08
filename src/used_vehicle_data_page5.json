@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Kia Telluride EX",
+    "vin": "5XYP34HCXMG181121",
+    "stock": "KP1084",
+    "exterior": "Glacial White Pearl",
+    "interior": "Gray",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYP34HCXMG181121&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/33109e086d0f46ec9e41b66c6ca06321.jpg",
+    "price": "$23,988",
+    "sutherlins_price": "$23,988",
+    "mileage": "46,292 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Toyota Highlander Limited",
     "vin": "5TDDZRFH9KS729672",
     "stock": "250081A",
@@ -25,7 +40,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA9M9372778&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda04e5f94f542d2ad838573bfab063a.jpg",
-    "price": "$24,988",
+    "price": "$26,350",
     "sutherlins_price": "$24,988",
     "mileage": "76,931 Miles"
   },
@@ -55,8 +70,8 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA5PF385704&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bc07cafbf9c14325a3d0ec6695780f4b.jpg",
-    "price": "$25,498",
-    "sutherlins_price": "$25,498",
+    "price": "$22,898",
+    "sutherlins_price": "$22,898",
     "mileage": "31,318 Miles"
   },
   {
@@ -69,7 +84,7 @@
     "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E96PRA57430&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/688de4483e8047eea21d341cb00fc07a.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/57b5cb57a52c44b187bf75fc45d3ff82.jpg",
     "price": "$24,985",
     "sutherlins_price": "$25,898",
     "mileage": "20,686 Miles"
@@ -86,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ9PN629753&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/449ae29aadbd4089aff3f04eb9f1cfc7.jpg",
     "price": "$28,275",
-    "sutherlins_price": "$25,952",
+    "sutherlins_price": "$25,497",
     "mileage": "22,937 Miles"
   },
   {
@@ -160,7 +175,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3CB2PW180771&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110141_640_01.jpg",
-    "price": "$25,995",
+    "price": "$28,425",
     "sutherlins_price": "$25,995",
     "mileage": "15,057 Miles"
   },
@@ -206,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA5PF382706&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/06a33ca019ee4071b3c5cf54a02b6f37.jpg",
     "price": "$27,850",
-    "sutherlins_price": "$26,898",
+    "sutherlins_price": "$24,995",
     "mileage": "28,447 Miles"
   },
   {
@@ -226,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Chevrolet Tahoe Premier",
-    "vin": "1GNSCCKC7JR341831",
-    "stock": "26282A",
-    "exterior": "Black",
-    "interior": "Cocoa/Mahogany",
-    "engine": "Gas/Ethanol V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCCKC7JR341831&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edff9aa303c047b2ab8410a5e4e58dfd.jpg",
-    "price": "$26,988",
-    "sutherlins_price": "$26,988",
-    "mileage": "85,728 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chrysler Pacifica Touring",
     "vin": "2C4RC1FG5RR110408",
     "stock": "P13390",
@@ -253,6 +253,21 @@
     "price": "$32,225",
     "sutherlins_price": "$26,988",
     "mileage": "29,206 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Chevrolet Tahoe Premier",
+    "vin": "1GNSCCKC7JR341831",
+    "stock": "26282A",
+    "exterior": "Black",
+    "interior": "Cocoa/Mahogany",
+    "engine": "Gas/Ethanol V8 5.3L/325",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCCKC7JR341831&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edff9aa303c047b2ab8410a5e4e58dfd.jpg",
+    "price": "$26,988",
+    "sutherlins_price": "$26,988",
+    "mileage": "85,728 Miles"
   },
   {
     "category": "used",
@@ -324,7 +339,7 @@
     "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R34GE5PU624026&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS19_640/2023HYS191944209_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ddb1737afc7846a8870be5fb067e7a26.jpg",
     "price": "$29,050",
     "sutherlins_price": "$28,898",
     "mileage": "53,213 Miles"
@@ -385,7 +400,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ0PN638826&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT12_640/2023NIT120062_640_01.jpg",
-    "price": "$30,898",
+    "price": "$34,350",
     "sutherlins_price": "$30,898",
     "mileage": "30,375 Miles"
   },
@@ -463,20 +478,5 @@
     "price": "$36,650",
     "sutherlins_price": "$32,988",
     "mileage": "6,875 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Chevrolet Silverado 1500 Custom",
-    "vin": "1GCRABEK5SZ248981",
-    "stock": "26061B",
-    "exterior": "Black",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.7L/166",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRABEK5SZ248981&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27e931ab73b424b8ef839d3d6d990bb.jpg",
-    "price": "$38,575",
-    "sutherlins_price": "$34,898",
-    "mileage": "5,065 Miles"
   }
 ]
