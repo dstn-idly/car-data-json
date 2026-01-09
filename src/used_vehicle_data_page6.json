@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BS0PC130966",
-    "stock": "MP045",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6c7d2e16d38c4754ab3af74658af6dd6.jpg",
-    "price": "$39,400",
-    "sutherlins_price": "$22,888",
-    "mileage": "46,297 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mitsubishi Eclipse Cross LE",
     "vin": "JA4ATVAA0SZ008978",
     "stock": "MP010",
@@ -478,5 +463,20 @@
     "price": "$25,999",
     "sutherlins_price": "$22,888",
     "mileage": "9,106 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Chrysler Pacifica Touring L",
+    "vin": "2C4RC1BG0NR190846",
+    "stock": "MP037",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black/Alloy/Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG0NR190846&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd71f95faf4a458c974221452ed10b2c.jpg",
+    "price": "$41,125",
+    "sutherlins_price": "$22,888",
+    "mileage": "64,158 Miles"
   }
 ]
