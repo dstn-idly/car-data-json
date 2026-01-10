@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BB8PW460972",
+    "stock": "P13478",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB8PW460972&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/219c1a8921ea499e9aff0b25dabc5a6a.jpg",
+    "price": "$22,208",
+    "sutherlins_price": "$19,558",
+    "mileage": "50,373 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Hyundai Sonata SEL Plus",
     "vin": "KMHL44J23NA245025",
     "stock": "P13303",
@@ -181,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue S",
-    "vin": "5N1BT3AB1RC728306",
-    "stock": "P13479",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB1RC728306&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7b4df04a27f743f8997bf6290a0a751e.jpg",
-    "price": "$23,150",
-    "sutherlins_price": "$18,898",
-    "mileage": "29,719 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota Highlander L",
     "vin": "5TDCZRAH0NS539542",
     "stock": "250003A",
@@ -208,6 +208,21 @@
     "price": "$24,800",
     "sutherlins_price": "$21,798",
     "mileage": "109,495 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA4NC234707",
+    "stock": "250055A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c087e6ebd979403fb004d90aabb0c16d.jpg",
+    "price": "$25,850",
+    "sutherlins_price": "$21,908",
+    "mileage": "46,531 Miles"
   },
   {
     "category": "used",
@@ -361,36 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Titan SV",
-    "vin": "1N6AA1EF2NN101360",
-    "stock": "P13435",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EF2NN101360&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIT13_640/2022NIT130032_640_01.jpg",
-    "price": "$29,625",
-    "sutherlins_price": "$22,498",
-    "mileage": "93,298 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA4NC234707",
-    "stock": "250055A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c087e6ebd979403fb004d90aabb0c16d.jpg",
-    "price": "$25,850",
-    "sutherlins_price": "$21,908",
-    "mileage": "46,531 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Armada SL",
     "vin": "JN8AY2ND3L9109061",
     "stock": "P13395A",
@@ -403,6 +388,21 @@
     "price": "$25,375",
     "sutherlins_price": "$22,498",
     "mileage": "72,154 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Titan SV",
+    "vin": "1N6AA1EF2NN101360",
+    "stock": "P13435",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EF2NN101360&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIT13_640/2022NIT130032_640_01.jpg",
+    "price": "$29,625",
+    "sutherlins_price": "$22,498",
+    "mileage": "93,298 Miles"
   },
   {
     "category": "used",
