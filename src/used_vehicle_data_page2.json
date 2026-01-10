@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CV4LW552642",
+    "stock": "P13401",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV4LW552642&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/82336b9bc56f4af99294f6d4bd1a66c9.jpg",
+    "price": "$19,300",
+    "sutherlins_price": "$13,988",
+    "mileage": "43,277 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Nissan Rogue SV",
     "vin": "KNMAT2MV5HP540170",
     "stock": "P13389A",
@@ -43,21 +58,6 @@
     "price": "$18,578",
     "sutherlins_price": "$13,988",
     "mileage": "81,167 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CP8KW233843",
-    "stock": "25671A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP8KW233843&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/234fb39c9c56469cbc4ae9017e06d37e.jpg",
-    "price": "$14,550",
-    "sutherlins_price": "$13,584",
-    "mileage": "61,134 Miles"
   },
   {
     "category": "used",
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BB0MC787611",
-    "stock": "26335A",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BB0MC787611&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/96c81e4c29e44fe3bf2d76576a454ab7.jpg",
-    "price": "$18,150",
-    "sutherlins_price": "$15,990",
-    "mileage": "96,911 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Toyota Corolla LE",
     "vin": "5YFEPRAE2LP115029",
     "stock": "P13431",
@@ -433,6 +418,21 @@
     "price": "$19,200",
     "sutherlins_price": "$15,975",
     "mileage": "43,922 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "5N1AT3BB0MC787611",
+    "stock": "26335A",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BB0MC787611&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/96c81e4c29e44fe3bf2d76576a454ab7.jpg",
+    "price": "$18,150",
+    "sutherlins_price": "$15,990",
+    "mileage": "96,911 Miles"
   },
   {
     "category": "used",
