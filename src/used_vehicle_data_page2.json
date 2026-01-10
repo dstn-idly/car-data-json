@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2017 Nissan Rogue SV",
+    "vin": "KNMAT2MV5HP540170",
+    "stock": "P13389A",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5HP540170&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40430533ee9b48c395f51d9233196684.jpg",
+    "price": "$15,250",
+    "sutherlins_price": "$13,988",
+    "mileage": "47,531 Miles"
+  },
+  {
+    "category": "used",
     "name": "2010 Jeep Wrangler Unlimited Rubicon",
     "vin": "1J4HA6H15AL204836",
     "stock": "P13277A1",
@@ -436,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Nissan Murano",
+    "vin": "5N1AZ2MH0HN202501",
+    "stock": "P13394A",
+    "exterior": "Red",
+    "interior": "N/A",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MH0HN202501&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS020002_640/2017NIS020002_640_01.jpg",
+    "price": "$15,995",
+    "sutherlins_price": "$15,995",
+    "mileage": "75,703 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Rogue SV",
     "vin": "5N1AT3BA3MC690605",
     "stock": "26331A",
@@ -448,35 +478,5 @@
     "price": "$19,825",
     "sutherlins_price": "$16,797",
     "mileage": "74,645 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV4NN307184",
-    "stock": "T26157A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ec794304902644d7ae7320fe6b1e29f5.jpg",
-    "price": "$18,725",
-    "sutherlins_price": "$16,898",
-    "mileage": "111,238 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Kicks S",
-    "vin": "3N1CP5BV5RL472728",
-    "stock": "26116A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5RL472728&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/957600a14ebf44a3ae652c664934fa21.jpg",
-    "price": "$20,275",
-    "sutherlins_price": "$16,898",
-    "mileage": "11,425 Miles"
   }
 ]

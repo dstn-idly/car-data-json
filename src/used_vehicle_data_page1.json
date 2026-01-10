@@ -166,6 +166,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1CP8JW180723",
+    "stock": "26332A",
+    "exterior": "Pearl White",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP8JW180723&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS170001_640/2018NIS170001_640_01.jpg",
+    "price": "$9,995",
+    "sutherlins_price": "$9,995",
+    "mileage": "123,177 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Buick Encore Preferred",
     "vin": "KL4CJASB6KB743407",
     "stock": "T25931B",
@@ -463,20 +478,5 @@
     "price": "$19,300",
     "sutherlins_price": "$13,988",
     "mileage": "43,277 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Rogue SV",
-    "vin": "KNMAT2MV5HP540170",
-    "stock": "P13389A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5HP540170&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40430533ee9b48c395f51d9233196684.jpg",
-    "price": "$15,250",
-    "sutherlins_price": "$13,988",
-    "mileage": "47,531 Miles"
   }
 ]
