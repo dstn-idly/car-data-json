@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB1RC728306&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7b4df04a27f743f8997bf6290a0a751e.jpg",
     "price": "$23,150",
-    "sutherlins_price": "$20,995",
+    "sutherlins_price": "$18,898",
     "mileage": "29,719 Miles"
   },
   {
@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Titan SV",
-    "vin": "1N6AA1EE8MN528449",
-    "stock": "P13391",
-    "exterior": "Gun Metallic",
-    "interior": "Black",
-    "engine": "Premium Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
-    "price": "$29,050",
-    "sutherlins_price": "$21,988",
-    "mileage": "79,174 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BA6PC859704",
     "stock": "26128A",
@@ -238,6 +223,21 @@
     "price": "$25,425",
     "sutherlins_price": "$21,988",
     "mileage": "15,970 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Titan SV",
+    "vin": "1N6AA1EE8MN528449",
+    "stock": "P13391",
+    "exterior": "Gun Metallic",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1EE8MN528449&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2b61f80fb1b44ba0a4b92abe416e325c.jpg",
+    "price": "$29,050",
+    "sutherlins_price": "$21,988",
+    "mileage": "79,174 Miles"
   },
   {
     "category": "used",
@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA4NC234707",
-    "stock": "250055A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c087e6ebd979403fb004d90aabb0c16d.jpg",
-    "price": "$25,850",
-    "sutherlins_price": "$22,498",
-    "mileage": "46,531 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Titan SV",
     "vin": "1N6AA1EF2NN101360",
     "stock": "P13435",
@@ -391,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA4NC234707",
+    "stock": "250055A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA4NC234707&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c087e6ebd979403fb004d90aabb0c16d.jpg",
+    "price": "$25,850",
+    "sutherlins_price": "$21,908",
+    "mileage": "46,531 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Armada SL",
     "vin": "JN8AY2ND3L9109061",
     "stock": "P13395A",
@@ -401,7 +401,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2ND3L9109061&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f45e47524e64dd5bae38d3dfa15d1d2.jpg",
     "price": "$25,375",
-    "sutherlins_price": "$22,898",
+    "sutherlins_price": "$22,498",
     "mileage": "72,154 Miles"
   },
   {
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2021 Chevrolet Blazer RS",
-    "vin": "3GNKBERS0MS564256",
-    "stock": "25968A",
-    "exterior": "Black",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBERS0MS564256&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021CHS09_640/2021CHS090033_640_01.jpg",
-    "price": "$23,898",
+    "name": "2025 Nissan Rogue S",
+    "vin": "5N1BT3AA4SC864748",
+    "stock": "P13432",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA4SC864748&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b07b408f67ce44baae941e54eadd315f.jpg",
+    "price": "$26,400",
     "sutherlins_price": "$23,898",
-    "mileage": "55,233 Miles"
+    "mileage": "1,835 Miles"
   }
 ]
