@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Sienna XLE",
-    "vin": "5TDYRKEC0RS205559",
-    "stock": "MP067",
-    "exterior": "Gray",
-    "interior": "Graphite",
-    "engine": "Gas/Electric I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC0RS205559&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOV11_640/2024TOV110172_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "56,149 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Toyota RAV4 XLE",
     "vin": "2T3W1RFV5PW273651",
     "stock": "MP066",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "58,860 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Sienna XLE",
+    "vin": "5TDYRKEC0RS205559",
+    "stock": "MP067",
+    "exterior": "Gray",
+    "interior": "Graphite",
+    "engine": "Gas/Electric I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC0RS205559&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOV11_640/2024TOV110172_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "56,149 Miles"
   }
 ]
