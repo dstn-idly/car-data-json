@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Nissan Altima 2.5 SV",
-    "vin": "1N4AL3AP4FC257362",
-    "stock": "P13311A",
-    "exterior": "Storm",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP4FC257362&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC04_640/2015NIC040037_640_01.jpg",
-    "price": "$4,995",
-    "sutherlins_price": "$4,995",
-    "mileage": "181,805 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2014 Nissan Sentra S",
-    "vin": "3N1AB7AP8EY205391",
-    "stock": "26210A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP8EY205391&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4bd7e0dbfabf4aa4b9f68accabd8cd0e.jpg",
-    "price": "$7,725",
-    "sutherlins_price": "$6,898",
-    "mileage": "94,197 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Hyundai Accent SE",
     "vin": "KMHCT5AE5GU286809",
     "stock": "26111A",
@@ -73,21 +43,6 @@
     "price": "$9,200",
     "sutherlins_price": "$7,995",
     "mileage": "104,404 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Volkswagen Tiguan S",
-    "vin": "WVGAV7AX6FW597490",
-    "stock": "26284A",
-    "exterior": "White Gold Metallic",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVGAV7AX6FW597490&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/91c07067a5454e5d9e12b0d82be1e7de.jpg",
-    "price": "$8,175",
-    "sutherlins_price": "$7,995",
-    "mileage": "109,000 Miles"
   },
   {
     "category": "used",
@@ -376,6 +331,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan LEAF SV PLUS",
+    "vin": "1N4BZ1CV9MC555521",
+    "stock": "26151B",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3fae3f9bcdc484ba565115b190ac9b3.jpg",
+    "price": "$155,757",
+    "sutherlins_price": "$12,988",
+    "mileage": "39,702 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Versa SV",
     "vin": "3N1CN8EV0PL824792",
     "stock": "P13398",
@@ -436,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan LEAF SV PLUS",
-    "vin": "1N4BZ1CV9MC555521",
-    "stock": "26151B",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BZ1CV9MC555521&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3fae3f9bcdc484ba565115b190ac9b3.jpg",
-    "price": "$155,757",
-    "sutherlins_price": "$12,988",
-    "mileage": "39,702 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Jeep Compass Limited",
     "vin": "3C4NJCCB3LT176498",
     "stock": "P13339",
@@ -478,5 +433,50 @@
     "price": "$14,550",
     "sutherlins_price": "$13,584",
     "mileage": "61,134 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV1NN367441",
+    "stock": "P13238",
+    "exterior": "Glacier White",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1NN367441&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a5b170d57d41b9919e4610d5221117.jpg",
+    "price": "$19,989",
+    "sutherlins_price": "$13,776",
+    "mileage": "82,224 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford EcoSport SES",
+    "vin": "MAJ6S3JL1MC425588",
+    "stock": "250025B",
+    "exterior": "Silver",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6S3JL1MC425588&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021FOS37_640/2021FOS370007_640_01.jpg",
+    "price": "$16,500",
+    "sutherlins_price": "$13,898",
+    "mileage": "74,200 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Subaru Crosstrek Limited",
+    "vin": "JF2GTAMC5K8347457",
+    "stock": "25441A",
+    "exterior": "Dark Gray Metallic",
+    "interior": "Gray",
+    "engine": "Regular Unleaded H-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GTAMC5K8347457&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e713fa82bb1f4ca9987249b6779222c1.jpg",
+    "price": "$21,575",
+    "sutherlins_price": "$13,969",
+    "mileage": "75,458 Miles"
   }
 ]
