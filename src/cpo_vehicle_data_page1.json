@@ -151,21 +151,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Kicks S",
-    "vin": "3N1CP5BVXRL531322",
-    "stock": "26197A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BVXRL531322&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6bbe2c6d413c4395aa812a07b4ae6548.jpg",
-    "price": "$19,650",
-    "sutherlins_price": "$14,498",
-    "mileage": "35,539 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2018 Nissan Rogue SV",
     "vin": "KNMAT2MT2JP546075",
     "stock": "P13474",
@@ -253,21 +238,6 @@
     "price": "$19,125",
     "sutherlins_price": "$14,988",
     "mileage": "20,165 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Sentra S",
-    "vin": "3N1AB8BV5PY307897",
-    "stock": "26121A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV5PY307897&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d0256703ba2b46189ec9d3bbdd8e8726.jpg",
-    "price": "$18,250",
-    "sutherlins_price": "$14,995",
-    "mileage": "43,659 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +448,35 @@
     "price": "$23,200",
     "sutherlins_price": "$17,598",
     "mileage": "13,492 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Kicks S",
+    "vin": "3N1CP5BV9RL578423",
+    "stock": "P13441",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV9RL578423&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce0ca57d636a48ac9a3c14887528ff8a.jpg",
+    "price": "$20,500",
+    "sutherlins_price": "$17,726",
+    "mileage": "3,934 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA0PC792839",
+    "stock": "26254A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA0PC792839&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bdaeff7dbeb448e3b255acb9da32275c.jpg",
+    "price": "$22,425",
+    "sutherlins_price": "$17,798",
+    "mileage": "59,285 Miles"
   }
 ]
