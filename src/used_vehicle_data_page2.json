@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2017 Nissan Murano SV",
-    "vin": "5N1AZ2MG3HN101475",
-    "stock": "P13274A",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG3HN101475&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9eb6c07fce0e4f0e82f8fbb82ce830b2.jpg",
-    "price": "$13,898",
-    "sutherlins_price": "$13,898",
-    "mileage": "77,637 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford EcoSport SES",
     "vin": "MAJ6S3JL1MC425588",
     "stock": "250025B",
@@ -478,5 +463,20 @@
     "price": "$18,725",
     "sutherlins_price": "$16,898",
     "mileage": "111,238 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue Sport SL",
+    "vin": "JN1BJ1CV0NW352280",
+    "stock": "26349A",
+    "exterior": "Monarch Orange Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV0NW352280&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/341f6f83f3a24ccb8568fe8d9e3b4a94.jpg",
+    "price": "$26,025",
+    "sutherlins_price": "$16,898",
+    "mileage": "39,374 Miles"
   }
 ]
