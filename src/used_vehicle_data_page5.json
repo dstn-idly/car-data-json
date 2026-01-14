@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA9M9372778&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda04e5f94f542d2ad838573bfab063a.jpg",
     "price": "$26,350",
-    "sutherlins_price": "$25,958",
+    "sutherlins_price": "$26,498",
     "mileage": "76,931 Miles"
   },
   {
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R34GE5PU624026&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6ea063fb13cc4d55bbfb65f341dbfb0b.jpg",
     "price": "$29,050",
-    "sutherlins_price": "$28,498",
+    "sutherlins_price": "$28,355",
     "mileage": "53,213 Miles"
   },
   {
@@ -221,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ3PN647245&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT12_640/2023NIT120062_640_01.jpg",
     "price": "$34,675",
-    "sutherlins_price": "$29,995",
+    "sutherlins_price": "$29,440",
     "mileage": "29,845 Miles"
   },
   {
@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Chevrolet Silverado 1500 Custom",
-    "vin": "1GCRABEK5SZ248981",
-    "stock": "26061B",
-    "exterior": "Black",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.7L/166",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRABEK5SZ248981&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27e931ab73b424b8ef839d3d6d990bb.jpg",
-    "price": "$38,575",
-    "sutherlins_price": "$34,898",
-    "mileage": "5,065 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Frontier PRO-4X",
     "vin": "1N6ED1EK1RN615728",
     "stock": "P13488",
@@ -283,6 +268,21 @@
     "price": "$40,875",
     "sutherlins_price": "$34,898",
     "mileage": "23,650 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chevrolet Silverado 1500 Custom",
+    "vin": "1GCRABEK5SZ248981",
+    "stock": "26061B",
+    "exterior": "Black",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 2.7L/166",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRABEK5SZ248981&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c27e931ab73b424b8ef839d3d6d990bb.jpg",
+    "price": "$38,575",
+    "sutherlins_price": "$34,898",
+    "mileage": "5,065 Miles"
   },
   {
     "category": "used",
