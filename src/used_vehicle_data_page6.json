@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Mitsubishi Outlander ES",
-    "vin": "JA4J3UA81RZ071184",
-    "stock": "M2569A",
-    "exterior": "Alloy Silver Metallic",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA81RZ071184&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fc8251d4a174f06be6ebbba3b1f7a5b.jpg",
-    "price": "$29,280",
-    "sutherlins_price": "$19,648",
-    "mileage": "27,265 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Chrysler Pacifica Touring L",
     "vin": "2C4RC1BG0NR190846",
     "stock": "MP037",
@@ -478,5 +463,20 @@
     "price": "$29,210",
     "sutherlins_price": "$22,244",
     "mileage": "62,403 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota RAV4 XLE",
+    "vin": "2T3W1RFV5PW273651",
+    "stock": "MP066",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV5PW273651&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOS11_640/2023TOS111927533_640_01.jpg",
+    "price": "$31,399",
+    "sutherlins_price": "$22,482",
+    "mileage": "58,860 Miles"
   }
 ]

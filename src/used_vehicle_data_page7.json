@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV5PW273651",
-    "stock": "MP066",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV5PW273651&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOS11_640/2023TOS111927533_640_01.jpg",
-    "price": "$31,399",
-    "sutherlins_price": "$22,482",
-    "mileage": "58,860 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR48PS228493",
     "stock": "MP043",
@@ -388,5 +373,35 @@
     "price": "$65,000",
     "sutherlins_price": "$53,888",
     "mileage": "27,550 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Sentra SV",
+    "vin": "3N1AB7AP3HL654494",
+    "stock": "M2528A",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP3HL654494&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC060002_640/2017NIC060002_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "133,057 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2000 Dodge Caravan Base",
+    "vin": "2B4FP25B0YR511511",
+    "stock": "M2569B",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas 4-Cyl 2.4L/148",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2B4FP25B0YR511511&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/300.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "170,520 Miles"
   }
 ]
