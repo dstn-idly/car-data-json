@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV4NN307184",
+    "stock": "T26157A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4NN307184&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ec794304902644d7ae7320fe6b1e29f5.jpg",
+    "price": "$18,725",
+    "sutherlins_price": "$16,898",
+    "mileage": "111,238 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CV0NW352280",
     "stock": "26349A",
@@ -9,7 +24,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV0NW352280&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/341f6f83f3a24ccb8568fe8d9e3b4a94.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/058fb0366bfc479591b138bdac115a08.jpg",
     "price": "$26,025",
     "sutherlins_price": "$16,898",
     "mileage": "39,374 Miles"
@@ -376,6 +391,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA3PC817024",
+    "stock": "26356A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA3PC817024&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110100_640_01.jpg",
+    "price": "$18,995",
+    "sutherlins_price": "$18,995",
+    "mileage": "32,167 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BB8PW460972",
     "stock": "P13478",
@@ -415,7 +445,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5RY303431&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061925986_640_01.jpg",
-    "price": "$19,988",
+    "price": "$22,179",
     "sutherlins_price": "$19,988",
     "mileage": "32,147 Miles"
   },
@@ -448,35 +478,5 @@
     "price": "$20,498",
     "sutherlins_price": "$20,498",
     "mileage": "9,046 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Camry LE",
-    "vin": "4T1C11AK3RU873467",
-    "stock": "P13220",
-    "exterior": "Midnight Black",
-    "interior": "Macadamia",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK3RU873467&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/79130cabcd574d56a24136707ae52877.jpg",
-    "price": "$28,125",
-    "sutherlins_price": "$20,574",
-    "mileage": "29,927 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE6RP223222",
-    "stock": "26248A",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE6RP223222&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOC04_640/2024TOC041927608_640_01.jpg",
-    "price": "$22,425",
-    "sutherlins_price": "$20,798",
-    "mileage": "11,785 Miles"
   }
 ]

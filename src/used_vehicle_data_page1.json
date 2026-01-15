@@ -151,6 +151,21 @@
   },
   {
     "category": "used",
+    "name": "2012 Chevrolet Suburban LS",
+    "vin": "1GNSCHE04CR160672",
+    "stock": "26202A",
+    "exterior": "Black",
+    "interior": "Ebony",
+    "engine": "Gas/Ethanol V8 5.3L/323",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCHE04CR160672&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14006.jpg",
+    "price": "$9,999",
+    "sutherlins_price": "$9,999",
+    "mileage": "150,650 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Ford Focus SEL",
     "vin": "1FADP3M23JL266046",
     "stock": "26252A",
@@ -463,20 +478,5 @@
     "price": "$13,875",
     "sutherlins_price": "$13,498",
     "mileage": "104,119 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV1NN367441",
-    "stock": "P13238",
-    "exterior": "Glacier White",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1NN367441&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a5b170d57d41b9919e4610d5221117.jpg",
-    "price": "$19,989",
-    "sutherlins_price": "$13,776",
-    "mileage": "82,224 Miles"
   }
 ]
