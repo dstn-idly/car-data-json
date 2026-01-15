@@ -76,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Chevrolet Sonic LT",
+    "vin": "1G1JG6SB6L4114463",
+    "stock": "250035A",
+    "exterior": "Red Hot",
+    "interior": "Jet Black/Dark Titanium",
+    "engine": "Turbocharged Gas I4 1.4L/83",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1JG6SB6L4114463&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020CHC32_640/2020CHC320033_640_01.jpg",
+    "price": "$7,995",
+    "sutherlins_price": "$7,995",
+    "mileage": "92,553 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Nissan Sentra SV",
     "vin": "3N1AB7AP4GL644359",
     "stock": "26247A",
@@ -181,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue Sport S",
-    "vin": "JN1BJ1CP7KW218248",
-    "stock": "26105B",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7KW218248&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d149aaf48b024535963afaf4f907a5a0.jpg",
-    "price": "$12,300",
-    "sutherlins_price": "$10,995",
-    "mileage": "80,427 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Nissan Murano S",
     "vin": "5N1AZ2MG5GN128952",
     "stock": "26301A",
@@ -208,6 +208,21 @@
     "price": "$12,700",
     "sutherlins_price": "$10,995",
     "mileage": "63,543 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CP7KW218248",
+    "stock": "26105B",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP7KW218248&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d149aaf48b024535963afaf4f907a5a0.jpg",
+    "price": "$12,300",
+    "sutherlins_price": "$10,995",
+    "mileage": "80,427 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$19,989",
     "sutherlins_price": "$13,776",
     "mileage": "82,224 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Murano SV",
-    "vin": "5N1AZ2MG3HN101475",
-    "stock": "P13274A",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG3HN101475&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9eb6c07fce0e4f0e82f8fbb82ce830b2.jpg",
-    "price": "$13,898",
-    "sutherlins_price": "$13,898",
-    "mileage": "77,637 Miles"
   }
 ]
