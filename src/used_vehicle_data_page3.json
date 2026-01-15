@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Nissan Rogue Sport SL",
+    "vin": "JN1BJ1CV0NW352280",
+    "stock": "26349A",
+    "exterior": "Monarch Orange Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV0NW352280&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/341f6f83f3a24ccb8568fe8d9e3b4a94.jpg",
+    "price": "$26,025",
+    "sutherlins_price": "$16,898",
+    "mileage": "39,374 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Sentra S",
     "vin": "3N1AB8BV0PY285677",
     "stock": "26205A",
@@ -463,20 +478,5 @@
     "price": "$22,425",
     "sutherlins_price": "$20,798",
     "mileage": "11,785 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CW8PN334075",
-    "stock": "26337A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CW8PN334075&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a2254b766f6f4bc3895242c4e8328a8b.jpg",
-    "price": "$23,550",
-    "sutherlins_price": "$20,988",
-    "mileage": "35,400 Miles"
   }
 ]
