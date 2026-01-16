@@ -226,6 +226,21 @@
   },
   {
     "category": "used",
+    "name": "2016 Ford Expedition King Ranch",
+    "vin": "1FMJU1JT6GEF37651",
+    "stock": "P13413A",
+    "exterior": "Shadow Black",
+    "interior": "Mesa w/Ebony",
+    "engine": "Twin Turbo Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJU1JT6GEF37651&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016FOS300006_640/2016FOS300006_640_01.jpg",
+    "price": "$15,988",
+    "sutherlins_price": "$15,988",
+    "mileage": "106,381 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Rogue SV",
     "vin": "5N1AT3BB0MC787611",
     "stock": "26335A",
@@ -463,20 +478,5 @@
     "price": "$19,150",
     "sutherlins_price": "$16,995",
     "mileage": "59,501 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Kia Forte GT-Line",
-    "vin": "3KPF54AD7NE458654",
-    "stock": "P13454",
-    "exterior": "Snow White Pearl",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF54AD7NE458654&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d2e61da6e71a475dbe741245fceba41a.jpg",
-    "price": "$21,000",
-    "sutherlins_price": "$16,995",
-    "mileage": "30,899 Miles"
   }
 ]
