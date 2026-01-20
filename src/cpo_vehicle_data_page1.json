@@ -91,21 +91,6 @@
   },
   {
     "category": "cpo",
-    "name": "2022 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV1NN367441",
-    "stock": "P13238",
-    "exterior": "Glacier White",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV1NN367441&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a5b170d57d41b9919e4610d5221117.jpg",
-    "price": "$19,989",
-    "sutherlins_price": "$13,776",
-    "mileage": "82,224 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2018 Nissan Rogue Sport S",
     "vin": "JN1BJ1CP1JW102591",
     "stock": "P13430",
@@ -181,21 +166,6 @@
   },
   {
     "category": "cpo",
-    "name": "2020 Nissan Murano SL",
-    "vin": "5N1AZ2CS1LN113526",
-    "stock": "P13335",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Cashmere",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CS1LN113526&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b632ac9f3c4942fa95b530754faf249c.jpg",
-    "price": "$21,298",
-    "sutherlins_price": "$15,408",
-    "mileage": "84,663 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA4NC678940",
     "stock": "26261A",
@@ -223,21 +193,6 @@
     "price": "$23,000",
     "sutherlins_price": "$15,537",
     "mileage": "55,085 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN313741",
-    "stock": "P13262",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN313741&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/66f53ed353944424a37d81380f8b61dc.jpg",
-    "price": "$23,895",
-    "sutherlins_price": "$15,633",
-    "mileage": "56,244 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +433,50 @@
     "price": "$23,150",
     "sutherlins_price": "$18,898",
     "mileage": "29,719 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BB8PW460972",
+    "stock": "P13478",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB8PW460972&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/219c1a8921ea499e9aff0b25dabc5a6a.jpg",
+    "price": "$22,208",
+    "sutherlins_price": "$19,558",
+    "mileage": "50,373 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Murano SV",
+    "vin": "5N1AZ2BJ9PC128639",
+    "stock": "P13325",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ9PC128639&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/933c9fa6a2f3427abb78abc403c6be14.jpg",
+    "price": "$24,825",
+    "sutherlins_price": "$19,981",
+    "mileage": "55,598 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Kicks S",
+    "vin": "3N8AP6BAXSL365045",
+    "stock": "26213A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BAXSL365045&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e9db9309411d4b969aa7673505ed392c.jpg",
+    "price": "$20,498",
+    "sutherlins_price": "$20,498",
+    "mileage": "9,046 Miles"
   }
 ]
