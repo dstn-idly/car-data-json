@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue Sport S",
-    "vin": "JN1BJ1CV4LW552642",
-    "stock": "P13401",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV4LW552642&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/82336b9bc56f4af99294f6d4bd1a66c9.jpg",
-    "price": "$19,300",
-    "sutherlins_price": "$13,398",
-    "mileage": "43,277 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Rogue SV",
     "vin": "5N1AT2MV9LC724572",
     "stock": "250005A",
@@ -403,6 +388,36 @@
     "price": "$13,875",
     "sutherlins_price": "$12,898",
     "mileage": "104,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue S",
+    "vin": "5N1AT2MT4KC836886",
+    "stock": "250079B",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT4KC836886&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef7cb81c432e4d8a9f24a16c1193bf30.jpg",
+    "price": "$14,650",
+    "sutherlins_price": "$12,964",
+    "mileage": "59,575 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue Sport S",
+    "vin": "JN1BJ1CV4LW552642",
+    "stock": "P13401",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV4LW552642&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/82336b9bc56f4af99294f6d4bd1a66c9.jpg",
+    "price": "$19,300",
+    "sutherlins_price": "$13,398",
+    "mileage": "43,277 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$16,500",
     "sutherlins_price": "$13,898",
     "mileage": "74,200 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Hyundai Santa Fe Sport 2.0T Ultimate",
-    "vin": "5XYZW4LA2HG415540",
-    "stock": "P13502",
-    "exterior": "Serrano Red",
-    "interior": "Beige",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYZW4LA2HG415540&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c21c43c82ca949068156b122eec6b2c6.jpg",
-    "price": "$15,595",
-    "sutherlins_price": "$13,898",
-    "mileage": "88,956 Miles"
   }
 ]
