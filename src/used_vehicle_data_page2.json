@@ -26,23 +26,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT4KC836886&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef7cb81c432e4d8a9f24a16c1193bf30.jpg",
     "price": "$14,650",
-    "sutherlins_price": "$13,988",
+    "sutherlins_price": "$12,964",
     "mileage": "59,575 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Chevrolet Equinox LS",
-    "vin": "3GNAXHEV2KS519962",
-    "stock": "P13426A",
-    "exterior": "Storm Blue Metallic",
-    "interior": "Medium Ash Gray",
-    "engine": "Turbocharged Gas I4 1.5L/92",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXHEV2KS519962&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019CHS15_640/2019CHS150018_640_01.jpg",
-    "price": "$13,988",
-    "sutherlins_price": "$13,988",
-    "mileage": "60,840 Miles"
   },
   {
     "category": "used",
@@ -58,6 +43,21 @@
     "price": "$15,250",
     "sutherlins_price": "$13,988",
     "mileage": "47,531 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Chevrolet Equinox LS",
+    "vin": "3GNAXHEV2KS519962",
+    "stock": "P13426A",
+    "exterior": "Storm Blue Metallic",
+    "interior": "Medium Ash Gray",
+    "engine": "Turbocharged Gas I4 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXHEV2KS519962&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019CHS15_640/2019CHS150018_640_01.jpg",
+    "price": "$13,988",
+    "sutherlins_price": "$13,988",
+    "mileage": "60,840 Miles"
   },
   {
     "category": "used",
@@ -446,7 +446,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7RY231892&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc66bfb5f15c47328119ce3a7533918d.jpg",
     "price": "$19,875",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$14,827",
     "mileage": "34,253 Miles"
   },
   {

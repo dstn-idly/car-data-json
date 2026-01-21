@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8PN387932",
-    "stock": "MP046",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8PN387932&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2993d362be0e4d18a89fee410c015af8.jpg",
-    "price": "$27,880",
-    "sutherlins_price": "$16,999",
-    "mileage": "54,287 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Jeep Renegade Trailhawk",
-    "vin": "ZACNJDC12NPN66240",
-    "stock": "MP033",
-    "exterior": "Sting-Gray Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 1.3 L/81",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDC12NPN66240&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/800fd607ccf24b4dada1363ca16fb6e9.jpg",
-    "price": "$33,600",
-    "sutherlins_price": "$17,799",
-    "mileage": "54,648 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue Sport SV",
     "vin": "JN1BJ1BW0NW489987",
     "stock": "MP036",
@@ -478,5 +448,35 @@
     "price": "$43,140",
     "sutherlins_price": "$22,899",
     "mileage": "65,073 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 BMW 2 Series 228i",
+    "vin": "WBA53AK01M7J34770",
+    "stock": "MP053",
+    "exterior": "Alpine White",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA53AK01M7J34770&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/027fcf88fc2b4e0fa3be0a2bb20595e9.jpg",
+    "price": "$38,999",
+    "sutherlins_price": "$23,399",
+    "mileage": "27,596 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota RAV4 XLE",
+    "vin": "2T3W1RFV5PW273651",
+    "stock": "MP066",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV5PW273651&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a28f1c0b23b74eb89a528d7519f9aee6.jpg",
+    "price": "$31,399",
+    "sutherlins_price": "$23,999",
+    "mileage": "58,860 Miles"
   }
 ]
