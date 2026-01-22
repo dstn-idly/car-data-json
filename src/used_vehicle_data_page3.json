@@ -376,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Honda Accord Sedan Sport",
+    "vin": "1HGCV1F36LA144948",
+    "stock": "P13405",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F36LA144948&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a260560468154d80bb14cf09fd6b1fdd.jpg",
+    "price": "$23,200",
+    "sutherlins_price": "$19,998",
+    "mileage": "62,198 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Kicks S",
     "vin": "3N8AP6BAXSL365045",
     "stock": "26213A",
@@ -463,20 +478,5 @@
     "price": "$21,925",
     "sutherlins_price": "$20,995",
     "mileage": "50,127 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "JN8BT3BB3PW466694",
-    "stock": "26203A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB3PW466694&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fe24f6c10850447a8599b9dd50a0786b.jpg",
-    "price": "$23,500",
-    "sutherlins_price": "$21,410",
-    "mileage": "30,515 Miles"
   }
 ]
