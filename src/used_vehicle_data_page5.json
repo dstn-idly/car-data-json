@@ -1,26 +1,11 @@
 [
   {
     "category": "used",
-    "name": "2024 Acura Integra with A-Spec Technology Package",
-    "vin": "19UDE4H66RA021091",
-    "stock": "P13485",
-    "exterior": "Boulder Gray",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19UDE4H66RA021091&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2549f81edd774f06a323edcd61e2a3cd.jpg",
-    "price": "$31,675",
-    "sutherlins_price": "$26,898",
-    "mileage": "22,631 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Tesla Model X P90D",
     "vin": "5YJXCBE4XGF001469",
     "stock": "P13495",
     "exterior": "White",
-    "interior": "N/A",
+    "interior": "Ultra White",
     "engine": "Electric",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJXCBE4XGF001469&source=BUP",
@@ -69,7 +54,7 @@
     "engine": "Regular Unleaded V8 5.0 L",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1C56MFA79310&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/152cf9e9b0254bdb83fcea6867d45c85.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/393fc7a2931a4dcba08aac223cc62a96.jpg",
     "price": "$33,025",
     "sutherlins_price": "$27,497",
     "mileage": "84,956 Miles"
@@ -478,5 +463,20 @@
     "price": "$18,399",
     "sutherlins_price": "$14,888",
     "mileage": "12,043 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV7RY290604",
+    "stock": "MP050",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7RY290604&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c31e0e633de0441eb1be413f083e6490.jpg",
+    "price": "$22,100",
+    "sutherlins_price": "$14,888",
+    "mileage": "60,766 Miles"
   }
 ]
