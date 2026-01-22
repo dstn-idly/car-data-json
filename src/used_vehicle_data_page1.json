@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2012 Mercedes-Benz C-Class C 250",
-    "vin": "WDDGF4HB8CR197645",
-    "stock": "P13504",
-    "exterior": "Black",
-    "interior": "Black",
-    "engine": "Turbocharged Gas I4 1.8L/110",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WDDGF4HB8CR197645&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c17a6302e26478980da39853e4d4a0e.jpg",
-    "price": "$6,350",
-    "sutherlins_price": "$4,995",
-    "mileage": "184,405 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Kicks SV",
     "vin": "3N1CP5CV2LL499567",
     "stock": "P13262A",
@@ -28,36 +13,6 @@
     "price": "$11,425",
     "sutherlins_price": "$7,988",
     "mileage": "111,278 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Rogue SV",
-    "vin": "5N1AT2MT9HC879953",
-    "stock": "P13481A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9HC879953&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f1488d9b8175410fa30ebf07f2af37a6.jpg",
-    "price": "$11,175",
-    "sutherlins_price": "$7,988",
-    "mileage": "109,990 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Chevrolet Sonic LT",
-    "vin": "1G1JG6SB6L4114463",
-    "stock": "250035A",
-    "exterior": "Red Hot",
-    "interior": "Jet Black/Dark Titanium",
-    "engine": "Turbocharged Gas I4 1.4L/83",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1JG6SB6L4114463&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9361243758e7430ba2c64115299de5f2.jpg",
-    "price": "$7,995",
-    "sutherlins_price": "$7,995",
-    "mileage": "92,553 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$15,088",
     "sutherlins_price": "$13,898",
     "mileage": "40,294 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Kicks SV",
+    "vin": "3N1CP5CV9NL491968",
+    "stock": "26083A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV9NL491968&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS26_640/2022NIS260138_640_01.jpg",
+    "price": "$15,150",
+    "sutherlins_price": "$13,898",
+    "mileage": "60,217 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford EcoSport SES",
+    "vin": "MAJ6S3JL1MC425588",
+    "stock": "250025B",
+    "exterior": "Silver Metallic",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6S3JL1MC425588&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e8025a22e4264f10b4b6b1800a903899.jpg",
+    "price": "$16,500",
+    "sutherlins_price": "$13,898",
+    "mileage": "74,200 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Hyundai Santa Fe Sport 2.0T Ultimate",
+    "vin": "5XYZW4LA2HG415540",
+    "stock": "P13502",
+    "exterior": "Serrano Red",
+    "interior": "Beige",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYZW4LA2HG415540&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c21c43c82ca949068156b122eec6b2c6.jpg",
+    "price": "$15,595",
+    "sutherlins_price": "$13,898",
+    "mileage": "88,956 Miles"
   }
 ]
