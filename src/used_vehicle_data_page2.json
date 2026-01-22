@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Rogue SV",
-    "vin": "KNMAT2MV5HP540170",
-    "stock": "P13389A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5HP540170&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f7c36e935264d298e82baeaf621e831.jpg",
-    "price": "$15,250",
-    "sutherlins_price": "$13,988",
-    "mileage": "47,531 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Chevrolet Equinox LS",
     "vin": "3GNAXHEV2KS519962",
     "stock": "P13426A",
@@ -73,6 +58,21 @@
     "price": "$15,650",
     "sutherlins_price": "$13,988",
     "mileage": "60,840 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Rogue SV",
+    "vin": "KNMAT2MV5HP540170",
+    "stock": "P13389A",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5HP540170&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f7c36e935264d298e82baeaf621e831.jpg",
+    "price": "$15,250",
+    "sutherlins_price": "$13,988",
+    "mileage": "47,531 Miles"
   },
   {
     "category": "used",
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7RY231892&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dc66bfb5f15c47328119ce3a7533918d.jpg",
     "price": "$19,875",
-    "sutherlins_price": "$14,827",
+    "sutherlins_price": "$14,617",
     "mileage": "34,253 Miles"
   },
   {
