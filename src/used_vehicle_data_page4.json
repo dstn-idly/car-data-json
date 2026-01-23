@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Honda Accord Sedan LX",
-    "vin": "1HGCY1F20RA011626",
-    "stock": "P13487",
-    "exterior": "White",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F20RA011626&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f9b2e8dbb3584579bb6c70a52e2d9b7f.jpg",
-    "price": "$22,700",
-    "sutherlins_price": "$19,995",
-    "mileage": "60,622 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Honda Accord Sedan Sport",
-    "vin": "1HGCV1F36LA144948",
-    "stock": "P13405",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F36LA144948&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a260560468154d80bb14cf09fd6b1fdd.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$19,998",
-    "mileage": "62,198 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks S",
     "vin": "3N8AP6BAXSL365045",
     "stock": "26213A",
@@ -478,5 +448,35 @@
     "price": "$31,675",
     "sutherlins_price": "$26,898",
     "mileage": "22,631 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Tesla Model X P90D",
+    "vin": "5YJXCBE4XGF001469",
+    "stock": "P13495",
+    "exterior": "",
+    "interior": "Ultra White",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJXCBE4XGF001469&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016TSS010001_640/2016TSS010001_640_01.jpg",
+    "price": "$29,813",
+    "sutherlins_price": "$26,945",
+    "mileage": "58,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chrysler Pacifica Touring",
+    "vin": "2C4RC1FG5RR110408",
+    "stock": "P13390",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1FG5RR110408&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef5ac863fe1a40c995bf3bb5c5ec9968.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$26,988",
+    "mileage": "29,206 Miles"
   }
 ]

@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Rogue SV",
-    "vin": "KNMAT2MV5HP540170",
-    "stock": "P13389A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5HP540170&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f7c36e935264d298e82baeaf621e831.jpg",
-    "price": "$15,250",
-    "sutherlins_price": "$13,988",
-    "mileage": "47,531 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Chevrolet Equinox LS",
     "vin": "3GNAXHEV2KS519962",
     "stock": "P13426A",
@@ -46,6 +31,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Nissan Rogue SV",
+    "vin": "KNMAT2MV5HP540170",
+    "stock": "P13389A",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MV5HP540170&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4f7c36e935264d298e82baeaf621e831.jpg",
+    "price": "$15,250",
+    "sutherlins_price": "$13,988",
+    "mileage": "47,531 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Audi A5 Premium Plus",
     "vin": "WAUMFAFH3FN001820",
     "stock": "25962C",
@@ -58,21 +58,6 @@
     "price": "$15,275",
     "sutherlins_price": "$13,988",
     "mileage": "58,183 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2008 Jeep Grand Cherokee SRT-8",
-    "vin": "1J8HR78368C144879",
-    "stock": "26407A",
-    "exterior": "Steel Blue Metallic",
-    "interior": "Dark Slate Gray",
-    "engine": "Gas V8 6.1L/370",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1J8HR78368C144879&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008JEE003a_640/2008JEE003a_640_01.jpg",
-    "price": "$13,988",
-    "sutherlins_price": "$13,988",
-    "mileage": "60,600 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$17,498",
     "sutherlins_price": "$17,498",
     "mileage": "36,652 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BA6PC762289",
+    "stock": "26209A",
+    "exterior": "Super Black",
+    "interior": "Light Gray",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC762289&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9d861fb242464ed1b1f94f206ac04ca3.jpg",
+    "price": "$23,575",
+    "sutherlins_price": "$17,504",
+    "mileage": "47,592 Miles"
   }
 ]
