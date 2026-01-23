@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Toyota RAV4 Limited",
-    "vin": "JTMY1RFV0KD515518",
-    "stock": "MP061",
-    "exterior": "Blizzard Pearl",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMY1RFV0KD515518&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOS11_640/2019TOS110074_640_01.jpg",
-    "price": "$36,599",
-    "sutherlins_price": "$21,574",
-    "mileage": "79,201 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chrysler Pacifica Touring L",
-    "vin": "2C4RC1BG4PR607033",
-    "stock": "MP034",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black/Alloy/Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG4PR607033&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bdbaa048c85f4689ad377ab15fa966a6.jpg",
-    "price": "$41,680",
-    "sutherlins_price": "$21,888",
-    "mileage": "68,616 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Dodge Durango GT",
     "vin": "1C4RDHDGXPC682024",
     "stock": "MP020",
@@ -421,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Ford Escape SE",
-    "vin": "1FMCU0GD7HUB36863",
-    "stock": "MP077",
-    "exterior": "Ingot Silver",
-    "interior": "Med Lt Stone Seats",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GD7HUB36863&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017FOS130002_640/2017FOS130002_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "106,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Outlander",
     "vin": "JA4J3UA80NZ087421",
     "stock": "M2578A",
@@ -478,5 +433,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "63,934 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5STXRF128846",
+    "stock": "MP078",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5STXRF128846&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024CHC11_640/2024CHC110062_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "52,735 Miles"
   }
 ]
