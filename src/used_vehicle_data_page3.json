@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY290841",
-    "stock": "P13515",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY290841&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6e81e1b762e544fe9469262b767a8e37.jpg",
-    "price": "$18,975",
-    "sutherlins_price": "$17,498",
-    "mileage": "46,058 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Kicks S",
     "vin": "3N1CP5BV0RL583929",
     "stock": "P13442",
@@ -478,5 +463,20 @@
     "price": "$19,988",
     "sutherlins_price": "$19,988",
     "mileage": "36,872 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV4PY261025",
+    "stock": "P13550",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4PY261025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$19,988",
+    "sutherlins_price": "$19,988",
+    "mileage": "8,605 Miles"
   }
 ]

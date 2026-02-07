@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Kicks SV",
-    "vin": "3N1CP5CV9NL491968",
-    "stock": "26083A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "N/A",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV9NL491968&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS26_640/2022NIS260138_640_01.jpg",
-    "price": "$15,150",
-    "sutherlins_price": "$13,898",
-    "mileage": "60,217 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford EcoSport SES",
     "vin": "MAJ6S3JL1MC425588",
     "stock": "250025B",
@@ -46,18 +31,18 @@
   },
   {
     "category": "used",
-    "name": "2019 Audi A3 Sedan 2.0T Premium",
-    "vin": "WAUAUGFF5K1026133",
-    "stock": "T26304A",
-    "exterior": "Silver",
-    "interior": "Gray",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "name": "2011 Chevrolet Silverado 1500 LT",
+    "vin": "1GCRCSE05BZ399666",
+    "stock": "KP1088",
+    "exterior": "Blue Granite Metallic",
+    "interior": "Ebony",
+    "engine": "Gas/Ethanol V8 5.3L/323",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUAUGFF5K1026133&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019AUC15_640/2019AUC150059_640_01.jpg",
-    "price": "$15,400",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCRCSE05BZ399666&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13651.jpg",
+    "price": "$13,898",
     "sutherlins_price": "$13,898",
-    "mileage": "90,965 Miles"
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -160,7 +145,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4AJWAG9GL348467&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016JES010002_640/2016JES010002_640_01.jpg",
-    "price": "$15,988",
+    "price": "$16,995",
     "sutherlins_price": "$15,988",
     "mileage": "59,524 Miles"
   },
@@ -391,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV9NY319626",
-    "stock": "T26096A",
-    "exterior": "Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9NY319626&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060046_640_01.jpg",
-    "price": "$18,150",
-    "sutherlins_price": "$16,995",
-    "mileage": "54,745 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Hyundai Sonata SEL",
     "vin": "5NPEL4JA3MH067177",
     "stock": "P13510",
@@ -418,6 +388,21 @@
     "price": "$18,750",
     "sutherlins_price": "$16,995",
     "mileage": "36,652 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV9NY319626",
+    "stock": "T26096A",
+    "exterior": "Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9NY319626&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060046_640_01.jpg",
+    "price": "$18,150",
+    "sutherlins_price": "$16,995",
+    "mileage": "54,745 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$19,550",
     "sutherlins_price": "$17,425",
     "mileage": "35,654 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CVXRY290841",
+    "stock": "P13515",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY290841&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6e81e1b762e544fe9469262b767a8e37.jpg",
+    "price": "$18,975",
+    "sutherlins_price": "$17,498",
+    "mileage": "46,058 Miles"
   }
 ]

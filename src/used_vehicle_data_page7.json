@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "MP041",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d5301fcf-4604-47cb-9ef6-ec0c0aba8bd9.jpg",
-    "price": "$27,995",
-    "sutherlins_price": "$20,478",
-    "mileage": "14,691 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chrysler Pacifica Touring L",
-    "vin": "2C4RC1BG4PR607033",
-    "stock": "MP034",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black/Alloy/Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG4PR607033&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/328bc451-69c1-4ecc-9465-397e931e9153.jpg",
-    "price": "$41,680",
-    "sutherlins_price": "$20,715",
-    "mileage": "68,616 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BS0PC130966",
     "stock": "MP045",
@@ -478,5 +448,35 @@
     "price": "$60,885",
     "sutherlins_price": "$36,888",
     "mileage": "65,472 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Expedition Limited",
+    "vin": "1FMJU1K84PEA06247",
+    "stock": "MP001",
+    "exterior": "Black Metallic",
+    "interior": "Sandstone",
+    "engine": "EcoBoost 3.5L V6 GTDi DOHC 24V Twin Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJU1K84PEA06247&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/926f420f-6bc0-4b8b-add2-664272b7e648.jpg",
+    "price": "$68,755",
+    "sutherlins_price": "$37,373",
+    "mileage": "62,331 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota 4Runner SR5 Premium",
+    "vin": "JTEFU5JRXP5295724",
+    "stock": "MP017",
+    "exterior": "Classic Silver Metallic",
+    "interior": "Graphite",
+    "engine": "4.0L V6 DOHC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTEFU5JRXP5295724&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/36c6f72e-cd5f-4bc4-b371-ff5598b19495.jpg",
+    "price": "$46,325",
+    "sutherlins_price": "$37,984",
+    "mileage": "26,599 Miles"
   }
 ]
