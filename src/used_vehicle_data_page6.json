@@ -181,6 +181,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Kia Soul LX",
+    "vin": "KNDJ23AU5P7217983",
+    "stock": "MP090",
+    "exterior": "Inferno Red",
+    "interior": "Black/Gray",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU5P7217983&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDJ23AU5P7217983&vehicletype=Hatchback",
+    "price": "N/A",
+    "sutherlins_price": "$15,488",
+    "mileage": "54,006 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8RN342198",
     "stock": "MP052",
@@ -193,6 +208,21 @@
     "price": "$27,170",
     "sutherlins_price": "$15,888",
     "mileage": "56,039 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Soul LX",
+    "vin": "KNDJ23AU1P7876367",
+    "stock": "MP089",
+    "exterior": "Fusion Black",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU1P7876367&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDJ23AU1P7876367&vehicletype=Hatchback",
+    "price": "N/A",
+    "sutherlins_price": "$15,888",
+    "mileage": "58,700 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$26,500",
     "sutherlins_price": "$20,220",
     "mileage": "418 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "MP041",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d5301fcf-4604-47cb-9ef6-ec0c0aba8bd9.jpg",
-    "price": "$27,995",
-    "sutherlins_price": "$20,478",
-    "mileage": "14,691 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chrysler Pacifica Touring L",
-    "vin": "2C4RC1BG4PR607033",
-    "stock": "MP034",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black/Alloy/Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG4PR607033&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/328bc451-69c1-4ecc-9465-397e931e9153.jpg",
-    "price": "$41,680",
-    "sutherlins_price": "$20,715",
-    "mileage": "68,616 Miles"
   }
 ]
