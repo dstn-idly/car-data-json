@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV8KC115385&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC04_640/2019NIC040031_640_01.jpg",
     "price": "$11,498",
-    "sutherlins_price": "$8,988",
+    "sutherlins_price": "$11,498",
     "mileage": "120,581 Miles"
   },
   {
@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Sentra SR",
-    "vin": "3N1AB8DV1LY310318",
-    "stock": "25920A",
-    "exterior": "Aspen White Pearl",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1LY310318&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC06_640/2020NIC060016_640_01.jpg",
-    "price": "$10,698",
-    "sutherlins_price": "$9,988",
-    "mileage": "101,337 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Kia Sorento LX",
     "vin": "5XYPGDA3XKG560924",
     "stock": "26513A",
@@ -178,6 +163,21 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "83,307 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SR",
+    "vin": "3N1AB8DV1LY310318",
+    "stock": "25920A",
+    "exterior": "Aspen White Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1LY310318&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC06_640/2020NIC060016_640_01.jpg",
+    "price": "$10,698",
+    "sutherlins_price": "$10,698",
+    "mileage": "101,337 Miles"
   },
   {
     "category": "used",
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJASB6KB743407&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a0721aa47bf401797f1a2ff179c7832.jpg",
     "price": "$11,225",
-    "sutherlins_price": "$7,988",
+    "sutherlins_price": "$5,918",
     "mileage": "103,113 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB5KT793660&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019JES15_640/2019JES150003_640_01.jpg",
     "price": "$13,898",
-    "sutherlins_price": "$11,988",
+    "sutherlins_price": "$13,898",
     "mileage": "87,198 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUAUGFF5K1026133&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019AUC15_640/2019AUC150059_640_01.jpg",
     "price": "$15,400",
-    "sutherlins_price": "$13,898",
+    "sutherlins_price": "$12,995",
     "mileage": "90,965 Miles"
   },
   {

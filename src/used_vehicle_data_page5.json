@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TYRZ5CN6PT026342&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2f470f5f755d418aaeced7dfdbf9c1cc.jpg",
     "price": "$28,400",
-    "sutherlins_price": "$25,988",
+    "sutherlins_price": "$25,498",
     "mileage": "37,591 Miles"
   },
   {
@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Jeep Grand Cherokee Summit",
-    "vin": "1C4RJFJT4LC118930",
-    "stock": "P13558",
-    "exterior": "Billet Silver Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
-    "price": "$26,988",
-    "sutherlins_price": "$26,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Titan XD PRO-4X",
     "vin": "1N6AA1FB4LN504037",
     "stock": "P13477",
@@ -208,6 +193,21 @@
     "price": "$38,798",
     "sutherlins_price": "$26,988",
     "mileage": "80,571 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Jeep Grand Cherokee Summit",
+    "vin": "1C4RJFJT4LC118930",
+    "stock": "P13558",
+    "exterior": "Billet Silver Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
+    "price": "$26,988",
+    "sutherlins_price": "$26,988",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFMT1PN620995&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023RMT11_640/2023RMT110060_640_01.jpg",
     "price": "$37,950",
-    "sutherlins_price": "$31,988",
+    "sutherlins_price": "$31,683",
     "mileage": "30,967 Miles"
   },
   {

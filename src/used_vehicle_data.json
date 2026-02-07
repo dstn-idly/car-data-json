@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV8KC115385&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC04_640/2019NIC040031_640_01.jpg",
     "price": "$11,498",
-    "sutherlins_price": "$8,988",
+    "sutherlins_price": "$11,498",
     "mileage": "120,581 Miles"
   },
   {
@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Sentra SR",
-    "vin": "3N1AB8DV1LY310318",
-    "stock": "25920A",
-    "exterior": "Aspen White Pearl",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1LY310318&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC06_640/2020NIC060016_640_01.jpg",
-    "price": "$10,698",
-    "sutherlins_price": "$9,988",
-    "mileage": "101,337 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Kia Sorento LX",
     "vin": "5XYPGDA3XKG560924",
     "stock": "26513A",
@@ -178,6 +163,21 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "83,307 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SR",
+    "vin": "3N1AB8DV1LY310318",
+    "stock": "25920A",
+    "exterior": "Aspen White Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1LY310318&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC06_640/2020NIC060016_640_01.jpg",
+    "price": "$10,698",
+    "sutherlins_price": "$10,698",
+    "mileage": "101,337 Miles"
   },
   {
     "category": "used",
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJASB6KB743407&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a0721aa47bf401797f1a2ff179c7832.jpg",
     "price": "$11,225",
-    "sutherlins_price": "$7,988",
+    "sutherlins_price": "$5,918",
     "mileage": "103,113 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB5KT793660&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019JES15_640/2019JES150003_640_01.jpg",
     "price": "$13,898",
-    "sutherlins_price": "$11,988",
+    "sutherlins_price": "$13,898",
     "mileage": "87,198 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUAUGFF5K1026133&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019AUC15_640/2019AUC150059_640_01.jpg",
     "price": "$15,400",
-    "sutherlins_price": "$13,898",
+    "sutherlins_price": "$12,995",
     "mileage": "90,965 Miles"
   },
   {
@@ -626,7 +626,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4AJWAG9GL348467&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016JES010002_640/2016JES010002_640_01.jpg",
     "price": "$16,995",
-    "sutherlins_price": "$15,988",
+    "sutherlins_price": "$16,995",
     "mileage": "59,524 Miles"
   },
   {
@@ -701,7 +701,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1RY313178&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7854245be01942fb90be5510bfb94061.jpg",
     "price": "$19,250",
-    "sutherlins_price": "$15,995",
+    "sutherlins_price": "$14,930",
     "mileage": "43,454 Miles"
   },
   {
@@ -746,7 +746,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE8PP052258&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d7480084284c279e6c45fac37c9e10.jpg",
     "price": "$19,150",
-    "sutherlins_price": "$16,598",
+    "sutherlins_price": "$15,389",
     "mileage": "59,501 Miles"
   },
   {
@@ -856,21 +856,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Hyundai Sonata SEL",
-    "vin": "5NPEL4JA3MH067177",
-    "stock": "P13510",
-    "exterior": "Phantom Black",
-    "interior": "Dark Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEL4JA3MH067177&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c8c0f2321af748e8bf6ab365820fcd15.jpg",
-    "price": "$18,750",
-    "sutherlins_price": "$16,995",
-    "mileage": "36,652 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SR",
     "vin": "3N1AB8DV9NY319626",
     "stock": "T26096A",
@@ -886,18 +871,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CVXPY268836",
-    "stock": "P13530",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$18,455",
+    "name": "2021 Hyundai Sonata SEL",
+    "vin": "5NPEL4JA3MH067177",
+    "stock": "P13510",
+    "exterior": "Phantom Black",
+    "interior": "Dark Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEL4JA3MH067177&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c8c0f2321af748e8bf6ab365820fcd15.jpg",
+    "price": "$18,750",
     "sutherlins_price": "$16,995",
-    "mileage": "63,279 Miles"
+    "mileage": "36,652 Miles"
   },
   {
     "category": "used",
@@ -913,6 +898,21 @@
     "price": "$16,995",
     "sutherlins_price": "$16,995",
     "mileage": "84,292 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CVXPY268836",
+    "stock": "P13530",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$18,455",
+    "sutherlins_price": "$16,995",
+    "mileage": "63,279 Miles"
   },
   {
     "category": "used",
@@ -1091,7 +1091,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AAXRC738596&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/989c913fe12a4cadace7c2ea1fbfe3db.jpg",
     "price": "$23,000",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$17,590",
     "mileage": "27,610 Miles"
   },
   {
@@ -1106,7 +1106,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7NN401172&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
     "price": "$19,300",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$19,498",
     "mileage": "54,593 Miles"
   },
   {
@@ -1261,21 +1261,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV0RN310409",
-    "stock": "P13544",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0RN310409&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
-    "price": "$18,988",
-    "sutherlins_price": "$18,988",
-    "mileage": "51,550 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE4RP095918",
     "stock": "P13545",
@@ -1288,6 +1273,21 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "38,437 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV0RN310409",
+    "stock": "P13544",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0RN310409&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "price": "$18,988",
+    "sutherlins_price": "$18,988",
+    "mileage": "51,550 Miles"
   },
   {
     "category": "used",
@@ -1466,7 +1466,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJXPH558059&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/eb1e3964108f437d86c09822f9740e03.jpg",
     "price": "$22,950",
-    "sutherlins_price": "$20,399",
+    "sutherlins_price": "$19,426",
     "mileage": "56,092 Miles"
   },
   {
@@ -1511,7 +1511,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYK33AF2PG096528&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023KIS01_640/2023KIS010002_640_01.jpg",
     "price": "$22,788",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$19,995",
     "mileage": "99,211 Miles"
   },
   {
@@ -1526,7 +1526,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F27RA092995&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9990be6826944fdc8fd7fde76d42be77.jpg",
     "price": "$24,275",
-    "sutherlins_price": "$20,898",
+    "sutherlins_price": "$21,598",
     "mileage": "7,187 Miles"
   },
   {
@@ -1886,7 +1886,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1C56MFA79310&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/01b62adf762142179db5f4ad52616048.jpg",
     "price": "$33,025",
-    "sutherlins_price": "$24,988",
+    "sutherlins_price": "$24,581",
     "mileage": "84,956 Miles"
   },
   {
@@ -2021,7 +2021,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TYRZ5CN6PT026342&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2f470f5f755d418aaeced7dfdbf9c1cc.jpg",
     "price": "$28,400",
-    "sutherlins_price": "$25,988",
+    "sutherlins_price": "$25,498",
     "mileage": "37,591 Miles"
   },
   {
@@ -2101,21 +2101,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Jeep Grand Cherokee Summit",
-    "vin": "1C4RJFJT4LC118930",
-    "stock": "P13558",
-    "exterior": "Billet Silver Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
-    "price": "$26,988",
-    "sutherlins_price": "$26,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Titan XD PRO-4X",
     "vin": "1N6AA1FB4LN504037",
     "stock": "P13477",
@@ -2128,6 +2113,21 @@
     "price": "$38,798",
     "sutherlins_price": "$26,988",
     "mileage": "80,571 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Jeep Grand Cherokee Summit",
+    "vin": "1C4RJFJT4LC118930",
+    "stock": "P13558",
+    "exterior": "Billet Silver Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
+    "price": "$26,988",
+    "sutherlins_price": "$26,988",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -2306,7 +2306,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFMT1PN620995&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023RMT11_640/2023RMT110060_640_01.jpg",
     "price": "$37,950",
-    "sutherlins_price": "$31,988",
+    "sutherlins_price": "$31,683",
     "mileage": "30,967 Miles"
   },
   {

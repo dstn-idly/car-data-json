@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AAXRC738596&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/989c913fe12a4cadace7c2ea1fbfe3db.jpg",
     "price": "$23,000",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$17,590",
     "mileage": "27,610 Miles"
   },
   {
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7NN401172&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC04_640/2022NIC040016_640_01.jpg",
     "price": "$19,300",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$19,498",
     "mileage": "54,593 Miles"
   },
   {
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV0RN310409",
-    "stock": "P13544",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0RN310409&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
-    "price": "$18,988",
-    "sutherlins_price": "$18,988",
-    "mileage": "51,550 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE4RP095918",
     "stock": "P13545",
@@ -328,6 +313,21 @@
     "price": "$18,988",
     "sutherlins_price": "$18,988",
     "mileage": "38,437 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV0RN310409",
+    "stock": "P13544",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0RN310409&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
+    "price": "$18,988",
+    "sutherlins_price": "$18,988",
+    "mileage": "51,550 Miles"
   },
   {
     "category": "used",
