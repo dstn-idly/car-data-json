@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SL",
-    "vin": "JN8BT3CB9PW465015",
-    "stock": "26308A",
-    "exterior": "Caspian Blue Metallic/Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3CB9PW465015&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a7d49ebf20b494a9e484d12ea4f2144.jpg",
-    "price": "$26,875",
-    "sutherlins_price": "$24,988",
-    "mileage": "38,651 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford F-150 XLT",
     "vin": "1FTEW1C56MFA79310",
     "stock": "P13455",
@@ -28,6 +13,21 @@
     "price": "$33,025",
     "sutherlins_price": "$24,988",
     "mileage": "84,956 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SL",
+    "vin": "JN8BT3CB9PW465015",
+    "stock": "26308A",
+    "exterior": "Caspian Blue Metallic/Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3CB9PW465015&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a7d49ebf20b494a9e484d12ea4f2144.jpg",
+    "price": "$26,875",
+    "sutherlins_price": "$24,988",
+    "mileage": "38,651 Miles"
   },
   {
     "category": "used",
@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Jeep Grand Cherokee Summit",
-    "vin": "1C4RJFJT4LC118930",
-    "stock": "P13558",
-    "exterior": "Billet Silver Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
-    "price": "$26,988",
-    "sutherlins_price": "$26,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Titan XD PRO-4X",
     "vin": "1N6AA1FB4LN504037",
     "stock": "P13477",
@@ -223,6 +208,21 @@
     "price": "$38,798",
     "sutherlins_price": "$26,988",
     "mileage": "80,571 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Jeep Grand Cherokee Summit",
+    "vin": "1C4RJFJT4LC118930",
+    "stock": "P13558",
+    "exterior": "Billet Silver Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
+    "price": "$26,988",
+    "sutherlins_price": "$26,988",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Armada SL",
-    "vin": "JN8AY2BA4R9417598",
-    "stock": "P13557",
-    "exterior": "Aspen White Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS10_640/2024NIS100017_640_01.jpg",
-    "price": "$36,988",
-    "sutherlins_price": "$36,988",
-    "mileage": "71,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DH5RC288694",
     "stock": "26478A",
@@ -478,5 +463,20 @@
     "price": "$36,988",
     "sutherlins_price": "$36,988",
     "mileage": "17,856 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Armada SL",
+    "vin": "JN8AY2BA4R9417598",
+    "stock": "P13557",
+    "exterior": "Aspen White Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS10_640/2024NIS100017_640_01.jpg",
+    "price": "$36,988",
+    "sutherlins_price": "$36,988",
+    "mileage": "71,602 Miles"
   }
 ]
