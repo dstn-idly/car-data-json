@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Toyota Highlander Limited",
-    "vin": "5TDDZRFH9KS729672",
-    "stock": "250081A",
-    "exterior": "Celestial Silver",
-    "interior": "Ash",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDDZRFH9KS729672&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/72e39877cb194a409ff171f14ccb00c3.jpg",
-    "price": "$28,275",
-    "sutherlins_price": "$20,988",
-    "mileage": "89,951 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CW8PN334075",
     "stock": "26337A",
@@ -103,6 +88,21 @@
     "price": "$23,550",
     "sutherlins_price": "$20,988",
     "mileage": "35,400 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Toyota Highlander Limited",
+    "vin": "5TDDZRFH9KS729672",
+    "stock": "250081A",
+    "exterior": "Celestial Silver",
+    "interior": "Ash",
+    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDDZRFH9KS729672&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/72e39877cb194a409ff171f14ccb00c3.jpg",
+    "price": "$28,275",
+    "sutherlins_price": "$20,988",
+    "mileage": "89,951 Miles"
   },
   {
     "category": "used",
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1C56MFA79310&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/01b62adf762142179db5f4ad52616048.jpg",
     "price": "$33,025",
-    "sutherlins_price": "$24,581",
+    "sutherlins_price": "$23,898",
     "mileage": "84,956 Miles"
   },
   {
