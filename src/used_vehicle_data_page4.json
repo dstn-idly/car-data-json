@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA1RW005990",
-    "stock": "26354A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1RW005990&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c6a462d83b54f78a5709a2d65f3c18b.jpg",
-    "price": "$21,925",
-    "sutherlins_price": "$20,995",
-    "mileage": "50,127 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue Platinum",
-    "vin": "JN8AT3DC0MW102150",
-    "stock": "26269A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3DC0MW102150&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/135724fc000445a2998cde6b9db1d763.jpg",
-    "price": "$23,500",
-    "sutherlins_price": "$21,474",
-    "mileage": "62,902 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Honda Accord Sedan LX",
     "vin": "1HGCY1F27RA092995",
     "stock": "KP1086",
@@ -466,6 +436,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Jeep Grand Cherokee Summit",
+    "vin": "1C4RJFJT4LC118930",
+    "stock": "P13558",
+    "exterior": "Billet Silver Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJFJT4LC118930&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020JES05_640/2020JES050137_640_01.jpg",
+    "price": "$31,800",
+    "sutherlins_price": "$26,988",
+    "mileage": "78,020 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Titan XD PRO-4X",
     "vin": "1N6AA1FB4LN504037",
     "stock": "P13477",
@@ -478,5 +463,20 @@
     "price": "$38,798",
     "sutherlins_price": "$26,988",
     "mileage": "80,571 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan NV Cargo SV",
+    "vin": "1N6BF0KY9MN806824",
+    "stock": "P13555",
+    "exterior": "Glacier White",
+    "interior": "Grey",
+    "engine": "Regular Unleaded V-6 4.0 L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6BF0KY9MN806824&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIV16_640/2021NIV160046_640_01.jpg",
+    "price": "$28,143",
+    "sutherlins_price": "$26,988",
+    "mileage": "63,837 Miles"
   }
 ]
