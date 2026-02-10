@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2016 Toyota Sienna",
-    "vin": "5TDKK3DC2GS737376",
-    "stock": "MP067A",
-    "exterior": "Sky Blue Pearl",
-    "interior": "Ash",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDKK3DC2GS737376&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016TOV110003_640/2016TOV110003_640_01.jpg",
-    "price": "$31,640",
-    "sutherlins_price": "$10,994",
-    "mileage": "157,912 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Versa SV",
-    "vin": "3N1CN8EVXNL827034",
-    "stock": "M2533A",
-    "exterior": "Super Black",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EVXNL827034&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3caecc0bf8044fc3acaa7ebfd2237b82.jpg",
-    "price": "$18,995",
-    "sutherlins_price": "$12,888",
-    "mileage": "51,245 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Chevrolet Malibu LS",
     "vin": "1G1ZC5ST8NF176701",
     "stock": "MP056",
@@ -478,5 +448,35 @@
     "price": "$32,450",
     "sutherlins_price": "$20,689",
     "mileage": "46,028 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Tucson SEL",
+    "vin": "5NMJB3DE8RH384533",
+    "stock": "MP074",
+    "exterior": "White Pearl",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE8RH384533&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c3f4cdd98c394b35b4e6c8772cc6f909.jpg",
+    "price": "$20,738",
+    "sutherlins_price": "$20,738",
+    "mileage": "32,287 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Camry SE",
+    "vin": "4T1G11AK9RU212852",
+    "stock": "MP051",
+    "exterior": "Supersonic Red",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK9RU212852&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e2e728039686454a8ff122a196bf9f13.jpg",
+    "price": "$27,960",
+    "sutherlins_price": "$20,798",
+    "mileage": "54,631 Miles"
   }
 ]
