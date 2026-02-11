@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Ford Focus SE",
-    "vin": "1FADP3K24JL206568",
-    "stock": "250055B",
-    "exterior": "Oxford White",
-    "interior": "Medium Light Stone",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FADP3K24JL206568&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0f459bab1d514182a25d43a6188d55a7.jpg",
-    "price": "$4,988",
-    "sutherlins_price": "$4,988",
-    "mileage": "110,272 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Frontier SV",
     "vin": "1N6AD0ER3EN739435",
     "stock": "26097A",
@@ -148,21 +133,6 @@
     "price": "$12,200",
     "sutherlins_price": "$10,698",
     "mileage": "101,337 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Nissan Altima 2.5 SR",
-    "vin": "1N4AL3AP0JC295826",
-    "stock": "26066A",
-    "exterior": "Gun Metallic",
-    "interior": "Sport Interior",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP0JC295826&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/75f9e36a9e6d4eaab0b88a2a09ee9e48.jpg",
-    "price": "$11,825",
-    "sutherlins_price": "$10,895",
-    "mileage": "81,799 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$13,995",
     "sutherlins_price": "$13,995",
     "mileage": "99,519 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Pathfinder SV",
+    "vin": "5N1DR2BN7LC579238",
+    "stock": "25815A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2BN7LC579238&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS07_640/2020NIS070001_640_01.jpg",
+    "price": "$11,988",
+    "sutherlins_price": "$14,698",
+    "mileage": "115,737 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mitsubishi Outlander Sport 2.0 ES",
+    "vin": "JA4APUAU6MU005382",
+    "stock": "P13453",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "2.0L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4APUAU6MU005382&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1ae2b2f8cf9946e5837412e4419f9375.jpg",
+    "price": "$17,875",
+    "sutherlins_price": "$14,898",
+    "mileage": "24,539 Miles"
   }
 ]

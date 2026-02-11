@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Nissan Pathfinder SV",
-    "vin": "5N1DR2BN7LC579238",
-    "stock": "25815A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2BN7LC579238&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS07_640/2020NIS070001_640_01.jpg",
-    "price": "$14,698",
-    "sutherlins_price": "$14,698",
-    "mileage": "115,737 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Mitsubishi Outlander Sport 2.0 ES",
-    "vin": "JA4APUAU6MU005382",
-    "stock": "P13453",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "2.0L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4APUAU6MU005382&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1ae2b2f8cf9946e5837412e4419f9375.jpg",
-    "price": "$17,875",
-    "sutherlins_price": "$14,898",
-    "mileage": "24,539 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV1RY313178",
     "stock": "26365A",
@@ -241,18 +211,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CVXPY324791",
-    "stock": "26497A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
+    "name": "2022 Nissan Sentra SV",
+    "vin": "3N1AB8CV4NY302606",
+    "stock": "P13573",
+    "exterior": "Gun Metallic",
+    "interior": "Wheat",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY324791&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b6889892c05a49a4a201ee09d1cc7750.jpg",
-    "price": "$18,400",
-    "sutherlins_price": "$16,898",
-    "mileage": "41,270 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4NY302606&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
+    "price": "$16,951",
+    "sutherlins_price": "$16,951",
+    "mileage": "72,978 Miles"
   },
   {
     "category": "used",
@@ -451,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Toyota Corolla LE",
+    "vin": "5YFEPRAE9LP119076",
+    "stock": "P13571",
+    "exterior": "Black Sand Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFEPRAE9LP119076&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020TOC04_640/2020TOC040090_640_01.jpg",
+    "price": "$17,785",
+    "sutherlins_price": "$17,785",
+    "mileage": "30,102 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV1RL576535",
     "stock": "P13471A",
@@ -478,5 +463,20 @@
     "price": "$22,975",
     "sutherlins_price": "$17,934",
     "mileage": "61,299 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 GMC Acadia SLT",
+    "vin": "1GKKNMLS9KZ169855",
+    "stock": "P13559",
+    "exterior": "Ebony Twilight Metallic",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019GMS24_640/2019GMS240018_640_01.jpg",
+    "price": "$19,100",
+    "sutherlins_price": "$17,988",
+    "mileage": "88,045 Miles"
   }
 ]
