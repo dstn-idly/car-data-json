@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR48PS228493",
-    "stock": "MP043",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.0L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR48PS228493&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c529cbbbba9a4ca5a7f7a284b8ee32ec.jpg",
-    "price": "$35,100",
-    "sutherlins_price": "$20,981",
-    "mileage": "28,355 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Toyota Corolla Cross XLE",
     "vin": "7MUEAAAGXPV057484",
     "stock": "MP038",
@@ -478,5 +463,20 @@
     "price": "$81,800",
     "sutherlins_price": "$45,988",
     "mileage": "54,368 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Silverado 2500HD LT",
+    "vin": "2GC4YNEY0R1204546",
+    "stock": "MP004",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Diesel V8 6.6L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GC4YNEY0R1204546&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/27a10be097634720a9b4f83d03966a0b.jpg",
+    "price": "$65,000",
+    "sutherlins_price": "$49,228",
+    "mileage": "27,550 Miles"
   }
 ]

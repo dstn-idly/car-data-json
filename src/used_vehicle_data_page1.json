@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Dodge Grand Caravan SE",
-    "vin": "2C4RDGBGXKR799549",
-    "stock": "P13464",
-    "exterior": "White Knuckle Clearcoat",
-    "interior": "Black/Light Graystone",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBGXKR799549&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0a320b4562d6449a8f13debe6af37c9a.jpg",
-    "price": "$12,275",
-    "sutherlins_price": "$8,988",
-    "mileage": "93,549 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Rogue SV",
     "vin": "5N1AT2MV0JC833869",
     "stock": "25725A",
@@ -478,5 +463,20 @@
     "price": "$17,188",
     "sutherlins_price": "$13,975",
     "mileage": "35,609 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Jeep Compass Trailhawk",
+    "vin": "3C4NJDDB4JT162949",
+    "stock": "26241A",
+    "exterior": "White Clearcoat",
+    "interior": "Ruby Red/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDDB4JT162949&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018JES15_640/2018JES150092_640_01.jpg",
+    "price": "$13,995",
+    "sutherlins_price": "$13,995",
+    "mileage": "99,519 Miles"
   }
 ]
