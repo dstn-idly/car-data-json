@@ -361,6 +361,21 @@
   },
   {
     "category": "cpo",
+    "name": "2025 Nissan Versa SV",
+    "vin": "3N1CN8EV1SL857308",
+    "stock": "P13570",
+    "exterior": "Super Black",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV1SL857308&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/56612.jpg",
+    "price": "$18,075",
+    "sutherlins_price": "$18,989",
+    "mileage": "1,142 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2024 Nissan Sentra SR",
     "vin": "3N1AB8DV5RY303431",
     "stock": "26155A",
@@ -463,20 +478,5 @@
     "price": "$23,550",
     "sutherlins_price": "$20,988",
     "mileage": "35,400 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA1RW005990",
-    "stock": "26354A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1RW005990&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c6a462d83b54f78a5709a2d65f3c18b.jpg",
-    "price": "$21,925",
-    "sutherlins_price": "$20,995",
-    "mileage": "50,127 Miles"
   }
 ]
