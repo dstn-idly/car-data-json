@@ -61,21 +61,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV1RY313178",
-    "stock": "26365A",
-    "exterior": "Atlantic Gray Metallic",
-    "interior": "SV Premium",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1RY313178&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7854245be01942fb90be5510bfb94061.jpg",
-    "price": "$19,250",
-    "sutherlins_price": "$14,930",
-    "mileage": "43,454 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Rogue SV",
     "vin": "JN8BT3BA7NW043444",
     "stock": "P13514",
@@ -361,21 +346,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN337182",
-    "stock": "P13527",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
-    "price": "$20,575",
-    "sutherlins_price": "$18,898",
-    "mileage": "51,108 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY201780",
     "stock": "P13520",
@@ -388,6 +358,21 @@
     "price": "$20,175",
     "sutherlins_price": "$18,898",
     "mileage": "29,943 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN337182",
+    "stock": "P13527",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
+    "price": "$20,575",
+    "sutherlins_price": "$18,898",
+    "mileage": "51,108 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +463,20 @@
     "price": "$23,375",
     "sutherlins_price": "$20,898",
     "mileage": "27,116 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Sentra SR",
+    "vin": "3N1AB8DV1SY291591",
+    "stock": "P13575",
+    "exterior": "Aspen White Pearl",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1SY291591&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC061925986_640_01.jpg",
+    "price": "$21,650",
+    "sutherlins_price": "$20,898",
+    "mileage": "24,861 Miles"
   }
 ]
