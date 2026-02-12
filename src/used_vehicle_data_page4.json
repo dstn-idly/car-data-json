@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Kia Sportage EX",
+    "vin": "5XYK33AF2PG096528",
+    "stock": "26483A",
+    "exterior": "Ebony Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYK33AF2PG096528&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1615d343b44949e7a9b9fce7989c1bba.jpg",
+    "price": "$22,788",
+    "sutherlins_price": "$19,995",
+    "mileage": "99,211 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue Platinum",
+    "vin": "JN8AT3DC0MW102150",
+    "stock": "26269A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3DC0MW102150&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/135724fc000445a2998cde6b9db1d763.jpg",
+    "price": "$23,500",
+    "sutherlins_price": "$20,798",
+    "mileage": "62,902 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV6PN373612",
     "stock": "26200A",
@@ -103,36 +133,6 @@
     "price": "$21,925",
     "sutherlins_price": "$20,995",
     "mileage": "50,127 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Frontier SV",
-    "vin": "1N6AD0ER3KN748485",
-    "stock": "P13549A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER3KN748485&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIT12_640/2019NIT120083_640_01.jpg",
-    "price": "$19,498",
-    "sutherlins_price": "$19,498",
-    "mileage": "69,555 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue Platinum",
-    "vin": "JN8AT3DC0MW102150",
-    "stock": "26269A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3DC0MW102150&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/135724fc000445a2998cde6b9db1d763.jpg",
-    "price": "$23,500",
-    "sutherlins_price": "$20,798",
-    "mileage": "62,902 Miles"
   },
   {
     "category": "used",
@@ -421,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Toyota Tacoma 2WD SR",
+    "vin": "3TYRZ5CN6PT026342",
+    "stock": "26389A",
+    "exterior": "Magnetic Gray",
+    "interior": "Cement",
+    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TYRZ5CN6PT026342&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2f470f5f755d418aaeced7dfdbf9c1cc.jpg",
+    "price": "$28,400",
+    "sutherlins_price": "$24,595",
+    "mileage": "37,591 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Jeep Wrangler Unlimited Sport Altitude",
     "vin": "1C4HJXDG6MW720633",
     "stock": "P13511",
@@ -463,20 +478,5 @@
     "price": "$32,225",
     "sutherlins_price": "$24,898",
     "mileage": "29,206 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Toyota RAV4 LE",
-    "vin": "2T3H1RFV0PW282184",
-    "stock": "P13574",
-    "exterior": "Silver Sky",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV0PW282184&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOS11_640/2023TOS111925764_640_01.jpg",
-    "price": "$27,375",
-    "sutherlins_price": "$24,986",
-    "mileage": "41,193 Miles"
   }
 ]
