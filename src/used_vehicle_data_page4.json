@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Frontier SV",
-    "vin": "1N6DD0ERXKN755561",
-    "stock": "P13560",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6DD0ERXKN755561&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIT12_640/2019NIT120083_640_01.jpg",
-    "price": "$24,425",
-    "sutherlins_price": "$20,988",
-    "mileage": "63,601 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV7RN317910",
     "stock": "250013A",
@@ -73,6 +58,21 @@
     "price": "$23,350",
     "sutherlins_price": "$20,988",
     "mileage": "3,160 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Frontier SV",
+    "vin": "1N6DD0ERXKN755561",
+    "stock": "P13560",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Steel",
+    "engine": "Regular Unleaded V-6 4.0 L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6DD0ERXKN755561&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIT12_640/2019NIT120083_640_01.jpg",
+    "price": "$24,425",
+    "sutherlins_price": "$20,988",
+    "mileage": "63,601 Miles"
   },
   {
     "category": "used",
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1SY291591&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC061925986_640_01.jpg",
     "price": "$21,650",
-    "sutherlins_price": "$21,863",
+    "sutherlins_price": "$20,898",
     "mileage": "24,861 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV3SL474841&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS28_640/2025NIS281918141_640_01.jpg",
     "price": "$22,875",
-    "sutherlins_price": "$22,898",
+    "sutherlins_price": "$21,875",
     "mileage": "1,742 Miles"
   },
   {
@@ -446,7 +446,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BVXSN307526&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/52882.jpg",
     "price": "$25,786",
-    "sutherlins_price": "$24,958",
+    "sutherlins_price": "$24,388",
     "mileage": "3,996 Miles"
   },
   {

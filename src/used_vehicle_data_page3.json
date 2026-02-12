@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV3SL834758&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC10_640/2025NIC102030415_640_01.jpg",
     "price": "$17,375",
-    "sutherlins_price": "$18,898",
+    "sutherlins_price": "$16,898",
     "mileage": "3,358 Miles"
   },
   {
@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Tucson SE",
-    "vin": "5NMJA3DE9RH329964",
-    "stock": "P13572",
-    "exterior": "Dark Gray Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3DE9RH329964&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024HYS02_640/2024HYS020001_640_01.jpg",
-    "price": "$18,988",
-    "sutherlins_price": "$18,988",
-    "mileage": "68,157 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE4RP095918",
     "stock": "P13545",
@@ -241,18 +226,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV4PY261025",
-    "stock": "P13550",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4PY261025&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8909f6df7224bef874c1be6da2c102d.jpg",
-    "price": "$20,675",
+    "name": "2024 Hyundai Tucson SE",
+    "vin": "5NMJA3DE9RH329964",
+    "stock": "P13572",
+    "exterior": "Dark Gray Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3DE9RH329964&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024HYS02_640/2024HYS020001_640_01.jpg",
+    "price": "$18,988",
     "sutherlins_price": "$18,988",
-    "mileage": "8,605 Miles"
+    "mileage": "68,157 Miles"
   },
   {
     "category": "used",
@@ -271,6 +256,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV4PY261025",
+    "stock": "P13550",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4PY261025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8909f6df7224bef874c1be6da2c102d.jpg",
+    "price": "$20,675",
+    "sutherlins_price": "$18,988",
+    "mileage": "8,605 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Versa SV",
     "vin": "3N1CN8EV1SL857308",
     "stock": "P13570",
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV1SL857308&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/56612.jpg",
     "price": "$18,075",
-    "sutherlins_price": "$18,989",
+    "sutherlins_price": "$17,598",
     "mileage": "1,142 Miles"
   },
   {
