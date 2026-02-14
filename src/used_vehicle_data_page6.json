@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2018 Ford Escape SE",
+    "vin": "1FMCU0GD4JUA65577",
+    "stock": "P13582",
+    "exterior": "Ingot Silver",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GD4JUA65577&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018FOS13_640/2018FOS130003_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "83,885 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Hyundai Tucson SE",
     "vin": "KM8J23A4XKU883694",
     "stock": "MP058",
@@ -28,6 +43,21 @@
     "price": "$18,995",
     "sutherlins_price": "$12,688",
     "mileage": "51,245 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Hyundai Santa Fe SEL",
+    "vin": "5NMS33AD3KH034181",
+    "stock": "M2631A",
+    "exterior": "Symphony Silver",
+    "interior": "Black/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD3KH034181&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019HYS01_640/2019HYS010018_640_01.jpg",
+    "price": "$28,705",
+    "sutherlins_price": "$14,488",
+    "mileage": "89,610 Miles"
   },
   {
     "category": "used",
@@ -118,21 +148,6 @@
     "price": "$27,170",
     "sutherlins_price": "$16,488",
     "mileage": "56,039 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Jeep Renegade Trailhawk",
-    "vin": "ZACNJDC12NPN66240",
-    "stock": "MP033",
-    "exterior": "Sting-Gray Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 1.3 L/81",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDC12NPN66240&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b5eb6a4a37af44dd8162aff763d5e725.jpg",
-    "price": "$33,600",
-    "sutherlins_price": "$16,888",
-    "mileage": "54,648 Miles"
   },
   {
     "category": "used",
@@ -268,21 +283,6 @@
     "price": "$28,000",
     "sutherlins_price": "$18,488",
     "mileage": "45,083 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Chevrolet Equinox LS",
-    "vin": "3GNAXHEG4RL125191",
-    "stock": "M2553A",
-    "exterior": "Riptide Blue Metallic",
-    "interior": "Medium Ash Gray",
-    "engine": "Turbocharged Gas I4 1.5L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXHEG4RL125191&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d8aebd579397455fb9211f3d38d4171d.jpg",
-    "price": "$28,780",
-    "sutherlins_price": "$18,688",
-    "mileage": "44,792 Miles"
   },
   {
     "category": "used",
