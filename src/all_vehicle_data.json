@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
     "price": "$12,452",
-    "sutherlins_price": "$12,853",
+    "sutherlins_price": "$12,452",
     "mileage": "63,606 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP1JW102591&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1c228f811c04c7eac986e655f6c5878.jpg",
     "price": "$17,188",
-    "sutherlins_price": "$13,975",
+    "sutherlins_price": "$12,898",
     "mileage": "35,609 Miles"
   },
   {
@@ -401,7 +401,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4APUAU6MU005382&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1ae2b2f8cf9946e5837412e4419f9375.jpg",
     "price": "$17,875",
-    "sutherlins_price": "$14,898",
+    "sutherlins_price": "$14,498",
     "mileage": "24,539 Miles"
   },
   {
@@ -631,21 +631,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Versa S",
-    "vin": "3N1CN8DV3SL834758",
-    "stock": "P13566",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV3SL834758&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC10_640/2025NIC102030415_640_01.jpg",
-    "price": "$17,375",
-    "sutherlins_price": "$16,898",
-    "mileage": "3,358 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Kicks SR",
     "vin": "3N1CP5DV6LL513209",
     "stock": "26342B",
@@ -658,6 +643,21 @@
     "price": "$18,525",
     "sutherlins_price": "$16,898",
     "mileage": "28,530 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Versa S",
+    "vin": "3N1CN8DV3SL834758",
+    "stock": "P13566",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV3SL834758&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC10_640/2025NIC102030415_640_01.jpg",
+    "price": "$17,375",
+    "sutherlins_price": "$16,898",
+    "mileage": "3,358 Miles"
   },
   {
     "category": "used",
@@ -701,23 +701,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC762289&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9d861fb242464ed1b1f94f206ac04ca3.jpg",
     "price": "$23,575",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$15,995",
     "mileage": "47,592 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV1PN417114",
-    "stock": "26273A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040086_640_01.jpg",
-    "price": "$18,825",
-    "sutherlins_price": "$16,995",
-    "mileage": "54,425 Miles"
   },
   {
     "category": "used",
@@ -733,6 +718,21 @@
     "price": "$18,375",
     "sutherlins_price": "$16,995",
     "mileage": "59,524 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV1PN417114",
+    "stock": "26273A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040086_640_01.jpg",
+    "price": "$18,825",
+    "sutherlins_price": "$16,995",
+    "mileage": "54,425 Miles"
   },
   {
     "category": "used",
@@ -911,7 +911,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFP4MCE7PP157851&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d0b76312b9f424eb371a481ae6b4495.jpg",
     "price": "$22,975",
-    "sutherlins_price": "$17,934",
+    "sutherlins_price": "$16,954",
     "mileage": "61,299 Miles"
   },
   {
@@ -1096,21 +1096,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN337182",
-    "stock": "P13527",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
-    "price": "$20,575",
-    "sutherlins_price": "$18,898",
-    "mileage": "51,108 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY201780",
     "stock": "P13520",
@@ -1123,6 +1108,21 @@
     "price": "$20,175",
     "sutherlins_price": "$18,898",
     "mileage": "29,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN337182",
+    "stock": "P13527",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
+    "price": "$20,575",
+    "sutherlins_price": "$18,898",
+    "mileage": "51,108 Miles"
   },
   {
     "category": "used",
@@ -1241,7 +1241,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F36LA144948&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a260560468154d80bb14cf09fd6b1fdd.jpg",
     "price": "$23,200",
-    "sutherlins_price": "$19,424",
+    "sutherlins_price": "$18,426",
     "mileage": "62,198 Miles"
   },
   {
@@ -1691,7 +1691,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA5PF382706&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/06a33ca019ee4071b3c5cf54a02b6f37.jpg",
     "price": "$27,850",
-    "sutherlins_price": "$23,988",
+    "sutherlins_price": "$23,498",
     "mileage": "28,447 Miles"
   },
   {
@@ -1951,21 +1951,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Jeep Wrangler Unlimited Sahara",
-    "vin": "1C4HJXEGXKW602967",
-    "stock": "P13543",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXEGXKW602967&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/427c661398724ce8b08bed8fec075a9a.jpg",
-    "price": "$25,988",
-    "sutherlins_price": "$25,988",
-    "mileage": "68,239 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Genesis G70 2.0T",
     "vin": "KMTG34TAXNU089661",
     "stock": "P13409",
@@ -1978,6 +1963,21 @@
     "price": "$30,925",
     "sutherlins_price": "$25,988",
     "mileage": "39,415 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Jeep Wrangler Unlimited Sahara",
+    "vin": "1C4HJXEGXKW602967",
+    "stock": "P13543",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXEGXKW602967&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/427c661398724ce8b08bed8fec075a9a.jpg",
+    "price": "$25,988",
+    "sutherlins_price": "$25,988",
+    "mileage": "68,239 Miles"
   },
   {
     "category": "used",
@@ -2036,7 +2036,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXEN7MW687848&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/27a24bd831914ebfa8d011298f269db1.jpg",
     "price": "$34,250",
-    "sutherlins_price": "$26,988",
+    "sutherlins_price": "$25,691",
     "mileage": "32,179 Miles"
   },
   {
@@ -2266,18 +2266,18 @@
   },
   {
     "category": "used",
-    "name": "2022 RAM 1500 Big Horn",
-    "vin": "1C6SRFFT6NN439336",
-    "stock": "26343A",
-    "exterior": "Granite Crystal Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "name": "2024 Nissan Pathfinder Platinum",
+    "vin": "5N1DR3DH5RC288694",
+    "stock": "26478A",
+    "exterior": "Solid Gray/Super Black",
+    "interior": "Chestnut",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFFT6NN439336&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fedba67352b4406fbf52365275c56c0e.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DH5RC288694&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5543fe81a05d4840bf15f0c56b5ed227.jpg",
     "price": "$36,988",
     "sutherlins_price": "$36,988",
-    "mileage": "37,414 Miles"
+    "mileage": "17,856 Miles"
   },
   {
     "category": "used",
@@ -2296,18 +2296,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder Platinum",
-    "vin": "5N1DR3DH5RC288694",
-    "stock": "26478A",
-    "exterior": "Solid Gray/Super Black",
-    "interior": "Chestnut",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "name": "2022 RAM 1500 Big Horn",
+    "vin": "1C6SRFFT6NN439336",
+    "stock": "26343A",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DH5RC288694&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5543fe81a05d4840bf15f0c56b5ed227.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFFT6NN439336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fedba67352b4406fbf52365275c56c0e.jpg",
     "price": "$36,988",
     "sutherlins_price": "$36,988",
-    "mileage": "17,856 Miles"
+    "mileage": "37,414 Miles"
   },
   {
     "category": "used",
@@ -3566,7 +3566,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CR2JW250525&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/35a2c2b21af84a8eb8012ed60a8c324a.jpg",
     "price": "$12,452",
-    "sutherlins_price": "$12,853",
+    "sutherlins_price": "$12,452",
     "mileage": "63,606 Miles"
   },
   {
@@ -3581,7 +3581,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP1JW102591&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1c228f811c04c7eac986e655f6c5878.jpg",
     "price": "$17,188",
-    "sutherlins_price": "$13,975",
+    "sutherlins_price": "$12,898",
     "mileage": "35,609 Miles"
   },
   {
@@ -3671,7 +3671,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6PC762289&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9d861fb242464ed1b1f94f206ac04ca3.jpg",
     "price": "$23,575",
-    "sutherlins_price": "$16,988",
+    "sutherlins_price": "$15,995",
     "mileage": "47,592 Miles"
   },
   {
