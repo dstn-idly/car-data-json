@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST6PF234952",
+    "stock": "P13496",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6PF234952&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8d1aa11e88c41b59f8aed25e1ca54cd.jpg",
+    "price": "$21,725",
+    "sutherlins_price": "$17,988",
+    "mileage": "12,382 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN309821",
+    "stock": "T26487A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN309821&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d0576c1230c348d39d8e3236e6f9e1f0.jpg",
+    "price": "$20,975",
+    "sutherlins_price": "$17,988",
+    "mileage": "33,793 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV4RY235446",
     "stock": "P13528",
@@ -91,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "JN8BT3BB8PW460972",
-    "stock": "P13478",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BB8PW460972&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/219c1a8921ea499e9aff0b25dabc5a6a.jpg",
-    "price": "$22,208",
-    "sutherlins_price": "$17,430",
-    "mileage": "50,373 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV3SL481238",
     "stock": "P13380",
@@ -151,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV0RY201780",
-    "stock": "P13520",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
-    "price": "$20,175",
-    "sutherlins_price": "$18,898",
-    "mileage": "29,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV1RN337182",
     "stock": "P13527",
@@ -178,6 +178,21 @@
     "price": "$20,575",
     "sutherlins_price": "$18,898",
     "mileage": "51,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "P13520",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
+    "price": "$20,175",
+    "sutherlins_price": "$18,898",
+    "mileage": "29,943 Miles"
   },
   {
     "category": "used",
@@ -196,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BAXPC848351",
-    "stock": "P13472",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BAXPC848351&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/865e981075364832a0522a3625f52cc5.jpg",
-    "price": "$22,775",
-    "sutherlins_price": "$16,902",
-    "mileage": "50,942 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Tucson SE",
     "vin": "5NMJA3DE9RH329964",
     "stock": "P13572",
@@ -223,21 +223,6 @@
     "price": "$19,800",
     "sutherlins_price": "$18,988",
     "mileage": "68,157 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV4PY261025",
-    "stock": "P13550",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4PY261025&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/992e1163d71f4a14afd4b5d126529618.jpg",
-    "price": "$20,675",
-    "sutherlins_price": "$18,988",
-    "mileage": "8,605 Miles"
   },
   {
     "category": "used",
@@ -268,6 +253,21 @@
     "price": "$19,600",
     "sutherlins_price": "$18,988",
     "mileage": "51,550 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV4PY261025",
+    "stock": "P13550",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4PY261025&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/992e1163d71f4a14afd4b5d126529618.jpg",
+    "price": "$20,675",
+    "sutherlins_price": "$18,988",
+    "mileage": "8,605 Miles"
   },
   {
     "category": "used",
