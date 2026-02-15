@@ -76,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Kia Soul LX",
+    "vin": "KNDJ23AU1P7876367",
+    "stock": "MP089",
+    "exterior": "Fusion Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU1P7876367&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/825e970ff1a84dcd8417ad4e6789aa3d.jpg",
+    "price": "$22,343",
+    "sutherlins_price": "$15,488",
+    "mileage": "58,700 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST2PF153995",
     "stock": "MP079",
@@ -118,21 +133,6 @@
     "price": "$21,700",
     "sutherlins_price": "$15,688",
     "mileage": "95,761 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Kia Soul LX",
-    "vin": "KNDJ23AU1P7876367",
-    "stock": "MP089",
-    "exterior": "Fusion Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU1P7876367&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/825e970ff1a84dcd8417ad4e6789aa3d.jpg",
-    "price": "$22,343",
-    "sutherlins_price": "$15,888",
-    "mileage": "58,700 Miles"
   },
   {
     "category": "used",
@@ -376,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Mitsubishi Outlander SE",
+    "vin": "JA4J4UA80PZ018521",
+    "stock": "MP069",
+    "exterior": "Red Diamond",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA80PZ018521&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d6dcc0ed32b4d5db19fee28b479dcc3.jpg",
+    "price": "$32,450",
+    "sutherlins_price": "$19,888",
+    "mileage": "46,028 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Ford Edge SEL",
     "vin": "2FMPK4J96PBA28550",
     "stock": "MP096",
@@ -463,20 +478,5 @@
     "price": "$20,888",
     "sutherlins_price": "$20,888",
     "mileage": "32,287 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BS0PC130966",
-    "stock": "MP045",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/34f225a13d97442d971b3667dab4eec4.jpg",
-    "price": "$39,400",
-    "sutherlins_price": "$20,996",
-    "mileage": "46,297 Miles"
   }
 ]
