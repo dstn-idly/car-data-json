@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Ford EcoSport Titanium",
-    "vin": "MAJ6P1WL8JC219324",
-    "stock": "P13429",
-    "exterior": "Moondust",
-    "interior": "Ebony Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6P1WL8JC219324&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d410d80daa7441b8f3d731d920577b4.jpg",
-    "price": "$15,075",
-    "sutherlins_price": "$10,822",
-    "mileage": "56,931 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Nissan Rogue SV",
     "vin": "JN8AT2MT4GW018878",
     "stock": "26061C",
@@ -316,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue SV",
-    "vin": "5N1AT2MTXKC814276",
-    "stock": "26269B",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MTXKC814276&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$13,898",
-    "sutherlins_price": "$13,898",
-    "mileage": "65,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Jeep Renegade Latitude",
     "vin": "ZACCJABB4JPJ60762",
     "stock": "P13501",
@@ -343,6 +313,21 @@
     "price": "$15,088",
     "sutherlins_price": "$13,898",
     "mileage": "40,294 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue SV",
+    "vin": "5N1AT2MTXKC814276",
+    "stock": "26269B",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MTXKC814276&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
+    "price": "$13,898",
+    "sutherlins_price": "$13,898",
+    "mileage": "65,943 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$18,200",
     "sutherlins_price": "$15,498",
     "mileage": "67,872 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "JN8AT3BA5MW002580",
+    "stock": "P13512",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA5MW002580&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6acdfc090094a94bccb46c1e422abc2.jpg",
+    "price": "$18,675",
+    "sutherlins_price": "$15,786",
+    "mileage": "84,292 Miles"
   }
 ]
