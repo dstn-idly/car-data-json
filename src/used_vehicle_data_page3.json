@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA0MW007489",
-    "stock": "26317A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA0MW007489&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
-    "price": "$20,225",
-    "sutherlins_price": "$17,898",
-    "mileage": "49,138 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 GMC Acadia SLT",
-    "vin": "1GKKNMLS9KZ169855",
-    "stock": "P13559",
-    "exterior": "Ebony Twilight Metallic",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019GMS24_640/2019GMS240018_640_01.jpg",
-    "price": "$19,100",
-    "sutherlins_price": "$17,988",
-    "mileage": "88,045 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST6PF234952",
     "stock": "P13496",
@@ -478,5 +448,35 @@
     "price": "$21,650",
     "sutherlins_price": "$20,898",
     "mileage": "24,861 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SR",
+    "vin": "3N1CP5DV7PL524886",
+    "stock": "P13578",
+    "exterior": "Aspen White Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV7PL524886&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260005_640_01.jpg",
+    "price": "$20,898",
+    "sutherlins_price": "$20,898",
+    "mileage": "3,744 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV7RN394602",
+    "stock": "26232A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV7RN394602&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/310422a7fb054b2f88492f1b278f2369.jpg",
+    "price": "$22,375",
+    "sutherlins_price": "$20,988",
+    "mileage": "27,615 Miles"
   }
 ]
