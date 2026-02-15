@@ -25,8 +25,8 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BAXSL365045&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/e9db9309411d4b969aa7673505ed392c.jpg",
-    "price": "$18,514",
-    "sutherlins_price": "$18,514",
+    "price": "$17,993",
+    "sutherlins_price": "$17,993",
     "mileage": "9,046 Miles"
   },
   {
@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV0RY201780",
-    "stock": "P13520",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
-    "price": "$20,175",
-    "sutherlins_price": "$18,898",
-    "mileage": "29,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV1RN337182",
     "stock": "P13527",
@@ -103,6 +88,21 @@
     "price": "$20,575",
     "sutherlins_price": "$18,898",
     "mileage": "51,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "P13520",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
+    "price": "$20,175",
+    "sutherlins_price": "$18,898",
+    "mileage": "29,943 Miles"
   },
   {
     "category": "used",
@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Tucson SE",
-    "vin": "5NMJA3DE9RH329964",
-    "stock": "P13572",
-    "exterior": "Dark Gray Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3DE9RH329964&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024HYS02_640/2024HYS020001_640_01.jpg",
-    "price": "$19,800",
-    "sutherlins_price": "$18,988",
-    "mileage": "68,157 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV4PY261025",
     "stock": "P13550",
@@ -151,18 +136,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE4RP095918",
-    "stock": "P13545",
-    "exterior": "Ice",
+    "name": "2024 Hyundai Tucson SE",
+    "vin": "5NMJA3DE9RH329964",
+    "stock": "P13572",
+    "exterior": "Dark Gray Metallic",
     "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE4RP095918&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/990f122080d042039772042fa036ca39.jpg",
-    "price": "$20,950",
-    "sutherlins_price": "$18,988",
-    "mileage": "38,437 Miles"
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3DE9RH329964&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024HYS02_640/2024HYS020001_640_01.jpg",
+    "price": "$19,800",
+    "sutherlins_price": "$17,898",
+    "mileage": "68,157 Miles"
   },
   {
     "category": "used",
@@ -176,8 +161,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV0RN310409&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040078_640_01.jpg",
     "price": "$19,600",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$18,700",
     "mileage": "51,550 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE4RP095918",
+    "stock": "P13545",
+    "exterior": "Ice",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE4RP095918&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/990f122080d042039772042fa036ca39.jpg",
+    "price": "$20,950",
+    "sutherlins_price": "$18,988",
+    "mileage": "38,437 Miles"
   },
   {
     "category": "used",
@@ -221,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER3KN748485&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIT12_640/2019NIT120083_640_01.jpg",
     "price": "$19,825",
-    "sutherlins_price": "$19,498",
+    "sutherlins_price": "$18,448",
     "mileage": "69,555 Miles"
   },
   {
@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB3NC723651&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
     "price": "$21,850",
-    "sutherlins_price": "$19,954",
+    "sutherlins_price": "$17,995",
     "mileage": "83,034 Miles"
   },
   {
@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV7RN430286&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3f011d4bda34c86a97e7c1e60a50808.jpg",
     "price": "$20,675",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$19,446",
     "mileage": "36,872 Miles"
   },
   {
