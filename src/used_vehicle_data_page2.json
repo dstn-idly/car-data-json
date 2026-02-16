@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "JN8AT3BA5MW002580",
+    "stock": "P13512",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA5MW002580&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6acdfc090094a94bccb46c1e422abc2.jpg",
+    "price": "$18,675",
+    "sutherlins_price": "$15,786",
+    "mileage": "84,292 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Kicks S",
     "vin": "3N1CP5BV1PL526443",
     "stock": "26242A",
@@ -436,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY251576",
+    "stock": "26444A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY251576&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$17,898",
+    "sutherlins_price": "$17,898",
+    "mileage": "24,864 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Hyundai Tucson SE",
     "vin": "5NMJA3DE9RH329964",
     "stock": "P13572",
@@ -448,35 +478,5 @@
     "price": "$19,800",
     "sutherlins_price": "$17,898",
     "mileage": "68,157 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA0MW007489",
-    "stock": "26317A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA0MW007489&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110106_640_01.jpg",
-    "price": "$20,225",
-    "sutherlins_price": "$17,898",
-    "mileage": "49,138 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 GMC Acadia SLT",
-    "vin": "1GKKNMLS9KZ169855",
-    "stock": "P13559",
-    "exterior": "Ebony Twilight Metallic",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019GMS24_640/2019GMS240018_640_01.jpg",
-    "price": "$19,100",
-    "sutherlins_price": "$17,988",
-    "mileage": "88,045 Miles"
   }
 ]

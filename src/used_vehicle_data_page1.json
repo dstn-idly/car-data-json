@@ -46,6 +46,21 @@
   },
   {
     "category": "used",
+    "name": "2019 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV2KC159965",
+    "stock": "25120A",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV2KC159965&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC04_640/2019NIC040002_640_01.jpg",
+    "price": "$9,598",
+    "sutherlins_price": "$9,598",
+    "mileage": "114,914 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Rogue SV",
     "vin": "5N1AT2MV0JC833869",
     "stock": "25725A",
@@ -463,20 +478,5 @@
     "price": "$18,200",
     "sutherlins_price": "$15,498",
     "mileage": "67,872 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA5MW002580",
-    "stock": "P13512",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA5MW002580&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6acdfc090094a94bccb46c1e422abc2.jpg",
-    "price": "$18,675",
-    "sutherlins_price": "$15,786",
-    "mileage": "84,292 Miles"
   }
 ]
