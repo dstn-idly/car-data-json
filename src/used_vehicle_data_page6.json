@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Lexus GX 460 Premium",
-    "vin": "JTJAM7BX0M5302048",
-    "stock": "26124A",
-    "exterior": "Nebula Gray Pearl",
-    "interior": "Rioja Red",
-    "engine": "Premium Unleaded V-8 4.6 L/281",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTJAM7BX0M5302048&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/85907730b891425980417655dd79c751.jpg",
-    "price": "$43,788",
-    "sutherlins_price": "$41,597",
-    "mileage": "50,662 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW i4 eDrive40",
     "vin": "WBY73AW07RFT16491",
     "stock": "CST16491",
@@ -478,5 +463,20 @@
     "price": "$26,420",
     "sutherlins_price": "$21,888",
     "mileage": "54,885 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Edge SEL",
+    "vin": "2FMPK4J9XRBA71534",
+    "stock": "MP095",
+    "exterior": "Atlas Blue Metallic",
+    "interior": "Ebony",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J9XRBA71534&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024FOS15_640/2024FOS150017_640_01.jpg",
+    "price": "$40,340",
+    "sutherlins_price": "$21,889",
+    "mileage": "34,746 Miles"
   }
 ]
