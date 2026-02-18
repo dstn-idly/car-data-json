@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "5N1AT2MV0JC833869",
-    "stock": "25725A",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV0JC833869&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/847524f7f8fe45c195c592c531d321c9.jpg",
-    "price": "$14,375",
-    "sutherlins_price": "$9,652",
-    "mileage": "93,110 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport S",
     "vin": "JN1BJ1CRXKW348798",
     "stock": "26128B",
@@ -144,7 +129,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GD4JUA65577&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018FOS13_640/2018FOS130003_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f612fb8a54384eada5e5982eff38285d.jpg",
     "price": "$12,000",
     "sutherlins_price": "$10,498",
     "mileage": "83,885 Miles"
@@ -264,7 +249,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV3LL555886&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS26_640/2020NIS260044_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c0557a4816084ee59a605d6a3637ec96.jpg",
     "price": "$13,625",
     "sutherlins_price": "$12,498",
     "mileage": "82,343 Miles"
@@ -478,5 +463,20 @@
     "price": "$18,150",
     "sutherlins_price": "$14,935",
     "mileage": "54,745 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST6PF136973",
+    "stock": "P13490",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6PF136973&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1286e1281e044cfa903edac82ad78ce4.jpg",
+    "price": "$17,600",
+    "sutherlins_price": "$14,995",
+    "mileage": "69,902 Miles"
   }
 ]

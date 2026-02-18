@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Lexus GX 460 Premium",
-    "vin": "JTJAM7BX0M5302048",
-    "stock": "26124A",
-    "exterior": "Nebula Gray Pearl",
-    "interior": "Rioja Red",
-    "engine": "Premium Unleaded V-8 4.6 L/281",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTJAM7BX0M5302048&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/85907730b891425980417655dd79c751.jpg",
-    "price": "$43,788",
-    "sutherlins_price": "$41,597",
-    "mileage": "50,662 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW i4 eDrive40",
     "vin": "WBY73AW07RFT16491",
     "stock": "CST16491",
@@ -54,7 +39,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB6PC682399&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ea2d81bb54fe4c1686a8df9d56585015.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "41,352 Miles"
@@ -478,5 +463,20 @@
     "price": "$39,400",
     "sutherlins_price": "$20,996",
     "mileage": "46,297 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Toyota RAV4 XLE",
+    "vin": "2T3W1RFV0NW193154",
+    "stock": "MP092",
+    "exterior": "Lunar Rock",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV0NW193154&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/01bd45cb-405a-4740-8d8e-9c5831484ca2.jpg",
+    "price": "$31,539",
+    "sutherlins_price": "$21,066",
+    "mileage": "89,823 Miles"
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV0NW193154",
-    "stock": "MP092",
-    "exterior": "Lunar Rock",
-    "interior": "Black",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV0NW193154&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/01bd45cb-405a-4740-8d8e-9c5831484ca2.jpg",
-    "price": "$31,539",
-    "sutherlins_price": "$21,066",
-    "mileage": "89,823 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Tesla Model 3 Standard Range Plus",
     "vin": "5YJ3E1EA1KF304416",
     "stock": "MP094",
@@ -478,5 +463,20 @@
     "price": "$42,195",
     "sutherlins_price": "$35,988",
     "mileage": "72,584 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota 4Runner SR5 Premium",
+    "vin": "JTEFU5JRXP5295724",
+    "stock": "MP017",
+    "exterior": "Classic Silver Metallic",
+    "interior": "Graphite",
+    "engine": "4.0L V6 DOHC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTEFU5JRXP5295724&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/36c6f72e-cd5f-4bc4-b371-ff5598b19495.jpg",
+    "price": "$46,325",
+    "sutherlins_price": "$35,988",
+    "mileage": "26,599 Miles"
   }
 ]
