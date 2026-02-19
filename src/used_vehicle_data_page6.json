@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2024 INFINITI QX80 LUXE",
+    "vin": "JN8AZ2AE1R9328444",
+    "stock": "P13554",
+    "exterior": "Mineral Black",
+    "interior": "Graphite",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AZ2AE1R9328444&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/80da68b09798488caa716c52836ec2fd.jpg",
+    "price": "$57,200",
+    "sutherlins_price": "$40,988",
+    "mileage": "49,449 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Lexus GX 460 Premium",
+    "vin": "JTJAM7BX0M5302048",
+    "stock": "26124A",
+    "exterior": "Nebula Gray Pearl",
+    "interior": "Rioja Red",
+    "engine": "Premium Unleaded V-8 4.6 L/281",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTJAM7BX0M5302048&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/85907730b891425980417655dd79c751.jpg",
+    "price": "$43,788",
+    "sutherlins_price": "$41,597",
+    "mileage": "50,662 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 BMW i4 eDrive40",
     "vin": "WBY73AW07RFT16491",
     "stock": "CST16491",
@@ -46,36 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Nissan Maxima 3.5 SV with Premium Pkg",
-    "vin": "1N4AA5AP5CC811764",
-    "stock": "250041A",
-    "exterior": "Winter Frost Pearl",
-    "interior": "Charcoal",
-    "engine": "Gas V6 3.5L/",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA5AP5CC811764&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14524.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "207,057 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder Platinum",
-    "vin": "5N1DR3DG0RC248921",
-    "stock": "26547A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Chestnut",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DG0RC248921&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071939866_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "12,373 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Ford Escape SE",
     "vin": "1FMCU0GD0HUA19903",
     "stock": "MP037A",
@@ -103,21 +103,6 @@
     "price": "$24,330",
     "sutherlins_price": "$9,888",
     "mileage": "74,896 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Versa 1.6 SV",
-    "vin": "3N1CN8EVXNL827034",
-    "stock": "M2533A",
-    "exterior": "Super Black Metallic",
-    "interior": "Graphite",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EVXNL827034&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d67304d2-c42e-4b38-827f-fe02d96a2986.jpg",
-    "price": "$18,995",
-    "sutherlins_price": "$12,688",
-    "mileage": "51,245 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$31,539",
     "sutherlins_price": "$21,066",
     "mileage": "89,823 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Tesla Model 3 Standard Range Plus",
+    "vin": "5YJ3E1EA1KF304416",
+    "stock": "MP094",
+    "exterior": "Solid Black",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA1KF304416&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA1KF304416&vehicletype=Sedan",
+    "price": "$42,900",
+    "sutherlins_price": "$21,488",
+    "mileage": "22,099 Miles"
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Tesla Model 3 Standard Range Plus",
-    "vin": "5YJ3E1EA1KF304416",
-    "stock": "MP094",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA1KF304416&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA1KF304416&vehicletype=Sedan",
-    "price": "$42,900",
-    "sutherlins_price": "$21,488",
-    "mileage": "22,099 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Kia Seltos S",
     "vin": "KNDEU2AA3S7773455",
     "stock": "M2577A",
@@ -27,7 +12,7 @@
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDEU2AA3S7773455&vehicletype=SUV",
     "price": "$26,960",
     "sutherlins_price": "$21,888",
-    "mileage": "12,600 Miles"
+    "mileage": "12,670 Miles"
   },
   {
     "category": "used",
@@ -152,21 +137,6 @@
   {
     "category": "used",
     "name": "2021 BMW 2 Series 228i",
-    "vin": "WBA53AK00M7J62382",
-    "stock": "MP062",
-    "exterior": "Melbourne Red Metallic",
-    "interior": "Black",
-    "engine": "2.0L 4-Cylinder",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA53AK00M7J62382&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/377537de-c83a-4904-86b3-b0a1785a2fe1.jpg",
-    "price": "$35,799",
-    "sutherlins_price": "$22,888",
-    "mileage": "43,689 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 BMW 2 Series 228i",
     "vin": "WBA53AK01M7J34770",
     "stock": "MP053",
     "exterior": "Alpine White",
@@ -283,21 +253,6 @@
     "price": "$48,999",
     "sutherlins_price": "$26,998",
     "mileage": "22,521 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Genesis G70 2.5T",
-    "vin": "KMTG34SC1SU148482",
-    "stock": "MP083",
-    "exterior": "Savile Silver",
-    "interior": "Fog Gray Two-Tone",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34SC1SU148482&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9462d6c6-a7ee-4af8-9657-9c9e9ad6996a.jpg",
-    "price": "$43,900",
-    "sutherlins_price": "$27,888",
-    "mileage": "34,632 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$46,325",
     "sutherlins_price": "$35,988",
     "mileage": "26,599 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Expedition Limited",
+    "vin": "1FMJU1K84PEA06247",
+    "stock": "MP001",
+    "exterior": "Black Metallic",
+    "interior": "Sandstone",
+    "engine": "EcoBoost 3.5L V6 GTDi DOHC 24V Twin Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJU1K84PEA06247&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/926f420f-6bc0-4b8b-add2-664272b7e648.jpg",
+    "price": "$68,755",
+    "sutherlins_price": "$36,984",
+    "mileage": "62,331 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Lexus ES 350",
+    "vin": "58ADZ1B16RU166570",
+    "stock": "MP104",
+    "exterior": "Moonbeam Beige Metallic",
+    "interior": "Black",
+    "engine": "3.5L V6 DOHC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=58ADZ1B16RU166570&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=58ADZ1B16RU166570&vehicletype=Sedan",
+    "price": "$47,385",
+    "sutherlins_price": "$37,888",
+    "mileage": "28,882 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford Bronco Wildtrak",
+    "vin": "1FMEE5DP5NLB50070",
+    "stock": "MP060",
+    "exterior": "Carbonized Gray Metallic",
+    "interior": "Black Onyx",
+    "engine": "2.7L EcoBoost V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMEE5DP5NLB50070&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/45f262e7-edac-4dfd-a803-c855f12a1f10.jpg",
+    "price": "$60,885",
+    "sutherlins_price": "$38,488",
+    "mileage": "65,472 Miles"
   }
 ]
