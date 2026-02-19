@@ -181,6 +181,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Toyota Corolla LE",
+    "vin": "JTDEPRAEXLJ092135",
+    "stock": "P13589",
+    "exterior": "Barcelona Red Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPRAEXLJ092135&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020TOC04_640/2020TOC040090_640_01.jpg",
+    "price": "$16,700",
+    "sutherlins_price": "$15,995",
+    "mileage": "58,996 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Kicks SR",
     "vin": "3N1CP5DV6LL513209",
     "stock": "26342B",
@@ -406,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Kia Soul LX",
+    "vin": "KNDJ23AU3R7902244",
+    "stock": "P13588",
+    "exterior": "Gravity Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU3R7902244&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024KIC10_640/2024KIC100060_640_01.jpg",
+    "price": "$18,350",
+    "sutherlins_price": "$16,995",
+    "mileage": "46,361 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CVXPY268836",
     "stock": "P13530",
@@ -448,35 +478,5 @@
     "price": "$22,208",
     "sutherlins_price": "$17,430",
     "mileage": "50,373 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY290841",
-    "stock": "P13515",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY290841&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6e81e1b762e544fe9469262b767a8e37.jpg",
-    "price": "$18,975",
-    "sutherlins_price": "$17,498",
-    "mileage": "46,058 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Kicks S",
-    "vin": "3N8AP6BAXSL365045",
-    "stock": "26213A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BAXSL365045&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e9db9309411d4b969aa7673505ed392c.jpg",
-    "price": "$17,545",
-    "sutherlins_price": "$17,545",
-    "mileage": "9,046 Miles"
   }
 ]
