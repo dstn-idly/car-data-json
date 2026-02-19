@@ -10,7 +10,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA5AP5CC811764&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14524.jpg",
-    "price": "$4,995",
+    "price": "$6,545",
     "sutherlins_price": "$4,995",
     "mileage": "207,057 Miles"
   },
@@ -28,6 +28,21 @@
     "price": "$10,875",
     "sutherlins_price": "$5,995",
     "mileage": "172,129 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Altima 2.5 SV",
+    "vin": "1N4AL3AP2FC229074",
+    "stock": "26232B",
+    "exterior": "Super Black",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3AP2FC229074&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC04_640/2015NIC040037_640_01.jpg",
+    "price": "$7,300",
+    "sutherlins_price": "$5,998",
+    "mileage": "233,143 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$17,875",
     "sutherlins_price": "$14,498",
     "mileage": "24,539 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV9NY319626",
-    "stock": "T26096A",
-    "exterior": "Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9NY319626&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060046_640_01.jpg",
-    "price": "$18,150",
-    "sutherlins_price": "$14,935",
-    "mileage": "54,745 Miles"
   }
 ]
