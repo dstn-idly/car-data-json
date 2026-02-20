@@ -421,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Chrysler Pacifica Touring L",
+    "vin": "2C4RC1BG0NR190846",
+    "stock": "MP037",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black/Alloy/Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG0NR190846&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/96e0460c-ec32-41c3-aefb-a59b8156ee92.jpg",
+    "price": "$41,125",
+    "sutherlins_price": "$18,998",
+    "mileage": "64,158 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Santa Fe SEL",
     "vin": "5NMS2DAJ9PH626982",
     "stock": "MP044",
@@ -463,20 +478,5 @@
     "price": "$26,500",
     "sutherlins_price": "$19,994",
     "mileage": "N/A"
-  },
-  {
-    "category": "used",
-    "name": "2024 Hyundai Tucson SEL",
-    "vin": "5NMJB3DE8RH384533",
-    "stock": "MP074",
-    "exterior": "White Pearl",
-    "interior": "Gray",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-SULEV30 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE8RH384533&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d8d82935-6a28-4d51-a756-8da35007369a.jpg",
-    "price": "$20,101",
-    "sutherlins_price": "$20,101",
-    "mileage": "32,287 Miles"
   }
 ]

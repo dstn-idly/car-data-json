@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Hyundai Tucson SEL",
+    "vin": "5NMJB3DE8RH384533",
+    "stock": "MP074",
+    "exterior": "White Pearl",
+    "interior": "Gray",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-SULEV30 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3DE8RH384533&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d8d82935-6a28-4d51-a756-8da35007369a.jpg",
+    "price": "$20,101",
+    "sutherlins_price": "$20,101",
+    "mileage": "32,287 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chrysler Pacifica Touring L",
     "vin": "2C4RC1BG4PR607033",
     "stock": "MP034",
@@ -463,20 +478,5 @@
     "price": "$42,619",
     "sutherlins_price": "$29,888",
     "mileage": "29,023 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Audi Q5 45 S line Premium",
-    "vin": "WA1EAAFY9P2124640",
-    "stock": "MP086",
-    "exterior": "Ibis White",
-    "interior": "Okapi Brown",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1EAAFY9P2124640&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/732046b4-30d3-4b24-b51a-ff5a614ce170.jpg",
-    "price": "$52,995",
-    "sutherlins_price": "$29,888",
-    "mileage": "51,120 Miles"
   }
 ]
