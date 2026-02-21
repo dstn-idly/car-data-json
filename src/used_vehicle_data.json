@@ -976,21 +976,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA0MW007489",
-    "stock": "26317A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA0MW007489&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5c4fd30576854d5296fb8d539e023fdf.jpg",
-    "price": "$20,225",
-    "sutherlins_price": "$17,898",
-    "mileage": "49,138 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Tucson SE",
     "vin": "5NMJA3DE9RH329964",
     "stock": "P13572",
@@ -1003,6 +988,21 @@
     "price": "$19,800",
     "sutherlins_price": "$17,898",
     "mileage": "68,157 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Rogue SV",
+    "vin": "JN8AT3BA0MW007489",
+    "stock": "26317A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA0MW007489&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5c4fd30576854d5296fb8d539e023fdf.jpg",
+    "price": "$20,225",
+    "sutherlins_price": "$17,898",
+    "mileage": "49,138 Miles"
   },
   {
     "category": "used",
@@ -1036,6 +1036,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV5RL516628",
+    "stock": "P13586",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c7a1e44f25d473ea3c6eebb4c9089d0.jpg",
+    "price": "$19,900",
+    "sutherlins_price": "$17,995",
+    "mileage": "29,602 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BB3NC723651",
     "stock": "26366A",
@@ -1051,18 +1066,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV5RL516628",
-    "stock": "P13586",
-    "exterior": "Super Black",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV4RY235446",
+    "stock": "P13528",
+    "exterior": "Fresh Powder",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c7a1e44f25d473ea3c6eebb4c9089d0.jpg",
-    "price": "$19,900",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4RY235446&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/07bbf41eb6e64631897c7fa8f7fb2eee.jpg",
+    "price": "$19,988",
     "sutherlins_price": "$17,995",
-    "mileage": "29,602 Miles"
+    "mileage": "52,566 Miles"
   },
   {
     "category": "used",
@@ -1093,21 +1108,6 @@
     "price": "$17,995",
     "sutherlins_price": "$17,995",
     "mileage": "57,206 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV4RY235446",
-    "stock": "P13528",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4RY235446&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/07bbf41eb6e64631897c7fa8f7fb2eee.jpg",
-    "price": "$19,988",
-    "sutherlins_price": "$17,995",
-    "mileage": "52,566 Miles"
   },
   {
     "category": "used",
@@ -1351,18 +1351,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "JN8BT3BA9PW013817",
-    "stock": "T26360A",
-    "exterior": "Boulder Gray Pearl/Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA9PW013817&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fae8cf4168946928c65b29fc8883888.jpg",
-    "price": "$20,750",
+    "name": "2019 Mercedes-Benz C-Class C 300",
+    "vin": "55SWF8DB0KU290052",
+    "stock": "26361A",
+    "exterior": "Emerald Green",
+    "interior": "Almond",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=55SWF8DB0KU290052&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c64e00cea3b149c2be22ea20d00bf70a.jpg",
+    "price": "$21,325",
     "sutherlins_price": "$18,995",
-    "mileage": "58,320 Miles"
+    "mileage": "47,721 Miles"
   },
   {
     "category": "used",
@@ -1381,18 +1381,18 @@
   },
   {
     "category": "used",
-    "name": "2019 Mercedes-Benz C-Class C 300",
-    "vin": "55SWF8DB0KU290052",
-    "stock": "26361A",
-    "exterior": "Emerald Green",
-    "interior": "Almond",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=55SWF8DB0KU290052&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c64e00cea3b149c2be22ea20d00bf70a.jpg",
-    "price": "$21,325",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BA9PW013817",
+    "stock": "T26360A",
+    "exterior": "Boulder Gray Pearl/Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA9PW013817&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0fae8cf4168946928c65b29fc8883888.jpg",
+    "price": "$20,750",
     "sutherlins_price": "$18,995",
-    "mileage": "47,721 Miles"
+    "mileage": "58,320 Miles"
   },
   {
     "category": "used",
@@ -2296,21 +2296,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Pathfinder SL",
-    "vin": "5N1DR3CA0PC208526",
-    "stock": "26549A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA0PC208526&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS07_640/2023NIS070031_640_01.jpg",
-    "price": "$29,075",
-    "sutherlins_price": "$27,995",
-    "mileage": "48,787 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Frontier SV",
     "vin": "1N6ED1EJ9RN608419",
     "stock": "P13591",
@@ -2323,6 +2308,21 @@
     "price": "$30,175",
     "sutherlins_price": "$27,995",
     "mileage": "68,153 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA0PC208526",
+    "stock": "26549A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA0PC208526&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS07_640/2023NIS070031_640_01.jpg",
+    "price": "$29,075",
+    "sutherlins_price": "$27,995",
+    "mileage": "48,787 Miles"
   },
   {
     "category": "used",
@@ -2696,7 +2696,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU1P7876367&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/35235283-98e3-4173-8206-dfbe6cfd5615.jpg",
     "price": "$22,343",
-    "sutherlins_price": "$15,488",
+    "sutherlins_price": "$16,500",
     "mileage": "58,700 Miles"
   },
   {
@@ -2726,7 +2726,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU5P7217983&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb056b71-c878-48e7-af97-0fcddc5dfc33.jpg",
     "price": "$21,890",
-    "sutherlins_price": "$15,688",
+    "sutherlins_price": "$16,888",
     "mileage": "54,006 Miles"
   },
   {
@@ -3056,7 +3056,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV0NW193154&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/01bd45cb-405a-4740-8d8e-9c5831484ca2.jpg",
     "price": "$31,539",
-    "sutherlins_price": "$21,066",
+    "sutherlins_price": "$22,833",
     "mileage": "89,823 Miles"
   },
   {
@@ -3356,7 +3356,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK1SS6PMA01426&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7177fb-6781-4278-b2cc-47d62d21dc4d.jpg",
     "price": "$51,090",
-    "sutherlins_price": "$24,888",
+    "sutherlins_price": "$27,888",
     "mileage": "20,883 Miles"
   },
   {
