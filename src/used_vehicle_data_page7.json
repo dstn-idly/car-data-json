@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN0SUA41786",
-    "stock": "MP031",
-    "exterior": "Gray Metallic",
-    "interior": "Space Gray",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN0SUA41786&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8eeb68e-bcbf-46c4-984b-c6590b90073d.jpg",
-    "price": "$27,995",
-    "sutherlins_price": "$18,888",
-    "mileage": "27,879 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Honda HR-V LX",
     "vin": "3CZRZ1H39PM716107",
     "stock": "MP018",
@@ -61,7 +46,7 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Edge SEL",
+    "name": "2023 Ford Edge ST Line",
     "vin": "2FMPK4J96PBA28550",
     "stock": "MP096",
     "exterior": "Red Metallic",
@@ -163,21 +148,6 @@
     "price": "$29,210",
     "sutherlins_price": "$20,788",
     "mileage": "62,403 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Dodge Durango GT Plus",
-    "vin": "1C4RDHDGXPC682024",
-    "stock": "MP020",
-    "exterior": "Frostbite Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RDHDGXPC682024&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/57d8a0b4-d043-434f-979d-a5a76336871c.jpg",
-    "price": "$43,140",
-    "sutherlins_price": "$20,888",
-    "mileage": "65,073 Miles"
   },
   {
     "category": "used",
@@ -421,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Mustang Mach-E Select",
-    "vin": "3FMTK1SS6PMA01426",
-    "stock": "MP026A",
-    "exterior": "White Metallic",
-    "interior": "Black Onyx",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK1SS6PMA01426&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7177fb-6781-4278-b2cc-47d62d21dc4d.jpg",
-    "price": "$51,090",
-    "sutherlins_price": "$24,888",
-    "mileage": "20,883 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Maverick XL",
     "vin": "3FTTW8E31PRA75281",
     "stock": "MP110",
@@ -478,5 +433,50 @@
     "price": "$54,700",
     "sutherlins_price": "$25,488",
     "mileage": "77,094 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "MP049",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "3.5L V6 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
+    "price": "$48,999",
+    "sutherlins_price": "$26,998",
+    "mileage": "22,521 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Armada SL",
+    "vin": "JN8AY2BA9P9400888",
+    "stock": "MP040",
+    "exterior": "Hermosa Blue Pearl",
+    "interior": "Charcoal",
+    "engine": "5.6L V8 DOHC 32V LEV3-ULEV125 400hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA9P9400888&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2df2a2b6-6bef-44d3-a59b-fb564fd10382.jpg",
+    "price": "$59,200",
+    "sutherlins_price": "$27,515",
+    "mileage": "78,608 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Mustang Mach-E Select",
+    "vin": "3FMTK1SS6PMA01426",
+    "stock": "MP026A",
+    "exterior": "White Metallic",
+    "interior": "Black Onyx",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK1SS6PMA01426&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7177fb-6781-4278-b2cc-47d62d21dc4d.jpg",
+    "price": "$51,090",
+    "sutherlins_price": "$24,888",
+    "mileage": "20,883 Miles"
   }
 ]
