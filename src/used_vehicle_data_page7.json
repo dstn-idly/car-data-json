@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2021 BMW 2 Series 228i",
-    "vin": "WBA53AK01M7J34770",
-    "stock": "MP053",
-    "exterior": "Alpine White",
-    "interior": "Black",
-    "engine": "2.0L 4-Cylinder",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA53AK01M7J34770&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7730812d-26ce-49d7-b741-f923ed520b8a.jpg",
-    "price": "$38,999",
-    "sutherlins_price": "$22,887",
-    "mileage": "27,596 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mitsubishi Outlander Sport SEL",
     "vin": "JA4ARVAW7SU001324",
     "stock": "MP009",
@@ -454,7 +439,7 @@
     "name": "2023 Kia Sorento SX-Prestige",
     "vin": "5XYRKDLF2PG237912",
     "stock": "MP015",
-    "exterior": "Wolf Gray",
+    "exterior": "Gray",
     "interior": "Black",
     "engine": "2.5L I4 DGI Turbocharged DOHC 16V LEV3-ULEV70 281hp",
     "transmission": "Automatic",
@@ -478,5 +463,20 @@
     "price": "$50,990",
     "sutherlins_price": "$32,888",
     "mileage": "26,234 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE1NF367804",
+    "stock": "MP111",
+    "exterior": "Red Multi-Coat",
+    "interior": "White/Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE1NF367804&vehicletype=SUV",
+    "price": "$67,190",
+    "sutherlins_price": "$32,888",
+    "mileage": "22,132 Miles"
   }
 ]
