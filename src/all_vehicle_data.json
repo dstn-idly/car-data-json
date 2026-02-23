@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPC24A61NE156242&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/29466fc251c9411fb2e3e86876d8698a.jpg",
     "price": "$15,750",
-    "sutherlins_price": "$12,988",
+    "sutherlins_price": "$11,988",
     "mileage": "57,054 Miles"
   },
   {
@@ -1096,21 +1096,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV0RY201780",
-    "stock": "P13520",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
-    "price": "$20,175",
-    "sutherlins_price": "$18,898",
-    "mileage": "29,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV1RN337182",
     "stock": "P13527",
@@ -1123,6 +1108,21 @@
     "price": "$20,575",
     "sutherlins_price": "$18,898",
     "mileage": "51,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "P13520",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
+    "price": "$20,175",
+    "sutherlins_price": "$18,898",
+    "mileage": "29,943 Miles"
   },
   {
     "category": "used",
@@ -1406,7 +1406,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV4SL475321&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c7a7e62c985413186880df5f1f02cda.jpg",
     "price": "$22,225",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "3,877 Miles"
   },
   {
@@ -2371,21 +2371,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Mitsubishi Mirage",
-    "vin": "ML32A4HJ2FH007023",
-    "stock": "2500011A",
-    "exterior": "Black",
-    "interior": "N/A",
-    "engine": "1.2L I3",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32A4HJ2FH007023&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015MIC07_640/2015MIC070019_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "111,544 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Ford Escape S",
     "vin": "1FMCU0F74FUA61029",
     "stock": "P13432A",
@@ -2398,6 +2383,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "118,935 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Mitsubishi Mirage",
+    "vin": "ML32A4HJ2FH007023",
+    "stock": "2500011A",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "1.2L I3",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32A4HJ2FH007023&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015MIC07_640/2015MIC070019_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "111,544 Miles"
   },
   {
     "category": "used",
@@ -3956,7 +3956,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV4SL475321&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c7a7e62c985413186880df5f1f02cda.jpg",
     "price": "$22,225",
-    "sutherlins_price": "$19,988",
+    "sutherlins_price": "$18,988",
     "mileage": "3,877 Miles"
   },
   {
