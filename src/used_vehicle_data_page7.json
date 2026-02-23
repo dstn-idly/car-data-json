@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN2SUA82016",
-    "stock": "MP041",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN2SUA82016&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d5301fcf-4604-47cb-9ef6-ec0c0aba8bd9.jpg",
-    "price": "$27,995",
-    "sutherlins_price": "$20,397",
-    "mileage": "14,691 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Outlander SE",
-    "vin": "JA4J4VA85RZ050003",
-    "stock": "MP071",
-    "exterior": "Labrador Black Pearl",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4VA85RZ050003&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/64b279f8-6ae3-4a5d-b667-fbd83e6a1fce.jpg",
-    "price": "$33,295",
-    "sutherlins_price": "$20,694",
-    "mileage": "55,229 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BS0PC130966",
     "stock": "MP045",
@@ -466,6 +436,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE1NF367804",
+    "stock": "MP111",
+    "exterior": "Red Multi-Coat",
+    "interior": "White/Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE1NF367804&vehicletype=SUV",
+    "price": "$67,190",
+    "sutherlins_price": "$32,888",
+    "mileage": "22,132 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Jeep Wagoneer L Series II",
     "vin": "1C4SJRBP8RS126533",
     "stock": "MP014",
@@ -478,5 +463,20 @@
     "price": "$70,390",
     "sutherlins_price": "$32,888",
     "mileage": "65,621 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 RAM 2500 Big Horn",
+    "vin": "3C6UR5DJ0RG275861",
+    "stock": "MP003",
+    "exterior": "Flame Red Clearcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "6.4L V8",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6UR5DJ0RG275861&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b23f1346-830e-45a8-b06a-02737cb1e140.jpg",
+    "price": "$56,999",
+    "sutherlins_price": "$33,673",
+    "mileage": "39,739 Miles"
   }
 ]

@@ -25,7 +25,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CE2CP4GL379572&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016NIC170004_640/2016NIC170004_640_01.jpg",
-    "price": "$4,995",
+    "price": "$6,575",
     "sutherlins_price": "$4,995",
     "mileage": "104,254 Miles"
   },
@@ -40,7 +40,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4PJLAB3GW190591&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016JES040005_640/2016JES040005_640_01.jpg",
-    "price": "$5,995",
+    "price": "$6,900",
     "sutherlins_price": "$5,995",
     "mileage": "134,649 Miles"
   },
@@ -70,7 +70,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYEE637390102225&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2009CAD004a_640/2009CAD004a_640_01.jpg",
-    "price": "$6,995",
+    "price": "$8,213",
     "sutherlins_price": "$6,995",
     "mileage": "90,358 Miles"
   },
@@ -100,7 +100,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJESB8GB680955&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016BUS040002_640/2016BUS040002_640_01.jpg",
-    "price": "$8,988",
+    "price": "$11,488",
     "sutherlins_price": "$8,988",
     "mileage": "65,776 Miles"
   },
@@ -118,21 +118,6 @@
     "price": "$11,750",
     "sutherlins_price": "$8,995",
     "mileage": "86,987 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV2KC159965",
-    "stock": "25120A",
-    "exterior": "Deep Blue Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV2KC159965&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIC04_640/2019NIC040002_640_01.jpg",
-    "price": "$10,175",
-    "sutherlins_price": "$9,598",
-    "mileage": "114,914 Miles"
   },
   {
     "category": "used",
@@ -331,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue SV",
-    "vin": "KNMAT2MT8KP542940",
-    "stock": "26446A",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT8KP542940&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$15,875",
-    "sutherlins_price": "$13,898",
-    "mileage": "80,761 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Jeep Compass Limited",
     "vin": "3C4NJCCB5KT793660",
     "stock": "P13538",
@@ -478,5 +448,35 @@
     "price": "$18,425",
     "sutherlins_price": "$15,820",
     "mileage": "24,680 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Compass Limited",
+    "vin": "3C4NJCCB0MT531418",
+    "stock": "26365B",
+    "exterior": "Sting-Gray Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB0MT531418&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b66eb744ff414558b4fdc37254885982.jpg",
+    "price": "$20,125",
+    "sutherlins_price": "$15,898",
+    "mileage": "57,824 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mazda CX-5 Touring",
+    "vin": "JM3KFACM7M1318913",
+    "stock": "P13500",
+    "exterior": "Machine Gray Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JM3KFACM7M1318913&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edb800fe47c44669bdd8cc2034bb046e.jpg",
+    "price": "$18,375",
+    "sutherlins_price": "$15,946",
+    "mileage": "71,921 Miles"
   }
 ]
