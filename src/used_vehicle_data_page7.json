@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Tesla Model 3 Base",
-    "vin": "5YJ3E1EA1PF465260",
-    "stock": "MP106",
-    "exterior": "Midnight Silver Metallic",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA1PF465260&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA1PF465260&vehicletype=Sedan",
-    "price": "$40,380",
-    "sutherlins_price": "$24,588",
-    "mileage": "31,045 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Toyota RAV4 XLE",
     "vin": "JTMW1RFV4MD067925",
     "stock": "MP109",
@@ -448,5 +433,50 @@
     "price": "$126,880",
     "sutherlins_price": "$73,419",
     "mileage": "9,064 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Toyota Venza LE",
+    "vin": "4T3ZA3BB3DU064149",
+    "stock": "M2580A",
+    "exterior": "Gray",
+    "interior": "Light Gray",
+    "engine": "2.7L I4 SMPI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T3ZA3BB3DU064149&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T3ZA3BB3DU064149&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "189,632 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Mitsubishi Outlander SE Black Edition",
+    "vin": "JA4J3UA8XPZ044918",
+    "stock": "M2636A",
+    "exterior": "White Diamond",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA8XPZ044918&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA8XPZ044918&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "34,381 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Mitsubishi Outlander",
+    "vin": "JA4J4UA81NZ079678",
+    "stock": "M2513A",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA81NZ079678&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J4UA81NZ079678&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "35,307 Miles"
   }
 ]
