@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV5RL516628",
-    "stock": "P13586",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
-    "price": "$19,900",
-    "sutherlins_price": "$17,995",
-    "mileage": "29,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BB3NC723651",
     "stock": "26366A",
@@ -478,5 +463,20 @@
     "price": "$21,850",
     "sutherlins_price": "$17,995",
     "mileage": "83,034 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV5RL516628",
+    "stock": "P13586",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
+    "price": "$19,900",
+    "sutherlins_price": "$17,995",
+    "mileage": "29,602 Miles"
   }
 ]
