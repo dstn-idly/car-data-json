@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Genesis G70 2.0T",
-    "vin": "KMTG34TAXNU089661",
-    "stock": "P13409",
-    "exterior": "Vik Black",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXNU089661&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48b40074782249268548107f5d98788b.jpg",
-    "price": "$30,925",
-    "sutherlins_price": "$25,988",
-    "mileage": "39,415 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Jeep Wrangler Unlimited Sahara",
     "vin": "1C4HJXEGXKW602967",
     "stock": "P13543",
@@ -58,6 +43,21 @@
     "price": "$33,950",
     "sutherlins_price": "$25,988",
     "mileage": "68,239 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Genesis G70 2.0T",
+    "vin": "KMTG34TAXNU089661",
+    "stock": "P13409",
+    "exterior": "Vik Black",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXNU089661&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48b40074782249268548107f5d98788b.jpg",
+    "price": "$30,925",
+    "sutherlins_price": "$25,988",
+    "mileage": "39,415 Miles"
   },
   {
     "category": "used",
@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Frontier SV",
-    "vin": "1N6ED1EJ9RN608419",
-    "stock": "P13591",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ9RN608419&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIT12_640/2024NIT121836240_640_01.jpg",
-    "price": "$30,175",
-    "sutherlins_price": "$27,995",
-    "mileage": "68,153 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Pathfinder SL",
     "vin": "5N1DR3CA0PC208526",
     "stock": "26549A",
@@ -238,6 +223,21 @@
     "price": "$29,075",
     "sutherlins_price": "$27,995",
     "mileage": "48,787 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Frontier SV",
+    "vin": "1N6ED1EJ9RN608419",
+    "stock": "P13591",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ9RN608419&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIT12_640/2024NIT121836240_640_01.jpg",
+    "price": "$30,175",
+    "sutherlins_price": "$27,995",
+    "mileage": "68,153 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Mitsubishi Mirage",
-    "vin": "ML32A4HJ2FH007023",
-    "stock": "2500011A",
-    "exterior": "Black",
-    "interior": "N/A",
-    "engine": "1.2L I3",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32A4HJ2FH007023&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015MIC07_640/2015MIC070019_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "111,544 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Ford Escape S",
     "vin": "1FMCU0F74FUA61029",
     "stock": "P13432A",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "118,935 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Mitsubishi Mirage",
+    "vin": "ML32A4HJ2FH007023",
+    "stock": "2500011A",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "1.2L I3",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32A4HJ2FH007023&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015MIC07_640/2015MIC070019_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "111,544 Miles"
   }
 ]
