@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CW8NW497480",
-    "stock": "26084B",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CW8NW497480&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS17_640/2022NIS170001_640_01.jpg",
-    "price": "$27,625",
-    "sutherlins_price": "$20,988",
-    "mileage": "29,072 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Toyota RAV4 XLE",
-    "vin": "2T3P1RFV2NW248806",
-    "stock": "26158A",
-    "exterior": "Red",
-    "interior": "Ash",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3P1RFV2NW248806&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a53a08524a941fbb555a6687831e80a.jpg",
-    "price": "$28,025",
-    "sutherlins_price": "$21,141",
-    "mileage": "95,570 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV3SL474841",
     "stock": "P13569",
@@ -354,7 +324,7 @@
     "engine": "Electric",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJXCBE4XGF001469&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6c63b8750a41bc98677d12df38e950.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/432fe625ef674a62988fa0eb48cbb2ee.jpg",
     "price": "$29,813",
     "sutherlins_price": "$25,556",
     "mileage": "58,943 Miles"
@@ -414,7 +384,7 @@
     "engine": "Regular Unleaded V-6 4.0 L/241",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6BF0KY9MN806824&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2434367b805d44df9d0d75156d9cedd3.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e8fced9216e74c7e9742988198ab74e7.jpg",
     "price": "$28,143",
     "sutherlins_price": "$25,988",
     "mileage": "63,837 Miles"
@@ -478,5 +448,35 @@
     "price": "$30,875",
     "sutherlins_price": "$26,498",
     "mileage": "39,001 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SL",
+    "vin": "5N1BT3CA0RC723019",
+    "stock": "26445A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA0RC723019&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bd779624062b4005a13f1a9a73e5ae5f.jpg",
+    "price": "$29,425",
+    "sutherlins_price": "$26,898",
+    "mileage": "16,495 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Kia Seltos SX",
+    "vin": "KNDETCA75S7781974",
+    "stock": "26230A",
+    "exterior": "Snow White Pearl",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/97",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDETCA75S7781974&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/907c616718344436a3571fe81adebdad.jpg",
+    "price": "$31,150",
+    "sutherlins_price": "$26,898",
+    "mileage": "10,092 Miles"
   }
 ]
