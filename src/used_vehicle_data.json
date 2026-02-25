@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2014 Hyundai Azera Base",
-    "vin": "KMHFG4JG1EA350503",
-    "stock": "T26529A",
-    "exterior": "Silver Frost Metallic",
-    "interior": "Graphite Black",
-    "engine": "Regular Unleaded V-6 3.3 L/204",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHFG4JG1EA350503&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014HYU002a_640/2014HYU002a_640_01.jpg",
-    "price": "$3,988",
-    "sutherlins_price": "$3,988",
-    "mileage": "131,583 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Nissan Versa Note SV",
     "vin": "3N1CE2CP4GL379572",
     "stock": "P13580A",
@@ -88,21 +73,6 @@
     "price": "$8,213",
     "sutherlins_price": "$6,995",
     "mileage": "90,358 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Subaru Forester 2.5i",
-    "vin": "JF2SJABC2FH800152",
-    "stock": "26213B",
-    "exterior": "Quartz Blue Pearl",
-    "interior": "Gray",
-    "engine": "Regular Unleaded H-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2SJABC2FH800152&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015SUS04_640/2015SUS040002_640_01.jpg",
-    "price": "$7,988",
-    "sutherlins_price": "$7,988",
-    "mileage": "127,771 Miles"
   },
   {
     "category": "used",
@@ -220,9 +190,9 @@
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJN2A23G7338026&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016KIC100001_640/2016KIC100001_640_01.jpg",
-    "price": "$10,988",
+    "price": "$12,725",
     "sutherlins_price": "$10,988",
-    "mileage": "N/A"
+    "mileage": "73,482 Miles"
   },
   {
     "category": "used",
@@ -295,7 +265,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MTXKC797687&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$11,988",
+    "price": "$12,775",
     "sutherlins_price": "$11,988",
     "mileage": "99,592 Miles"
   },
@@ -759,25 +729,10 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040086_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a5308c60eff54617a24f59d20b3ce895.jpg",
     "price": "$18,825",
     "sutherlins_price": "$16,995",
     "mileage": "54,425 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY251576",
-    "stock": "26444A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY251576&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
-    "price": "$19,650",
-    "sutherlins_price": "$16,995",
-    "mileage": "24,864 Miles"
   },
   {
     "category": "used",
@@ -793,6 +748,21 @@
     "price": "$18,350",
     "sutherlins_price": "$16,995",
     "mileage": "46,361 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY251576",
+    "stock": "26444A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY251576&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "price": "$19,650",
+    "sutherlins_price": "$16,995",
+    "mileage": "24,864 Miles"
   },
   {
     "category": "used",
@@ -819,7 +789,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0NY311352&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060016_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/294ce98fb00e476fb1d5f2b5c68990ef.jpg",
     "price": "$19,675",
     "sutherlins_price": "$16,995",
     "mileage": "35,997 Miles"
@@ -954,7 +924,7 @@
     "engine": "Gas V6 3.6L/222",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019GMS24_640/2019GMS240018_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4a771c3ba90c4d35ae8a82d94c8fa2ee.jpg",
     "price": "$19,100",
     "sutherlins_price": "$17,988",
     "mileage": "88,045 Miles"
@@ -1044,7 +1014,7 @@
     "engine": "Regular Unleaded V-6 4.0 L/241",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER3KN748485&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIT12_640/2019NIT120083_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fff9714b489042698b8f7a04da587a68.jpg",
     "price": "$19,825",
     "sutherlins_price": "$17,995",
     "mileage": "69,555 Miles"
@@ -1063,21 +1033,6 @@
     "price": "$19,300",
     "sutherlins_price": "$17,995",
     "mileage": "54,593 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Honda Accord Sedan Sport",
-    "vin": "1HGCV1F36LA144948",
-    "stock": "P13405",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCV1F36LA144948&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a260560468154d80bb14cf09fd6b1fdd.jpg",
-    "price": "$23,200",
-    "sutherlins_price": "$18,426",
-    "mileage": "62,198 Miles"
   },
   {
     "category": "used",
@@ -1104,7 +1059,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV1RL472952&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS26_640/2024NIS260078_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/380ef039bb754b3aabee717781293c17.jpg",
     "price": "$20,225",
     "sutherlins_price": "$18,498",
     "mileage": "24,449 Miles"
@@ -1156,21 +1111,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN337182",
-    "stock": "P13527",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
-    "price": "$20,575",
-    "sutherlins_price": "$18,898",
-    "mileage": "51,108 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY201780",
     "stock": "P13520",
@@ -1183,6 +1123,21 @@
     "price": "$20,175",
     "sutherlins_price": "$18,898",
     "mileage": "29,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN337182",
+    "stock": "P13527",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
+    "price": "$20,575",
+    "sutherlins_price": "$18,898",
+    "mileage": "51,108 Miles"
   },
   {
     "category": "used",
@@ -1269,7 +1224,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV7KC024304&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOS11_640/2019TOS110017_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9b730847309643c38027e58676411ded.jpg",
     "price": "$20,325",
     "sutherlins_price": "$18,995",
     "mileage": "78,353 Miles"
@@ -1464,7 +1419,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV7PL524886&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS26_640/2023NIS260005_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6e819df01d3a43a4a54ee355b6e3786e.jpg",
     "price": "$22,825",
     "sutherlins_price": "$20,898",
     "mileage": "3,744 Miles"
@@ -1479,7 +1434,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH502551&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS01_640/2023HYS010096_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f60eda23f2f14dd2b9ec9520164d94a3.jpg",
     "price": "$23,675",
     "sutherlins_price": "$20,898",
     "mileage": "57,246 Miles"
@@ -1495,7 +1450,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CW8NW497480&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS17_640/2022NIS170001_640_01.jpg",
-    "price": "$20,988",
+    "price": "$27,625",
     "sutherlins_price": "$20,988",
     "mileage": "29,072 Miles"
   },
@@ -1618,21 +1573,6 @@
     "price": "$24,375",
     "sutherlins_price": "$22,498",
     "mileage": "79,819 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Tesla Model 3 Base",
-    "vin": "5YJ3E1EA5PF382706",
-    "stock": "P13463",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA5PF382706&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/855d5858845f463ab95f2f984eecf782.jpg",
-    "price": "$27,850",
-    "sutherlins_price": "$22,645",
-    "mileage": "28,447 Miles"
   },
   {
     "category": "used",
@@ -1854,7 +1794,7 @@
     "engine": "Electric",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJXCBE4XGF001469&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016TSS010001_640/2016TSS010001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6c63b8750a41bc98677d12df38e950.jpg",
     "price": "$29,813",
     "sutherlins_price": "$25,556",
     "mileage": "58,943 Miles"
@@ -1914,7 +1854,7 @@
     "engine": "Regular Unleaded V-6 4.0 L/241",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6BF0KY9MN806824&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c239ad3e5cc54deea20914ffe26a28e6.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2434367b805d44df9d0d75156d9cedd3.jpg",
     "price": "$28,143",
     "sutherlins_price": "$25,988",
     "mileage": "63,837 Miles"
@@ -2004,7 +1944,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/97",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDETCA75S7781974&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025KIS08_640/2025KIS081983247_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/81a09db844d94240b4a6d76f4a9b623c.jpg",
     "price": "$31,150",
     "sutherlins_price": "$26,898",
     "mileage": "10,092 Miles"
@@ -2154,7 +2094,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3P1RFV2RW456240&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024TOS11_640/2024TOS111927533_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3a5d77d425884d7c99e41d829d532cee.jpg",
     "price": "$35,475",
     "sutherlins_price": "$29,880",
     "mileage": "19,988 Miles"
@@ -2686,6 +2626,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Mitsubishi Outlander SE Black Edition",
+    "vin": "JA4J3UA8XPZ044918",
+    "stock": "M2636A",
+    "exterior": "White Diamond",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA8XPZ044918&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA8XPZ044918&vehicletype=SUV",
+    "price": "$20,888",
+    "sutherlins_price": "$20,888",
+    "mileage": "34,381 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Murano SV",
     "vin": "5N1AZ2BS0PC130966",
     "stock": "MP045",
@@ -2746,18 +2701,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Ford Edge SEL",
-    "vin": "2FMPK4J9XRBA71534",
-    "stock": "MP095",
-    "exterior": "Blue Metallic",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J9XRBA71534&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2FMPK4J9XRBA71534&vehicletype=SUV",
-    "price": "$40,340",
-    "sutherlins_price": "$21,889",
-    "mileage": "34,746 Miles"
+    "name": "2022 Mitsubishi Outlander",
+    "vin": "JA4J4UA81NZ079678",
+    "stock": "M2513A",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA81NZ079678&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J4UA81NZ079678&vehicletype=SUV",
+    "price": "$21,888",
+    "sutherlins_price": "$21,888",
+    "mileage": "35,307 Miles"
   },
   {
     "category": "used",
@@ -3106,21 +3061,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE1NF367804",
-    "stock": "MP111",
-    "exterior": "Red Multi-Coat",
-    "interior": "White/Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE1NF367804&vehicletype=SUV",
-    "price": "$67,190",
-    "sutherlins_price": "$32,888",
-    "mileage": "22,132 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Jeep Wagoneer L Series II",
     "vin": "1C4SJRBP8RS126533",
     "stock": "MP014",
@@ -3133,6 +3073,21 @@
     "price": "$70,390",
     "sutherlins_price": "$32,888",
     "mileage": "65,621 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE1NF367804",
+    "stock": "MP111",
+    "exterior": "Red Multi-Coat",
+    "interior": "White/Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE1NF367804&vehicletype=SUV",
+    "price": "$67,190",
+    "sutherlins_price": "$32,888",
+    "mileage": "22,132 Miles"
   },
   {
     "category": "used",
@@ -3313,50 +3268,5 @@
     "price": "$126,880",
     "sutherlins_price": "$73,419",
     "mileage": "9,064 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2013 Toyota Venza LE",
-    "vin": "4T3ZA3BB3DU064149",
-    "stock": "M2580A",
-    "exterior": "Gray",
-    "interior": "Light Gray",
-    "engine": "2.7L I4 SMPI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T3ZA3BB3DU064149&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T3ZA3BB3DU064149&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "189,632 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Mitsubishi Outlander SE Black Edition",
-    "vin": "JA4J3UA8XPZ044918",
-    "stock": "M2636A",
-    "exterior": "White Diamond",
-    "interior": "N/A",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA8XPZ044918&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA8XPZ044918&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "34,381 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Mitsubishi Outlander",
-    "vin": "JA4J4UA81NZ079678",
-    "stock": "M2513A",
-    "exterior": "Black",
-    "interior": "N/A",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA81NZ079678&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J4UA81NZ079678&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "35,307 Miles"
   }
 ]
