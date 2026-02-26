@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 RAM 2500 Big Horn",
-    "vin": "3C6UR5DL0RG283394",
-    "stock": "MP064",
-    "exterior": "Patriot Blue Pearlcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Cummins 6.7L I6 Turbodiesel",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6UR5DL0RG283394&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d5828e4d-1ce6-49fe-9f3e-82bd67d136bd.jpg",
-    "price": "$67,995",
-    "sutherlins_price": "$41,973",
-    "mileage": "51,479 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Silverado 2500HD LT",
     "vin": "2GC4YNEY0R1204546",
     "stock": "MP004",
@@ -170,7 +155,7 @@
     "vin": "1G1ZD5ST7PF161042",
     "stock": "MP114",
     "exterior": "Summit White",
-    "interior": "Jet Black",
+    "interior": "Black",
     "engine": "1.5L DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST7PF161042&source=BUP",
@@ -241,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Equinox LS",
-    "vin": "2GNAXHEV6L6247884",
-    "stock": "MP118",
-    "exterior": "Summit White",
-    "interior": "Medium Ash Gray",
-    "engine": "1.5L DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNAXHEV6L6247884&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2GNAXHEV6L6247884&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "89,305 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla SE",
     "vin": "5YFS4MCE1RP189384",
     "stock": "MP127",
@@ -271,6 +241,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Chevrolet Equinox LS",
+    "vin": "2GNAXHEV6L6247884",
+    "stock": "MP118",
+    "exterior": "Summit White",
+    "interior": "Medium Ash Gray",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNAXHEV6L6247884&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2GNAXHEV6L6247884&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "89,305 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Mitsubishi Outlander SE",
     "vin": "JA4J3UA84PZ051699",
     "stock": "MP116",
@@ -282,7 +267,7 @@
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA84PZ051699&vehicletype=SUV",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "69,764 Miles"
+    "mileage": "N/A"
   },
   {
     "category": "used",

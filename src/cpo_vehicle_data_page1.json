@@ -227,21 +227,6 @@
   {
     "category": "cpo",
     "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV2RY241150",
-    "stock": "P13508",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2RY241150&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/880c0412b844449ea05ed0f43df88add.jpg",
-    "price": "$19,025",
-    "sutherlins_price": "$16,998",
-    "mileage": "32,384 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CVXRY290841",
     "stock": "P13515",
     "exterior": "Fresh Powder",
@@ -316,21 +301,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Sentra SR",
-    "vin": "3N1AB8DV5RY303431",
-    "stock": "26155A",
-    "exterior": "Atlantic Gray Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5RY303431&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ba22eedaddc4c56b135009a2ecd6383.jpg",
-    "price": "$22,179",
-    "sutherlins_price": "$17,995",
-    "mileage": "32,147 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2019 Nissan Frontier SV",
     "vin": "1N6AD0ER3KN748485",
     "stock": "P13549A",
@@ -343,6 +313,21 @@
     "price": "$19,825",
     "sutherlins_price": "$17,995",
     "mileage": "69,555 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Sentra SR",
+    "vin": "3N1AB8DV5RY303431",
+    "stock": "26155A",
+    "exterior": "Atlantic Gray Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5RY303431&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ba22eedaddc4c56b135009a2ecd6383.jpg",
+    "price": "$22,179",
+    "sutherlins_price": "$17,995",
+    "mileage": "32,147 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +463,20 @@
     "price": "$20,650",
     "sutherlins_price": "$19,898",
     "mileage": "55,531 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CW8PN334075",
+    "stock": "26337A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CW8PN334075&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a2254b766f6f4bc3895242c4e8328a8b.jpg",
+    "price": "$23,550",
+    "sutherlins_price": "$19,988",
+    "mileage": "35,400 Miles"
   }
 ]
