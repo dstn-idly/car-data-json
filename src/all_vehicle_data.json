@@ -1261,21 +1261,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Toyota RAV4 LE",
-    "vin": "2T3H1RFV7KC024304",
-    "stock": "26189A",
-    "exterior": "Silver Sky Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV7KC024304&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d08b219bb3f4d499585d54e30a1e170.jpg",
-    "price": "$20,325",
-    "sutherlins_price": "$18,995",
-    "mileage": "78,353 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA9PW013817",
     "stock": "T26360A",
@@ -1288,6 +1273,21 @@
     "price": "$20,750",
     "sutherlins_price": "$18,995",
     "mileage": "58,320 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Toyota RAV4 LE",
+    "vin": "2T3H1RFV7KC024304",
+    "stock": "26189A",
+    "exterior": "Silver Sky Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV7KC024304&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d08b219bb3f4d499585d54e30a1e170.jpg",
+    "price": "$20,325",
+    "sutherlins_price": "$18,995",
+    "mileage": "78,353 Miles"
   },
   {
     "category": "used",
@@ -2941,21 +2941,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Mitsubishi Outlander SE",
-    "vin": "JA4J3UA84PZ051699",
-    "stock": "MP116",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA84PZ051699&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA84PZ051699&vehicletype=SUV",
-    "price": "$20,988",
-    "sutherlins_price": "$20,988",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2021 BMW 2 Series 228i",
     "vin": "WBA53AK00M7J62382",
     "stock": "MP062",
@@ -2968,6 +2953,21 @@
     "price": "$35,799",
     "sutherlins_price": "$20,988",
     "mileage": "43,689 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Mitsubishi Outlander SE",
+    "vin": "JA4J3UA84PZ051699",
+    "stock": "MP116",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA84PZ051699&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA84PZ051699&vehicletype=SUV",
+    "price": "$20,988",
+    "sutherlins_price": "$20,988",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -3827,21 +3827,6 @@
   {
     "category": "cpo",
     "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CVXPY268836",
-    "stock": "P13530",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
-    "price": "$18,455",
-    "sutherlins_price": "$16,995",
-    "mileage": "63,279 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV2PY251576",
     "stock": "26444A",
     "exterior": "Super Black",
@@ -3853,6 +3838,21 @@
     "price": "$19,650",
     "sutherlins_price": "$16,995",
     "mileage": "24,864 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CVXPY268836",
+    "stock": "P13530",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
+    "price": "$18,455",
+    "sutherlins_price": "$16,995",
+    "mileage": "63,279 Miles"
   },
   {
     "category": "cpo",
