@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C6HJTAG0NL161300&vehicletype=Truck",
     "price": "$29,988",
-    "sutherlins_price": "$29,988",
+    "sutherlins_price": "$29,888",
     "mileage": "24,326 Miles"
   },
   {
@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK4SX8PMA58773&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FMTK4SX8PMA58773&vehicletype=SUV",
     "price": "$34,988",
-    "sutherlins_price": "$34,988",
+    "sutherlins_price": "$34,888",
     "mileage": "31,539 Miles"
   },
   {
@@ -133,6 +133,21 @@
     "price": "$39,950",
     "sutherlins_price": "$35,488",
     "mileage": "7,988 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 GMC Acadia AT4",
+    "vin": "1GKKNLLS1PZ253556",
+    "stock": "MP120",
+    "exterior": "Volcanic Red",
+    "interior": "Black",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1GKKNLLS1PZ253556&vehicletype=SUV",
+    "price": "$36,988",
+    "sutherlins_price": "$35,888",
+    "mileage": "32,033 Miles"
   },
   {
     "category": "used",
@@ -178,21 +193,6 @@
     "price": "$68,755",
     "sutherlins_price": "$36,984",
     "mileage": "62,331 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 GMC Acadia AT4",
-    "vin": "1GKKNLLS1PZ253556",
-    "stock": "MP120",
-    "exterior": "Volcanic Red",
-    "interior": "Black",
-    "engine": "3.6L V6 SIDI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1GKKNLLS1PZ253556&vehicletype=SUV",
-    "price": "$36,988",
-    "sutherlins_price": "$36,988",
-    "mileage": "32,033 Miles"
   },
   {
     "category": "used",
