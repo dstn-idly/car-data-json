@@ -639,7 +639,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB9CV5TY246274&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/sentra/2026-nissan-sentra-12116-exterior-cbh.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d5af6d14a6fb4fbe81db25f968c66c20.jpg",
     "price": "$25,725",
     "sutherlins_price": "$23,151",
     "mileage": "6 Miles"
@@ -1269,7 +1269,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1TC781245&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c91a7b8f89af4db38ce68affd3928372.jpg",
     "price": "$32,500",
     "sutherlins_price": "$26,958",
     "mileage": "6 Miles"
@@ -1284,7 +1284,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1TC773338&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kh3.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/26430a2beb62470e922093659fd94b5d.jpg",
     "price": "$32,500",
     "sutherlins_price": "$26,958",
     "mileage": "6 Miles"
@@ -1389,7 +1389,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4TC780140&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-qbe.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/567069e8363b4ba38fc478cff8a337bf.jpg",
     "price": "$32,950",
     "sutherlins_price": "$27,408",
     "mileage": "6 Miles"
@@ -1532,21 +1532,6 @@
   {
     "category": "new",
     "name": "2026 Nissan Rogue SV",
-    "vin": "5N1BT3BA2TC782548",
-    "stock": "26593",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal Premium Cloth",
-    "engine": "N/A",
-    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA2TC782548&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kad.png.ximg.m_6_h.smart.png",
-    "price": "$32,500",
-    "sutherlins_price": "$29,000",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Rogue SV",
     "vin": "5N1BT3BA2TC791007",
     "stock": "TC791007",
     "exterior": "Super Black",
@@ -1592,21 +1577,6 @@
   {
     "category": "new",
     "name": "2026 Nissan Rogue SV",
-    "vin": "5N1BT3BA1TC795467",
-    "stock": "TC795467",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal Premium Cloth",
-    "engine": "N/A",
-    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1TC795467&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-nbl.png.ximg.m_6_h.smart.png",
-    "price": "$32,950",
-    "sutherlins_price": "$29,450",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Rogue SV",
     "vin": "5N1BT3BA1TC782282",
     "stock": "TC782282",
     "exterior": "Everest White Pearl Tricoat",
@@ -1615,6 +1585,21 @@
     "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1TC782282&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-qbe.png.ximg.m_6_h.smart.png",
+    "price": "$32,950",
+    "sutherlins_price": "$29,450",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Rogue SV",
+    "vin": "5N1BT3BA1TC795467",
+    "stock": "TC795467",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal Premium Cloth",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1TC795467&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-nbl.png.ximg.m_6_h.smart.png",
     "price": "$32,950",
     "sutherlins_price": "$29,450",
     "mileage": "6 Miles"
@@ -1876,6 +1861,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Rogue SV",
+    "vin": "5N1BT3BA3TC796040",
+    "stock": "TC796040",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal Premium Cloth",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA3TC796040&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kby.png.ximg.m_6_h.smart.png",
+    "price": "$32,950",
+    "sutherlins_price": "$32,950",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2026 Nissan Rogue Rock Creek",
     "vin": "5N1BT3BB0TC779527",
     "stock": "TC779527",
@@ -1885,21 +1885,6 @@
     "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB0TC779527&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54416-exterior-kby.png.ximg.m_6_h.smart.png",
-    "price": "$36,645",
-    "sutherlins_price": "$33,145",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Rogue Rock Creek",
-    "vin": "5N1BT3BB1TC782260",
-    "stock": "26592",
-    "exterior": "Everest White Pearl Tricoat",
-    "interior": "Charcoal Leatherette",
-    "engine": "N/A",
-    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB1TC782260&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54416-exterior-qbe.png.ximg.m_6_h.smart.png",
     "price": "$36,645",
     "sutherlins_price": "$33,145",
     "mileage": "6 Miles"
@@ -1930,6 +1915,21 @@
     "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB1TC792710&source=BUP",
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54416-exterior-hal.png.ximg.m_6_h.smart.png",
+    "price": "$36,645",
+    "sutherlins_price": "$33,145",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Rogue Rock Creek",
+    "vin": "5N1BT3BB2TC782428",
+    "stock": "TC782428",
+    "exterior": "Everest White Pearl Tricoat",
+    "interior": "Charcoal Leatherette",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB2TC782428&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54416-exterior-qbe.png.ximg.m_6_h.smart.png",
     "price": "$36,645",
     "sutherlins_price": "$33,145",
     "mileage": "6 Miles"
@@ -2097,6 +2097,21 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/156350d2c73e4c38b60e8b8956c39ab4.jpg",
     "price": "$42,575",
     "sutherlins_price": "$36,453",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Rogue Rock Creek",
+    "vin": "5N1BT3BB4TC796492",
+    "stock": "TC796492",
+    "exterior": "Everest White Pearl Tricoat",
+    "interior": "Charcoal Leatherette",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB4TC796492&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54416-exterior-qbe.png.ximg.m_6_h.smart.png",
+    "price": "$36,645",
+    "sutherlins_price": "$36,645",
     "mileage": "6 Miles"
   },
   {
@@ -2412,6 +2427,21 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ebebd608f66d4a62a5c650a921fe5c3f.jpg",
     "price": "$44,190",
     "sutherlins_price": "$39,407",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab SV",
+    "vin": "1N6ED1EJ7TN647016",
+    "stock": "TN647016",
+    "exterior": "Glacier White",
+    "interior": "Premium Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ7TN647016&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2016/frontier/2016-nissan-frontier-32316-exterior-qak.png.ximg.m_6_h.smart.png",
+    "price": "$39,615",
+    "sutherlins_price": "$39,615",
     "mileage": "6 Miles"
   },
   {
@@ -2829,7 +2859,7 @@
     "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK4TN636127&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32816-exterior-qak.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/655577b16b0e4e6f9484e43ebbd6249c.jpg",
     "price": "$49,220",
     "sutherlins_price": "$44,278",
     "mileage": "6 Miles"
@@ -2907,21 +2937,6 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/12f700b05c7f47058f77e18d58342bd2.jpg",
     "price": "$50,460",
     "sutherlins_price": "$45,518",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Pathfinder Rock Creek",
-    "vin": "5N1DR3BE5TC222792",
-    "stock": "26591",
-    "exterior": "Everest White Pearl Tricoat",
-    "interior": "Charcoal Leatherette",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission with Manual Mode",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BE5TC222792&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/pathfinder/2026-nissan-pathfinder-52416-exterior-qbe.png.ximg.m_6_h.smart.png",
-    "price": "$47,620",
-    "sutherlins_price": "$45,620",
     "mileage": "6 Miles"
   },
   {
@@ -3204,7 +3219,7 @@
     "engine": "Twin Turbo Premium Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY3EA8T9016340&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/armada/2026-nissan-armada-26516-exterior-dar.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cb41b9120ded4af593b6adefc193910e.jpg",
     "price": "$75,470",
     "sutherlins_price": "$69,856",
     "mileage": "6 Miles"

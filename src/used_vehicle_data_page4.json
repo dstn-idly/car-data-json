@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Nissan Kicks S",
-    "vin": "3N8AP6BA2SL393180",
-    "stock": "26180A",
-    "exterior": "Canyon Bronze Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BA2SL393180&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/daa1777b8c00444799e758de5d68d819.jpg",
-    "price": "$23,075",
-    "sutherlins_price": "$19,995",
-    "mileage": "3,709 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Chevrolet Trax LT",
-    "vin": "KL77LHEP8SC043266",
-    "stock": "P13609",
-    "exterior": "Cypress Gray",
-    "interior": "Jet Black with Blue accents",
-    "engine": "Turbocharged Gas 3-Cyl 1.2L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL77LHEP8SC043266&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025CHS32_640/2025CHS321968828_640_01.jpg",
-    "price": "$20,498",
-    "sutherlins_price": "$20,498",
-    "mileage": "33,276 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Honda Passport EX-L",
     "vin": "5FNYF7H53KB011279",
     "stock": "P13593",
@@ -391,6 +361,21 @@
   },
   {
     "category": "used",
+    "name": "2025 Nissan Altima SR",
+    "vin": "1N4BL4CV4SN374749",
+    "stock": "P13608",
+    "exterior": "Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4SN374749&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0336854cd78e4060944c5e8899ef2b24.jpg",
+    "price": "$24,498",
+    "sutherlins_price": "$24,498",
+    "mileage": "20,601 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Altima S",
     "vin": "1N4BL4BV2SN309612",
     "stock": "P13567",
@@ -478,5 +463,20 @@
     "price": "$24,275",
     "sutherlins_price": "$25,499",
     "mileage": "7,187 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Tesla Model X P90D",
+    "vin": "5YJXCBE4XGF001469",
+    "stock": "P13495",
+    "exterior": "Solid White",
+    "interior": "Ultra White",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJXCBE4XGF001469&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/432fe625ef674a62988fa0eb48cbb2ee.jpg",
+    "price": "$29,813",
+    "sutherlins_price": "$25,556",
+    "mileage": "58,943 Miles"
   }
 ]
