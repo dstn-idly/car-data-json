@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV2NY221442",
-    "stock": "26168A",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY221442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/68cc4c74a46f47edbd355aa62a4b1855.jpg",
-    "price": "$21,075",
-    "sutherlins_price": "$19,898",
-    "mileage": "22,079 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA5PW423403",
     "stock": "26367A",
@@ -388,6 +373,21 @@
     "price": "$20,650",
     "sutherlins_price": "$19,898",
     "mileage": "55,531 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV2NY221442",
+    "stock": "26168A",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV2NY221442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/68cc4c74a46f47edbd355aa62a4b1855.jpg",
+    "price": "$21,075",
+    "sutherlins_price": "$19,898",
+    "mileage": "22,079 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2025 Chevrolet Trax LT",
-    "vin": "KL77LHEP8SC043266",
-    "stock": "P13609",
-    "exterior": "Cypress Gray",
-    "interior": "Jet Black with Blue accents",
-    "engine": "Turbocharged Gas 3-Cyl 1.2L/",
+    "name": "2019 Honda Passport EX-L",
+    "vin": "5FNYF7H53KB011279",
+    "stock": "P13593",
+    "exterior": "Obsidian Blue Pearl",
+    "interior": "Gray",
+    "engine": "Regular Unleaded V-6 3.5 L/212",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL77LHEP8SC043266&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025CHS32_640/2025CHS321968828_640_01.jpg",
-    "price": "$20,498",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF7H53KB011279&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019HOS01_640/2019HOS010007_640_01.jpg",
+    "price": "$22,195",
     "sutherlins_price": "$20,498",
-    "mileage": "33,276 Miles"
+    "mileage": "64,228 Miles"
   }
 ]
