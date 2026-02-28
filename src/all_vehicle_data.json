@@ -647,6 +647,21 @@
   {
     "category": "used",
     "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV2PY251576",
+    "stock": "26444A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY251576&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9dde876dc661471ca4d77d9215b35547.jpg",
+    "price": "$19,650",
+    "sutherlins_price": "$16,995",
+    "mileage": "24,864 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CVXPY268836",
     "stock": "P13530",
     "exterior": "Fresh Powder",
@@ -673,21 +688,6 @@
     "price": "$18,350",
     "sutherlins_price": "$16,995",
     "mileage": "46,361 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CV2PY251576",
-    "stock": "26444A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY251576&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9dde876dc661471ca4d77d9215b35547.jpg",
-    "price": "$19,650",
-    "sutherlins_price": "$16,995",
-    "mileage": "24,864 Miles"
   },
   {
     "category": "used",
@@ -1721,7 +1721,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJXCBE4XGF001469&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/432fe625ef674a62988fa0eb48cbb2ee.jpg",
     "price": "$29,813",
-    "sutherlins_price": "$25,556",
+    "sutherlins_price": "$24,823",
     "mileage": "58,943 Miles"
   },
   {
@@ -3722,21 +3722,6 @@
   {
     "category": "cpo",
     "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CVXPY268836",
-    "stock": "P13530",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
-    "price": "$18,455",
-    "sutherlins_price": "$16,995",
-    "mileage": "63,279 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Sentra SV",
     "vin": "3N1AB8CV2PY251576",
     "stock": "26444A",
     "exterior": "Super Black",
@@ -3748,6 +3733,21 @@
     "price": "$19,650",
     "sutherlins_price": "$16,995",
     "mileage": "24,864 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CVXPY268836",
+    "stock": "P13530",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
+    "price": "$18,455",
+    "sutherlins_price": "$16,995",
+    "mileage": "63,279 Miles"
   },
   {
     "category": "cpo",
@@ -3841,21 +3841,6 @@
   },
   {
     "category": "cpo",
-    "name": "2019 Nissan Frontier SV",
-    "vin": "1N6AD0ER3KN748485",
-    "stock": "P13549A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Steel",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER3KN748485&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/52cb75985e8841768bd645de0a04920a.jpg",
-    "price": "$19,825",
-    "sutherlins_price": "$17,995",
-    "mileage": "69,555 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SR",
     "vin": "3N1AB8DV5RY303431",
     "stock": "26155A",
@@ -3868,6 +3853,21 @@
     "price": "$22,179",
     "sutherlins_price": "$17,995",
     "mileage": "32,147 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2019 Nissan Frontier SV",
+    "vin": "1N6AD0ER3KN748485",
+    "stock": "P13549A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Steel",
+    "engine": "Regular Unleaded V-6 4.0 L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AD0ER3KN748485&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/52cb75985e8841768bd645de0a04920a.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$17,995",
+    "mileage": "69,555 Miles"
   },
   {
     "category": "cpo",
@@ -3901,21 +3901,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN337182",
-    "stock": "P13527",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
-    "price": "$20,575",
-    "sutherlins_price": "$18,898",
-    "mileage": "51,108 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY201780",
     "stock": "P13520",
@@ -3928,6 +3913,21 @@
     "price": "$20,175",
     "sutherlins_price": "$18,898",
     "mileage": "29,943 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN337182",
+    "stock": "P13527",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
+    "price": "$20,575",
+    "sutherlins_price": "$18,898",
+    "mileage": "51,108 Miles"
   },
   {
     "category": "cpo",
