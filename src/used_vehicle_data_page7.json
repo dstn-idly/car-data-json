@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Toyota Camry LE",
-    "vin": "4T1C11AK8RU875344",
-    "stock": "MP102",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Macadamia",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK8RU875344&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/69d42f2f-69a0-4723-b111-033143744517.jpg",
-    "price": "$26,420",
-    "sutherlins_price": "$21,888",
-    "mileage": "54,885 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Outlander SE",
     "vin": "JA4J4UA81NZ079678",
     "stock": "M2513A",
@@ -204,7 +189,7 @@
     "engine": "2.5L I-4 Hybrid",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E31PRA75281&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fe45c573-4986-4ce2-8cdf-ae53d2ba54d4.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4a6240de-0678-44d1-bc6b-81e09ee142c4.jpg",
     "price": "$27,035",
     "sutherlins_price": "$24,888",
     "mileage": "54,411 Miles"
@@ -369,7 +354,7 @@
     "engine": "2.4L DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/79880a58-1a79-4000-87ec-bb687748d95c.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
     "price": "$42,619",
     "sutherlins_price": "$29,888",
     "mileage": "29,023 Miles"
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE2PA171208",
-    "stock": "MP099",
-    "exterior": "Midnight Silver Metallic",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE2PA171208&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE2PA171208&vehicletype=SUV",
-    "price": "$65,990",
-    "sutherlins_price": "$30,888",
-    "mileage": "45,090 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Kia Sorento SX-Prestige",
     "vin": "5XYRKDLF2PG237912",
     "stock": "MP015",
@@ -433,6 +403,21 @@
     "price": "$46,635",
     "sutherlins_price": "$30,973",
     "mileage": "18,381 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE2PA171208",
+    "stock": "MP099",
+    "exterior": "Midnight Silver Metallic",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE2PA171208&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE2PA171208&vehicletype=SUV",
+    "price": "$65,990",
+    "sutherlins_price": "$30,888",
+    "mileage": "45,090 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$67,190",
     "sutherlins_price": "$32,888",
     "mileage": "22,132 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 RAM 2500 Big Horn",
+    "vin": "3C6UR5DJ0RG275861",
+    "stock": "MP003",
+    "exterior": "Flame Red Clearcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "6.4L V8",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6UR5DJ0RG275861&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b23f1346-830e-45a8-b06a-02737cb1e140.jpg",
+    "price": "$56,999",
+    "sutherlins_price": "$33,673",
+    "mileage": "39,739 Miles"
   }
 ]
