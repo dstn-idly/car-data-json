@@ -452,21 +452,6 @@
   {
     "category": "used",
     "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV4RY235446",
-    "stock": "P13528",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4RY235446&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/07bbf41eb6e64631897c7fa8f7fb2eee.jpg",
-    "price": "$19,988",
-    "sutherlins_price": "$17,995",
-    "mileage": "52,566 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV3RY364648",
     "stock": "P13587",
     "exterior": "Gun Metallic",
@@ -478,5 +463,20 @@
     "price": "$19,475",
     "sutherlins_price": "$17,995",
     "mileage": "42,727 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV4RY235446",
+    "stock": "P13528",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4RY235446&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/07bbf41eb6e64631897c7fa8f7fb2eee.jpg",
+    "price": "$19,988",
+    "sutherlins_price": "$17,995",
+    "mileage": "52,566 Miles"
   }
 ]
