@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Camry LE",
-    "vin": "4T1C11AK8RU875344",
-    "stock": "MP102",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Macadamia",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK8RU875344&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/69d42f2f-69a0-4723-b111-033143744517.jpg",
-    "price": "$26,420",
-    "sutherlins_price": "$21,888",
-    "mileage": "54,885 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3UA8XPZ044918",
     "stock": "M2636A",
@@ -478,5 +463,20 @@
     "price": "$21,888",
     "sutherlins_price": "$21,888",
     "mileage": "34,381 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Camry LE",
+    "vin": "4T1C11AK8RU875344",
+    "stock": "MP102",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Macadamia",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK8RU875344&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/69d42f2f-69a0-4723-b111-033143744517.jpg",
+    "price": "$26,420",
+    "sutherlins_price": "$21,888",
+    "mileage": "54,885 Miles"
   }
 ]
