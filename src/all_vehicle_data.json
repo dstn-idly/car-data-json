@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Pathfinder S",
-    "vin": "5N1DR2MN2HC913308",
-    "stock": "KP1089",
-    "exterior": "Magnetic Black Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN2HC913308&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS070003_640/2017NIS070003_640_01.jpg",
-    "price": "$9,765",
-    "sutherlins_price": "$6,995",
-    "mileage": "113,129 Miles"
-  },
-  {
-    "category": "used",
     "name": "2007 Cadillac SRX V6",
     "vin": "1GYEE637770133572",
     "stock": "P13604A",
@@ -118,6 +103,21 @@
     "price": "$6,995",
     "sutherlins_price": "$6,995",
     "mileage": "208,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Pathfinder S",
+    "vin": "5N1DR2MN2HC913308",
+    "stock": "KP1089",
+    "exterior": "Magnetic Black Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN2HC913308&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS070003_640/2017NIS070003_640_01.jpg",
+    "price": "$9,765",
+    "sutherlins_price": "$6,995",
+    "mileage": "113,129 Miles"
   },
   {
     "category": "used",
@@ -676,21 +676,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV1PN417114",
-    "stock": "26273A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1083887118de4381a59301bf76a3399d.jpg",
-    "price": "$18,825",
-    "sutherlins_price": "$16,995",
-    "mileage": "54,425 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CV2NY243460",
     "stock": "P13583A",
@@ -706,18 +691,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Sentra SV",
-    "vin": "3N1AB8CVXPY268836",
-    "stock": "P13530",
-    "exterior": "Fresh Powder",
+    "name": "2023 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV1PN417114",
+    "stock": "26273A",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
-    "price": "$18,455",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1083887118de4381a59301bf76a3399d.jpg",
+    "price": "$18,825",
     "sutherlins_price": "$16,995",
-    "mileage": "63,279 Miles"
+    "mileage": "54,425 Miles"
   },
   {
     "category": "used",
@@ -733,6 +718,21 @@
     "price": "$16,995",
     "sutherlins_price": "$16,995",
     "mileage": "65,437 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CVXPY268836",
+    "stock": "P13530",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
+    "price": "$18,455",
+    "sutherlins_price": "$16,995",
+    "mileage": "63,279 Miles"
   },
   {
     "category": "used",
@@ -1351,21 +1351,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SEL",
-    "vin": "5NMS2DAJ9PH502551",
-    "stock": "P13590",
-    "exterior": "Stormy Sea",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH502551&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/09cb8954f6ba414695f221f416bd2dfb.jpg",
-    "price": "$23,675",
-    "sutherlins_price": "$20,898",
-    "mileage": "57,246 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV7PL524886",
     "stock": "P13578",
@@ -1378,6 +1363,21 @@
     "price": "$22,825",
     "sutherlins_price": "$20,898",
     "mileage": "3,744 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SEL",
+    "vin": "5NMS2DAJ9PH502551",
+    "stock": "P13590",
+    "exterior": "Stormy Sea",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH502551&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/09cb8954f6ba414695f221f416bd2dfb.jpg",
+    "price": "$23,675",
+    "sutherlins_price": "$20,898",
+    "mileage": "57,246 Miles"
   },
   {
     "category": "used",
@@ -2476,21 +2476,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Kicks SR",
-    "vin": "3N1CP5DV8ML478366",
-    "stock": "MP121",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV8ML478366&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e646590-db1b-4385-9b27-ad0ff6097852.jpg",
-    "price": "$27,020",
-    "sutherlins_price": "$18,888",
-    "mileage": "50,031 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Ford Mustang EcoBoost",
     "vin": "1FA6P8TH6K5112545",
     "stock": "MP113",
@@ -2503,6 +2488,21 @@
     "price": "$33,020",
     "sutherlins_price": "$18,888",
     "mileage": "54,392 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Kicks SR",
+    "vin": "3N1CP5DV8ML478366",
+    "stock": "MP121",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV8ML478366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e646590-db1b-4385-9b27-ad0ff6097852.jpg",
+    "price": "$27,020",
+    "sutherlins_price": "$18,888",
+    "mileage": "50,031 Miles"
   },
   {
     "category": "used",
@@ -3631,21 +3631,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Sentra SR",
-    "vin": "3N1AB8DV5RY303431",
-    "stock": "26155A",
-    "exterior": "Atlantic Gray Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5RY303431&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ba22eedaddc4c56b135009a2ecd6383.jpg",
-    "price": "$22,179",
-    "sutherlins_price": "$17,995",
-    "mileage": "32,147 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2019 Nissan Frontier SV",
     "vin": "1N6AD0ER3KN748485",
     "stock": "P13549A",
@@ -3658,6 +3643,21 @@
     "price": "$19,825",
     "sutherlins_price": "$17,995",
     "mileage": "69,555 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Sentra SR",
+    "vin": "3N1AB8DV5RY303431",
+    "stock": "26155A",
+    "exterior": "Atlantic Gray Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5RY303431&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ba22eedaddc4c56b135009a2ecd6383.jpg",
+    "price": "$22,179",
+    "sutherlins_price": "$17,995",
+    "mileage": "32,147 Miles"
   },
   {
     "category": "cpo",
