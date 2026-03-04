@@ -1,6 +1,51 @@
 [
   {
     "category": "used",
+    "name": "2024 Toyota Corolla SE",
+    "vin": "5YFS4MCE1RP189384",
+    "stock": "MP127",
+    "exterior": "Classic Silver Metallic",
+    "interior": "Black/Red",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFS4MCE1RP189384&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YFS4MCE1RP189384&vehicletype=Sedan",
+    "price": "$27,395",
+    "sutherlins_price": "$25,888",
+    "mileage": "15,805 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Toyota RAV4 XLE",
+    "vin": "JTMW1RFV4MD067925",
+    "stock": "MP109",
+    "exterior": "Silver Sky Metallic",
+    "interior": "Ash",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMW1RFV4MD067925&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3bb27c9f-d020-4191-80e7-d7621cdaa87e.jpg",
+    "price": "$27,345",
+    "sutherlins_price": "$26,888",
+    "mileage": "45,743 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "MP049",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "3.5L V6 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
+    "price": "$48,999",
+    "sutherlins_price": "$26,998",
+    "mileage": "22,521 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Armada SL",
     "vin": "JN8AY2BA9P9400888",
     "stock": "MP040",
@@ -388,20 +433,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "118,560 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Kia Soul Plus",
-    "vin": "KNDJP3A57J7893322",
-    "stock": "MP130",
-    "exterior": "Alien Ii",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJP3A57J7893322&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDJP3A57J7893322&vehicletype=Hatchback",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "82,543 Miles"
   }
 ]
