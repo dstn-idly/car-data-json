@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV5RY303431&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ba22eedaddc4c56b135009a2ecd6383.jpg",
     "price": "$22,179",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$16,898",
     "mileage": "32,147 Miles"
   },
   {
@@ -221,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2PY251576&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9dde876dc661471ca4d77d9215b35547.jpg",
     "price": "$19,650",
-    "sutherlins_price": "$16,995",
+    "sutherlins_price": "$17,498",
     "mileage": "24,864 Miles"
   },
   {
@@ -256,6 +256,21 @@
   },
   {
     "category": "cpo",
+    "name": "2023 Nissan Sentra S",
+    "vin": "3N1AB8BV4PY289795",
+    "stock": "26493A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4PY289795&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b47421040c1f4175950d809774bc48fe.jpg",
+    "price": "$20,650",
+    "sutherlins_price": "$17,995",
+    "mileage": "22,424 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV5RL516628",
     "stock": "P13586",
@@ -268,21 +283,6 @@
     "price": "$19,900",
     "sutherlins_price": "$17,995",
     "mileage": "29,602 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Sentra S",
-    "vin": "3N1AB8BV4PY289795",
-    "stock": "26493A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4PY289795&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b47421040c1f4175950d809774bc48fe.jpg",
-    "price": "$20,650",
-    "sutherlins_price": "$18,567",
-    "mileage": "22,424 Miles"
   },
   {
     "category": "cpo",
@@ -326,23 +326,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1SY209361&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/36e60f1bc66048fa8da7a682e50b75ea.jpg",
     "price": "$19,925",
-    "sutherlins_price": "$18,898",
+    "sutherlins_price": "$17,995",
     "mileage": "22,423 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV1RN337182",
-    "stock": "P13527",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
-    "price": "$20,575",
-    "sutherlins_price": "$18,898",
-    "mileage": "51,108 Miles"
   },
   {
     "category": "cpo",
@@ -358,6 +343,21 @@
     "price": "$20,175",
     "sutherlins_price": "$18,898",
     "mileage": "29,943 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV1RN337182",
+    "stock": "P13527",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
+    "price": "$20,575",
+    "sutherlins_price": "$18,898",
+    "mileage": "51,108 Miles"
   },
   {
     "category": "cpo",
@@ -461,7 +461,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CW8NW497480&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7828ba87387a4d0fb674b6c89323b46f.jpg",
     "price": "$27,625",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$21,498",
     "mileage": "29,072 Miles"
   },
   {
@@ -551,7 +551,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA7PC863890&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110141_640_01.jpg",
     "price": "$25,675",
-    "sutherlins_price": "$24,898",
+    "sutherlins_price": "$23,850",
     "mileage": "31,292 Miles"
   },
   {
