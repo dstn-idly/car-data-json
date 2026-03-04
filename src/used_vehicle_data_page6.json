@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2025 Ford Escape Active",
+    "vin": "1FMCU0GN0SUA41786",
+    "stock": "MP031",
+    "exterior": "Gray Metallic",
+    "interior": "Space Gray",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN0SUA41786&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8eeb68e-bcbf-46c4-984b-c6590b90073d.jpg",
+    "price": "$27,995",
+    "sutherlins_price": "$18,570",
+    "mileage": "27,879 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Honda HR-V LX",
     "vin": "3CZRZ1H39PM716107",
     "stock": "MP018",
@@ -166,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Honda Civic EX",
-    "vin": "19XFC1F35KE018707",
-    "stock": "MP097",
-    "exterior": "Platinum White Pearl",
-    "interior": "Black",
-    "engine": "1.5L I-4 DI DOHC Turbocharged",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XFC1F35KE018707&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=19XFC1F35KE018707&vehicletype=Sedan",
-    "price": "$24,455",
-    "sutherlins_price": "$20,888",
-    "mileage": "77,862 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Eclipse Cross SE",
     "vin": "JA4ATWAA1PZ035698",
     "stock": "MP124",
@@ -193,6 +193,21 @@
     "price": "$30,480",
     "sutherlins_price": "$20,888",
     "mileage": "31,482 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Honda Civic EX",
+    "vin": "19XFC1F35KE018707",
+    "stock": "MP097",
+    "exterior": "Platinum White Pearl",
+    "interior": "Black",
+    "engine": "1.5L I-4 DI DOHC Turbocharged",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XFC1F35KE018707&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=19XFC1F35KE018707&vehicletype=Sedan",
+    "price": "$24,455",
+    "sutherlins_price": "$20,888",
+    "mileage": "77,862 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$29,935",
     "sutherlins_price": "$25,888",
     "mileage": "26,401 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Ford Mustang Mach-E Select",
-    "vin": "3FMTK1SS6PMA01426",
-    "stock": "MP026A",
-    "exterior": "White Metallic",
-    "interior": "Black Onyx",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK1SS6PMA01426&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7177fb-6781-4278-b2cc-47d62d21dc4d.jpg",
-    "price": "$51,090",
-    "sutherlins_price": "$25,888",
-    "mileage": "20,883 Miles"
   }
 ]

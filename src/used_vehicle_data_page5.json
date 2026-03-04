@@ -286,6 +286,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Audi Q3 2.0T Prestige",
+    "vin": "WA1FCCFSXHR009365",
+    "stock": "M2636B",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "2.0L 4-Cylinder TFSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1FCCFSXHR009365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WA1FCCFSXHR009365&vehicletype=SUV",
+    "price": "$9,888",
+    "sutherlins_price": "$9,888",
+    "mileage": "118,560 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Kia Soul Plus",
     "vin": "KNDJP3A57J7893322",
     "stock": "MP130",
@@ -463,20 +478,5 @@
     "price": "$27,700",
     "sutherlins_price": "$18,488",
     "mileage": "37,746 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Ford Escape Active",
-    "vin": "1FMCU0GN0SUA41786",
-    "stock": "MP031",
-    "exterior": "Gray Metallic",
-    "interior": "Space Gray",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GN0SUA41786&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8eeb68e-bcbf-46c4-984b-c6590b90073d.jpg",
-    "price": "$27,995",
-    "sutherlins_price": "$18,570",
-    "mileage": "27,879 Miles"
   }
 ]
