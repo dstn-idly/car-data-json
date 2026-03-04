@@ -196,6 +196,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Nissan Pathfinder SV",
+    "vin": "5N1DR2MN6JC673413",
+    "stock": "26594A",
+    "exterior": "Scarlet Ember",
+    "interior": "Almond",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN6JC673413&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS070002_640/2018NIS070002_640_01.jpg",
+    "price": "$10,995",
+    "sutherlins_price": "$10,995",
+    "mileage": "67,534 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Nissan Rogue SL",
     "vin": "5N1AT2MV0FC839095",
     "stock": "P13447A",
@@ -264,7 +279,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV0ML853432&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0b3c7f10b1304e2eae411d4341cc89d8.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ceb863059548442797b5b3416cbc31d1.jpg",
     "price": "$11,995",
     "sutherlins_price": "$11,995",
     "mileage": "83,353 Miles"
@@ -463,20 +478,5 @@
     "price": "$16,700",
     "sutherlins_price": "$15,498",
     "mileage": "58,996 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA5MW002580",
-    "stock": "P13512",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA5MW002580&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6acdfc090094a94bccb46c1e422abc2.jpg",
-    "price": "$18,675",
-    "sutherlins_price": "$15,786",
-    "mileage": "84,292 Miles"
   }
 ]
