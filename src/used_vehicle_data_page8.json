@@ -391,36 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG2SR515811",
-    "stock": "MP139",
-    "exterior": "Diamond Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1GG2SR515811&vehicletype=Van",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Honda Civic LX",
-    "vin": "2HGFE2F27NH544533",
-    "stock": "MP137",
-    "exterior": "Rallye Red",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V i-VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2HGFE2F27NH544533&vehicletype=Sedan",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "26,169 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Rogue SL",
     "vin": "JN8AT2MT1HW149428",
     "stock": "M2587A",
@@ -448,5 +418,35 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,528 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda Civic LX",
+    "vin": "2HGFE2F27NH544533",
+    "stock": "MP137",
+    "exterior": "Rallye Red",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V i-VTEC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2HGFE2F27NH544533&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "26,169 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1GG2SR515811&vehicletype=Van",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "62,231 Miles"
   }
 ]
