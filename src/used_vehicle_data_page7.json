@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Honda Civic LX",
-    "vin": "2HGFE2F27NH544533",
-    "stock": "MP137",
-    "exterior": "Rallye Red",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V i-VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2HGFE2F27NH544533&vehicletype=Sedan",
-    "price": "$23,645",
-    "sutherlins_price": "$22,888",
-    "mileage": "26,169 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Tesla Model 3 Base",
     "vin": "5YJ3E1EA1PF465260",
     "stock": "MP106",
@@ -283,6 +268,21 @@
     "price": "$40,380",
     "sutherlins_price": "$22,888",
     "mileage": "31,045 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda Civic LX",
+    "vin": "2HGFE2F27NH544533",
+    "stock": "MP137",
+    "exterior": "Rallye Red",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V i-VTEC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2HGFE2F27NH544533&vehicletype=Sedan",
+    "price": "$23,645",
+    "sutherlins_price": "$22,888",
+    "mileage": "26,169 Miles"
   },
   {
     "category": "used",
