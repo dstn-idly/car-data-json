@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Toyota RAV4 XLE",
-    "vin": "JTMZFREV2FJ057804",
-    "stock": "MP013B",
-    "exterior": "Magnetic Gray Metallic",
-    "interior": "Ash",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV2FJ057804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/057097f5-a074-4cbe-913b-449bc48a6f7d.jpg",
-    "price": "$24,820",
-    "sutherlins_price": "$12,600",
-    "mileage": "102,820 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Chevrolet Camaro 2LT",
-    "vin": "2G1FF3D38F9203966",
-    "stock": "MP026B",
-    "exterior": "Black",
-    "interior": "Gray",
-    "engine": "3.6L V6 DGI DOHC VVT",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2G1FF3D38F9203966&vehicletype=Convertible",
-    "price": "$40,606",
-    "sutherlins_price": "$12,888",
-    "mileage": "122,904 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST7PF161042",
     "stock": "MP114",
@@ -478,5 +448,35 @@
     "price": "$42,350",
     "sutherlins_price": "$20,888",
     "mileage": "35,055 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Kia Seltos S",
+    "vin": "KNDEU2AA3S7773455",
+    "stock": "M2577A",
+    "exterior": "Mars Orange",
+    "interior": "Black",
+    "engine": "2.0L I4 MPI",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDEU2AA3S7773455&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fceda240-d698-4541-865e-920e51ac9873.jpg",
+    "price": "$26,960",
+    "sutherlins_price": "$21,300",
+    "mileage": "12,670 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Volkswagen Tiguan 2.0T SE R-Line Black",
+    "vin": "3VV8B7AX8PM060070",
+    "stock": "MP135",
+    "exterior": "Platinum Gray Metallic",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV8B7AX8PM060070&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VV8B7AX8PM060070&vehicletype=SUV",
+    "price": "$36,704",
+    "sutherlins_price": "$21,600",
+    "mileage": "54,931 Miles"
   }
 ]
