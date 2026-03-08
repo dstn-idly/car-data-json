@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2015 Toyota RAV4 XLE",
+    "vin": "JTMZFREV2FJ057804",
+    "stock": "MP013B",
+    "exterior": "Magnetic Gray Metallic",
+    "interior": "Ash",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV2FJ057804&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/057097f5-a074-4cbe-913b-449bc48a6f7d.jpg",
+    "price": "$24,820",
+    "sutherlins_price": "$12,600",
+    "mileage": "102,820 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Chevrolet Camaro 2LT",
+    "vin": "2G1FF3D38F9203966",
+    "stock": "MP026B",
+    "exterior": "Black",
+    "interior": "Gray",
+    "engine": "3.6L V6 DGI DOHC VVT",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2G1FF3D38F9203966&vehicletype=Convertible",
+    "price": "$40,606",
+    "sutherlins_price": "$12,888",
+    "mileage": "122,904 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST7PF161042",
     "stock": "MP114",
@@ -69,7 +99,7 @@
     "engine": "1.5L DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNAXHEV6L6247884&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a99bdb28-acf5-4b32-9b80-e1bcee290b83.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7faf37b-9a34-48d6-8d0e-5b86a0d42788.jpg",
     "price": "$27,495",
     "sutherlins_price": "$12,000",
     "mileage": "89,305 Miles"
@@ -196,6 +226,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Mitsubishi Outlander ES",
+    "vin": "JA4J4TA86NZ037078",
+    "stock": "M2530A",
+    "exterior": "Black Diamond",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4TA86NZ037078&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J4TA86NZ037078&vehicletype=SUV",
+    "price": "$30,140",
+    "sutherlins_price": "$17,888",
+    "mileage": "66,445 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Mitsubishi Outlander SE",
     "vin": "JA4J3UA84PZ051699",
     "stock": "MP116",
@@ -309,7 +354,7 @@
     "engine": "1.6L 4-Cylinder DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4fccca10-de4e-4201-836d-776cc6350b59.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
     "price": "$24,980",
     "sutherlins_price": "$18,888",
     "mileage": "17,950 Miles"
@@ -433,50 +478,5 @@
     "price": "$42,350",
     "sutherlins_price": "$20,888",
     "mileage": "35,055 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Kia Seltos S",
-    "vin": "KNDEU2AA3S7773455",
-    "stock": "M2577A",
-    "exterior": "Mars Orange",
-    "interior": "Black",
-    "engine": "2.0L I4 MPI",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDEU2AA3S7773455&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fceda240-d698-4541-865e-920e51ac9873.jpg",
-    "price": "$26,960",
-    "sutherlins_price": "$21,300",
-    "mileage": "12,670 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Volkswagen Tiguan 2.0T SE R-Line Black",
-    "vin": "3VV8B7AX8PM060070",
-    "stock": "MP135",
-    "exterior": "Platinum Gray Metallic",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV8B7AX8PM060070&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VV8B7AX8PM060070&vehicletype=SUV",
-    "price": "$36,704",
-    "sutherlins_price": "$21,600",
-    "mileage": "54,931 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Toyota Highlander L",
-    "vin": "5TDCZRAH2LS507592",
-    "stock": "MP128",
-    "exterior": "Celestial Silver Metallic",
-    "interior": "Black",
-    "engine": "3.5L V6 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDCZRAH2LS507592&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ad9db5d7-f3c7-4c1f-9561-151570492d49.jpg",
-    "price": "$34,600",
-    "sutherlins_price": "$21,600",
-    "mileage": "84,019 Miles"
   }
 ]
