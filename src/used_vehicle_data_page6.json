@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST7PF161042",
-    "stock": "MP114",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST7PF161042&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/144899fc-ae25-4e4f-9f56-f2cd19ab01d1.jpg",
-    "price": "$29,345",
-    "sutherlins_price": "$13,000",
-    "mileage": "98,376 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Rogue SL",
     "vin": "JN8AT2MT3HW405200",
     "stock": "MP105",
@@ -58,21 +43,6 @@
     "price": "$21,890",
     "sutherlins_price": "$14,500",
     "mileage": "54,006 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Chevrolet Equinox LS",
-    "vin": "2GNAXHEV6L6247884",
-    "stock": "MP118",
-    "exterior": "Summit White",
-    "interior": "Medium Ash Gray",
-    "engine": "1.5L DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNAXHEV6L6247884&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7faf37b-9a34-48d6-8d0e-5b86a0d42788.jpg",
-    "price": "$27,495",
-    "sutherlins_price": "$12,000",
-    "mileage": "89,305 Miles"
   },
   {
     "category": "used",
@@ -189,7 +159,7 @@
     "engine": "1.5L DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZC5ST3PF151563&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1ZC5ST3PF151563&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3973a45d-4959-4a17-a40a-d9624c8a56e5.jpg",
     "price": "$25,898",
     "sutherlins_price": "$17,300",
     "mileage": "44,146 Miles"
@@ -219,7 +189,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA84PZ051699&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA84PZ051699&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4385618c-77cd-49f7-9fa7-74c6b56abc44.jpg",
     "price": "$30,645",
     "sutherlins_price": "$18,000",
     "mileage": "69,764 Miles"
@@ -283,21 +253,6 @@
     "price": "$30,480",
     "sutherlins_price": "$18,622",
     "mileage": "31,482 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Honda HR-V LX",
-    "vin": "3CZRZ1H39PM716107",
-    "stock": "MP018",
-    "exterior": "Modern Steel Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V i-VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3CZRZ1H39PM716107&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0a867b77-ebe3-42d5-b84b-cfcac25fbe9e.jpg",
-    "price": "$23,800",
-    "sutherlins_price": "$18,773",
-    "mileage": "37,948 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$36,704",
     "sutherlins_price": "$21,600",
     "mileage": "54,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota Highlander L",
+    "vin": "5TDCZRAH2LS507592",
+    "stock": "MP128",
+    "exterior": "Celestial Silver Metallic",
+    "interior": "Black",
+    "engine": "3.5L V6 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDCZRAH2LS507592&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ad9db5d7-f3c7-4c1f-9561-151570492d49.jpg",
+    "price": "$34,600",
+    "sutherlins_price": "$21,600",
+    "mileage": "84,019 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda Civic LX",
+    "vin": "2HGFE2F27NH544533",
+    "stock": "MP137",
+    "exterior": "Rallye Red",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V i-VTEC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/124d1304-ea87-46be-87d3-7aae51fef40c.jpg",
+    "price": "$23,645",
+    "sutherlins_price": "$21,800",
+    "mileage": "26,169 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Toyota Corolla LE",
+    "vin": "5YFB4MDE9TP398653",
+    "stock": "M2604B",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Light Gray",
+    "engine": "2.0L I4 PDI DOHC 16V LEV3-SULEV30 169hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE9TP398653&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/21680732-02ac-43b5-b507-1c402f33fe61.jpg",
+    "price": "$25,540",
+    "sutherlins_price": "$21,800",
+    "mileage": "1,322 Miles"
   }
 ]
