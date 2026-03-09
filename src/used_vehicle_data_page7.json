@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR48PS228493",
-    "stock": "MP043",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR48PS228493&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/02e94a9e-6f36-43e7-856d-6dbca19a14b9.jpg",
-    "price": "$35,100",
-    "sutherlins_price": "$21,988",
-    "mileage": "28,355 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla SE",
     "vin": "5YFS4MCE1RP189384",
     "stock": "MP127",
@@ -339,7 +324,7 @@
     "engine": "3.6L V6 24V VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e2f6438f-ca25-477c-b34c-c06eb6c250ce.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
     "price": "$39,910",
     "sutherlins_price": "$28,200",
     "mileage": "24,326 Miles"
@@ -369,7 +354,7 @@
     "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3d4a53e4-6dda-4d2f-9ac3-f5bee13ee79b.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
     "price": "$34,130",
     "sutherlins_price": "$29,300",
     "mileage": "50,633 Miles"
@@ -384,7 +369,7 @@
     "engine": "2.0L TSI DOHC",
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVWWA7CD2PW212467&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/db104f87-e73c-47df-ac66-9a884a4c0d19.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/09ffea53-effb-4eae-bece-a1446b255b65.jpg",
     "price": "$40,971",
     "sutherlins_price": "$29,688",
     "mileage": "33,508 Miles"
@@ -414,7 +399,7 @@
     "engine": "Dual Electric Motor",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK4SX8PMA58773&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7dcc4821-de62-4968-a5d1-dc22b0240407.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7466a77c-3aca-4497-b87d-58b5903ffd55.jpg",
     "price": "$59,195",
     "sutherlins_price": "$31,500",
     "mileage": "31,539 Miles"
@@ -478,5 +463,20 @@
     "price": "$42,195",
     "sutherlins_price": "$33,500",
     "mileage": "72,584 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1GG2SR515811&vehicletype=Van",
+    "price": "$51,265",
+    "sutherlins_price": "$33,888",
+    "mileage": "62,231 Miles"
   }
 ]
