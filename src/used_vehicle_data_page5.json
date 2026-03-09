@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Frontier SV",
-    "vin": "1N6ED1EK9NN674228",
-    "stock": "P13592",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK9NN674228&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a7f2a470cc254b6193af8d90560ad2fe.jpg",
-    "price": "$28,325",
-    "sutherlins_price": "$27,795",
-    "mileage": "45,485 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota RAV4 XLE",
-    "vin": "2T3P1RFV2RW456240",
-    "stock": "P13577",
-    "exterior": "Blueprint",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3P1RFV2RW456240&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd996050ccdb4d348bff6762e556fea0.jpg",
-    "price": "$35,475",
-    "sutherlins_price": "$27,964",
-    "mileage": "19,988 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue Platinum",
     "vin": "JN8BT3DC1NW117858",
     "stock": "T26546A",
@@ -478,5 +448,35 @@
     "price": "$29,345",
     "sutherlins_price": "$13,000",
     "mileage": "98,376 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Rogue SL",
+    "vin": "JN8AT2MT3HW405200",
+    "stock": "MP105",
+    "exterior": "Magnetic Black",
+    "interior": "Charcoal",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3HW405200&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5afdb7b9-baaf-4a15-a284-22827151254f.jpg",
+    "price": "$31,875",
+    "sutherlins_price": "$13,600",
+    "mileage": "69,727 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJ4RH008680",
+    "stock": "MP138",
+    "exterior": "Red",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ4RH008680&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ4RH008680&vehicletype=Hatchback",
+    "price": "$13,888",
+    "sutherlins_price": "$13,888",
+    "mileage": "35,408 Miles"
   }
 ]
