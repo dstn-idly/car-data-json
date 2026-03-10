@@ -406,6 +406,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Chevrolet Equinox LS",
+    "vin": "2GNAXHEV6L6247884",
+    "stock": "MP118",
+    "exterior": "Summit White",
+    "interior": "Medium Ash Gray",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNAXHEV6L6247884&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7faf37b-9a34-48d6-8d0e-5b86a0d42788.jpg",
+    "price": "$27,495",
+    "sutherlins_price": "$12,000",
+    "mileage": "89,305 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Toyota RAV4 XLE",
     "vin": "JTMZFREV2FJ057804",
     "stock": "MP013B",
@@ -463,20 +478,5 @@
     "price": "$31,875",
     "sutherlins_price": "$13,600",
     "mileage": "69,727 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJ4RH008680",
-    "stock": "MP138",
-    "exterior": "Red",
-    "interior": "Black",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ4RH008680&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ4RH008680&vehicletype=Hatchback",
-    "price": "$13,888",
-    "sutherlins_price": "$13,888",
-    "mileage": "35,408 Miles"
   }
 ]
