@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2017 Nissan Rogue SL",
+    "vin": "JN8AT2MT3HW405200",
+    "stock": "MP105",
+    "exterior": "Magnetic Black",
+    "interior": "Charcoal",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3HW405200&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5afdb7b9-baaf-4a15-a284-22827151254f.jpg",
+    "price": "$31,875",
+    "sutherlins_price": "$13,600",
+    "mileage": "69,727 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ4RH008680",
     "stock": "MP138",
@@ -9,7 +24,7 @@
     "engine": "1.2L I3",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ4RH008680&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ4RH008680&vehicletype=Hatchback",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/727423da-d712-45e3-b2ed-49ced5e99ec2.jpg",
     "price": "$13,888",
     "sutherlins_price": "$13,888",
     "mileage": "35,408 Miles"
@@ -54,7 +69,7 @@
     "engine": "3.5L V6 DOHC 24V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG7JN134629&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5N1AZ2MG7JN134629&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0fb6700e-a0de-4b68-9107-b9aefe0efa30.jpg",
     "price": "$35,065",
     "sutherlins_price": "$14,613",
     "mileage": "78,610 Miles"
@@ -84,7 +99,7 @@
     "engine": "2.0L I4 SMPI DOHC 16V LEV3-ULEV70 148hp",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4AP3AU5LU006564&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4AP3AU5LU006564&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ece65418-ae16-4182-9d16-dfd0f56c1c9b.jpg",
     "price": "$24,975",
     "sutherlins_price": "$15,888",
     "mileage": "48,906 Miles"
@@ -463,20 +478,5 @@
     "price": "$23,645",
     "sutherlins_price": "$21,800",
     "mileage": "26,169 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2026 Toyota Corolla LE",
-    "vin": "5YFB4MDE9TP398653",
-    "stock": "M2604B",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Light Gray",
-    "engine": "2.0L I4 PDI DOHC 16V LEV3-SULEV30 169hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE9TP398653&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/21680732-02ac-43b5-b507-1c402f33fe61.jpg",
-    "price": "$25,540",
-    "sutherlins_price": "$21,800",
-    "mileage": "1,322 Miles"
   }
 ]

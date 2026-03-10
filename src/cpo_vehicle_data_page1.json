@@ -76,36 +76,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA5MW002580",
-    "stock": "P13512",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA5MW002580&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6acdfc090094a94bccb46c1e422abc2.jpg",
-    "price": "$18,675",
-    "sutherlins_price": "$14,840",
-    "mileage": "84,292 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY241220",
-    "stock": "P13498",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY241220&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ee7d6859c6c44f7193c2d1f2683fb55a.jpg",
-    "price": "$19,550",
-    "sutherlins_price": "$14,989",
-    "mileage": "35,654 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Rogue SV",
     "vin": "JN8BT3BA7NW043444",
     "stock": "P13514",
@@ -478,5 +448,35 @@
     "price": "$19,925",
     "sutherlins_price": "$17,995",
     "mileage": "22,423 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV1RL472952",
+    "stock": "26420A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV1RL472952&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ea144650e2324cc2848a45e47a02c161.jpg",
+    "price": "$20,225",
+    "sutherlins_price": "$18,498",
+    "mileage": "24,449 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV7RN430286",
+    "stock": "P13541",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV7RN430286&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/deabae9fc3be4ea38b8223f8c90b1c5d.jpg",
+    "price": "$20,675",
+    "sutherlins_price": "$18,757",
+    "mileage": "36,872 Miles"
   }
 ]

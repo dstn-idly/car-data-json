@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "JN8AT3BA5MW002580",
-    "stock": "P13512",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3BA5MW002580&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a6acdfc090094a94bccb46c1e422abc2.jpg",
-    "price": "$18,675",
-    "sutherlins_price": "$14,840",
-    "mileage": "84,292 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Jeep Cherokee Limited",
     "vin": "1C4PJLDB5KD302274",
     "stock": "26417A",
@@ -28,21 +13,6 @@
     "price": "$17,625",
     "sutherlins_price": "$14,898",
     "mileage": "63,272 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY241220",
-    "stock": "P13498",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY241220&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ee7d6859c6c44f7193c2d1f2683fb55a.jpg",
-    "price": "$19,550",
-    "sutherlins_price": "$14,989",
-    "mileage": "35,654 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$19,800",
     "sutherlins_price": "$17,898",
     "mileage": "68,157 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Toyota RAV4 LE",
+    "vin": "2T3H1RFV7KC024304",
+    "stock": "26189A",
+    "exterior": "Silver",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3H1RFV7KC024304&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d08b219bb3f4d499585d54e30a1e170.jpg",
+    "price": "$20,325",
+    "sutherlins_price": "$17,898",
+    "mileage": "78,353 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE4RP095918",
+    "stock": "P13545",
+    "exterior": "Ice",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE4RP095918&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/990f122080d042039772042fa036ca39.jpg",
+    "price": "$20,950",
+    "sutherlins_price": "$17,898",
+    "mileage": "38,437 Miles"
   }
 ]
