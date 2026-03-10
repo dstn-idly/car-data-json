@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Versa SV",
-    "vin": "3N1CN7APXFL860117",
-    "stock": "P13583B",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7APXFL860117&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC10_640/2015NIC100001_640_01.jpg",
-    "price": "$7,513",
-    "sutherlins_price": "$6,995",
-    "mileage": "66,092 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Versa Sedan SV",
     "vin": "3N1CN7AP5JL859949",
     "stock": "25717A",
@@ -103,6 +88,21 @@
     "price": "$9,821",
     "sutherlins_price": "$6,995",
     "mileage": "114,516 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Versa SV",
+    "vin": "3N1CN7APXFL860117",
+    "stock": "P13583B",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN7APXFL860117&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIC10_640/2015NIC100001_640_01.jpg",
+    "price": "$7,513",
+    "sutherlins_price": "$6,995",
+    "mileage": "66,092 Miles"
   },
   {
     "category": "used",
@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Pathfinder SV",
-    "vin": "5N1DR2MN6JC673413",
-    "stock": "26594A",
-    "exterior": "Scarlet Ember",
-    "interior": "Almond",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN6JC673413&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/06caa09d00ed4fb79d92a343532ba585.jpg",
-    "price": "$11,400",
-    "sutherlins_price": "$10,995",
-    "mileage": "67,534 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford EcoSport SES",
     "vin": "MAJ6S3JL1MC425588",
     "stock": "250025B",
@@ -283,6 +268,21 @@
     "price": "$16,500",
     "sutherlins_price": "$10,995",
     "mileage": "74,200 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Pathfinder SV",
+    "vin": "5N1DR2MN6JC673413",
+    "stock": "26594A",
+    "exterior": "Scarlet Ember",
+    "interior": "Almond",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN6JC673413&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/06caa09d00ed4fb79d92a343532ba585.jpg",
+    "price": "$11,400",
+    "sutherlins_price": "$10,995",
+    "mileage": "67,534 Miles"
   },
   {
     "category": "used",
