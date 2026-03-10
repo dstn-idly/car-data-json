@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Tesla Model 3 Base",
-    "vin": "5YJ3E1EA1PF465260",
-    "stock": "MP106",
-    "exterior": "Midnight Silver Metallic",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA1PF465260&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/696361eb-7ee9-41ff-8e67-aa9e7b2e9dc4.jpg",
-    "price": "$40,380",
-    "sutherlins_price": "$25,888",
-    "mileage": "31,045 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Subaru Crosstrek Premium",
     "vin": "JF2GUADC0RH912611",
     "stock": "MP119",
@@ -223,6 +208,21 @@
     "price": "$33,100",
     "sutherlins_price": "$25,888",
     "mileage": "2,972 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Tesla Model 3 Base",
+    "vin": "5YJ3E1EA1PF465260",
+    "stock": "MP106",
+    "exterior": "Midnight Silver Metallic",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA1PF465260&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/696361eb-7ee9-41ff-8e67-aa9e7b2e9dc4.jpg",
+    "price": "$40,380",
+    "sutherlins_price": "$25,888",
+    "mileage": "31,045 Miles"
   },
   {
     "category": "used",
