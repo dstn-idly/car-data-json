@@ -61,21 +61,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY229084",
-    "stock": "P13497",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY229084&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef2cc0b5a1324f91ab1d3c1c6d262a83.jpg",
-    "price": "$19,975",
-    "sutherlins_price": "$14,537",
-    "mileage": "46,158 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Rogue SV",
     "vin": "JN8BT3BA7NW043444",
     "stock": "P13514",
@@ -331,21 +316,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV7RL525864",
-    "stock": "P13522",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7RL525864&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dfac8d37a183491c954770239886dcdf.jpg",
-    "price": "$21,358",
-    "sutherlins_price": "$17,746",
-    "mileage": "17,183 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY201780",
     "stock": "P13520",
@@ -478,5 +448,35 @@
     "price": "$20,675",
     "sutherlins_price": "$18,757",
     "mileage": "36,872 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV6RL488547",
+    "stock": "P13518",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV6RL488547&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3771d728e9c48e785b9ffe4b655daf0.jpg",
+    "price": "$21,788",
+    "sutherlins_price": "$18,866",
+    "mileage": "19,673 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Sentra SV",
+    "vin": "3N1AB8CV9PY316424",
+    "stock": "P13529",
+    "exterior": "Aspen White Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY316424&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bcdbf3ddd2e748149a90f786953cf55c.jpg",
+    "price": "$20,688",
+    "sutherlins_price": "$18,995",
+    "mileage": "35,579 Miles"
   }
 ]

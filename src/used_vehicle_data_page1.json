@@ -139,7 +139,7 @@
     "name": "2016 Volkswagen Passat 1.8T R-Line",
     "vin": "1VWAT7A38GC033959",
     "stock": "T25876A",
-    "exterior": "Black",
+    "exterior": "Gray Metallic",
     "interior": "Gray",
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.8 L/110",
     "transmission": "Automatic",
@@ -249,7 +249,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/97",
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJN2A23G7338026&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/88cc6694d2814be6a7b18b3d38af4604.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9f6e890124414f488d33144f3ace152d.jpg",
     "price": "$12,725",
     "sutherlins_price": "$10,988",
     "mileage": "73,482 Miles"
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY229084",
-    "stock": "P13497",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY229084&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef2cc0b5a1324f91ab1d3c1c6d262a83.jpg",
-    "price": "$19,975",
-    "sutherlins_price": "$14,537",
-    "mileage": "46,158 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Kia Soul EX",
     "vin": "KNDJ33AU8L7006963",
     "stock": "P13631",
@@ -478,5 +463,20 @@
     "price": "$16,450",
     "sutherlins_price": "$14,540",
     "mileage": "50,466 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Jeep Compass Latitude with Sun/Wheel Pkg",
+    "vin": "3C4NJCBBXKT679512",
+    "stock": "26547B",
+    "exterior": "White Clearcoat",
+    "interior": "Ski Gray/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCBBXKT679512&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019JES15_640/2019JES150022_640_01.jpg",
+    "price": "$17,100",
+    "sutherlins_price": "$14,804",
+    "mileage": "60,059 Miles"
   }
 ]
