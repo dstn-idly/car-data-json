@@ -136,16 +136,16 @@
   },
   {
     "category": "used",
-    "name": "2016 Volkswagen Passat",
+    "name": "2016 Volkswagen Passat 1.8T R-Line",
     "vin": "1VWAT7A38GC033959",
     "stock": "T25876A",
     "exterior": "Black",
-    "interior": "N/A",
+    "interior": "Gray",
     "engine": "Intercooled Turbo Regular Unleaded I-4 1.8 L/110",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWAT7A38GC033959&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016VWC040002_640/2016VWC040002_640_01.jpg",
-    "price": "$8,995",
+    "price": "$10,900",
     "sutherlins_price": "$8,995",
     "mileage": "92,580 Miles"
   },
@@ -249,7 +249,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/97",
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJN2A23G7338026&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016KIC100001_640/2016KIC100001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/88cc6694d2814be6a7b18b3d38af4604.jpg",
     "price": "$12,725",
     "sutherlins_price": "$10,988",
     "mileage": "73,482 Miles"
@@ -271,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Ford EcoSport SES",
-    "vin": "MAJ6S3JL1MC425588",
-    "stock": "250025B",
-    "exterior": "Silver Metallic",
-    "interior": "Ebony Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6S3JL1MC425588&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42aca0b337874c3a99388f092a35a88f.jpg",
-    "price": "$16,500",
-    "sutherlins_price": "$10,995",
-    "mileage": "74,200 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Pathfinder SV",
     "vin": "5N1DR2MN6JC673413",
     "stock": "26594A",
@@ -298,6 +283,21 @@
     "price": "$11,400",
     "sutherlins_price": "$10,995",
     "mileage": "67,534 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford EcoSport SES",
+    "vin": "MAJ6S3JL1MC425588",
+    "stock": "250025B",
+    "exterior": "Silver Metallic",
+    "interior": "Ebony Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6S3JL1MC425588&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42aca0b337874c3a99388f092a35a88f.jpg",
+    "price": "$16,500",
+    "sutherlins_price": "$10,995",
+    "mileage": "74,200 Miles"
   },
   {
     "category": "used",
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST6PF136973",
-    "stock": "P13490",
-    "exterior": "Mineral Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6PF136973&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1286e1281e044cfa903edac82ad78ce4.jpg",
-    "price": "$17,600",
-    "sutherlins_price": "$12,498",
-    "mileage": "69,902 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Kicks S",
     "vin": "3N1CP5CU1KL500617",
     "stock": "P13526",
@@ -451,16 +436,16 @@
   },
   {
     "category": "used",
-    "name": "2021 Mitsubishi Outlander Sport",
+    "name": "2021 Mitsubishi Outlander Sport 2.0 ES",
     "vin": "JA4APUAU3MU011494",
     "stock": "26490B",
     "exterior": "Black",
-    "interior": "N/A",
+    "interior": "Black",
     "engine": "2.0L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4APUAU3MU011494&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021MIS05_640/2021MIS052014795_640_01.jpg",
-    "price": "$13,995",
+    "price": "$16,878",
     "sutherlins_price": "$13,995",
     "mileage": "139,746 Miles"
   },
@@ -478,5 +463,20 @@
     "price": "$19,975",
     "sutherlins_price": "$14,537",
     "mileage": "46,158 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Soul EX",
+    "vin": "KNDJ33AU8L7006963",
+    "stock": "P13631",
+    "exterior": "Platinum Gold/White Roof",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
+    "price": "$16,450",
+    "sutherlins_price": "$14,540",
+    "mileage": "50,466 Miles"
   }
 ]

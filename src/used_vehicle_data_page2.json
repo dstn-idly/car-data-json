@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Kia Soul EX",
-    "vin": "KNDJ33AU8L7006963",
-    "stock": "P13631",
-    "exterior": "Platinum Gold/White Roof",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
-    "price": "$16,450",
-    "sutherlins_price": "$14,540",
-    "mileage": "50,466 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Jeep Compass Latitude with Sun/Wheel Pkg",
     "vin": "3C4NJCBBXKT679512",
     "stock": "26547B",
@@ -271,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue S",
-    "vin": "JN8AT2MT2KW500547",
-    "stock": "26308B",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT2KW500547&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$18,300",
-    "sutherlins_price": "$16,995",
-    "mileage": "65,437 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Kia Soul LX",
     "vin": "KNDJ23AU3R7902244",
     "stock": "P13588",
@@ -298,6 +268,21 @@
     "price": "$18,350",
     "sutherlins_price": "$16,995",
     "mileage": "46,361 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue S",
+    "vin": "JN8AT2MT2KW500547",
+    "stock": "26308B",
+    "exterior": "Magnetic Black Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT2KW500547&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
+    "price": "$18,300",
+    "sutherlins_price": "$16,995",
+    "mileage": "65,437 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$19,800",
     "sutherlins_price": "$17,898",
     "mileage": "68,157 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE4RP095918",
+    "stock": "P13545",
+    "exterior": "Ice",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE4RP095918&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/990f122080d042039772042fa036ca39.jpg",
+    "price": "$20,950",
+    "sutherlins_price": "$17,898",
+    "mileage": "38,437 Miles"
   }
 ]
