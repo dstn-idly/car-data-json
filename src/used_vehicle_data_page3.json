@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV5RL516628",
-    "stock": "P13586",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
-    "price": "$19,900",
-    "sutherlins_price": "$17,995",
-    "mileage": "29,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV7RY272989",
     "stock": "P13639",
@@ -73,6 +58,21 @@
     "price": "$18,650",
     "sutherlins_price": "$17,995",
     "mileage": "41,293 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV5RL516628",
+    "stock": "P13586",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
+    "price": "$19,900",
+    "sutherlins_price": "$17,995",
+    "mileage": "29,602 Miles"
   },
   {
     "category": "used",
@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Kicks Play S",
-    "vin": "3N1CP5BV7SL477239",
-    "stock": "P13619",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV7SL477239&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b350ade93a1f4e62a323844cfdb2ea99.jpg",
-    "price": "$22,975",
-    "sutherlins_price": "$19,995",
-    "mileage": "4,056 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV3PL512136",
     "stock": "26535A",
@@ -376,18 +361,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV7RN364517",
-    "stock": "P13640",
-    "exterior": "Glacier White",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV7SL477239",
+    "stock": "P13619",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7RN364517&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040032_640_01.jpg",
-    "price": "$21,150",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV7SL477239&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b350ade93a1f4e62a323844cfdb2ea99.jpg",
+    "price": "$22,975",
     "sutherlins_price": "$19,995",
-    "mileage": "64,055 Miles"
+    "mileage": "4,056 Miles"
   },
   {
     "category": "used",
@@ -403,6 +388,21 @@
     "price": "$20,575",
     "sutherlins_price": "$19,995",
     "mileage": "63,580 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SR",
+    "vin": "1N4BL4CV7RN364517",
+    "stock": "P13640",
+    "exterior": "Glacier White",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV7RN364517&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC04_640/2024NIC040032_640_01.jpg",
+    "price": "$21,150",
+    "sutherlins_price": "$19,995",
+    "mileage": "64,055 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SEL",
-    "vin": "5NMS2DAJ9PH502551",
-    "stock": "P13590",
-    "exterior": "Stormy Sea",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH502551&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/09cb8954f6ba414695f221f416bd2dfb.jpg",
-    "price": "$23,675",
+    "name": "2023 Nissan Kicks SR",
+    "vin": "3N1CP5DV7PL524886",
+    "stock": "P13578",
+    "exterior": "Aspen White Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV7PL524886&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7986d1f9576049d2a33c27fa8729a523.jpg",
+    "price": "$22,825",
     "sutherlins_price": "$20,898",
-    "mileage": "57,246 Miles"
+    "mileage": "3,744 Miles"
   }
 ]
