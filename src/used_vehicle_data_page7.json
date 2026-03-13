@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Toyota RAV4 XLE",
-    "vin": "2T3W1RFV0NW193154",
-    "stock": "MP092",
-    "exterior": "Lunar Rock",
-    "interior": "Black",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3W1RFV0NW193154&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/01bd45cb-405a-4740-8d8e-9c5831484ca2.jpg",
-    "price": "$31,539",
-    "sutherlins_price": "$20,700",
-    "mileage": "89,823 Miles"
-  },
-  {
-    "category": "used",
     "name": "2013 RAM 1500 Sport",
     "vin": "1C6RR6MT1DS724415",
     "stock": "MP088",
@@ -309,7 +294,7 @@
     "engine": "I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7b0757f5-7423-4087-ab1c-fd8184873a32.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
     "price": "$28,960",
     "sutherlins_price": "$24,888",
     "mileage": "4,109 Miles"
@@ -478,5 +463,20 @@
     "price": "$42,619",
     "sutherlins_price": "$28,400",
     "mileage": "29,023 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Tacoma SR5",
+    "vin": "3TMAZ5CN3PM206242",
+    "stock": "M2503A",
+    "exterior": "Celestial Silver Metallic",
+    "interior": "Cement",
+    "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
+    "price": "$34,130",
+    "sutherlins_price": "$29,300",
+    "mileage": "50,633 Miles"
   }
 ]
