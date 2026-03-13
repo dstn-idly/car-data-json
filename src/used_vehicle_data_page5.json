@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CV9LW274109",
-    "stock": "P13646",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV9LW274109&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS17_640/2020NIS170026_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "79,128 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Ford Expedition Max Limited",
     "vin": "1FMJK1K85REA58382",
     "stock": "P13648",
@@ -436,18 +421,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8RN339995",
-    "stock": "P13647",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "name": "2020 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1CV9LW274109",
+    "stock": "P13646",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN339995&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/29eee6882fbc4f15af61a9b299146936.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV9LW274109&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS17_640/2020NIS170026_640_01.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "33,212 Miles"
+    "mileage": "79,128 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "11,611 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8RN339995",
+    "stock": "P13647",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN339995&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/29eee6882fbc4f15af61a9b299146936.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "33,212 Miles"
   }
 ]
