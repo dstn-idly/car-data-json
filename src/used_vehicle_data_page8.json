@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1EAAFY9P2124640&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/732046b4-30d3-4b24-b51a-ff5a614ce170.jpg",
     "price": "$52,995",
-    "sutherlins_price": "$24,500",
+    "sutherlins_price": "$23,988",
     "mileage": "51,120 Miles"
   },
   {
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG2SR515811",
-    "stock": "MP139",
-    "exterior": "Diamond Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1GG2SR515811&vehicletype=Van",
-    "price": "$51,265",
-    "sutherlins_price": "$33,888",
-    "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 BMW X1 xDrive28i",
     "vin": "WBX73EF06S5102647",
     "stock": "MP156",
@@ -328,6 +313,21 @@
     "price": "$45,500",
     "sutherlins_price": "$33,888",
     "mileage": "34,906 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1GG2SR515811&vehicletype=Van",
+    "price": "$51,265",
+    "sutherlins_price": "$33,888",
+    "mileage": "62,231 Miles"
   },
   {
     "category": "used",
