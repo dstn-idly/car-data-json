@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Murano SV",
-    "vin": "5N1AZ2BS0PC130966",
-    "stock": "MP045",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "3.5L V6 DOHC 24V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BS0PC130966&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ff83c6c9-25ab-4c72-bd78-1f639de7b4b6.jpg",
-    "price": "$39,400",
-    "sutherlins_price": "$19,988",
-    "mileage": "46,297 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mitsubishi Outlander Sport 2.0 ES",
-    "vin": "JA4ARUAU8SU014544",
-    "stock": "MP008",
-    "exterior": "White Diamond",
-    "interior": "Jet Black",
-    "engine": "2.0L I4 SMPI DOHC 16V LEV3-ULEV70 148hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4ARUAU8SU014544&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2011cf85-d32f-4062-9f6c-7e46b0b18b9b.jpg",
-    "price": "$26,500",
-    "sutherlins_price": "$19,994",
-    "mileage": "418 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Elantra SEL",
     "vin": "KMHLS4DG8RU793247",
     "stock": "MP126",
@@ -151,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Honda Civic LX",
-    "vin": "2HGFE2F27NH544533",
-    "stock": "MP137",
-    "exterior": "Rallye Red",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V i-VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3e5dcb49-2620-42ff-a883-34182cedcc47.jpg",
-    "price": "$23,645",
-    "sutherlins_price": "$21,800",
-    "mileage": "26,169 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Toyota Corolla LE",
     "vin": "5YFB4MDE9TP398653",
     "stock": "M2604B",
@@ -178,6 +133,21 @@
     "price": "$25,540",
     "sutherlins_price": "$21,800",
     "mileage": "1,322 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda Civic LX",
+    "vin": "2HGFE2F27NH544533",
+    "stock": "MP137",
+    "exterior": "Rallye Red",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V i-VTEC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3e5dcb49-2620-42ff-a883-34182cedcc47.jpg",
+    "price": "$23,645",
+    "sutherlins_price": "$21,800",
+    "mileage": "26,169 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$33,100",
     "sutherlins_price": "$25,888",
     "mileage": "2,972 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 RAM 1500 Big Horn/Lone Star",
+    "vin": "1C6RREBTXKN871969",
+    "stock": "MP103",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "HEMI 5.7L V8 Multi Displacement VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREBTXKN871969&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fb95cbcc-63ba-4d46-b13f-e99fddc729a9.jpg",
+    "price": "$43,525",
+    "sutherlins_price": "$26,800",
+    "mileage": "25,267 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "MP049",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "3.5L V6 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
+    "price": "$48,999",
+    "sutherlins_price": "$26,998",
+    "mileage": "22,521 Miles"
   }
 ]

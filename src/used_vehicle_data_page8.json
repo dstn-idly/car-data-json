@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 RAM 1500 Big Horn/Lone Star",
-    "vin": "1C6RREBTXKN871969",
-    "stock": "MP103",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "HEMI 5.7L V8 Multi Displacement VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREBTXKN871969&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fb95cbcc-63ba-4d46-b13f-e99fddc729a9.jpg",
-    "price": "$43,525",
-    "sutherlins_price": "$26,800",
-    "mileage": "25,267 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA3RC203647",
-    "stock": "MP049",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "3.5L V6 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
-    "price": "$48,999",
-    "sutherlins_price": "$26,998",
-    "mileage": "22,521 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Armada SL",
     "vin": "JN8AY2BA9P9400888",
     "stock": "MP040",
@@ -84,7 +54,7 @@
     "engine": "Electric Motor",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC0NF232307&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC0NF232307&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5bca8842-a3c5-4824-aab0-f5a1bec2026f.jpg",
     "price": "$64,190",
     "sutherlins_price": "$27,888",
     "mileage": "38,426 Miles"
@@ -478,5 +448,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "61,591 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Genesis GV80 3.5T",
+    "vin": "KMUHCESC5MU062908",
+    "stock": "MP159",
+    "exterior": "Silver",
+    "interior": "Beige/Black",
+    "engine": "3.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMUHCESC5MU062908&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "50,890 Miles"
   }
 ]
