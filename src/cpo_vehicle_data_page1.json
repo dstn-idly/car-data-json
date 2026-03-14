@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY241220&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/cb6a3879cc5f4482b3882854bd15a4ff.jpg",
     "price": "$19,550",
-    "sutherlins_price": "$14,989",
+    "sutherlins_price": "$14,348",
     "mileage": "35,654 Miles"
   },
   {
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA7NW043444&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d8c8d0ecb27d4464a25fd451c1493504.jpg",
     "price": "$20,478",
-    "sutherlins_price": "$15,469",
+    "sutherlins_price": "$14,988",
     "mileage": "83,948 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY268836&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/77988f169e62405c9f8798b8ff2ba84b.jpg",
     "price": "$18,455",
-    "sutherlins_price": "$15,898",
+    "sutherlins_price": "$14,936",
     "mileage": "63,279 Miles"
   },
   {
@@ -146,7 +146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4RY235446&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/07bbf41eb6e64631897c7fa8f7fb2eee.jpg",
     "price": "$19,988",
-    "sutherlins_price": "$15,995",
+    "sutherlins_price": "$14,977",
     "mileage": "52,566 Miles"
   },
   {
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT2KW500547&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d85fa7f46e64293a426a5b721fd4f9e.jpg",
     "price": "$18,300",
-    "sutherlins_price": "$16,995",
+    "sutherlins_price": "$15,898",
     "mileage": "65,437 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV1RN337182&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/5b3a809146da4d4780d96c8439687108.jpg",
     "price": "$20,575",
-    "sutherlins_price": "$17,498",
+    "sutherlins_price": "$16,992",
     "mileage": "51,108 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV4SL475321&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0c7a7e62c985413186880df5f1f02cda.jpg",
     "price": "$22,225",
-    "sutherlins_price": "$17,598",
+    "sutherlins_price": "$17,498",
     "mileage": "3,877 Miles"
   },
   {
@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/244612427f1540a9b4cbd186b62a2f17.jpg",
     "price": "$20,175",
-    "sutherlins_price": "$17,898",
+    "sutherlins_price": "$16,997",
     "mileage": "29,943 Miles"
   },
   {
@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9PY316424&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bcdbf3ddd2e748149a90f786953cf55c.jpg",
     "price": "$20,688",
-    "sutherlins_price": "$17,988",
+    "sutherlins_price": "$16,975",
     "mileage": "35,579 Miles"
   },
   {
@@ -328,6 +328,21 @@
     "price": "$19,900",
     "sutherlins_price": "$17,995",
     "mileage": "29,602 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8RN404067",
+    "stock": "P13603",
+    "exterior": "Super Black",
+    "interior": "Hai Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN404067&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e023644b992744edbf1a73e9019bf162.jpg",
+    "price": "$19,600",
+    "sutherlins_price": "$17,995",
+    "mileage": "68,295 Miles"
   },
   {
     "category": "cpo",
@@ -361,21 +376,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV8RN404067",
-    "stock": "P13603",
-    "exterior": "Super Black",
-    "interior": "Hai Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN404067&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e023644b992744edbf1a73e9019bf162.jpg",
-    "price": "$19,600",
-    "sutherlins_price": "$17,995",
-    "mileage": "68,295 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA1RW005990",
     "stock": "26354A",
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1RW005990&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c6a462d83b54f78a5709a2d65f3c18b.jpg",
     "price": "$21,925",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$17,535",
     "mileage": "50,127 Miles"
   },
   {
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV1RL472952&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ea144650e2324cc2848a45e47a02c161.jpg",
     "price": "$20,225",
-    "sutherlins_price": "$18,498",
+    "sutherlins_price": "$17,498",
     "mileage": "24,449 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV7RN430286&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/deabae9fc3be4ea38b8223f8c90b1c5d.jpg",
     "price": "$20,675",
-    "sutherlins_price": "$18,757",
+    "sutherlins_price": "$18,498",
     "mileage": "36,872 Miles"
   },
   {
@@ -446,7 +446,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV6RL488547&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f3771d728e9c48e785b9ffe4b655daf0.jpg",
     "price": "$21,788",
-    "sutherlins_price": "$18,866",
+    "sutherlins_price": "$17,432",
     "mileage": "19,673 Miles"
   },
   {
