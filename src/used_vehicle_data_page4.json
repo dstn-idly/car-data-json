@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Cadillac Escalade Platinum",
-    "vin": "1GYS3DKJ4HR309761",
-    "stock": "P13649A",
-    "exterior": "Crystal White Tricoat",
-    "interior": "Jet Black with Jet Black Accents",
-    "engine": "Gas V8 6.2L/376",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYS3DKJ4HR309761&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017CAS010001_640/2017CAS010001_640_01.jpg",
-    "price": "$28,050",
-    "sutherlins_price": "$20,988",
-    "mileage": "99,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan NV Cargo SV",
     "vin": "1N6BF0KY2MN803652",
     "stock": "P13562",
@@ -58,6 +43,21 @@
     "price": "$27,189",
     "sutherlins_price": "$20,988",
     "mileage": "75,762 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 Cadillac Escalade Platinum",
+    "vin": "1GYS3DKJ4HR309761",
+    "stock": "P13649A",
+    "exterior": "Crystal White Tricoat",
+    "interior": "Jet Black with Jet Black Accents",
+    "engine": "Gas V8 6.2L/376",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GYS3DKJ4HR309761&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017CAS010001_640/2017CAS010001_640_01.jpg",
+    "price": "$28,050",
+    "sutherlins_price": "$20,988",
+    "mileage": "99,000 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota RAV4 Limited",
-    "vin": "2T3Y1RFV1RW337213",
-    "stock": "P13547",
-    "exterior": "Pearl",
-    "interior": "Ash",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3Y1RFV1RW337213&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c2bb3a6629647ec84e4795dd5ec7682.jpg",
-    "price": "$34,825",
-    "sutherlins_price": "$25,995",
-    "mileage": "85,474 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA3RC225907",
     "stock": "P13531",
@@ -478,5 +463,20 @@
     "price": "$29,988",
     "sutherlins_price": "$25,995",
     "mileage": "32,784 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota RAV4 Limited",
+    "vin": "2T3Y1RFV1RW337213",
+    "stock": "P13547",
+    "exterior": "Pearl",
+    "interior": "Ash",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3Y1RFV1RW337213&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c2bb3a6629647ec84e4795dd5ec7682.jpg",
+    "price": "$34,825",
+    "sutherlins_price": "$25,995",
+    "mileage": "85,474 Miles"
   }
 ]
