@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2025 Kia Seltos S",
+    "vin": "KNDEU2AA3S7773455",
+    "stock": "M2577A",
+    "exterior": "Mars Orange",
+    "interior": "Black",
+    "engine": "2.0L I4 MPI",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDEU2AA3S7773455&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fceda240-d698-4541-865e-920e51ac9873.jpg",
+    "price": "$26,960",
+    "sutherlins_price": "$21,300",
+    "mileage": "12,670 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Volkswagen Tiguan 2.0T SE R-Line Black",
     "vin": "3VV8B7AX8PM060070",
     "stock": "MP135",
@@ -447,7 +462,7 @@
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
     "price": "$34,130",
     "sutherlins_price": "$29,300",
-    "mileage": "50,633 Miles"
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$40,971",
     "sutherlins_price": "$29,688",
     "mileage": "33,508 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Ford Mustang Mach-E GT",
-    "vin": "3FMTK4SX8PMA58773",
-    "stock": "MP123",
-    "exterior": "Gray Metallic",
-    "interior": "Gray/Metallic",
-    "engine": "Dual Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK4SX8PMA58773&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7466a77c-3aca-4497-b87d-58b5903ffd55.jpg",
-    "price": "$59,195",
-    "sutherlins_price": "$31,500",
-    "mileage": "31,539 Miles"
   }
 ]
