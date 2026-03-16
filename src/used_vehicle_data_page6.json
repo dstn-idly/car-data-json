@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SR",
-    "vin": "3N1CP5DV7LL534361",
-    "stock": "MP157",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV7LL534361&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3N1CP5DV7LL534361&vehicletype=SUV",
-    "price": "$24,165",
-    "sutherlins_price": "$12,888",
-    "mileage": "83,862 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Chevrolet Camaro 2LT",
-    "vin": "2G1FF3D38F9203966",
-    "stock": "MP026B",
-    "exterior": "Black",
-    "interior": "Gray",
-    "engine": "3.6L V6 DGI DOHC VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2G1FF3D38F9203966&vehicletype=Convertible",
-    "price": "$40,606",
-    "sutherlins_price": "$12,888",
-    "mileage": "122,904 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST7PF161042",
     "stock": "MP114",
@@ -346,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Ford Mustang EcoBoost Premium",
-    "vin": "1FATP8UH5M5103288",
-    "stock": "MP158",
-    "exterior": "Shadow Black",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FATP8UH5M5103288&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FATP8UH5M5103288&vehicletype=Convertible",
-    "price": "$47,220",
-    "sutherlins_price": "$19,888",
-    "mileage": "80,506 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander ES",
     "vin": "JA4J3TA80PZ015860",
     "stock": "MP160",
@@ -373,6 +328,21 @@
     "price": "$29,340",
     "sutherlins_price": "$19,888",
     "mileage": "61,591 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford Mustang EcoBoost Premium",
+    "vin": "1FATP8UH5M5103288",
+    "stock": "MP158",
+    "exterior": "Shadow Black",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FATP8UH5M5103288&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FATP8UH5M5103288&vehicletype=Convertible",
+    "price": "$47,220",
+    "sutherlins_price": "$19,888",
+    "mileage": "80,506 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$26,420",
     "sutherlins_price": "$20,888",
     "mileage": "54,885 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 RAM 1500 Sport",
+    "vin": "1C6RR6MT1DS724415",
+    "stock": "MP088",
+    "exterior": "Deep Cherry Red Crystal Pearlcoat",
+    "interior": "Black Interior",
+    "engine": "HEMI 5.7L V8 Multi Displacement VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6MT1DS724415&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8f29c5d1-cc14-4e13-8d1a-3d3d5d303d94.jpg",
+    "price": "$42,350",
+    "sutherlins_price": "$20,888",
+    "mileage": "35,055 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Kia Seltos S",
+    "vin": "KNDEU2AA3S7773455",
+    "stock": "M2577A",
+    "exterior": "Mars Orange",
+    "interior": "Black",
+    "engine": "2.0L I4 MPI",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDEU2AA3S7773455&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fceda240-d698-4541-865e-920e51ac9873.jpg",
+    "price": "$26,960",
+    "sutherlins_price": "$21,300",
+    "mileage": "12,670 Miles"
   }
 ]

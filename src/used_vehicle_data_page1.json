@@ -166,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2007 Dodge Dakota ST",
-    "vin": "1D7HW28K07S108285",
-    "stock": "P13561",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Premium Bucket Seats",
-    "engine": "Gas V6 3.7L/225",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1D7HW28K07S108285&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d043c7e2d74a4ec09588f0afbe0a4009.jpg",
-    "price": "$13,675",
-    "sutherlins_price": "$9,988",
-    "mileage": "98,033 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford EcoSport SES",
     "vin": "MAJ6S3JL1MC425588",
     "stock": "250025B",
@@ -253,6 +238,21 @@
     "price": "$12,725",
     "sutherlins_price": "$10,988",
     "mileage": "73,482 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue SV",
+    "vin": "5N1AT2MT0JC802197",
+    "stock": "26502A",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT0JC802197&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
+    "price": "$10,995",
+    "sutherlins_price": "$10,995",
+    "mileage": "80,450 Miles"
   },
   {
     "category": "used",
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV4MY309814",
-    "stock": "P13644",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
-    "price": "$14,475",
-    "sutherlins_price": "$13,988",
-    "mileage": "86,058 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Rogue SV",
     "vin": "5N1AT3BA6MC712404",
     "stock": "26012A",
@@ -433,6 +418,21 @@
     "price": "$16,075",
     "sutherlins_price": "$13,988",
     "mileage": "103,725 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV4MY309814",
+    "stock": "P13644",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
+    "price": "$14,475",
+    "sutherlins_price": "$13,988",
+    "mileage": "86,058 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY241220",
-    "stock": "P13498",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
+    "name": "2020 Kia Soul EX",
+    "vin": "KNDJ33AU8L7006963",
+    "stock": "P13631",
+    "exterior": "Platinum Gold/White Roof",
+    "interior": "Black",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY241220&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cb6a3879cc5f4482b3882854bd15a4ff.jpg",
-    "price": "$19,550",
-    "sutherlins_price": "$14,348",
-    "mileage": "35,654 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
+    "price": "$16,450",
+    "sutherlins_price": "$14,540",
+    "mileage": "50,466 Miles"
   }
 ]

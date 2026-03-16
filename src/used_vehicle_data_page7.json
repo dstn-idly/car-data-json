@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2013 RAM 1500 Sport",
-    "vin": "1C6RR6MT1DS724415",
-    "stock": "MP088",
-    "exterior": "Deep Cherry Red Crystal Pearlcoat",
-    "interior": "Black Interior",
-    "engine": "HEMI 5.7L V8 Multi Displacement VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6MT1DS724415&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8f29c5d1-cc14-4e13-8d1a-3d3d5d303d94.jpg",
-    "price": "$42,350",
-    "sutherlins_price": "$20,888",
-    "mileage": "35,055 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Kia Seltos S",
-    "vin": "KNDEU2AA3S7773455",
-    "stock": "M2577A",
-    "exterior": "Mars Orange",
-    "interior": "Black",
-    "engine": "2.0L I4 MPI",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDEU2AA3S7773455&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fceda240-d698-4541-865e-920e51ac9873.jpg",
-    "price": "$26,960",
-    "sutherlins_price": "$21,300",
-    "mileage": "12,670 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Volkswagen Tiguan 2.0T SE R-Line Black",
     "vin": "3VV8B7AX8PM060070",
     "stock": "MP135",
@@ -478,5 +448,35 @@
     "price": "$34,130",
     "sutherlins_price": "$29,300",
     "mileage": "50,633 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Volkswagen Golf GTI Autobahn",
+    "vin": "WVWWA7CD2PW212467",
+    "stock": "MP101A",
+    "exterior": "Opal White",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVWWA7CD2PW212467&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/09ffea53-effb-4eae-bece-a1446b255b65.jpg",
+    "price": "$40,971",
+    "sutherlins_price": "$29,688",
+    "mileage": "33,508 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Mustang Mach-E GT",
+    "vin": "3FMTK4SX8PMA58773",
+    "stock": "MP123",
+    "exterior": "Gray Metallic",
+    "interior": "Gray/Metallic",
+    "engine": "Dual Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK4SX8PMA58773&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7466a77c-3aca-4497-b87d-58b5903ffd55.jpg",
+    "price": "$59,195",
+    "sutherlins_price": "$31,500",
+    "mileage": "31,539 Miles"
   }
 ]
