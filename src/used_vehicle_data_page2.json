@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Kia Soul EX",
-    "vin": "KNDJ33AU8L7006963",
-    "stock": "P13631",
-    "exterior": "Platinum Gold/White Roof",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
-    "price": "$16,450",
-    "sutherlins_price": "$14,540",
-    "mileage": "50,466 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Jeep Compass Latitude with Sun/Wheel Pkg",
-    "vin": "3C4NJCBBXKT679512",
-    "stock": "26547B",
-    "exterior": "White Clearcoat",
-    "interior": "Ski Gray/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCBBXKT679512&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019JES15_640/2019JES150022_640_01.jpg",
-    "price": "$17,100",
-    "sutherlins_price": "$14,804",
-    "mileage": "60,059 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Jeep Cherokee Limited",
     "vin": "1C4PJLDB5KD302274",
     "stock": "26417A",
@@ -478,5 +448,35 @@
     "price": "$18,075",
     "sutherlins_price": "$17,598",
     "mileage": "1,142 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Elantra N Line",
+    "vin": "KMHLR4AF6NU238458",
+    "stock": "P13600",
+    "exterior": "Scarlet Red Pearl",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLR4AF6NU238458&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02e62f56a3d54e4fb824151dc247c752.jpg",
+    "price": "$19,350",
+    "sutherlins_price": "$17,777",
+    "mileage": "66,222 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Tucson SE",
+    "vin": "5NMJA3DE9RH329964",
+    "stock": "P13572",
+    "exterior": "Dark Gray Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJA3DE9RH329964&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ca60e8a0bd42432691993f38b94038fa.jpg",
+    "price": "$19,800",
+    "sutherlins_price": "$17,898",
+    "mileage": "68,157 Miles"
   }
 ]

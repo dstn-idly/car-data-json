@@ -136,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Ford Escape SE",
-    "vin": "1FMCU0GX5GUA91740",
-    "stock": "26147B",
-    "exterior": "Ruby Red Metallic",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0GX5GUA91740&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/33bbc35e5dd548478b4fccb6405b0f85.jpg",
-    "price": "$9,000",
-    "sutherlins_price": "$7,995",
-    "mileage": "103,116 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Jeep Cherokee Altitude",
     "vin": "1C4PJLAB6GW315423",
     "stock": "26338A",
@@ -193,21 +178,6 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "113,907 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Ford EcoSport SES",
-    "vin": "MAJ6S3JL1MC425588",
-    "stock": "250025B",
-    "exterior": "Silver Metallic",
-    "interior": "Ebony Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=MAJ6S3JL1MC425588&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/42aca0b337874c3a99388f092a35a88f.jpg",
-    "price": "$16,500",
-    "sutherlins_price": "$8,498",
-    "mileage": "74,209 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$16,878",
     "sutherlins_price": "$13,995",
     "mileage": "139,746 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Soul EX",
+    "vin": "KNDJ33AU8L7006963",
+    "stock": "P13631",
+    "exterior": "Platinum Gold/White Roof",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
+    "price": "$16,450",
+    "sutherlins_price": "$14,540",
+    "mileage": "50,466 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Jeep Compass Latitude with Sun/Wheel Pkg",
+    "vin": "3C4NJCBBXKT679512",
+    "stock": "26547B",
+    "exterior": "White Clearcoat",
+    "interior": "Ski Gray/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCBBXKT679512&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019JES15_640/2019JES150022_640_01.jpg",
+    "price": "$17,100",
+    "sutherlins_price": "$14,804",
+    "mileage": "60,059 Miles"
   }
 ]
