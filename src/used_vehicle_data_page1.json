@@ -121,6 +121,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Nissan Sentra SV",
+    "vin": "3N1AB7AP8JL650821",
+    "stock": "26438D",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP8JL650821&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIC060001_640/2018NIC060001_640_01.jpg",
+    "price": "$7,925",
+    "sutherlins_price": "$6,995",
+    "mileage": "99,013 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Ford Escape SE",
     "vin": "1FMCU0GX5GUA91740",
     "stock": "26147B",
@@ -166,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2014 Nissan Rogue SV",
-    "vin": "5N1AT2MT9EC872190",
-    "stock": "P12816",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9EC872190&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6d1a9021484ad0a1824263e3de8923.jpg",
-    "price": "$9,988",
-    "sutherlins_price": "$9,988",
-    "mileage": "113,907 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford EcoSport SES",
     "vin": "MAJ6S3JL1MC425588",
     "stock": "250025B",
@@ -193,6 +193,21 @@
     "price": "$16,500",
     "sutherlins_price": "$8,498",
     "mileage": "74,209 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Nissan Rogue SV",
+    "vin": "5N1AT2MT9EC872190",
+    "stock": "P12816",
+    "exterior": "Brilliant Silver",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9EC872190&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8d6d1a9021484ad0a1824263e3de8923.jpg",
+    "price": "$9,988",
+    "sutherlins_price": "$9,988",
+    "mileage": "113,907 Miles"
   },
   {
     "category": "used",
@@ -265,7 +280,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT0JC802197&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110009_640_01.jpg",
-    "price": "$10,995",
+    "price": "$11,600",
     "sutherlins_price": "$10,995",
     "mileage": "80,450 Miles"
   },
@@ -463,20 +478,5 @@
     "price": "$16,878",
     "sutherlins_price": "$13,995",
     "mileage": "139,746 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Kia Soul EX",
-    "vin": "KNDJ33AU8L7006963",
-    "stock": "P13631",
-    "exterior": "Platinum Gold/White Roof",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
-    "price": "$16,450",
-    "sutherlins_price": "$14,540",
-    "mileage": "50,466 Miles"
   }
 ]

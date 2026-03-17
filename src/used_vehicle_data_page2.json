@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2020 Kia Soul EX",
+    "vin": "KNDJ33AU8L7006963",
+    "stock": "P13631",
+    "exterior": "Platinum Gold/White Roof",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ33AU8L7006963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6751060082d4471e8b1b59dbf2bdbcd6.jpg",
+    "price": "$16,450",
+    "sutherlins_price": "$14,540",
+    "mileage": "50,466 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Jeep Compass Latitude with Sun/Wheel Pkg",
     "vin": "3C4NJCBBXKT679512",
     "stock": "26547B",
@@ -295,7 +310,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV3MN390203&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC04_640/2021NIC040059_640_01.jpg",
-    "price": "$16,995",
+    "price": "$17,800",
     "sutherlins_price": "$16,995",
     "mileage": "64,355 Miles"
   },
@@ -463,20 +478,5 @@
     "price": "$18,075",
     "sutherlins_price": "$17,598",
     "mileage": "1,142 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Hyundai Elantra N Line",
-    "vin": "KMHLR4AF6NU238458",
-    "stock": "P13600",
-    "exterior": "Scarlet Red Pearl",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLR4AF6NU238458&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02e62f56a3d54e4fb824151dc247c752.jpg",
-    "price": "$19,350",
-    "sutherlins_price": "$17,777",
-    "mileage": "66,222 Miles"
   }
 ]
