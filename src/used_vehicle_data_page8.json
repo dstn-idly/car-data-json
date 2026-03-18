@@ -1,6 +1,51 @@
 [
   {
     "category": "used",
+    "name": "2022 Jeep Gladiator Sport",
+    "vin": "1C6HJTAG0NL161300",
+    "stock": "MP115",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
+    "price": "$39,910",
+    "sutherlins_price": "$27,500",
+    "mileage": "24,326 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Genesis G70 3.3T",
+    "vin": "KMTG34LEXLU058149",
+    "stock": "MP144",
+    "exterior": "Mallorca Blue",
+    "interior": "Black/Gray",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34LEXLU058149&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMTG34LEXLU058149&vehicletype=Sedan",
+    "price": "$53,245",
+    "sutherlins_price": "$27,800",
+    "mileage": "35,135 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Audi Q5 45 S line Premium",
+    "vin": "WA1EAAFY9P2124640",
+    "stock": "MP086",
+    "exterior": "Ibis White",
+    "interior": "Okapi Brown",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1EAAFY9P2124640&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/732046b4-30d3-4b24-b51a-ff5a614ce170.jpg",
+    "price": "$52,995",
+    "sutherlins_price": "$23,988",
+    "mileage": "51,120 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Subaru Outback Onyx Edition XT",
     "vin": "4S4BTGLD2P3126047",
     "stock": "MP107",
@@ -27,7 +72,7 @@
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
     "price": "$34,130",
     "sutherlins_price": "$29,300",
-    "mileage": "N/A"
+    "mileage": "50,633 Miles"
   },
   {
     "category": "used",
