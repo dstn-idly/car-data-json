@@ -1894,7 +1894,7 @@
     "name": "2026 Nissan Altima SR",
     "vin": "1N4BL4CV0TN324898",
     "stock": "TN324898",
-    "exterior": "Pearl White Tricoat/Super Black",
+    "exterior": "Pearl White Tricoat",
     "interior": "Charcoal Sport Leather appointments",
     "engine": "N/A",
     "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission)",
@@ -2176,6 +2176,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Rogue Rock Creek",
+    "vin": "5N1BT3BB4TC808673",
+    "stock": "TC808673",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal Leatherette",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB4TC808673&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54416-exterior-kby.png.ximg.m_6_h.smart.png",
+    "price": "$36,695",
+    "sutherlins_price": "$36,695",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2026 Nissan Rogue Platinum",
     "vin": "JN8BT3DD8TW302933",
     "stock": "26543",
@@ -2247,21 +2262,6 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6f7a876102ac4f45873c20ba5463f0ff.jpg",
     "price": "$43,285",
     "sutherlins_price": "$37,163",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab SV",
-    "vin": "1N6ED1EJ5TN648522",
-    "stock": "TN648522",
-    "exterior": "Glacier White",
-    "interior": "Premium Charcoal Cloth",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ5TN648522&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2016/frontier/2016-nissan-frontier-32316-exterior-qak.png.ximg.m_6_h.smart.png",
-    "price": "$39,665",
-    "sutherlins_price": "$37,165",
     "mileage": "6 Miles"
   },
   {
@@ -2877,6 +2877,21 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/668c7b2ffbc5412b92ad6ca38563788d.jpg",
     "price": "$47,380",
     "sutherlins_price": "$42,438",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Pathfinder SV",
+    "vin": "5N1DR3BS6TC239591",
+    "stock": "TC239591",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BS6TC239591&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/pathfinder/2026-nissan-pathfinder-52316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$42,560",
+    "sutherlins_price": "$42,560",
     "mileage": "6 Miles"
   },
   {

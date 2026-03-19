@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Kia Seltos S",
-    "vin": "KNDEU2AA3S7773455",
-    "stock": "M2577A",
-    "exterior": "Mars Orange",
-    "interior": "Black",
-    "engine": "2.0L I4 MPI",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDEU2AA3S7773455&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fceda240-d698-4541-865e-920e51ac9873.jpg",
-    "price": "$26,960",
-    "sutherlins_price": "$21,300",
-    "mileage": "12,670 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Volkswagen Tiguan 2.0T SE R-Line Black",
-    "vin": "3VV8B7AX8PM060070",
-    "stock": "MP135",
-    "exterior": "Platinum Gray Metallic",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV8B7AX8PM060070&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VV8B7AX8PM060070&vehicletype=SUV",
-    "price": "$36,704",
-    "sutherlins_price": "$21,600",
-    "mileage": "54,931 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Toyota Highlander L",
-    "vin": "5TDCZRAH2LS507592",
-    "stock": "MP128",
-    "exterior": "Celestial Silver Metallic",
-    "interior": "Black",
-    "engine": "3.5L V6 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDCZRAH2LS507592&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ad9db5d7-f3c7-4c1f-9561-151570492d49.jpg",
-    "price": "$34,600",
-    "sutherlins_price": "$21,600",
-    "mileage": "84,019 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Toyota Corolla LE",
     "vin": "5YFB4MDE9TP398653",
     "stock": "M2604B",
@@ -84,7 +39,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA85PZ044170&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA85PZ044170&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0223a0da-501a-4282-874f-0bb26c7da06a.jpg",
     "price": "$38,190",
     "sutherlins_price": "$21,888",
     "mileage": "74,270 Miles"
@@ -204,7 +159,7 @@
     "engine": "2.0L I4 DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4NJDAN0RT115038&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/776ac9ea-89f7-4979-945c-e419cb7bd3e8.jpg",
     "price": "$28,090",
     "sutherlins_price": "$23,888",
     "mileage": "464 Miles"
@@ -219,7 +174,7 @@
     "engine": "2.0L 4-Cylinder DOHC 16V VVT",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDACAAU9R3024523&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JTDACAAU9R3024523&vehicletype=Hatchback",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/33683f50-0157-484a-8e41-79c2e07a4f47.jpg",
     "price": "$29,145",
     "sutherlins_price": "$23,888",
     "mileage": "66,147 Miles"
@@ -286,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Escape ST-Line",
-    "vin": "1FMCU9MN4PUB39512",
-    "stock": "MP151",
-    "exterior": "Carbonized Gray Metallic",
-    "interior": "Ebony With Red Stitching",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FMCU9MN4PUB39512&vehicletype=SUV",
-    "price": "$34,250",
-    "sutherlins_price": "$24,888",
-    "mileage": "24,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Dodge Challenger GT",
     "vin": "2C3CDZJGXNH263234",
     "stock": "MP155",
@@ -313,6 +253,21 @@
     "price": "$36,830",
     "sutherlins_price": "$24,888",
     "mileage": "58,320 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Escape ST-Line",
+    "vin": "1FMCU9MN4PUB39512",
+    "stock": "MP151",
+    "exterior": "Carbonized Gray Metallic",
+    "interior": "Ebony With Red Stitching",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FMCU9MN4PUB39512&vehicletype=SUV",
+    "price": "$34,250",
+    "sutherlins_price": "$24,888",
+    "mileage": "24,892 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$40,971",
     "sutherlins_price": "$29,688",
     "mileage": "33,508 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Mustang Mach-E GT",
+    "vin": "3FMTK4SX8PMA58773",
+    "stock": "MP123",
+    "exterior": "Gray Metallic",
+    "interior": "Gray/Metallic",
+    "engine": "Dual Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK4SX8PMA58773&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7466a77c-3aca-4497-b87d-58b5903ffd55.jpg",
+    "price": "$59,195",
+    "sutherlins_price": "$31,500",
+    "mileage": "31,539 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 GMC Acadia AT4",
+    "vin": "1GKKNLLS1PZ253556",
+    "stock": "MP120",
+    "exterior": "Volcanic Red",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcca1a85-8271-43fe-ad3b-2a1a6388bcba.jpg",
+    "price": "$49,980",
+    "sutherlins_price": "$31,800",
+    "mileage": "32,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X5 xDrive40i",
+    "vin": "5UXCR6C09L9B05218",
+    "stock": "MP140",
+    "exterior": "Gray Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "3.0L I6 DOHC 24V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXCR6C09L9B05218&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXCR6C09L9B05218&vehicletype=SUV",
+    "price": "$66,245",
+    "sutherlins_price": "$30,500",
+    "mileage": "58,611 Miles"
   }
 ]
