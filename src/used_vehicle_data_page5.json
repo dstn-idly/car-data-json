@@ -274,10 +274,10 @@
     "name": "2014 Ford Focus SE",
     "vin": "1FADP3F22EL333075",
     "stock": "P13546A",
-    "exterior": "Red",
+    "exterior": "Ruby Red",
     "interior": "Black",
     "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "",
+    "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FADP3F22EL333075&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014FRD014b_640/2014FRD014b_640_01.jpg",
     "price": "N/A",
@@ -298,21 +298,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "195,741 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017  Discovery Sport SE",
-    "vin": "SALCP2BG7HH688373",
-    "stock": "MP100B",
-    "exterior": "Yulong White Metallic",
-    "interior": "N/A",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=SALCP2BG7HH688373&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=SALCP2BG7HH688373&vehicletype=SUV",
-    "price": "$7,888",
-    "sutherlins_price": "$7,888",
-    "mileage": "133,000 Miles"
   },
   {
     "category": "used",
@@ -361,6 +346,21 @@
   },
   {
     "category": "used",
+    "name": "2015 Toyota RAV4 XLE",
+    "vin": "JTMZFREV2FJ057804",
+    "stock": "MP013B",
+    "exterior": "Magnetic Gray Metallic",
+    "interior": "Ash",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV2FJ057804&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/057097f5-a074-4cbe-913b-449bc48a6f7d.jpg",
+    "price": "$24,820",
+    "sutherlins_price": "$12,600",
+    "mileage": "102,820 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Chevrolet Equinox LT",
     "vin": "2GNALCEK7G6173465",
     "stock": "MP149",
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Toyota RAV4 XLE",
-    "vin": "JTMZFREV2FJ057804",
-    "stock": "MP013B",
-    "exterior": "Magnetic Gray Metallic",
-    "interior": "Ash",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV2FJ057804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/057097f5-a074-4cbe-913b-449bc48a6f7d.jpg",
-    "price": "$24,820",
-    "sutherlins_price": "$12,600",
-    "mileage": "102,820 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Kicks SR",
     "vin": "3N1CP5DV7LL534361",
     "stock": "MP157",
@@ -421,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Chevrolet Camaro 2LT",
-    "vin": "2G1FF3D38F9203966",
-    "stock": "MP026B",
-    "exterior": "Black",
-    "interior": "Gray",
-    "engine": "3.6L V6 DGI DOHC VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2G1FF3D38F9203966&vehicletype=Convertible",
-    "price": "$40,606",
-    "sutherlins_price": "$12,888",
-    "mileage": "122,904 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST7PF161042",
     "stock": "MP114",
@@ -448,6 +418,21 @@
     "price": "$29,345",
     "sutherlins_price": "$13,000",
     "mileage": "98,376 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Chevrolet Camaro 2LT",
+    "vin": "2G1FF3D38F9203966",
+    "stock": "MP026B",
+    "exterior": "Black",
+    "interior": "Gray",
+    "engine": "3.6L V6 DGI DOHC VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2G1FF3D38F9203966&vehicletype=Convertible",
+    "price": "$40,606",
+    "sutherlins_price": "$12,888",
+    "mileage": "122,904 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$13,888",
     "sutherlins_price": "$13,888",
     "mileage": "35,408 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 BMW 4 Series 430i Gran Coupe",
+    "vin": "WBA4J1C59JBG76075",
+    "stock": "M2515A",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L 4-Cylinder DOHC 16V Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA4J1C59JBG76075&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WBA4J1C59JBG76075&vehicletype=Hatchback",
+    "price": "$46,975",
+    "sutherlins_price": "$13,888",
+    "mileage": "83,928 Miles"
   }
 ]
