@@ -46,6 +46,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Alfa Romeo Giulia Veloce",
+    "vin": "ZARFAMBN7R7678309",
+    "stock": "MP162",
+    "exterior": "Alfa White",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN7R7678309&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5b64efcb-5b24-466f-991e-55fad372fc23.jpg",
+    "price": "$53,485",
+    "sutherlins_price": "$33,888",
+    "mileage": "11,850 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Ford Bronco Wildtrak",
     "vin": "1FMEE5DP5NLB50070",
     "stock": "MP060",
@@ -58,21 +73,6 @@
     "price": "$60,885",
     "sutherlins_price": "$33,888",
     "mileage": "65,472 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Alfa Romeo Giulia Veloce",
-    "vin": "ZARFAMBN7R7678309",
-    "stock": "MP162",
-    "exterior": "Alfa White",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN7R7678309&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a55418d1-db59-48eb-850f-51bb44b6499c.jpg",
-    "price": "$53,485",
-    "sutherlins_price": "$33,888",
-    "mileage": "11,850 Miles"
   },
   {
     "category": "used",
@@ -129,7 +129,7 @@
     "engine": "2.7L Turbo",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTP6BEK5P1210276&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9f598000-e871-4aec-8c00-8ce20f0447b6.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c41d5a6e-0699-466a-a8d9-516a5cf3816d.jpg",
     "price": "$44,815",
     "sutherlins_price": "$35,600",
     "mileage": "37,007 Miles"
@@ -268,5 +268,65 @@
     "price": "$126,880",
     "sutherlins_price": "$66,888",
     "mileage": "9,064 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Outlander",
+    "vin": "JA4J3VA86RZ012959",
+    "stock": "M2555A",
+    "exterior": "Silver",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA86RZ012959&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "80,040 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Volkswagen Jetta 1.4T SE",
+    "vin": "3VWD67AJ9GM292557",
+    "stock": "M2508B",
+    "exterior": "Black Uni",
+    "interior": "N/A",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VWD67AJ9GM292557&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VWD67AJ9GM292557&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "200,113 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG3PR536366",
+    "stock": "MP165",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black/Alloy/Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1GG3PR536366&vehicletype=Van",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford Bronco Sport Base",
+    "vin": "3FMCR9A67MRA19527",
+    "stock": "M2577B",
+    "exterior": "Oxford White",
+    "interior": "Ebony",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9A67MRA19527&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FMCR9A67MRA19527&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "93,782 Miles"
   }
 ]
