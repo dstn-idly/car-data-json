@@ -1,18 +1,33 @@
 [
   {
     "category": "used",
-    "name": "2024 Ford Edge SEL",
-    "vin": "2FMPK4J9XRBA71534",
-    "stock": "MP095",
-    "exterior": "Blue Metallic",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J9XRBA71534&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0d31773d-be49-469e-a34d-704e5f855c03.jpg",
-    "price": "$40,340",
+    "name": "2023 Kia Forte GT",
+    "vin": "3KPF44AC6PE633148",
+    "stock": "MP150",
+    "exterior": "Aurora Black Pearl",
+    "interior": "Black",
+    "engine": "1.6L I4 Turbo",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF44AC6PE633148&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3KPF44AC6PE633148&vehicletype=Sedan",
+    "price": "$28,055",
     "sutherlins_price": "$20,888",
-    "mileage": "34,746 Miles"
+    "mileage": "45,218 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Maverick XL",
+    "vin": "3FTTW8E31PRA75281",
+    "stock": "MP110",
+    "exterior": "Cactus",
+    "interior": "Black Onyx/Dark Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E31PRA75281&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4a6240de-0678-44d1-bc6b-81e09ee142c4.jpg",
+    "price": "$27,035",
+    "sutherlins_price": "$20,888",
+    "mileage": "54,411 Miles"
   },
   {
     "category": "used",
@@ -43,21 +58,6 @@
     "price": "$25,540",
     "sutherlins_price": "$20,888",
     "mileage": "1,322 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Ford Maverick XL",
-    "vin": "3FTTW8E31PRA75281",
-    "stock": "MP110",
-    "exterior": "Cactus",
-    "interior": "Black Onyx/Dark Slate",
-    "engine": "2.5L I-4 Hybrid",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E31PRA75281&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4a6240de-0678-44d1-bc6b-81e09ee142c4.jpg",
-    "price": "$27,035",
-    "sutherlins_price": "$20,888",
-    "mileage": "54,411 Miles"
   },
   {
     "category": "used",
@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Mitsubishi Outlander SE",
-    "vin": "JA4J4UA80NZ065223",
-    "stock": "M2585A",
-    "exterior": "White Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA80NZ065223&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3b851c3d-60c5-4d4b-9300-45c2a8d4c416.jpg",
-    "price": "$34,085",
-    "sutherlins_price": "$23,888",
-    "mileage": "24,670 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Wrangler Unlimited Rubicon 4xe",
     "vin": "1C4JJXR62MW799381",
     "stock": "MP002",
@@ -268,6 +253,21 @@
     "price": "$54,700",
     "sutherlins_price": "$23,888",
     "mileage": "77,094 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Mitsubishi Outlander SE",
+    "vin": "JA4J4UA80NZ065223",
+    "stock": "M2585A",
+    "exterior": "White Diamond",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4UA80NZ065223&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3b851c3d-60c5-4d4b-9300-45c2a8d4c416.jpg",
+    "price": "$34,085",
+    "sutherlins_price": "$23,888",
+    "mileage": "24,670 Miles"
   },
   {
     "category": "used",
