@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FT7W2B66FEB44996&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FT7W2B66FEB44996&vehicletype=Truck",
     "price": "$43,160",
-    "sutherlins_price": "$22,888",
+    "sutherlins_price": "$21,888",
     "mileage": "98,003 Miles"
   },
   {
@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Armada SV",
-    "vin": "JN8AY2AC3N9162987",
-    "stock": "MP047",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "5.6L V8 DOHC 32V LEV3-ULEV125 400hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC3N9162987&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8196056b-3fc8-4bc9-ba50-64cbf4f574d6.jpg",
-    "price": "$54,700",
-    "sutherlins_price": "$23,888",
-    "mileage": "77,094 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Outlander SE",
     "vin": "JA4J4UA80NZ065223",
     "stock": "M2585A",
@@ -268,6 +253,21 @@
     "price": "$61,725",
     "sutherlins_price": "$23,888",
     "mileage": "46,859 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Armada SV",
+    "vin": "JN8AY2AC3N9162987",
+    "stock": "MP047",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "5.6L V8 DOHC 32V LEV3-ULEV125 400hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC3N9162987&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8196056b-3fc8-4bc9-ba50-64cbf4f574d6.jpg",
+    "price": "$54,700",
+    "sutherlins_price": "$23,888",
+    "mileage": "77,094 Miles"
   },
   {
     "category": "used",
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJGXNH263234",
-    "stock": "MP155",
-    "exterior": "Pitch Black Clearcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C3CDZJGXNH263234&vehicletype=Coupe",
-    "price": "$36,830",
-    "sutherlins_price": "$24,888",
-    "mileage": "58,320 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Escape ST-Line",
     "vin": "1FMCU9MN4PUB39512",
     "stock": "MP151",
@@ -328,6 +313,21 @@
     "price": "$34,250",
     "sutherlins_price": "$24,888",
     "mileage": "24,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJGXNH263234",
+    "stock": "MP155",
+    "exterior": "Pitch Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C3CDZJGXNH263234&vehicletype=Coupe",
+    "price": "$36,830",
+    "sutherlins_price": "$24,888",
+    "mileage": "58,320 Miles"
   },
   {
     "category": "used",
