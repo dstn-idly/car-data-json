@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Nissan Rogue SL",
-    "vin": "5N1AT2MV0FC839095",
-    "stock": "P13447A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV0FC839095&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS11_640/2015NIS110001_640_01.jpg",
-    "price": "$13,275",
-    "sutherlins_price": "$5,988",
-    "mileage": "165,064 Miles"
-  },
-  {
-    "category": "used",
     "name": "2012 Nissan JUKE SV",
     "vin": "JN8AF5MR6CT107375",
     "stock": "KP1093",
@@ -58,6 +43,21 @@
     "price": "$7,986",
     "sutherlins_price": "$5,988",
     "mileage": "119,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Nissan Rogue SL",
+    "vin": "5N1AT2MV0FC839095",
+    "stock": "P13447A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV0FC839095&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS11_640/2015NIS110001_640_01.jpg",
+    "price": "$13,275",
+    "sutherlins_price": "$5,988",
+    "mileage": "165,064 Miles"
   },
   {
     "category": "used",
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT2JP546075&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b36416264e84440e93dc4baf9ad1efdf.jpg",
     "price": "$12,995",
-    "sutherlins_price": "$14,750",
+    "sutherlins_price": "$12,995",
     "mileage": "63,966 Miles"
   },
   {
