@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Toyota RAV4 XLE",
-    "vin": "JTMZFREV2FJ057804",
-    "stock": "MP013B",
-    "exterior": "Magnetic Gray Metallic",
-    "interior": "Ash",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV2FJ057804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/057097f5-a074-4cbe-913b-449bc48a6f7d.jpg",
-    "price": "$24,820",
-    "sutherlins_price": "$11,888",
-    "mileage": "102,820 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Chevrolet Equinox LT",
     "vin": "2GNALCEK7G6173465",
     "stock": "MP149",
@@ -238,6 +223,21 @@
     "price": "$29,500",
     "sutherlins_price": "$11,888",
     "mileage": "64,251 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Toyota RAV4 XLE",
+    "vin": "JTMZFREV2FJ057804",
+    "stock": "MP013B",
+    "exterior": "Magnetic Gray Metallic",
+    "interior": "Ash",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMZFREV2FJ057804&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/057097f5-a074-4cbe-913b-449bc48a6f7d.jpg",
+    "price": "$24,820",
+    "sutherlins_price": "$11,888",
+    "mileage": "102,820 Miles"
   },
   {
     "category": "used",
