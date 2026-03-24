@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1K85REA58382&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d2026a2115c44c9bb9cd83b96dd8560b.jpg",
     "price": "$55,600",
-    "sutherlins_price": "$41,988",
+    "sutherlins_price": "$41,416",
     "mileage": "66,838 Miles"
   },
   {
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Murano SV",
-    "vin": "5N1AZ2MG7JN134629",
-    "stock": "MP108",
-    "exterior": "Cayenne Red Metallic",
-    "interior": "Graphite",
-    "engine": "3.5L V6 DOHC 24V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG7JN134629&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ce8c874d-9922-46f1-a9fa-1ec1253ed97a.jpg",
-    "price": "$35,065",
-    "sutherlins_price": "$13,888",
-    "mileage": "78,610 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 BMW 4 Series 430i Gran Coupe",
     "vin": "WBA4J1C59JBG76075",
     "stock": "M2515A",
@@ -403,6 +388,21 @@
     "price": "$46,975",
     "sutherlins_price": "$13,888",
     "mileage": "83,928 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Murano SV",
+    "vin": "5N1AZ2MG7JN134629",
+    "stock": "MP108",
+    "exterior": "Cayenne Red Metallic",
+    "interior": "Graphite",
+    "engine": "3.5L V6 DOHC 24V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG7JN134629&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ce8c874d-9922-46f1-a9fa-1ec1253ed97a.jpg",
+    "price": "$35,065",
+    "sutherlins_price": "$13,888",
+    "mileage": "78,610 Miles"
   },
   {
     "category": "used",
