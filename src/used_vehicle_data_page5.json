@@ -174,7 +174,7 @@
     "engine": "2.0L 4-Cylinder MPI",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD6NE450604&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f883144a-0a48-4169-ae0d-40c1ee8d3628.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/66d4281d-8595-4318-8c3f-6f11bc6f6126.jpg",
     "price": "$8,888",
     "sutherlins_price": "$8,888",
     "mileage": "138,000 Miles"
@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Chevrolet Equinox LT",
-    "vin": "2GNALCEK7G6173465",
-    "stock": "MP149",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "2.4L 4-Cylinder SIDI DOHC VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNALCEK7G6173465&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/47660890-9013-44bf-b2eb-f61bb0b09aca.jpg",
-    "price": "$29,500",
-    "sutherlins_price": "$11,888",
-    "mileage": "64,251 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Toyota RAV4 XLE",
     "vin": "JTMZFREV2FJ057804",
     "stock": "MP013B",
@@ -223,6 +208,21 @@
     "price": "$24,820",
     "sutherlins_price": "$11,888",
     "mileage": "102,820 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Chevrolet Equinox LT",
+    "vin": "2GNALCEK7G6173465",
+    "stock": "MP149",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "2.4L 4-Cylinder SIDI DOHC VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNALCEK7G6173465&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ccab502d-bbe4-4085-8da1-831642b9ef30.jpg",
+    "price": "$29,500",
+    "sutherlins_price": "$11,888",
+    "mileage": "64,251 Miles"
   },
   {
     "category": "used",
