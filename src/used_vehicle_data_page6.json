@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Mitsubishi Outlander SE",
-    "vin": "JA4J3VA86RZ012959",
-    "stock": "M2555A",
-    "exterior": "Alloy Silver Metallic",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA86RZ012959&vehicletype=SUV",
-    "price": "$32,940",
-    "sutherlins_price": "$18,888",
-    "mileage": "80,040 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV8PL533100",
     "stock": "MP125",
@@ -478,5 +463,20 @@
     "price": "$61,725",
     "sutherlins_price": "$23,888",
     "mileage": "46,859 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Armada SV",
+    "vin": "JN8AY2AC3N9162987",
+    "stock": "MP047",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "5.6L V8 DOHC 32V LEV3-ULEV125 400hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC3N9162987&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8196056b-3fc8-4bc9-ba50-64cbf4f574d6.jpg",
+    "price": "$54,700",
+    "sutherlins_price": "$23,888",
+    "mileage": "77,094 Miles"
   }
 ]

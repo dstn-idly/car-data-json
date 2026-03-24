@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Armada SV",
-    "vin": "JN8AY2AC3N9162987",
-    "stock": "MP047",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "5.6L V8 DOHC 32V LEV3-ULEV125 400hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC3N9162987&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8196056b-3fc8-4bc9-ba50-64cbf4f574d6.jpg",
-    "price": "$54,700",
-    "sutherlins_price": "$23,888",
-    "mileage": "77,094 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mitsubishi Outlander Sport SEL",
     "vin": "JA4ARVAW7SU001324",
     "stock": "MP009",
@@ -478,5 +463,20 @@
     "price": "$49,109",
     "sutherlins_price": "$39,400",
     "mileage": "12,806 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Lexus RX 350 Premium",
+    "vin": "2T2BAMBA3PC004994",
+    "stock": "MP134",
+    "exterior": "Iridium",
+    "interior": "Black W/Black Open Pore",
+    "engine": "2.4L I4 PDI Turbocharged DOHC 16V LEV3-SULEV30 275hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BAMBA3PC004994&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bbd7d94e-8151-4dba-95f3-97b4620f3bb8.jpg",
+    "price": "$52,575",
+    "sutherlins_price": "$47,888",
+    "mileage": "18,737 Miles"
   }
 ]
