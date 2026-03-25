@@ -174,7 +174,7 @@
     "engine": "2.0L 4-Cylinder MPI",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD6NE450604&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/66d4281d-8595-4318-8c3f-6f11bc6f6126.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c3994070-de01-48a0-a7f6-724394b488cf.jpg",
     "price": "$8,888",
     "sutherlins_price": "$8,888",
     "mileage": "138,000 Miles"
@@ -204,7 +204,7 @@
     "engine": "2.4L 4-Cylinder SIDI DOHC VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNALCEK7G6173465&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ccab502d-bbe4-4085-8da1-831642b9ef30.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f6cd960f-3023-462b-a720-ac906db7ed2e.jpg",
     "price": "$29,500",
     "sutherlins_price": "$11,888",
     "mileage": "64,251 Miles"
@@ -406,6 +406,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Mitsubishi Outlander ES",
+    "vin": "JA4J3TA84NZ041309",
+    "stock": "M2594A",
+    "exterior": "Labrador Black Pearl",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA84NZ041309&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3TA84NZ041309&vehicletype=SUV",
+    "price": "$28,340",
+    "sutherlins_price": "$17,888",
+    "mileage": "67,107 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Hyundai Santa Fe SE",
     "vin": "5NMS23AD1LH239924",
     "stock": "MP098",
@@ -418,6 +433,21 @@
     "price": "$27,700",
     "sutherlins_price": "$17,888",
     "mileage": "37,746 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Jeep Wrangler Unlimited Willys",
+    "vin": "1C4BJWDG5GL233428",
+    "stock": "MP023A",
+    "exterior": "Hydro Blue Pearl Coat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4BJWDG5GL233428&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C4BJWDG5GL233428&vehicletype=SUV",
+    "price": "$42,680",
+    "sutherlins_price": "$18,888",
+    "mileage": "54,935 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$30,480",
     "sutherlins_price": "$18,622",
     "mileage": "31,482 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Outlander SE",
-    "vin": "JA4J3VA86RZ012959",
-    "stock": "M2555A",
-    "exterior": "Alloy Silver Metallic",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA86RZ012959&vehicletype=SUV",
-    "price": "$32,940",
-    "sutherlins_price": "$18,888",
-    "mileage": "80,040 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL533100",
-    "stock": "MP125",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
-    "price": "$24,980",
-    "sutherlins_price": "$18,888",
-    "mileage": "17,950 Miles"
   }
 ]
