@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6MT1DS724415&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8f29c5d1-cc14-4e13-8d1a-3d3d5d303d94.jpg",
     "price": "$42,350",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$19,688",
     "mileage": "35,055 Miles"
   },
   {
@@ -436,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Ford Edge SEL",
-    "vin": "2FMPK4J9XRBA71534",
-    "stock": "MP095",
-    "exterior": "Blue Metallic",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J9XRBA71534&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0d31773d-be49-469e-a34d-704e5f855c03.jpg",
-    "price": "$40,340",
-    "sutherlins_price": "$20,888",
-    "mileage": "34,746 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Kia Forte GT",
     "vin": "3KPF44AC6PE633148",
     "stock": "MP150",
@@ -463,6 +448,21 @@
     "price": "$28,055",
     "sutherlins_price": "$20,888",
     "mileage": "45,218 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Edge SEL",
+    "vin": "2FMPK4J9XRBA71534",
+    "stock": "MP095",
+    "exterior": "Blue Metallic",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J9XRBA71534&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0d31773d-be49-469e-a34d-704e5f855c03.jpg",
+    "price": "$40,340",
+    "sutherlins_price": "$20,888",
+    "mileage": "34,746 Miles"
   },
   {
     "category": "used",
