@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Toyota RAV4 XLE",
-    "vin": "JTMW1RFV4MD067925",
-    "stock": "MP109",
-    "exterior": "Silver Sky Metallic",
-    "interior": "Ash",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMW1RFV4MD067925&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3bb27c9f-d020-4191-80e7-d7621cdaa87e.jpg",
-    "price": "$27,345",
-    "sutherlins_price": "$22,888",
-    "mileage": "45,743 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Atlas 2.0T SEL",
     "vin": "1V2BP2CA0NC512740",
     "stock": "MP142",
@@ -478,5 +463,20 @@
     "price": "$47,385",
     "sutherlins_price": "$35,888",
     "mileage": "28,882 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Tacoma TRD Sport",
+    "vin": "3TYKB5FN2RT007047",
+    "stock": "MP131",
+    "exterior": "Ice Cap",
+    "interior": "Black/White",
+    "engine": "2.4L 4-Cylinder",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TYKB5FN2RT007047&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8855b352-1f4f-4a4c-b1c8-25246335d718.jpg",
+    "price": "$41,740",
+    "sutherlins_price": "$38,888",
+    "mileage": "13,598 Miles"
   }
 ]
