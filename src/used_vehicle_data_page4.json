@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Chrysler Pacifica Touring L",
+    "vin": "2C4RC1BG6PR515874",
+    "stock": "P13594",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black/Alloy/Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG6PR515874&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a804ebb6c64f459292ca0df5fa08f83e.jpg",
+    "price": "$24,375",
+    "sutherlins_price": "$22,498",
+    "mileage": "79,819 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Altima S",
     "vin": "1N4BL4BVXSN307526",
     "stock": "P13565",
@@ -31,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Latitude",
-    "vin": "3C4NJDBN9RT119586",
-    "stock": "KP1095",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN9RT119586&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/62347.jpg",
-    "price": "$23,650",
-    "sutherlins_price": "$22,995",
-    "mileage": "50,837 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Maxima SR",
     "vin": "1N4AA6EV4LC365783",
     "stock": "25981B",
@@ -58,6 +58,21 @@
     "price": "$24,450",
     "sutherlins_price": "$22,995",
     "mileage": "40,957 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Jeep Compass Latitude",
+    "vin": "3C4NJDBN9RT119586",
+    "stock": "KP1095",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN9RT119586&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/62347.jpg",
+    "price": "$23,650",
+    "sutherlins_price": "$22,995",
+    "mileage": "50,837 Miles"
   },
   {
     "category": "used",
@@ -144,7 +159,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7361356&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/941c13ed30d44afd860c50cd353d519b.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8cf7689a7f104ab29ce664147f6590d5.jpg",
     "price": "$26,675",
     "sutherlins_price": "$24,400",
     "mileage": "8,721 Miles"
@@ -331,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue Platinum",
-    "vin": "JN8BT3DC3RW380293",
-    "stock": "26627A",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC3RW380293&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a0441fdd1a64c8db173385a4f39c787.jpg",
-    "price": "$29,975",
-    "sutherlins_price": "$28,995",
-    "mileage": "29,369 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 GMC Sierra 1500 Limited SLE",
     "vin": "3GTP8BEK2NG137232",
     "stock": "P13680",
@@ -376,6 +376,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Rogue Platinum",
+    "vin": "JN8BT3DC3RW380293",
+    "stock": "26627A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC3RW380293&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6a30d66bf3244c58bb7fcc5f86eb7c9b.jpg",
+    "price": "$29,975",
+    "sutherlins_price": "$28,995",
+    "mileage": "29,369 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Ford Maverick XL",
     "vin": "3FTTW8BA0SRA25581",
     "stock": "26632A",
@@ -403,21 +418,6 @@
     "price": "$32,375",
     "sutherlins_price": "$29,988",
     "mileage": "30,396 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Frontier PRO-X",
-    "vin": "1N6ED1EJ4RN608294",
-    "stock": "P13671",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal w/Lava Red Stit",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ4RN608294&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/000e703bfd89436c906e27978b983dd2.jpg",
-    "price": "$35,500",
-    "sutherlins_price": "$29,995",
-    "mileage": "29,576 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2021 Ford Bronco Big Bend",
-    "vin": "1FMDE5BH8MLA90453",
-    "stock": "P13576",
-    "exterior": "Area 51",
+    "name": "2020 Nissan Titan XD SL",
+    "vin": "1N6AA1FB1LN504335",
+    "stock": "P13701",
+    "exterior": "Pearl White",
     "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.3 L/140",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMDE5BH8MLA90453&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9483d92f97e5443e91562b981ed0191f.jpg",
-    "price": "$38,970",
-    "sutherlins_price": "$32,988",
-    "mileage": "55,777 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1FB1LN504335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIT16_640/2020NIT160033_640_01.jpg",
+    "price": "$30,995",
+    "sutherlins_price": "$30,995",
+    "mileage": "N/A"
   }
 ]
