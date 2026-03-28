@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV9MY300669",
-    "stock": "26259A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9MY300669&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "79,062 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Toyota Corolla",
     "vin": "2T1BURHEXFC436676",
     "stock": "KP1096",
@@ -283,6 +268,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV9MY300669",
+    "stock": "26259A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9MY300669&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC06_640/2021NIC060016_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "79,062 Miles"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Nissan Murano SV",
-    "vin": "5N1AZ2MGXHN102638",
-    "stock": "26620A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MGXHN102638&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS020001_640/2017NIS020001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "163,256 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Armada SL",
     "vin": "JN8AY2ND0J9056249",
     "stock": "26451A",
@@ -361,18 +346,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Hyundai Tucson SEL",
-    "vin": "5NMJF3AE7NH092326",
-    "stock": "26620B",
-    "exterior": "Intense Blue",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJF3AE7NH092326&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022HYS02_640/2022HYS020047_640_01.jpg",
+    "name": "2017 Nissan Murano SV",
+    "vin": "5N1AZ2MGXHN102638",
+    "stock": "26620A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MGXHN102638&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS020001_640/2017NIS020001_640_01.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "45,892 Miles"
+    "mileage": "163,256 Miles"
   },
   {
     "category": "used",
@@ -403,6 +388,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "46,641 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Tucson SEL",
+    "vin": "5NMJF3AE7NH092326",
+    "stock": "26620B",
+    "exterior": "Intense Blue",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJF3AE7NH092326&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022HYS02_640/2022HYS020047_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "45,892 Miles"
   },
   {
     "category": "used",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Hyundai Tucson SE Plus",
+    "vin": "KM8J33A41HU529665",
+    "stock": "MP162A",
+    "exterior": "Coliseum Gray",
+    "interior": "Black",
+    "engine": "2.0L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A41HU529665&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A41HU529665&vehicletype=SUV",
+    "price": "$28,220",
+    "sutherlins_price": "$11,888",
+    "mileage": "95,683 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Kicks SR",
     "vin": "3N1CP5DV7LL534361",
     "stock": "MP157",
@@ -463,20 +478,5 @@
     "price": "$24,165",
     "sutherlins_price": "$12,888",
     "mileage": "83,862 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Chevrolet Camaro 2LT",
-    "vin": "2G1FF3D38F9203966",
-    "stock": "MP026B",
-    "exterior": "Black",
-    "interior": "Gray",
-    "engine": "3.6L V6 DGI DOHC VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/18bf1033-ff03-48fc-a820-a8ea0041819e.jpg",
-    "price": "$40,606",
-    "sutherlins_price": "$12,888",
-    "mileage": "122,904 Miles"
   }
 ]
