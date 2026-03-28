@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 BMW X1 xDrive28i",
-    "vin": "WBX73EF06S5102647",
-    "stock": "MP156",
-    "exterior": "Black Sapphire Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 16V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
-    "price": "$45,500",
-    "sutherlins_price": "$33,888",
-    "mileage": "34,906 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG2SR515811",
-    "stock": "MP139",
-    "exterior": "Diamond Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2383c0dd-d6db-4b44-8718-bb2af64ccd9f.jpg",
-    "price": "$51,265",
-    "sutherlins_price": "$33,888",
-    "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Lexus ES 350",
     "vin": "58ADZ1B16RU166570",
     "stock": "MP104",
@@ -166,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Lexus RX 350 Premium",
-    "vin": "2T2BAMBA3PC004994",
-    "stock": "MP134",
-    "exterior": "Iridium",
-    "interior": "Black W/Black Open Pore",
-    "engine": "2.4L I4 PDI Turbocharged DOHC 16V LEV3-SULEV30 275hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BAMBA3PC004994&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bbd7d94e-8151-4dba-95f3-97b4620f3bb8.jpg",
-    "price": "$52,575",
-    "sutherlins_price": "$47,888",
-    "mileage": "18,737 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mercedes-Benz EQS 450",
     "vin": "4JGDM2EB7PA023402",
     "stock": "MP148",
@@ -196,6 +151,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Lexus RX 350 Premium",
+    "vin": "2T2BAMBA3PC004994",
+    "stock": "MP134",
+    "exterior": "Iridium",
+    "interior": "Black W/Black Open Pore",
+    "engine": "2.4L I4 PDI Turbocharged DOHC 16V LEV3-SULEV30 275hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BAMBA3PC004994&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bbd7d94e-8151-4dba-95f3-97b4620f3bb8.jpg",
+    "price": "$52,575",
+    "sutherlins_price": "$47,888",
+    "mileage": "18,737 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Porsche Cayenne Platinum Edition",
     "vin": "WP1AA2AY0NDA02105",
     "stock": "MP145",
@@ -208,20 +178,5 @@
     "price": "$84,200",
     "sutherlins_price": "$50,888",
     "mileage": "48,685 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mercedes-Benz Sprinter 2500 Cargo 170 WB",
-    "vin": "W1Y4NCHY0ST203398",
-    "stock": "ST203398",
-    "exterior": "Arctic White",
-    "interior": "Black",
-    "engine": "2.0L I4 Diesel Turbocharged High Output",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1Y4NCHY0ST203398&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c34e1cc2-c500-4525-bfb0-d241e6a08c4d.jpg",
-    "price": "$68,684",
-    "sutherlins_price": "$68,684",
-    "mileage": "13 Miles"
   }
 ]

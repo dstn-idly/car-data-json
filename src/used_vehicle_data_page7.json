@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Mitsubishi Outlander SEL",
-    "vin": "JA4J3VA85NZ090546",
-    "stock": "M2583A",
-    "exterior": "White Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA85NZ090546&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA85NZ090546&vehicletype=SUV",
-    "price": "$32,245",
-    "sutherlins_price": "$21,488",
-    "mileage": "65,443 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Volkswagen Tiguan 2.0T SE R-Line Black",
     "vin": "3VV8B7AX8PM060070",
     "stock": "MP135",
@@ -24,7 +9,7 @@
     "engine": "2.0L TSI DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV8B7AX8PM060070&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cf304fb5-0ebe-4a76-8c28-a147582ca9d6.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/89fe98ed-6f7c-4455-8aec-5ca7d4e1eda8.jpg",
     "price": "$36,704",
     "sutherlins_price": "$21,600",
     "mileage": "54,931 Miles"
@@ -196,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Armada SV",
-    "vin": "JN8AY2AC3N9162987",
-    "stock": "MP047",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "5.6L V8 DOHC 32V LEV3-ULEV125 400hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC3N9162987&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8196056b-3fc8-4bc9-ba50-64cbf4f574d6.jpg",
-    "price": "$54,700",
-    "sutherlins_price": "$23,888",
-    "mileage": "77,094 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Ford Bronco Sport Big Bend",
     "vin": "3FMCR9B66NRD95510",
     "stock": "MP110A",
@@ -226,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Escape ST-Line",
-    "vin": "1FMCU9MN4PUB39512",
-    "stock": "MP151",
-    "exterior": "Carbonized Gray Metallic",
-    "interior": "Ebony With Red Stitching",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
-    "price": "$34,250",
-    "sutherlins_price": "$24,888",
-    "mileage": "24,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Dodge Challenger GT",
     "vin": "2C3CDZJGXNH263234",
     "stock": "MP155",
@@ -253,6 +208,21 @@
     "price": "$36,830",
     "sutherlins_price": "$24,888",
     "mileage": "58,320 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Escape ST-Line",
+    "vin": "1FMCU9MN4PUB39512",
+    "stock": "MP151",
+    "exterior": "Carbonized Gray Metallic",
+    "interior": "Ebony With Red Stitching",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
+    "price": "$34,250",
+    "sutherlins_price": "$24,888",
+    "mileage": "24,892 Miles"
   },
   {
     "category": "used",
@@ -346,6 +316,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE1NF367804",
+    "stock": "MP111",
+    "exterior": "Red Multi-Coat",
+    "interior": "White/Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
+    "price": "$67,190",
+    "sutherlins_price": "$30,888",
+    "mileage": "22,132 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Toyota Tacoma SR5",
     "vin": "3TMAZ5CN3PM206242",
     "stock": "M2503A",
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE1NF367804",
-    "stock": "MP111",
-    "exterior": "Red Multi-Coat",
-    "interior": "White/Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
-    "price": "$67,190",
-    "sutherlins_price": "$30,888",
-    "mileage": "22,132 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Mustang Mach-E GT",
     "vin": "3FMTK4SX8PMA58773",
     "stock": "MP123",
@@ -478,5 +448,35 @@
     "price": "$60,885",
     "sutherlins_price": "$33,888",
     "mileage": "65,472 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2383c0dd-d6db-4b44-8718-bb2af64ccd9f.jpg",
+    "price": "$51,265",
+    "sutherlins_price": "$33,888",
+    "mileage": "62,231 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 BMW X1 xDrive28i",
+    "vin": "WBX73EF06S5102647",
+    "stock": "MP156",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 16V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
+    "price": "$45,500",
+    "sutherlins_price": "$33,888",
+    "mileage": "34,906 Miles"
   }
 ]
