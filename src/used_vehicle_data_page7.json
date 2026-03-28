@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJGXNH263234",
-    "stock": "MP155",
-    "exterior": "Pitch Black Clearcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C3CDZJGXNH263234&vehicletype=Coupe",
-    "price": "$36,830",
-    "sutherlins_price": "$24,888",
-    "mileage": "58,320 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Escape ST-Line",
     "vin": "1FMCU9MN4PUB39512",
     "stock": "MP151",
@@ -223,6 +208,21 @@
     "price": "$34,250",
     "sutherlins_price": "$24,888",
     "mileage": "24,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJGXNH263234",
+    "stock": "MP155",
+    "exterior": "Pitch Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C3CDZJGXNH263234&vehicletype=Coupe",
+    "price": "$36,830",
+    "sutherlins_price": "$24,888",
+    "mileage": "58,320 Miles"
   },
   {
     "category": "used",
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
     "price": "$39,910",
-    "sutherlins_price": "$27,500",
+    "sutherlins_price": "$26,888",
     "mileage": "24,326 Miles"
   },
   {
@@ -311,7 +311,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
     "price": "$42,619",
-    "sutherlins_price": "$28,400",
+    "sutherlins_price": "$27,888",
     "mileage": "29,023 Miles"
   },
   {
@@ -326,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
     "price": "$67,190",
-    "sutherlins_price": "$30,888",
+    "sutherlins_price": "$28,888",
     "mileage": "22,132 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
     "price": "$34,130",
-    "sutherlins_price": "$29,300",
+    "sutherlins_price": "$27,888",
     "mileage": "50,633 Miles"
   },
   {
@@ -356,7 +356,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WVWWA7CD2PW212467&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/09ffea53-effb-4eae-bece-a1446b255b65.jpg",
     "price": "$40,971",
-    "sutherlins_price": "$29,688",
+    "sutherlins_price": "$28,888",
     "mileage": "33,508 Miles"
   },
   {
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG2SR515811",
-    "stock": "MP139",
-    "exterior": "Diamond Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2383c0dd-d6db-4b44-8718-bb2af64ccd9f.jpg",
-    "price": "$51,265",
-    "sutherlins_price": "$33,888",
-    "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 BMW X1 xDrive28i",
     "vin": "WBX73EF06S5102647",
     "stock": "MP156",
@@ -478,5 +463,20 @@
     "price": "$45,500",
     "sutherlins_price": "$33,888",
     "mileage": "34,906 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2383c0dd-d6db-4b44-8718-bb2af64ccd9f.jpg",
+    "price": "$51,265",
+    "sutherlins_price": "$33,888",
+    "mileage": "62,231 Miles"
   }
 ]
