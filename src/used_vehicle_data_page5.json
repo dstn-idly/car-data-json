@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 GMC Sierra 1500 Limited SLE",
-    "vin": "3GTP8BEK2NG137232",
-    "stock": "P13680",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Gas I4 2.7L/166",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GTP8BEK2NG137232&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/63e276267c674e5a801bfbbe6462dd3c.jpg",
-    "price": "$30,775",
-    "sutherlins_price": "$28,995",
-    "mileage": "85,201 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Ford Edge Titanium",
-    "vin": "2FMPK4K93RBA86245",
-    "stock": "26303A",
-    "exterior": "Forged Green Metallic",
-    "interior": "Ebony",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4K93RBA86245&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4c051d74dae64223b670d061d507bd16.jpg",
-    "price": "$30,725",
-    "sutherlins_price": "$28,995",
-    "mileage": "7,768 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Ford Maverick XL",
-    "vin": "3FTTW8BA0SRA25581",
-    "stock": "26632A",
-    "exterior": "White Metallic",
-    "interior": "Black Onyx/Dark Slate",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8BA0SRA25581&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025FOT21_640/2025FOT212007991_640_01.jpg",
-    "price": "$30,075",
-    "sutherlins_price": "$28,995",
-    "mileage": "11,510 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Frontier SV",
     "vin": "1N6ED1EJ6RN633066",
     "stock": "P13645",
@@ -219,7 +174,7 @@
     "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R5DGE8RU762107&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1ea119ec976d4b46bfb11539e670977f.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd5580fd5382419fad02aa7befa8e42a.jpg",
     "price": "$38,700",
     "sutherlins_price": "$35,988",
     "mileage": "21,286 Miles"
@@ -406,6 +361,36 @@
   },
   {
     "category": "used",
+    "name": "2017 Honda Pilot EX-L",
+    "vin": "5FNYF5H50HB037092",
+    "stock": "26631A",
+    "exterior": "Black",
+    "interior": "N/A",
+    "engine": "Regular Unleaded V-6 3.5 L/212",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF5H50HB037092&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017HOS030008_640/2017HOS030008_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "97,704 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2014 Dodge Grand Caravan SE",
+    "vin": "2C4RDGBG2ER145553",
+    "stock": "26417B",
+    "exterior": "Cashmere/Sandstone Pearlcoat",
+    "interior": "Black/Sandstorm",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBG2ER145553&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014DOD003b_640/2014DOD003b_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "177,219 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Mitsubishi Outlander ES",
     "vin": "JA4AD2A32LZ012254",
     "stock": "M2644A",
@@ -478,5 +463,20 @@
     "price": "$31,875",
     "sutherlins_price": "$12,888",
     "mileage": "69,727 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Kicks SR",
+    "vin": "3N1CP5DV7LL534361",
+    "stock": "MP157",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV7LL534361&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1f4c6e96-38a2-4c44-a5eb-670b98e8a5c6.jpg",
+    "price": "$24,165",
+    "sutherlins_price": "$12,888",
+    "mileage": "83,862 Miles"
   }
 ]
