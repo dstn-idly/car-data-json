@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2025 Ford Maverick XL",
+    "vin": "3FTTW8BA0SRA25581",
+    "stock": "26632A",
+    "exterior": "White Metallic",
+    "interior": "Black Onyx/Dark Slate",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8BA0SRA25581&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025FOT21_640/2025FOT212007991_640_01.jpg",
+    "price": "$30,075",
+    "sutherlins_price": "$26,995",
+    "mileage": "11,510 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Frontier SV",
     "vin": "1N6ED1EJ6RN633066",
     "stock": "P13645",
@@ -361,36 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Honda Pilot EX-L",
-    "vin": "5FNYF5H50HB037092",
-    "stock": "26631A",
-    "exterior": "Black",
-    "interior": "N/A",
-    "engine": "Regular Unleaded V-6 3.5 L/212",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNYF5H50HB037092&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017HOS030008_640/2017HOS030008_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "97,704 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2014 Dodge Grand Caravan SE",
-    "vin": "2C4RDGBG2ER145553",
-    "stock": "26417B",
-    "exterior": "Cashmere/Sandstone Pearlcoat",
-    "interior": "Black/Sandstorm",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBG2ER145553&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014DOD003b_640/2014DOD003b_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "177,219 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Mitsubishi Outlander ES",
     "vin": "JA4AD2A32LZ012254",
     "stock": "M2644A",
@@ -478,5 +463,20 @@
     "price": "$24,165",
     "sutherlins_price": "$12,888",
     "mileage": "83,862 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Chevrolet Camaro 2LT",
+    "vin": "2G1FF3D38F9203966",
+    "stock": "MP026B",
+    "exterior": "Black",
+    "interior": "Gray",
+    "engine": "3.6L V6 DGI DOHC VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bb3a253d-a0f1-4a91-8e97-9057968aedc4.jpg",
+    "price": "$40,606",
+    "sutherlins_price": "$12,888",
+    "mileage": "122,904 Miles"
   }
 ]

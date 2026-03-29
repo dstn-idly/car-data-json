@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Versa SV",
-    "vin": "3N1CN8EV9ML851128",
-    "stock": "P13691",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9ML851128&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC10_640/2021NIC100001_640_01.jpg",
-    "price": "$12,775",
-    "sutherlins_price": "$11,995",
-    "mileage": "65,232 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Nissan Sentra SR",
     "vin": "3N1AB8DV6MY316987",
     "stock": "26374A",
@@ -223,6 +208,21 @@
     "price": "$12,825",
     "sutherlins_price": "$11,995",
     "mileage": "113,021 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Versa SV",
+    "vin": "3N1CN8EV9ML851128",
+    "stock": "P13691",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9ML851128&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIC10_640/2021NIC100001_640_01.jpg",
+    "price": "$12,775",
+    "sutherlins_price": "$11,995",
+    "mileage": "65,232 Miles"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Toyota Corolla S",
-    "vin": "2T1BURHEXFC436676",
-    "stock": "KP1096",
-    "exterior": "Slate Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHEXFC436676&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015TOC04_640/2015TOC040001_640_01.jpg",
-    "price": "$15,100",
-    "sutherlins_price": "$13,995",
-    "mileage": "11,225 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan LEAF S",
     "vin": "1N4AZ1BV4PC562412",
     "stock": "P13678",
@@ -358,6 +343,21 @@
     "price": "$15,025",
     "sutherlins_price": "$13,995",
     "mileage": "25,334 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Toyota Corolla S",
+    "vin": "2T1BURHEXFC436676",
+    "stock": "KP1096",
+    "exterior": "Slate Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHEXFC436676&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015TOC04_640/2015TOC040001_640_01.jpg",
+    "price": "$15,100",
+    "sutherlins_price": "$13,995",
+    "mileage": "11,225 Miles"
   },
   {
     "category": "used",
@@ -388,21 +388,6 @@
     "price": "$16,450",
     "sutherlins_price": "$14,540",
     "mileage": "50,466 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Jeep Compass Latitude with Sun/Wheel Pkg",
-    "vin": "3C4NJCBBXKT679512",
-    "stock": "26547B",
-    "exterior": "White Clearcoat",
-    "interior": "Ski Gray/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCBBXKT679512&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019JES15_640/2019JES150022_640_01.jpg",
-    "price": "$17,100",
-    "sutherlins_price": "$13,898",
-    "mileage": "60,059 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$16,300",
     "sutherlins_price": "$15,498",
     "mileage": "62,837 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota Corolla LE",
+    "vin": "JTDEPRAEXLJ092135",
+    "stock": "P13589",
+    "exterior": "Barcelona Red Metallic",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPRAEXLJ092135&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/62e76bbce0fb4eef87031a9cda80c703.jpg",
+    "price": "$16,700",
+    "sutherlins_price": "$15,498",
+    "mileage": "58,996 Miles"
   }
 ]
