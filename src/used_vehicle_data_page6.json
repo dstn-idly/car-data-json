@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2018 Nissan Murano SV",
-    "vin": "5N1AZ2MG7JN134629",
-    "stock": "MP108",
-    "exterior": "Cayenne Red Metallic",
-    "interior": "Graphite",
-    "engine": "3.5L V6 DOHC 24V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG7JN134629&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ce8c874d-9922-46f1-a9fa-1ec1253ed97a.jpg",
-    "price": "$35,065",
-    "sutherlins_price": "$12,888",
-    "mileage": "78,610 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Mitsubishi Outlander SEL",
     "vin": "JA4AD3A32LZ030775",
     "stock": "M2565A",
@@ -28,6 +13,21 @@
     "price": "$29,230",
     "sutherlins_price": "$12,888",
     "mileage": "107,765 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Murano SV",
+    "vin": "5N1AZ2MG7JN134629",
+    "stock": "MP108",
+    "exterior": "Cayenne Red Metallic",
+    "interior": "Graphite",
+    "engine": "3.5L V6 DOHC 24V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG7JN134629&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ce8c874d-9922-46f1-a9fa-1ec1253ed97a.jpg",
+    "price": "$35,065",
+    "sutherlins_price": "$12,888",
+    "mileage": "78,610 Miles"
   },
   {
     "category": "used",
