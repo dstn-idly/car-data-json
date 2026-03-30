@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Toyota C-HR",
-    "vin": "NMTKHMBX9KR073594",
-    "stock": "P13503A",
-    "exterior": "White",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=NMTKHMBX9KR073594&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOS21_640/2019TOS210001_640_01.jpg",
-    "price": "$16,995",
-    "sutherlins_price": "$16,995",
-    "mileage": "78,573 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Kia Sportage LX",
     "vin": "KNDPM3AC7K7628130",
     "stock": "P13684",
@@ -178,6 +163,21 @@
     "price": "$16,075",
     "sutherlins_price": "$16,995",
     "mileage": "42,596 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Toyota C-HR Limited",
+    "vin": "NMTKHMBX9KR073594",
+    "stock": "P13503A",
+    "exterior": "White",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=NMTKHMBX9KR073594&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOS21_640/2019TOS210001_640_01.jpg",
+    "price": "$18,925",
+    "sutherlins_price": "$16,995",
+    "mileage": "78,573 Miles"
   },
   {
     "category": "used",
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV3RY364648",
-    "stock": "P13587",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3RY364648&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38829c31678a4848b75eae0e22861630.jpg",
-    "price": "$19,475",
-    "sutherlins_price": "$17,995",
-    "mileage": "42,727 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SV",
     "vin": "1N4BL4DV8RN404067",
     "stock": "P13603",
@@ -436,18 +421,18 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV1SY209361",
-    "stock": "P13601",
-    "exterior": "Aspen White Pearl",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV3RY364648",
+    "stock": "P13587",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1SY209361&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/36e60f1bc66048fa8da7a682e50b75ea.jpg",
-    "price": "$19,925",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3RY364648&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38829c31678a4848b75eae0e22861630.jpg",
+    "price": "$19,475",
     "sutherlins_price": "$17,995",
-    "mileage": "22,423 Miles"
+    "mileage": "42,727 Miles"
   },
   {
     "category": "used",
@@ -463,6 +448,21 @@
     "price": "$18,897",
     "sutherlins_price": "$17,995",
     "mileage": "77,925 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV1SY209361",
+    "stock": "P13601",
+    "exterior": "Aspen White Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV1SY209361&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/36e60f1bc66048fa8da7a682e50b75ea.jpg",
+    "price": "$19,925",
+    "sutherlins_price": "$17,995",
+    "mileage": "22,423 Miles"
   },
   {
     "category": "used",
