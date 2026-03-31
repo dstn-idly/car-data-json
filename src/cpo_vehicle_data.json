@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1083887118de4381a59301bf76a3399d.jpg",
     "price": "$18,825",
-    "sutherlins_price": "$15,988",
+    "sutherlins_price": "$14,988",
     "mileage": "54,425 Miles"
   },
   {
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5PW423403&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/95836eb148344faba139f0db07938e0d.jpg",
     "price": "$20,650",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "55,531 Miles"
   },
   {
@@ -406,21 +406,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AA0PC843743",
-    "stock": "P13598",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA0PC843743&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c1d19b60d424483af4d0c7229f9a5a0.jpg",
-    "price": "$20,575",
-    "sutherlins_price": "$19,995",
-    "mileage": "63,580 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2025 Nissan Sentra S",
     "vin": "3N1AB8BV8SY253326",
     "stock": "26628A",
@@ -433,6 +418,21 @@
     "price": "$20,050",
     "sutherlins_price": "$19,995",
     "mileage": "10,226 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA0PC843743",
+    "stock": "P13598",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA0PC843743&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c1d19b60d424483af4d0c7229f9a5a0.jpg",
+    "price": "$20,575",
+    "sutherlins_price": "$19,995",
+    "mileage": "63,580 Miles"
   },
   {
     "category": "cpo",
@@ -656,7 +656,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/38245a369e0c4abfb3fe0cfae3ab9210.jpg",
     "price": "$38,625",
-    "sutherlins_price": "$30,498",
+    "sutherlins_price": "$28,988",
     "mileage": "71,602 Miles"
   },
   {
