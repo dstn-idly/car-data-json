@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL533100",
-    "stock": "MP125",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
-    "price": "$24,980",
-    "sutherlins_price": "$18,888",
-    "mileage": "17,950 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander ES",
     "vin": "JA4J3TA80PZ015860",
     "stock": "MP160",
@@ -88,6 +73,21 @@
     "price": "$29,340",
     "sutherlins_price": "$18,888",
     "mileage": "61,591 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL533100",
+    "stock": "MP125",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
+    "price": "$24,980",
+    "sutherlins_price": "$18,888",
+    "mileage": "17,950 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Escape ST-Line",
-    "vin": "1FMCU9MN4PUB39512",
-    "stock": "MP151",
-    "exterior": "Carbonized Gray Metallic",
-    "interior": "Ebony With Red Stitching",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
-    "price": "$34,250",
-    "sutherlins_price": "$24,888",
-    "mileage": "24,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Dodge Challenger GT",
     "vin": "2C3CDZJGXNH263234",
     "stock": "MP155",
@@ -478,5 +463,20 @@
     "price": "$36,830",
     "sutherlins_price": "$24,888",
     "mileage": "58,320 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Escape ST-Line",
+    "vin": "1FMCU9MN4PUB39512",
+    "stock": "MP151",
+    "exterior": "Carbonized Gray Metallic",
+    "interior": "Ebony With Red Stitching",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
+    "price": "$34,250",
+    "sutherlins_price": "$24,888",
+    "mileage": "24,892 Miles"
   }
 ]
