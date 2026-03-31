@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan LEAF S",
-    "vin": "1N4AZ1BV4PC562412",
-    "stock": "P13678",
-    "exterior": "Glacier White",
-    "interior": "Black",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV4PC562412&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0d2194337eb841818eee09b547336e39.jpg",
-    "price": "$15,025",
-    "sutherlins_price": "$13,995",
-    "mileage": "25,334 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Toyota Corolla S",
     "vin": "2T1BURHEXFC436676",
     "stock": "KP1096",
@@ -403,6 +388,21 @@
     "price": "$15,100",
     "sutherlins_price": "$13,995",
     "mileage": "11,225 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan LEAF S",
+    "vin": "1N4AZ1BV4PC562412",
+    "stock": "P13678",
+    "exterior": "Glacier White",
+    "interior": "Black",
+    "engine": "Electric",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AZ1BV4PC562412&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0d2194337eb841818eee09b547336e39.jpg",
+    "price": "$15,025",
+    "sutherlins_price": "$13,995",
+    "mileage": "25,334 Miles"
   },
   {
     "category": "used",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV1PN417114",
+    "stock": "26273A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1083887118de4381a59301bf76a3399d.jpg",
+    "price": "$18,825",
+    "sutherlins_price": "$14,988",
+    "mileage": "54,425 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Rogue SL",
     "vin": "JN8AT2MT3JW488312",
     "stock": "26084C",
@@ -463,20 +478,5 @@
     "price": "$14,950",
     "sutherlins_price": "$14,995",
     "mileage": "58,578 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Armada Platinum",
-    "vin": "JN8AY2NCXH9512839",
-    "stock": "26494A",
-    "exterior": "Brilliant Silver",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2NCXH9512839&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/638370a7424c4e8ba0e76e000182be75.jpg",
-    "price": "$16,975",
-    "sutherlins_price": "$14,995",
-    "mileage": "125,154 Miles"
   }
 ]
