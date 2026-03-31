@@ -56,23 +56,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
     "price": "$48,999",
-    "sutherlins_price": "$26,888",
+    "sutherlins_price": "$25,888",
     "mileage": "22,521 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Subaru Outback Onyx Edition XT",
-    "vin": "4S4BTGLD2P3126047",
-    "stock": "MP107",
-    "exterior": "Crystal Black Silica",
-    "interior": "Gray",
-    "engine": "2.4L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
-    "price": "$42,619",
-    "sutherlins_price": "$27,888",
-    "mileage": "29,023 Miles"
   },
   {
     "category": "used",
@@ -88,6 +73,21 @@
     "price": "$34,130",
     "sutherlins_price": "$27,888",
     "mileage": "50,633 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Subaru Outback Onyx Edition XT",
+    "vin": "4S4BTGLD2P3126047",
+    "stock": "MP107",
+    "exterior": "Crystal Black Silica",
+    "interior": "Gray",
+    "engine": "2.4L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
+    "price": "$42,619",
+    "sutherlins_price": "$27,888",
+    "mileage": "29,023 Miles"
   },
   {
     "category": "used",
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=58ADZ1B16RU166570&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6656b0d5-b5f4-474a-8a83-737a8389a007.jpg",
     "price": "$47,385",
-    "sutherlins_price": "$33,888",
+    "sutherlins_price": "$31,888",
     "mileage": "28,882 Miles"
   },
   {
@@ -326,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TYKB5FN2RT007047&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8855b352-1f4f-4a4c-b1c8-25246335d718.jpg",
     "price": "$41,740",
-    "sutherlins_price": "$38,888",
+    "sutherlins_price": "$36,888",
     "mileage": "13,598 Miles"
   },
   {
@@ -386,7 +386,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGDM2EB7PA023402&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b6ac49b5-6b40-4098-81b0-5c73e695bc1a.jpg",
     "price": "$115,430",
-    "sutherlins_price": "$45,888",
+    "sutherlins_price": "$43,888",
     "mileage": "28,293 Miles"
   },
   {
@@ -401,7 +401,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BAMBA3PC004994&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bbd7d94e-8151-4dba-95f3-97b4620f3bb8.jpg",
     "price": "$52,575",
-    "sutherlins_price": "$47,888",
+    "sutherlins_price": "$45,888",
     "mileage": "18,737 Miles"
   },
   {
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WP1AA2AY0NDA02105&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ade30755-7d0b-4b8a-b28a-4aff4f72cbff.jpg",
     "price": "$84,200",
-    "sutherlins_price": "$50,888",
+    "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
   }
 ]

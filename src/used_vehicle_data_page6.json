@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4ATWAA1PZ035698&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7ebe83b2-41b7-4429-aefd-cd6bc6e87238.jpg",
     "price": "$30,480",
-    "sutherlins_price": "$17,888",
+    "sutherlins_price": "$16,888",
     "mileage": "31,482 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
     "price": "$23,145",
-    "sutherlins_price": "$18,888",
+    "sutherlins_price": "$16,888",
     "mileage": "56,528 Miles"
   },
   {
@@ -431,7 +431,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDACAAU9R3024523&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2f7f0d25-eff9-4986-9ac3-744a7f62fae2.jpg",
     "price": "$29,145",
-    "sutherlins_price": "$23,888",
+    "sutherlins_price": "$21,888",
     "mileage": "66,147 Miles"
   },
   {
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJGXNH263234",
-    "stock": "MP155",
-    "exterior": "Pitch Black Clearcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
-    "price": "$36,830",
-    "sutherlins_price": "$24,888",
-    "mileage": "58,320 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Escape ST-Line",
     "vin": "1FMCU9MN4PUB39512",
     "stock": "MP151",
@@ -478,5 +463,20 @@
     "price": "$34,250",
     "sutherlins_price": "$24,888",
     "mileage": "24,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJGXNH263234",
+    "stock": "MP155",
+    "exterior": "Pitch Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
+    "price": "$36,830",
+    "sutherlins_price": "$24,888",
+    "mileage": "58,320 Miles"
   }
 ]
