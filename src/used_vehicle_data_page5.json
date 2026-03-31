@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Mitsubishi Eclipse Cross SE",
+    "vin": "JA4ATWAA1PZ035698",
+    "stock": "MP124",
+    "exterior": "Red Diamond",
+    "interior": "Black",
+    "engine": "1.5L I4 DI Turbocharged DOHC 16V LEV3-ULEV70 152hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4ATWAA1PZ035698&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7ebe83b2-41b7-4429-aefd-cd6bc6e87238.jpg",
+    "price": "$30,480",
+    "sutherlins_price": "$16,888",
+    "mileage": "31,482 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Kicks SR",
     "vin": "3N1CP5DV8ML478366",
     "stock": "MP121",
@@ -463,20 +478,5 @@
     "price": "$27,020",
     "sutherlins_price": "$16,888",
     "mileage": "50,031 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Hyundai Santa Fe SE",
-    "vin": "5NMS23AD1LH239924",
-    "stock": "MP098",
-    "exterior": "Quartz White",
-    "interior": "Black/Beige",
-    "engine": "2.4L 4-Cylinder DGI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS23AD1LH239924&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9880aa79-6ba4-4793-a3dc-e2ab7868da51.jpg",
-    "price": "$27,700",
-    "sutherlins_price": "$16,988",
-    "mileage": "37,746 Miles"
   }
 ]
