@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDEXRP126153",
-    "stock": "MP146",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
-    "price": "$23,145",
-    "sutherlins_price": "$16,888",
-    "mileage": "56,528 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Hyundai Santa Fe SE",
-    "vin": "5NMS23AD1LH239924",
-    "stock": "MP098",
-    "exterior": "Quartz White",
-    "interior": "Black/Beige",
-    "engine": "2.4L 4-Cylinder DGI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS23AD1LH239924&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9880aa79-6ba4-4793-a3dc-e2ab7868da51.jpg",
-    "price": "$27,700",
-    "sutherlins_price": "$16,988",
-    "mileage": "37,746 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Tucson SEL",
     "vin": "5NMJB3DE8RH384533",
     "stock": "MP074",
@@ -69,7 +39,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA86RZ012959&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d2072d8-7df0-42d2-80e1-019581b667bb.jpg",
     "price": "$32,940",
     "sutherlins_price": "$18,888",
     "mileage": "80,040 Miles"
@@ -84,7 +54,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA80PZ015860&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3TA80PZ015860&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d393961e-9e1f-4993-b162-6ee7eed3e7b9.jpg",
     "price": "$29,340",
     "sutherlins_price": "$18,888",
     "mileage": "61,591 Miles"
@@ -451,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJGXNH263234",
+    "stock": "MP155",
+    "exterior": "Pitch Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
+    "price": "$36,830",
+    "sutherlins_price": "$24,888",
+    "mileage": "58,320 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Ford Escape ST-Line",
     "vin": "1FMCU9MN4PUB39512",
     "stock": "MP151",
@@ -466,17 +451,32 @@
   },
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJGXNH263234",
-    "stock": "MP155",
-    "exterior": "Pitch Black Clearcoat",
+    "name": "2025 Kia Sportage LX",
+    "vin": "KNDPU3DF4S7367027",
+    "stock": "M2540A",
+    "exterior": "Fusion Black",
     "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
+    "engine": "I4",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
-    "price": "$36,830",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
+    "price": "$28,960",
     "sutherlins_price": "$24,888",
-    "mileage": "58,320 Miles"
+    "mileage": "4,109 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "MP049",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "3.5L V6 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
+    "price": "$48,999",
+    "sutherlins_price": "$25,888",
+    "mileage": "22,521 Miles"
   }
 ]
