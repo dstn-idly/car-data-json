@@ -24,7 +24,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0a410e5b-721b-4202-8af2-23963673b354.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2e6d3334-4943-46cb-885d-8ac26789c2d0.jpg",
     "price": "$32,940",
     "sutherlins_price": "$18,888",
     "mileage": "80,040 Miles"
@@ -129,7 +129,7 @@
     "engine": "EcoDiesel 3.0L V6",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C6RR7TM0HS586548&vehicletype=Truck",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b093764-edb2-4612-acb9-ea1c8522cff3.jpg",
     "price": "$52,580",
     "sutherlins_price": "$19,888",
     "mileage": "92,455 Miles"
@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Toyota RAV4 XLE",
-    "vin": "JTMW1RFV4MD067925",
-    "stock": "MP109",
-    "exterior": "Silver Sky Metallic",
-    "interior": "Ash",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTMW1RFV4MD067925&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3bb27c9f-d020-4191-80e7-d7621cdaa87e.jpg",
-    "price": "$27,345",
-    "sutherlins_price": "$22,888",
-    "mileage": "45,743 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Atlas 2.0T SEL",
     "vin": "1V2BP2CA0NC512740",
     "stock": "MP142",
@@ -313,21 +298,6 @@
     "price": "$45,775",
     "sutherlins_price": "$22,900",
     "mileage": "83,565 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Audi Q5 45 S line Premium",
-    "vin": "WA1EAAFY9P2124640",
-    "stock": "MP086",
-    "exterior": "Ibis White",
-    "interior": "Okapi Brown",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1EAAFY9P2124640&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/732046b4-30d3-4b24-b51a-ff5a614ce170.jpg",
-    "price": "$52,995",
-    "sutherlins_price": "$22,988",
-    "mileage": "51,120 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$33,100",
     "sutherlins_price": "$25,888",
     "mileage": "2,972 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Jeep Gladiator Sport",
+    "vin": "1C6HJTAG0NL161300",
+    "stock": "MP115",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
+    "price": "$39,910",
+    "sutherlins_price": "$26,888",
+    "mileage": "24,326 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Tacoma SR5",
+    "vin": "3TMAZ5CN3PM206242",
+    "stock": "M2503A",
+    "exterior": "Celestial Silver Metallic",
+    "interior": "Cement",
+    "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
+    "price": "$34,130",
+    "sutherlins_price": "$27,888",
+    "mileage": "50,633 Miles"
   }
 ]
