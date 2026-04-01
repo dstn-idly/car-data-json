@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1CV9LW274109",
-    "stock": "P13646",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV9LW274109&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/aba04f1477de4ae68aa20fdcd8bdc2df.jpg",
-    "price": "$17,125",
-    "sutherlins_price": "$15,988",
-    "mileage": "79,128 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Versa S",
     "vin": "3N1CN8DV3SL834758",
     "stock": "P13566",
@@ -478,5 +463,20 @@
     "price": "$17,375",
     "sutherlins_price": "$15,988",
     "mileage": "3,358 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1CV9LW274109",
+    "stock": "P13646",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CV9LW274109&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/aba04f1477de4ae68aa20fdcd8bdc2df.jpg",
+    "price": "$17,125",
+    "sutherlins_price": "$15,988",
+    "mileage": "79,128 Miles"
   }
 ]
