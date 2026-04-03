@@ -80,7 +80,7 @@
     "vin": "1C4RJKBG1N8531470",
     "stock": "MP170",
     "exterior": "Bright White Clearcoat",
-    "interior": "Wicker Beige/Global Black",
+    "interior": "Wicker Beige/Black",
     "engine": "3.6L V6 24V VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJKBG1N8531470&source=BUP",
@@ -448,5 +448,35 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Maverick XLT",
+    "vin": "3FTTW8E38PRA44562",
+    "stock": "MP176",
+    "exterior": "Shadow Black",
+    "interior": "Navy Pier/Medium Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FTTW8E38PRA44562&vehicletype=Truck",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "71,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8RF178869",
+    "stock": "MP177",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1ZD5ST8RF178869&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "60,166 Miles"
   }
 ]
