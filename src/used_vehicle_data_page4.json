@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Frontier S",
-    "vin": "1N6ED1CM4NN630206",
-    "stock": "P13641",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1CM4NN630206&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b748a9ab94a04997a186b0e79b99407f.jpg",
-    "price": "$26,200",
-    "sutherlins_price": "$23,988",
-    "mileage": "67,543 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota RAV4 Limited",
     "vin": "2T3Y1RFV1RW337213",
     "stock": "P13547",
@@ -28,6 +13,21 @@
     "price": "$34,825",
     "sutherlins_price": "$23,988",
     "mileage": "85,474 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Frontier S",
+    "vin": "1N6ED1CM4NN630206",
+    "stock": "P13641",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1CM4NN630206&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b748a9ab94a04997a186b0e79b99407f.jpg",
+    "price": "$26,200",
+    "sutherlins_price": "$23,988",
+    "mileage": "67,543 Miles"
   },
   {
     "category": "used",
