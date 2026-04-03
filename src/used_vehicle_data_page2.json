@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Toyota Corolla LE",
-    "vin": "JTDEPMAE0N3006518",
-    "stock": "P13622",
-    "exterior": "Classic Silver",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE0N3006518&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4681639682574c74b08cae7696b88733.jpg",
-    "price": "$18,897",
-    "sutherlins_price": "$17,995",
-    "mileage": "77,925 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Sentra SV",
     "vin": "3N1AB8CV1SY209361",
     "stock": "P13601",
@@ -328,6 +313,21 @@
     "price": "$19,925",
     "sutherlins_price": "$17,995",
     "mileage": "22,423 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Toyota Corolla LE",
+    "vin": "JTDEPMAE0N3006518",
+    "stock": "P13622",
+    "exterior": "Classic Silver",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPMAE0N3006518&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4681639682574c74b08cae7696b88733.jpg",
+    "price": "$18,897",
+    "sutherlins_price": "$17,995",
+    "mileage": "77,925 Miles"
   },
   {
     "category": "used",
