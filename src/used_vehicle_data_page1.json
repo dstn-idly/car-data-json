@@ -57,7 +57,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f62e95d38378449496c7310ccb40aa30.jpg",
     "price": "$12,100",
     "sutherlins_price": "$8,901",
-    "mileage": "105,760 Miles"
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV1PN417114",
-    "stock": "26273A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV1PN417114&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1083887118de4381a59301bf76a3399d.jpg",
-    "price": "$18,825",
-    "sutherlins_price": "$14,988",
-    "mileage": "54,425 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SV",
     "vin": "3N1AB8CV3NY267976",
     "stock": "P13674",
@@ -407,21 +392,6 @@
   {
     "category": "used",
     "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV2MY285478",
-    "stock": "P13676",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2MY285478&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1db28a59004140d296bfe23803c4721c.jpg",
-    "price": "$16,275",
-    "sutherlins_price": "$15,995",
-    "mileage": "43,648 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Sentra SV",
     "vin": "3N1AB8CV9MY300669",
     "stock": "26712A",
     "exterior": "Gun Metallic",
@@ -433,6 +403,21 @@
     "price": "$17,075",
     "sutherlins_price": "$15,995",
     "mileage": "79,062 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV2MY285478",
+    "stock": "P13676",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV2MY285478&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1db28a59004140d296bfe23803c4721c.jpg",
+    "price": "$16,275",
+    "sutherlins_price": "$15,995",
+    "mileage": "43,648 Miles"
   },
   {
     "category": "used",
@@ -451,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Altima 2.5 SR",
-    "vin": "1N4BL4CV3MN390203",
-    "stock": "26316A",
-    "exterior": "Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV3MN390203&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5c32f74df1e44f3fa8b9957cbe0c4d20.jpg",
-    "price": "$17,800",
-    "sutherlins_price": "$15,995",
-    "mileage": "64,355 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Toyota Corolla LE",
     "vin": "2T1BURHE7KC183472",
     "stock": "P13682",
@@ -478,5 +448,35 @@
     "price": "$17,350",
     "sutherlins_price": "$15,995",
     "mileage": "74,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Kia Sportage LX",
+    "vin": "KNDPM3AC7K7628130",
+    "stock": "P13684",
+    "exterior": "Clear White",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC7K7628130&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e8a5087359048a098d811b4c2d4541a.jpg",
+    "price": "$16,075",
+    "sutherlins_price": "$16,995",
+    "mileage": "42,596 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CVXRY331310",
+    "stock": "P13636",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY331310&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6fc753f2be794ff7a6171ff8d0604543.jpg",
+    "price": "$18,650",
+    "sutherlins_price": "$16,995",
+    "mileage": "41,060 Miles"
   }
 ]
