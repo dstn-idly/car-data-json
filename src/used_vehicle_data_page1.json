@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2018 Kia Sorento L",
+    "vin": "5XYPG4A32JG370551",
+    "stock": "26316B",
+    "exterior": "Ebony Black",
+    "interior": "Satin Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPG4A32JG370551&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018KIS020001_640/2018KIS020001_640_01.jpg",
+    "price": "$2,988",
+    "sutherlins_price": "$2,988",
+    "mileage": "141,232 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Nissan Pathfinder S",
     "vin": "5N1DR2MN2HC913308",
     "stock": "KP1089",
@@ -463,20 +478,5 @@
     "price": "$16,075",
     "sutherlins_price": "$16,995",
     "mileage": "42,596 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY331310",
-    "stock": "P13636",
-    "exterior": "Aspen White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY331310&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6fc753f2be794ff7a6171ff8d0604543.jpg",
-    "price": "$18,650",
-    "sutherlins_price": "$16,995",
-    "mileage": "41,060 Miles"
   }
 ]
