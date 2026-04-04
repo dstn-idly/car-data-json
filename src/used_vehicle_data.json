@@ -1096,36 +1096,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3ABXPC905917",
-    "stock": "26692A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3ABXPC905917&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/acc7f820f0e64ff8b55491b554dcb65d.jpg",
-    "price": "$20,550",
-    "sutherlins_price": "$19,995",
-    "mileage": "49,570 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE8RP172712",
-    "stock": "P13634",
-    "exterior": "Midnight Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE8RP172712&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0875581d2ed64b8e8c3752b20d0d86d2.jpg",
-    "price": "$22,725",
-    "sutherlins_price": "$19,995",
-    "mileage": "48,329 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Maxima SL",
     "vin": "1N4AA6AP6JC401123",
     "stock": "P13626",
@@ -1153,6 +1123,36 @@
     "price": "$21,775",
     "sutherlins_price": "$19,995",
     "mileage": "45,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3ABXPC905917",
+    "stock": "26692A",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3ABXPC905917&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/acc7f820f0e64ff8b55491b554dcb65d.jpg",
+    "price": "$20,550",
+    "sutherlins_price": "$19,995",
+    "mileage": "49,570 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE8RP172712",
+    "stock": "P13634",
+    "exterior": "Midnight Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE8RP172712&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0875581d2ed64b8e8c3752b20d0d86d2.jpg",
+    "price": "$22,725",
+    "sutherlins_price": "$19,995",
+    "mileage": "48,329 Miles"
   },
   {
     "category": "used",
@@ -1231,21 +1231,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Altima S",
-    "vin": "1N4BL4BV2SN309612",
-    "stock": "P13567",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV2SN309612&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8601972b2c440848d82b451dd7f4c1a.jpg",
-    "price": "$25,575",
-    "sutherlins_price": "$21,988",
-    "mileage": "2,971 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Cadillac Escalade Platinum",
     "vin": "1GYS3DKJ4HR309761",
     "stock": "P13649A",
@@ -1258,6 +1243,21 @@
     "price": "$21,988",
     "sutherlins_price": "$21,988",
     "mileage": "99,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Altima S",
+    "vin": "1N4BL4BV2SN309612",
+    "stock": "P13567",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV2SN309612&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8601972b2c440848d82b451dd7f4c1a.jpg",
+    "price": "$25,575",
+    "sutherlins_price": "$21,988",
+    "mileage": "2,971 Miles"
   },
   {
     "category": "used",
@@ -1411,21 +1411,6 @@
   },
   {
     "category": "used",
-    "name": "2018 RAM 1500 Express",
-    "vin": "1C6RR6KG4JS299998",
-    "stock": "P13703",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6KG4JS299998&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2e6f2e1633204e40b895ccdf74f12675.jpg",
-    "price": "$24,452",
-    "sutherlins_price": "$22,995",
-    "mileage": "46,641 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA1RW351182",
     "stock": "P13688",
@@ -1438,6 +1423,21 @@
     "price": "$23,900",
     "sutherlins_price": "$22,995",
     "mileage": "30,924 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 RAM 1500 Express",
+    "vin": "1C6RR6KG4JS299998",
+    "stock": "P13703",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6KG4JS299998&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2e6f2e1633204e40b895ccdf74f12675.jpg",
+    "price": "$24,452",
+    "sutherlins_price": "$22,995",
+    "mileage": "46,641 Miles"
   },
   {
     "category": "used",
@@ -1486,21 +1486,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks SV",
-    "vin": "3N8AP6CE5TL307993",
-    "stock": "P13707",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/98ce85d5080846bca805b4dd102e53b5.jpg",
-    "price": "$23,995",
-    "sutherlins_price": "$23,995",
-    "mileage": "1,145 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Kia Sportage LX",
     "vin": "KNDPU3DF4S7361356",
     "stock": "26628B",
@@ -1513,6 +1498,21 @@
     "price": "$26,675",
     "sutherlins_price": "$23,995",
     "mileage": "8,721 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks SV",
+    "vin": "3N8AP6CE5TL307993",
+    "stock": "P13707",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/98ce85d5080846bca805b4dd102e53b5.jpg",
+    "price": "$23,995",
+    "sutherlins_price": "$23,995",
+    "mileage": "1,145 Miles"
   },
   {
     "category": "used",
@@ -2111,7 +2111,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6GG3HS729992&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C6RR6GG3HS729992&vehicletype=Truck",
     "price": "$7,888",
-    "sutherlins_price": "$9,888",
+    "sutherlins_price": "$7,888",
     "mileage": "167,649 Miles"
   },
   {
@@ -2201,7 +2201,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2G1FF3D38F9203966&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bb3a253d-a0f1-4a91-8e97-9057968aedc4.jpg",
     "price": "$40,606",
-    "sutherlins_price": "$12,888",
+    "sutherlins_price": "$10,888",
     "mileage": "122,904 Miles"
   },
   {
@@ -2231,7 +2231,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2MG7JN134629&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ce8c874d-9922-46f1-a9fa-1ec1253ed97a.jpg",
     "price": "$35,065",
-    "sutherlins_price": "$12,888",
+    "sutherlins_price": "$11,888",
     "mileage": "78,610 Miles"
   },
   {
@@ -2261,7 +2261,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ4RH008680&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e5926e26-8ac2-4d1b-bff7-68a855b13bcc.jpg",
     "price": "$12,888",
-    "sutherlins_price": "$13,888",
+    "sutherlins_price": "$12,888",
     "mileage": "35,408 Miles"
   },
   {
@@ -2291,7 +2291,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU1N7186809&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/14ec0be6-cc7e-491c-83ba-5dc1bc31543d.jpg",
     "price": "$13,888",
-    "sutherlins_price": "$14,888",
+    "sutherlins_price": "$13,888",
     "mileage": "72,364 Miles"
   },
   {
@@ -2306,7 +2306,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
     "price": "$26,290",
-    "sutherlins_price": "$15,888",
+    "sutherlins_price": "$13,888",
     "mileage": "42,285 Miles"
   },
   {
@@ -2366,7 +2366,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
     "price": "$23,145",
-    "sutherlins_price": "$16,888",
+    "sutherlins_price": "$15,888",
     "mileage": "56,528 Miles"
   },
   {
@@ -2431,21 +2431,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Ford Mustang EcoBoost Premium",
-    "vin": "1FATP8UH5M5103288",
-    "stock": "MP158",
-    "exterior": "Shadow Black",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FATP8UH5M5103288&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FATP8UH5M5103288&vehicletype=Convertible",
-    "price": "$47,220",
-    "sutherlins_price": "$19,888",
-    "mileage": "80,506 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander ES",
     "vin": "JA4J3TA80PZ015860",
     "stock": "MP160",
@@ -2456,8 +2441,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA80PZ015860&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f54097fd-047a-4a10-b020-642384a001f0.jpg",
     "price": "$29,340",
-    "sutherlins_price": "$18,888",
+    "sutherlins_price": "$17,888",
     "mileage": "61,591 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford Mustang EcoBoost Premium",
+    "vin": "1FATP8UH5M5103288",
+    "stock": "MP158",
+    "exterior": "Shadow Black",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FATP8UH5M5103288&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FATP8UH5M5103288&vehicletype=Convertible",
+    "price": "$47,220",
+    "sutherlins_price": "$17,888",
+    "mileage": "80,506 Miles"
   },
   {
     "category": "used",
@@ -2486,7 +2486,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYK33AF6PG057358&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/64ff8750-20a5-4900-8f7d-a309c743994e.jpg",
     "price": "$30,185",
-    "sutherlins_price": "$19,888",
+    "sutherlins_price": "$17,888",
     "mileage": "54,339 Miles"
   },
   {
@@ -2516,7 +2516,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FA6P8TH6K5112545&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d1fdbd6-858d-4da7-bcbf-bcbac5a2f51f.jpg",
     "price": "$33,020",
-    "sutherlins_price": "$18,888",
+    "sutherlins_price": "$15,888",
     "mileage": "54,392 Miles"
   },
   {
@@ -2591,7 +2591,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF44AC6PE633148&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3KPF44AC6PE633148&vehicletype=Sedan",
     "price": "$28,055",
-    "sutherlins_price": "$20,888",
+    "sutherlins_price": "$19,888",
     "mileage": "45,218 Miles"
   },
   {
@@ -2666,7 +2666,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
     "price": "$52,305",
-    "sutherlins_price": "$23,888",
+    "sutherlins_price": "$20,888",
     "mileage": "22,961 Miles"
   },
   {
@@ -2681,7 +2681,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/85612ffe-5617-477f-8158-8698d139a6b5.jpg",
     "price": "$28,090",
-    "sutherlins_price": "$23,888",
+    "sutherlins_price": "$20,888",
     "mileage": "464 Miles"
   },
   {
@@ -2696,7 +2696,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV8B7AX8PM060070&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b715153b-3621-4c1e-8880-a44ad88e83da.jpg",
     "price": "$36,704",
-    "sutherlins_price": "$21,600",
+    "sutherlins_price": "$20,888",
     "mileage": "54,931 Miles"
   },
   {
@@ -2711,7 +2711,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDACAAU9R3024523&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2f7f0d25-eff9-4986-9ac3-744a7f62fae2.jpg",
     "price": "$29,145",
-    "sutherlins_price": "$21,888",
+    "sutherlins_price": "$20,888",
     "mileage": "66,147 Miles"
   },
   {
@@ -2726,7 +2726,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2e8495b8-0261-49fc-a528-4bf1b48e7300.jpg",
     "price": "$52,580",
-    "sutherlins_price": "$19,888",
+    "sutherlins_price": "$20,888",
     "mileage": "92,455 Miles"
   },
   {
@@ -2771,7 +2771,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3e5dcb49-2620-42ff-a883-34182cedcc47.jpg",
     "price": "$23,645",
-    "sutherlins_price": "$21,800",
+    "sutherlins_price": "$21,488",
     "mileage": "26,169 Miles"
   },
   {
@@ -2801,7 +2801,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
     "price": "$28,960",
-    "sutherlins_price": "$24,888",
+    "sutherlins_price": "$21,888",
     "mileage": "4,109 Miles"
   },
   {
@@ -2831,7 +2831,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
     "price": "$34,250",
-    "sutherlins_price": "$24,888",
+    "sutherlins_price": "$22,888",
     "mileage": "24,892 Miles"
   },
   {
@@ -2846,7 +2846,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
     "price": "$36,830",
-    "sutherlins_price": "$24,888",
+    "sutherlins_price": "$22,888",
     "mileage": "58,320 Miles"
   },
   {
@@ -2861,7 +2861,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2BP2CA0NC512740&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9c9c5457-d221-4d77-82ed-ede7b90d5047.jpg",
     "price": "$45,775",
-    "sutherlins_price": "$22,900",
+    "sutherlins_price": "$21,888",
     "mileage": "83,565 Miles"
   },
   {
@@ -2876,7 +2876,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GUADC0RH912611&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d836197e-9b6d-4f01-80f3-04dea5758edb.jpg",
     "price": "$29,935",
-    "sutherlins_price": "$23,888",
+    "sutherlins_price": "$23,488",
     "mileage": "26,401 Miles"
   },
   {
@@ -2921,7 +2921,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4VA8XNZ061640&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J4VA8XNZ061640&vehicletype=SUV",
     "price": "$37,790",
-    "sutherlins_price": "$23,399",
+    "sutherlins_price": "$24,688",
     "mileage": "39,839 Miles"
   },
   {
@@ -2936,7 +2936,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
     "price": "$39,910",
-    "sutherlins_price": "$26,888",
+    "sutherlins_price": "$24,888",
     "mileage": "24,326 Miles"
   },
   {
@@ -2966,7 +2966,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
     "price": "$34,130",
-    "sutherlins_price": "$27,888",
+    "sutherlins_price": "$25,888",
     "mileage": "50,633 Miles"
   },
   {
@@ -3011,7 +3011,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
     "price": "$42,619",
-    "sutherlins_price": "$27,888",
+    "sutherlins_price": "$26,888",
     "mileage": "29,023 Miles"
   },
   {
@@ -3041,7 +3041,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
     "price": "$67,190",
-    "sutherlins_price": "$28,888",
+    "sutherlins_price": "$27,888",
     "mileage": "22,132 Miles"
   },
   {
@@ -3101,7 +3101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXCR6C09L9B05218&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/eab6309a-3cae-4fde-88cc-abdf228c386c.jpg",
     "price": "$66,245",
-    "sutherlins_price": "$30,500",
+    "sutherlins_price": "$29,888",
     "mileage": "58,611 Miles"
   },
   {
@@ -3116,7 +3116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2383c0dd-d6db-4b44-8718-bb2af64ccd9f.jpg",
     "price": "$51,265",
-    "sutherlins_price": "$33,888",
+    "sutherlins_price": "$29,888",
     "mileage": "62,231 Miles"
   },
   {
@@ -3131,7 +3131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK4SX8PMA58773&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7466a77c-3aca-4497-b87d-58b5903ffd55.jpg",
     "price": "$59,195",
-    "sutherlins_price": "$31,500",
+    "sutherlins_price": "$30,888",
     "mileage": "31,539 Miles"
   },
   {
@@ -3146,7 +3146,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcca1a85-8271-43fe-ad3b-2a1a6388bcba.jpg",
     "price": "$49,980",
-    "sutherlins_price": "$31,800",
+    "sutherlins_price": "$30,888",
     "mileage": "32,033 Miles"
   },
   {
@@ -3161,7 +3161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC4PS173809&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9ffae2e2-a8b3-4506-9f4c-5cde31556d64.jpg",
     "price": "$42,195",
-    "sutherlins_price": "$32,888",
+    "sutherlins_price": "$31,888",
     "mileage": "72,584 Miles"
   },
   {
@@ -3191,7 +3191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
     "price": "$45,500",
-    "sutherlins_price": "$33,888",
+    "sutherlins_price": "$31,888",
     "mileage": "34,906 Miles"
   },
   {
@@ -3206,7 +3206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTP6BEK5P1210276&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c41d5a6e-0699-466a-a8d9-516a5cf3816d.jpg",
     "price": "$44,815",
-    "sutherlins_price": "$34,888",
+    "sutherlins_price": "$33,888",
     "mileage": "37,007 Miles"
   },
   {
@@ -3251,7 +3251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TYKB5FN2RT007047&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8855b352-1f4f-4a4c-b1c8-25246335d718.jpg",
     "price": "$41,740",
-    "sutherlins_price": "$36,888",
+    "sutherlins_price": "$36,488",
     "mileage": "13,598 Miles"
   },
   {
@@ -3266,7 +3266,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMUHCESC5MU062908&vehicletype=SUV",
     "price": "$66,395",
-    "sutherlins_price": "$37,888",
+    "sutherlins_price": "$36,888",
     "mileage": "50,890 Miles"
   },
   {
@@ -3281,7 +3281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMP54GL3SH109028&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2f483c49-f103-4bd6-8c84-be26c4746032.jpg",
     "price": "$49,109",
-    "sutherlins_price": "$39,400",
+    "sutherlins_price": "$37,888",
     "mileage": "12,806 Miles"
   },
   {
@@ -3341,7 +3341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGDM2EB7PA023402&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b6ac49b5-6b40-4098-81b0-5c73e695bc1a.jpg",
     "price": "$115,430",
-    "sutherlins_price": "$43,888",
+    "sutherlins_price": "$41,888",
     "mileage": "28,293 Miles"
   },
   {
@@ -3356,7 +3356,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BAMBA3PC004994&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bbd7d94e-8151-4dba-95f3-97b4620f3bb8.jpg",
     "price": "$52,575",
-    "sutherlins_price": "$45,888",
+    "sutherlins_price": "$43,888",
     "mileage": "18,737 Miles"
   },
   {
