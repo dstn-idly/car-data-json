@@ -69,7 +69,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT2KW500547&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5d85fa7f46e64293a426a5b721fd4f9e.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/65ec4829830849e4a305d34a88d88329.jpg",
     "price": "$18,300",
     "sutherlins_price": "$15,898",
     "mileage": "65,437 Miles"
@@ -316,6 +316,21 @@
   },
   {
     "category": "cpo",
+    "name": "2023 Nissan Sentra SR",
+    "vin": "3N1AB8DV8PY228527",
+    "stock": "26675A",
+    "exterior": "Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV8PY228527&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8a8724ede944a3faad8a6c3b3aba2db.jpg",
+    "price": "$19,800",
+    "sutherlins_price": "$18,995",
+    "mileage": "51,833 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV7SL477239",
     "stock": "P13619",
@@ -346,18 +361,18 @@
   },
   {
     "category": "cpo",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV8SY253326",
-    "stock": "26628A",
-    "exterior": "Fresh Powder",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV7RY248501",
+    "stock": "P13710",
+    "exterior": "Aspen White Tricoat",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8SY253326&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a769b617d974d95b3bd4e02ecf056be.jpg",
-    "price": "$20,050",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV7RY248501&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5e69369b81d941f1a107410285c3cd17.jpg",
+    "price": "$22,587",
     "sutherlins_price": "$19,995",
-    "mileage": "10,226 Miles"
+    "mileage": "60,053 Miles"
   },
   {
     "category": "cpo",
@@ -376,18 +391,18 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3ABXPC905917",
-    "stock": "26692A",
-    "exterior": "Scarlet Ember Tintcoat",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV8SY253326",
+    "stock": "26628A",
+    "exterior": "Fresh Powder",
     "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3ABXPC905917&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/acc7f820f0e64ff8b55491b554dcb65d.jpg",
-    "price": "$20,550",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8SY253326&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a769b617d974d95b3bd4e02ecf056be.jpg",
+    "price": "$20,050",
     "sutherlins_price": "$19,995",
-    "mileage": "49,570 Miles"
+    "mileage": "10,226 Miles"
   },
   {
     "category": "cpo",
@@ -463,20 +478,5 @@
     "price": "$24,450",
     "sutherlins_price": "$22,995",
     "mileage": "40,957 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2022 Nissan Frontier SV",
-    "vin": "1N6ED1EJXNN625353",
-    "stock": "P13693",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJXNN625353&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bd5e216d07d8412589e44c2672d26631.jpg",
-    "price": "$24,750",
-    "sutherlins_price": "$23,995",
-    "mileage": "77,812 Miles"
   }
 ]

@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Subaru Crosstrek Premium",
+    "vin": "JF2GUADC0RH912611",
+    "stock": "MP119",
+    "exterior": "Crystal White Pearl",
+    "interior": "Gray",
+    "engine": "2.0L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2GUADC0RH912611&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d836197e-9b6d-4f01-80f3-04dea5758edb.jpg",
+    "price": "$29,935",
+    "sutherlins_price": "$23,488",
+    "mileage": "26,401 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Ford Maverick XLT",
     "vin": "3FTTW8E38PRA44562",
     "stock": "MP176",
@@ -151,6 +166,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE1NF367804",
+    "stock": "MP111",
+    "exterior": "Red Multi-Coat",
+    "interior": "White/Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
+    "price": "$67,190",
+    "sutherlins_price": "$27,888",
+    "mileage": "22,132 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet Blazer LT",
     "vin": "3GNKBCR4XRS127880",
     "stock": "MP175",
@@ -178,21 +208,6 @@
     "price": "$49,450",
     "sutherlins_price": "$27,888",
     "mileage": "50,294 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE1NF367804",
-    "stock": "MP111",
-    "exterior": "Red Multi-Coat",
-    "interior": "White/Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
-    "price": "$67,190",
-    "sutherlins_price": "$27,888",
-    "mileage": "22,132 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$115,430",
     "sutherlins_price": "$41,888",
     "mileage": "28,293 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Lexus RX 350 Premium",
-    "vin": "2T2BAMBA3PC004994",
-    "stock": "MP134",
-    "exterior": "Iridium",
-    "interior": "Black W/Black Open Pore",
-    "engine": "2.4L I4 PDI Turbocharged DOHC 16V LEV3-SULEV30 275hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T2BAMBA3PC004994&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bbd7d94e-8151-4dba-95f3-97b4620f3bb8.jpg",
-    "price": "$52,575",
-    "sutherlins_price": "$43,888",
-    "mileage": "18,737 Miles"
   }
 ]
