@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE1RP109483",
-    "stock": "P13675",
-    "exterior": "Blueprint",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE1RP109483&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b14af14b91f14f91bba9f77204b24d0b.jpg",
-    "price": "$20,700",
-    "sutherlins_price": "$18,995",
-    "mileage": "45,938 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Sentra SR",
     "vin": "3N1AB8DV8PY228527",
     "stock": "26675A",
@@ -376,18 +361,18 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Versa SV",
-    "vin": "3N1CN8EV1SL815821",
-    "stock": "P13716",
-    "exterior": "Aspen White Tricoat",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE1RP109483",
+    "stock": "P13675",
+    "exterior": "Blueprint",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV1SL815821&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC10_640/2025NIC102038610_640_01.jpg",
-    "price": "$18,995",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE1RP109483&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b14af14b91f14f91bba9f77204b24d0b.jpg",
+    "price": "$20,700",
     "sutherlins_price": "$18,995",
-    "mileage": "23,585 Miles"
+    "mileage": "45,938 Miles"
   },
   {
     "category": "used",
@@ -403,6 +388,21 @@
     "price": "$22,975",
     "sutherlins_price": "$18,995",
     "mileage": "4,056 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Versa SV",
+    "vin": "3N1CN8EV1SL815821",
+    "stock": "P13716",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV1SL815821&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC10_640/2025NIC102038610_640_01.jpg",
+    "price": "$18,995",
+    "sutherlins_price": "$18,995",
+    "mileage": "23,585 Miles"
   },
   {
     "category": "used",
