@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DL0MN7JC528905&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f62e95d38378449496c7310ccb40aa30.jpg",
     "price": "$12,100",
-    "sutherlins_price": "$8,901",
+    "sutherlins_price": "$8,559",
     "mileage": "N/A"
   },
   {
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9KC819744&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/dcfb712c80d948459f08e228aa4f2dcc.jpg",
     "price": "$12,525",
-    "sutherlins_price": "$12,498",
+    "sutherlins_price": "$11,945",
     "mileage": "76,059 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DL0MN0KC527211&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/0a9235920d08451f9d7a81c12de009cb.jpg",
     "price": "$18,786",
-    "sutherlins_price": "$15,988",
+    "sutherlins_price": "$15,879",
     "mileage": "69,606 Miles"
   },
   {
@@ -392,21 +392,6 @@
   {
     "category": "used",
     "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV9MY300669",
-    "stock": "26712A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9MY300669&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c846cb6e47744d1f8fdbe8098fadf834.jpg",
-    "price": "$17,075",
-    "sutherlins_price": "$15,995",
-    "mileage": "79,062 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Sentra SV",
     "vin": "3N1AB8CV2MY285478",
     "stock": "P13676",
     "exterior": "Rosewood Metallic",
@@ -418,6 +403,21 @@
     "price": "$16,275",
     "sutherlins_price": "$15,995",
     "mileage": "43,648 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV9MY300669",
+    "stock": "26712A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9MY300669&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c846cb6e47744d1f8fdbe8098fadf834.jpg",
+    "price": "$17,075",
+    "sutherlins_price": "$15,995",
+    "mileage": "79,062 Miles"
   },
   {
     "category": "used",
