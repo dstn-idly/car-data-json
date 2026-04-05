@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDEXRP126153",
-    "stock": "MP146",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
-    "price": "$23,145",
-    "sutherlins_price": "$15,888",
-    "mileage": "56,528 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage LE",
     "vin": "ML32AUHJXRH029663",
     "stock": "MP166",
@@ -358,6 +343,21 @@
     "price": "$16,695",
     "sutherlins_price": "$15,888",
     "mileage": "17,468 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDEXRP126153",
+    "stock": "MP146",
+    "exterior": "Celestite",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
+    "price": "$23,145",
+    "sutherlins_price": "$15,888",
+    "mileage": "56,528 Miles"
   },
   {
     "category": "used",
