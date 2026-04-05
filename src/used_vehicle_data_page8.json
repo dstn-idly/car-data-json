@@ -28,5 +28,50 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Mitsubishi Outlander ES",
+    "vin": "JA4J3UA82SZ024459",
+    "stock": "M2638A",
+    "exterior": "White Diamond",
+    "interior": "N/A",
+    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA82SZ024459&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA82SZ024459&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "19,398 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Honda Civic EX",
+    "vin": "2HGFB2F89CH508840",
+    "stock": "MP113A",
+    "exterior": "Gray",
+    "interior": "N/A",
+    "engine": "1.8L I4 SOHC 16V i-VTEC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFB2F89CH508840&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2HGFB2F89CH508840&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota RAV4 Adventure",
+    "vin": "2T3J1RFV7LC093979",
+    "stock": "MP178",
+    "exterior": "Super White",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2T3J1RFV7LC093979&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "70,672 Miles"
   }
 ]
