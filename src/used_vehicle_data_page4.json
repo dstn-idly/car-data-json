@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Honda Civic Si",
+    "vin": "2HGFE1E55PH473356",
+    "stock": "26445A",
+    "exterior": "Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 1.5 L/91",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE1E55PH473356&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/294002b3705949cd9aa014f28d1d2f2f.jpg",
+    "price": "$26,050",
+    "sutherlins_price": "$24,498",
+    "mileage": "67,192 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Rogue S",
     "vin": "5N1BT3AA9SC867886",
     "stock": "P13568",
@@ -43,21 +58,6 @@
     "price": "$25,875",
     "sutherlins_price": "$24,995",
     "mileage": "60,596 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Honda Civic Si",
-    "vin": "2HGFE1E55PH473356",
-    "stock": "26445A",
-    "exterior": "Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 1.5 L/91",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE1E55PH473356&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/294002b3705949cd9aa014f28d1d2f2f.jpg",
-    "price": "$26,050",
-    "sutherlins_price": "$24,498",
-    "mileage": "67,192 Miles"
   },
   {
     "category": "used",
@@ -271,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Armada SV",
-    "vin": "JN8AY2AC5N9161825",
-    "stock": "26469A",
-    "exterior": "Aspen White Tricoat Pearl",
-    "interior": "Almond",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC5N9161825&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f04bbda4447b405086ca9c0219222a88.jpg",
-    "price": "$32,625",
-    "sutherlins_price": "$30,995",
-    "mileage": "49,177 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Frontier SV",
     "vin": "1N6ED1EJXRN623236",
     "stock": "26684A",
@@ -298,6 +283,21 @@
     "price": "$35,150",
     "sutherlins_price": "$30,490",
     "mileage": "4,998 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Armada SV",
+    "vin": "JN8AY2AC5N9161825",
+    "stock": "26469A",
+    "exterior": "Aspen White Tricoat Pearl",
+    "interior": "Almond",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC5N9161825&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f04bbda4447b405086ca9c0219222a88.jpg",
+    "price": "$32,625",
+    "sutherlins_price": "$30,995",
+    "mileage": "49,177 Miles"
   },
   {
     "category": "used",
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Palisade Limited",
-    "vin": "KM8R5DGE8RU762107",
-    "stock": "T26521A",
-    "exterior": "Sierra Burgundy",
-    "interior": "Navy/Beige",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R5DGE8RU762107&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd5580fd5382419fad02aa7befa8e42a.jpg",
-    "price": "$38,700",
-    "sutherlins_price": "$35,498",
-    "mileage": "21,286 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 BMW 5 Series 540i",
     "vin": "WBA53BJ09NWX60629",
     "stock": "26697A",
@@ -433,6 +418,21 @@
     "price": "$36,375",
     "sutherlins_price": "$34,898",
     "mileage": "64,044 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Palisade Limited",
+    "vin": "KM8R5DGE8RU762107",
+    "stock": "T26521A",
+    "exterior": "Sierra Burgundy",
+    "interior": "Navy/Beige",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R5DGE8RU762107&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd5580fd5382419fad02aa7befa8e42a.jpg",
+    "price": "$38,700",
+    "sutherlins_price": "$35,498",
+    "mileage": "21,286 Miles"
   },
   {
     "category": "used",
