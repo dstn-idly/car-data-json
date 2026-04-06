@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2012 Kia Forte EX",
+    "vin": "KNAFU4A2XC5492496",
+    "stock": "26577A",
+    "exterior": "Ebony Black Pearl",
+    "interior": "Black",
+    "engine": "Gas I4 2.0L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAFU4A2XC5492496&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14317.jpg",
+    "price": "$3,988",
+    "sutherlins_price": "$3,988",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2017 Nissan Maxima SV",
     "vin": "1N4AA6AP5HC410356",
     "stock": "KP1097",
@@ -13,6 +28,21 @@
     "price": "$10,400",
     "sutherlins_price": "$7,988",
     "mileage": "124,650 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Jeep Renegade Latitude",
+    "vin": "ZACCJABH4FPC06637",
+    "stock": "26115B",
+    "exterior": "Alpine White",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 1.4 L/83",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACCJABH4FPC06637&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015JES17_640/2015JES170055_640_01.jpg",
+    "price": "$7,988",
+    "sutherlins_price": "$7,988",
+    "mileage": "82,696 Miles"
   },
   {
     "category": "used",
@@ -196,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV4MY309814",
-    "stock": "P13644",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc3435490be64728b1546bfc927e47f4.jpg",
-    "price": "$14,475",
-    "sutherlins_price": "$13,988",
-    "mileage": "86,058 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Kicks SR",
     "vin": "3N1CP5DV4LL561758",
     "stock": "250058A",
@@ -223,6 +238,21 @@
     "price": "$15,000",
     "sutherlins_price": "$13,988",
     "mileage": "76,152 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV4MY309814",
+    "stock": "P13644",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc3435490be64728b1546bfc927e47f4.jpg",
+    "price": "$14,475",
+    "sutherlins_price": "$13,988",
+    "mileage": "86,058 Miles"
   },
   {
     "category": "used",
@@ -391,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Santa Fe SEL",
-    "vin": "5NMS33AD6LH256442",
-    "stock": "P13717",
-    "exterior": "Rainforest",
-    "interior": "Black/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HYS01_640/2020HYS010031_640_01.jpg",
-    "price": "$18,892",
-    "sutherlins_price": "$15,995",
-    "mileage": "69,975 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP1HW004090",
     "stock": "P13694",
@@ -418,6 +433,21 @@
     "price": "$18,785",
     "sutherlins_price": "$15,995",
     "mileage": "67,821 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Santa Fe SEL",
+    "vin": "5NMS33AD6LH256442",
+    "stock": "P13717",
+    "exterior": "Rainforest",
+    "interior": "Black/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HYS01_640/2020HYS010031_640_01.jpg",
+    "price": "$18,892",
+    "sutherlins_price": "$15,995",
+    "mileage": "69,975 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$16,898",
     "sutherlins_price": "$16,898",
     "mileage": "61,549 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Kia Sportage LX",
-    "vin": "KNDPM3AC7K7628130",
-    "stock": "P13684",
-    "exterior": "Clear White",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC7K7628130&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e8a5087359048a098d811b4c2d4541a.jpg",
-    "price": "$16,075",
-    "sutherlins_price": "$16,995",
-    "mileage": "42,596 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY331310",
-    "stock": "P13636",
-    "exterior": "Aspen White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY331310&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6fc753f2be794ff7a6171ff8d0604543.jpg",
-    "price": "$18,650",
-    "sutherlins_price": "$16,995",
-    "mileage": "41,060 Miles"
   }
 ]
