@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Expedition Limited",
-    "vin": "1FMJU1K84PEA06247",
-    "stock": "MP001",
-    "exterior": "Black Metallic",
-    "interior": "Sandstone",
-    "engine": "EcoBoost 3.5L V6 GTDi DOHC 24V Twin Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJU1K84PEA06247&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/926f420f-6bc0-4b8b-add2-664272b7e648.jpg",
-    "price": "$68,755",
-    "sutherlins_price": "$34,888",
-    "mileage": "62,331 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Toyota Sienna XLE",
     "vin": "5TDYRKEC4PS173809",
     "stock": "MP091",
@@ -208,6 +193,21 @@
     "price": "$42,195",
     "sutherlins_price": "$33,988",
     "mileage": "72,584 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Expedition Limited",
+    "vin": "1FMJU1K84PEA06247",
+    "stock": "MP001",
+    "exterior": "Black Metallic",
+    "interior": "Sandstone",
+    "engine": "EcoBoost 3.5L V6 GTDi DOHC 24V Twin Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJU1K84PEA06247&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/926f420f-6bc0-4b8b-add2-664272b7e648.jpg",
+    "price": "$68,755",
+    "sutherlins_price": "$34,888",
+    "mileage": "62,331 Miles"
   },
   {
     "category": "used",
