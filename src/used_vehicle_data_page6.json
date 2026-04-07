@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL533100",
+    "stock": "MP125",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
+    "price": "$24,980",
+    "sutherlins_price": "$18,888",
+    "mileage": "17,950 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.0 Platinum",
+    "vin": "1N4AL4FV3LN311540",
+    "stock": "MP168",
+    "exterior": "Super Black Clearcoat",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 PDI Turbocharged DOHC 16V LEV3-ULEV70 236hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4FV3LN311540&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1N4AL4FV3LN311540&vehicletype=Sedan",
+    "price": "$36,775",
+    "sutherlins_price": "$17,588",
+    "mileage": "63,592 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 ES",
     "vin": "JA4ARUAU5RU017816",
     "stock": "MP164",
@@ -448,35 +478,5 @@
     "price": "$33,100",
     "sutherlins_price": "$25,888",
     "mileage": "2,972 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Jeep Gladiator Sport",
-    "vin": "1C6HJTAG0NL161300",
-    "stock": "MP115",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
-    "price": "$39,910",
-    "sutherlins_price": "$26,488",
-    "mileage": "24,326 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Subaru Outback Onyx Edition XT",
-    "vin": "4S4BTGLD2P3126047",
-    "stock": "MP107",
-    "exterior": "Crystal Black Silica",
-    "interior": "Gray",
-    "engine": "2.4L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
-    "price": "$42,619",
-    "sutherlins_price": "$26,888",
-    "mileage": "29,023 Miles"
   }
 ]
