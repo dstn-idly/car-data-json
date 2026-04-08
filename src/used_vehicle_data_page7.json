@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Toyota Tacoma SR5",
+    "vin": "3TMAZ5CN3PM206242",
+    "stock": "M2503A",
+    "exterior": "Celestial Silver Metallic",
+    "interior": "Cement",
+    "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
+    "price": "$34,130",
+    "sutherlins_price": "$26,888",
+    "mileage": "50,633 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Subaru Outback Onyx Edition XT",
     "vin": "4S4BTGLD2P3126047",
     "stock": "MP107",
@@ -28,21 +43,6 @@
     "price": "$55,745",
     "sutherlins_price": "$27,888",
     "mileage": "69,911 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE1NF367804",
-    "stock": "MP111",
-    "exterior": "Red Multi-Coat",
-    "interior": "White/Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
-    "price": "$67,190",
-    "sutherlins_price": "$27,888",
-    "mileage": "22,132 Miles"
   },
   {
     "category": "used",
@@ -148,6 +148,21 @@
     "price": "$49,980",
     "sutherlins_price": "$30,888",
     "mileage": "32,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE1NF367804",
+    "stock": "MP111",
+    "exterior": "Red Multi-Coat",
+    "interior": "White/Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
+    "price": "$67,190",
+    "sutherlins_price": "$27,888",
+    "mileage": "22,132 Miles"
   },
   {
     "category": "used",
@@ -343,35 +358,5 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE1PA122789",
-    "stock": "MP148A",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1PA122789&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE1PA122789&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "50,000 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chrysler Voyager LX",
-    "vin": "2C4RC1CG3PR564125",
-    "stock": "MP179",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "70,274 Miles"
   }
 ]

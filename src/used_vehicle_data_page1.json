@@ -10,9 +10,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNAFU4A2XC5492496&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/14317.jpg",
-    "price": "$3,988",
+    "price": "$5,989",
     "sutherlins_price": "$3,988",
-    "mileage": "N/A"
+    "mileage": "180,001 Miles"
   },
   {
     "category": "used",
@@ -118,6 +118,21 @@
     "price": "$10,988",
     "sutherlins_price": "$10,988",
     "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2017 Nissan Rogue S",
+    "vin": "KNMAT2MT3HP615401",
+    "stock": "26632B",
+    "exterior": "Magnetic Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNMAT2MT3HP615401&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIS11_640/2017NIS110001_640_01.jpg",
+    "price": "$10,988",
+    "sutherlins_price": "$10,988",
+    "mileage": "48,138 Miles"
   },
   {
     "category": "used",
@@ -421,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Santa Fe SEL",
-    "vin": "5NMS33AD6LH256442",
-    "stock": "P13717",
-    "exterior": "Rainforest",
-    "interior": "Black/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HYS01_640/2020HYS010031_640_01.jpg",
-    "price": "$18,892",
-    "sutherlins_price": "$15,995",
-    "mileage": "69,975 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP1HW004090",
     "stock": "P13694",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Hyundai Santa Fe SEL",
+    "vin": "5NMS33AD6LH256442",
+    "stock": "P13717",
+    "exterior": "Rainforest",
+    "interior": "Black/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020HYS01_640/2020HYS010031_640_01.jpg",
+    "price": "$18,892",
+    "sutherlins_price": "$15,995",
+    "mileage": "69,975 Miles"
+  },
+  {
+    "category": "used",
     "name": "2018 Nissan Maxima SL",
     "vin": "1N4AA6AP6JC401123",
     "stock": "P13626",
@@ -463,20 +478,5 @@
     "price": "$29,880",
     "sutherlins_price": "$15,995",
     "mileage": "62,715 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Toyota Corolla LE",
-    "vin": "2T1BURHE7KC183472",
-    "stock": "P13682",
-    "exterior": "Barcelona Red Metallic",
-    "interior": "Almond",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE7KC183472&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7dc28a84c3204528990b0fad0be40f6b.jpg",
-    "price": "$17,350",
-    "sutherlins_price": "$15,995",
-    "mileage": "74,108 Miles"
   }
 ]

@@ -241,6 +241,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Chrysler Voyager LX",
+    "vin": "2C4RC1CG3PR564125",
+    "stock": "MP179",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
+    "price": "$37,090",
+    "sutherlins_price": "$21,888",
+    "mileage": "70,274 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3VA82RZ043285",
     "stock": "M2516A",
@@ -463,20 +478,5 @@
     "price": "$39,910",
     "sutherlins_price": "$26,488",
     "mileage": "24,326 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Toyota Tacoma SR5",
-    "vin": "3TMAZ5CN3PM206242",
-    "stock": "M2503A",
-    "exterior": "Celestial Silver Metallic",
-    "interior": "Cement",
-    "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
-    "price": "$34,130",
-    "sutherlins_price": "$26,888",
-    "mileage": "50,633 Miles"
   }
 ]
