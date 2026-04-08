@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDEXRP126153",
-    "stock": "MP146",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
-    "price": "$23,145",
-    "sutherlins_price": "$15,888",
-    "mileage": "56,528 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage LE",
     "vin": "ML32AUHJXRH029663",
     "stock": "MP166",
@@ -373,6 +358,21 @@
     "price": "$16,695",
     "sutherlins_price": "$15,888",
     "mileage": "17,468 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDEXRP126153",
+    "stock": "MP146",
+    "exterior": "Celestite",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
+    "price": "$23,145",
+    "sutherlins_price": "$15,888",
+    "mileage": "56,528 Miles"
   },
   {
     "category": "used",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "MP173",
+    "exterior": "Rosewood",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a360e7d9-b6f5-4efc-ad32-8e9d5dcdafd5.jpg",
+    "price": "$22,985",
+    "sutherlins_price": "$17,888",
+    "mileage": "29,943 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Mitsubishi Outlander ES",
     "vin": "JA4J3TA84NZ041309",
     "stock": "M2594A",
@@ -463,20 +478,5 @@
     "price": "$28,340",
     "sutherlins_price": "$17,888",
     "mileage": "67,107 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL533100",
-    "stock": "MP125",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
-    "price": "$24,980",
-    "sutherlins_price": "$18,888",
-    "mileage": "17,950 Miles"
   }
 ]

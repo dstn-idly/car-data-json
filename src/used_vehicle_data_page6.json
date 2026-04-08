@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL533100",
+    "stock": "MP125",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
+    "price": "$24,980",
+    "sutherlins_price": "$18,888",
+    "mileage": "17,950 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Altima 2.0 Platinum",
     "vin": "1N4AL4FV3LN311540",
     "stock": "MP168",
@@ -58,21 +73,6 @@
     "price": "$28,055",
     "sutherlins_price": "$19,888",
     "mileage": "45,218 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV0RY201780",
-    "stock": "MP173",
-    "exterior": "Rosewood",
-    "interior": "Charcoal",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a360e7d9-b6f5-4efc-ad32-8e9d5dcdafd5.jpg",
-    "price": "$22,985",
-    "sutherlins_price": "$17,888",
-    "mileage": "29,943 Miles"
   },
   {
     "category": "used",
@@ -241,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chrysler Voyager LX",
-    "vin": "2C4RC1CG3PR564125",
-    "stock": "MP179",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
-    "price": "$37,090",
-    "sutherlins_price": "$21,888",
-    "mileage": "70,274 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3VA82RZ043285",
     "stock": "M2516A",
@@ -268,6 +253,21 @@
     "price": "$35,535",
     "sutherlins_price": "$21,888",
     "mileage": "62,667 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Voyager LX",
+    "vin": "2C4RC1CG3PR564125",
+    "stock": "MP179",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
+    "price": "$37,090",
+    "sutherlins_price": "$21,888",
+    "mileage": "70,274 Miles"
   },
   {
     "category": "used",
