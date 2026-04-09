@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Toyota Tacoma SR5",
-    "vin": "3TMAZ5CN3PM206242",
-    "stock": "M2503A",
-    "exterior": "Celestial Silver Metallic",
-    "interior": "Cement",
-    "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
-    "price": "$34,130",
-    "sutherlins_price": "$26,888",
-    "mileage": "50,633 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Subaru Outback Onyx Edition XT",
     "vin": "4S4BTGLD2P3126047",
     "stock": "MP107",
@@ -133,6 +118,21 @@
     "price": "$42,619",
     "sutherlins_price": "$26,888",
     "mileage": "29,023 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Tacoma SR5",
+    "vin": "3TMAZ5CN3PM206242",
+    "stock": "M2503A",
+    "exterior": "Celestial Silver Metallic",
+    "interior": "Cement",
+    "engine": "3.5L V6 PDI DOHC 24V LEV3-ULEV70 278hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMAZ5CN3PM206242&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5d8bb7ed-9723-4341-9529-f0aca68a9fcc.jpg",
+    "price": "$34,130",
+    "sutherlins_price": "$26,888",
+    "mileage": "50,633 Miles"
   },
   {
     "category": "used",
