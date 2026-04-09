@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDEXRP126153",
-    "stock": "MP146",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
-    "price": "$23,145",
-    "sutherlins_price": "$15,888",
-    "mileage": "56,528 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage LE",
     "vin": "ML32AUHJXRH029663",
     "stock": "MP166",
@@ -43,6 +28,21 @@
     "price": "$16,695",
     "sutherlins_price": "$15,888",
     "mileage": "17,468 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDEXRP126153",
+    "stock": "MP146",
+    "exterior": "Celestite",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
+    "price": "$23,145",
+    "sutherlins_price": "$15,888",
+    "mileage": "56,528 Miles"
   },
   {
     "category": "used",
@@ -229,7 +229,7 @@
     "name": "2024 Hyundai Elantra SEL",
     "vin": "KMHLS4DG8RU793247",
     "stock": "MP126",
-    "exterior": "Serenity White",
+    "exterior": "White",
     "interior": "Medium Gray",
     "engine": "I4",
     "transmission": "CVT",
@@ -238,21 +238,6 @@
     "price": "$27,500",
     "sutherlins_price": "$20,488",
     "mileage": "11,870 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Honda Prologue EX",
-    "vin": "3GPKHVRJ1RS513921",
-    "stock": "MP152",
-    "exterior": "Pacific Blue Metallic",
-    "interior": "Black",
-    "engine": "Electric ZEV 288hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
-    "price": "$52,305",
-    "sutherlins_price": "$20,888",
-    "mileage": "22,961 Miles"
   },
   {
     "category": "used",
@@ -268,6 +253,21 @@
     "price": "$28,090",
     "sutherlins_price": "$20,888",
     "mileage": "464 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Honda Prologue EX",
+    "vin": "3GPKHVRJ1RS513921",
+    "stock": "MP152",
+    "exterior": "Pacific Blue Metallic",
+    "interior": "Black",
+    "engine": "Electric ZEV 288hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
+    "price": "$52,305",
+    "sutherlins_price": "$20,888",
+    "mileage": "22,961 Miles"
   },
   {
     "category": "used",
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chrysler Voyager LX",
-    "vin": "2C4RC1CG3PR564125",
-    "stock": "MP179",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
-    "price": "$37,090",
-    "sutherlins_price": "$21,888",
-    "mileage": "70,274 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3VA82RZ043285",
     "stock": "M2516A",
@@ -403,6 +388,21 @@
     "price": "$35,535",
     "sutherlins_price": "$21,888",
     "mileage": "62,667 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Voyager LX",
+    "vin": "2C4RC1CG3PR564125",
+    "stock": "MP179",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
+    "price": "$37,090",
+    "sutherlins_price": "$21,888",
+    "mileage": "70,274 Miles"
   },
   {
     "category": "used",
