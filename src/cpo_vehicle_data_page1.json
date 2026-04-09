@@ -16,21 +16,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV4MY309814",
-    "stock": "P13644",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc3435490be64728b1546bfc927e47f4.jpg",
-    "price": "$14,475",
-    "sutherlins_price": "$13,988",
-    "mileage": "86,058 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2020 Nissan Kicks SR",
     "vin": "3N1CP5DV4LL561758",
     "stock": "250058A",
@@ -43,6 +28,21 @@
     "price": "$15,000",
     "sutherlins_price": "$13,988",
     "mileage": "76,152 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Sentra SV",
+    "vin": "3N1AB8CV4MY309814",
+    "stock": "P13644",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc3435490be64728b1546bfc927e47f4.jpg",
+    "price": "$14,475",
+    "sutherlins_price": "$13,988",
+    "mileage": "86,058 Miles"
   },
   {
     "category": "cpo",
@@ -211,21 +211,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV5RL516628",
-    "stock": "P13586",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
-    "price": "$19,900",
-    "sutherlins_price": "$17,995",
-    "mileage": "29,602 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV7RY272989",
     "stock": "P13639",
@@ -238,6 +223,21 @@
     "price": "$18,650",
     "sutherlins_price": "$17,995",
     "mileage": "41,293 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV5RL516628",
+    "stock": "P13586",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
+    "price": "$19,900",
+    "sutherlins_price": "$17,995",
+    "mileage": "29,602 Miles"
   },
   {
     "category": "cpo",
@@ -259,7 +259,7 @@
     "name": "2025 Nissan Sentra SV",
     "vin": "3N1AB8CV1SY209361",
     "stock": "P13601",
-    "exterior": "Aspen White Pearl",
+    "exterior": "Aspen White Tricoat",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
@@ -331,21 +331,6 @@
   },
   {
     "category": "cpo",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV1SY283168",
-    "stock": "P13705",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV1SY283168&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae31547a44b7466da963fa0065ddfec3.jpg",
-    "price": "$21,525",
-    "sutherlins_price": "$19,995",
-    "mileage": "511 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV7RY248501",
     "stock": "P13710",
@@ -362,17 +347,17 @@
   {
     "category": "cpo",
     "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV8SY253326",
-    "stock": "26628A",
-    "exterior": "Fresh Powder",
+    "vin": "3N1AB8BV1SY283168",
+    "stock": "P13705",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8SY253326&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a769b617d974d95b3bd4e02ecf056be.jpg",
-    "price": "$21,050",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV1SY283168&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae31547a44b7466da963fa0065ddfec3.jpg",
+    "price": "$21,525",
     "sutherlins_price": "$19,995",
-    "mileage": "10,226 Miles"
+    "mileage": "511 Miles"
   },
   {
     "category": "cpo",
@@ -388,6 +373,21 @@
     "price": "$20,575",
     "sutherlins_price": "$19,995",
     "mileage": "63,580 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV8SY253326",
+    "stock": "26628A",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8SY253326&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a769b617d974d95b3bd4e02ecf056be.jpg",
+    "price": "$21,050",
+    "sutherlins_price": "$19,995",
+    "mileage": "10,226 Miles"
   },
   {
     "category": "cpo",
