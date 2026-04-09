@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Tesla Model 3",
-    "vin": "5YJ3E1EA1KF416200",
-    "stock": "P13709",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Electric",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA1KF416200&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f4016c05d45c42d7a560fbf1718e3ff5.jpg",
-    "price": "$22,995",
-    "sutherlins_price": "$22,995",
-    "mileage": "46,490 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 RAM 1500 Express",
-    "vin": "1C6RR6KG4JS299998",
-    "stock": "P13703",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6KG4JS299998&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2e6f2e1633204e40b895ccdf74f12675.jpg",
-    "price": "$24,452",
-    "sutherlins_price": "$22,995",
-    "mileage": "46,641 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA1RW351182",
-    "stock": "P13688",
-    "exterior": "Deep Ocean Blue Pearl",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1RW351182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9349b2c3ad4e43edaf63e469fd365c71.jpg",
-    "price": "$23,900",
-    "sutherlins_price": "$22,995",
-    "mileage": "30,924 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Frontier S",
     "vin": "1N6ED1CM4NN630206",
     "stock": "P13641",
@@ -69,7 +24,7 @@
     "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMW53DK00R2V41372&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1a95b3d1b5c2452da1b05292c1700f81.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/57f18e0392f8468591bbd3a69a9498eb.jpg",
     "price": "$26,589",
     "sutherlins_price": "$23,988",
     "mileage": "30,955 Miles"
@@ -91,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Kia K4 LXS",
-    "vin": "3KPFT4DE2SE020081",
-    "stock": "P13679",
-    "exterior": "Interstellar Gray",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFT4DE2SE020081&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7ec2c1d81946469f97d384b69f751792.jpg",
-    "price": "$25,800",
-    "sutherlins_price": "$23,995",
-    "mileage": "33,437 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Nissan Kicks SV",
     "vin": "3N8AP6CE5TL307993",
     "stock": "P13707",
@@ -118,6 +58,21 @@
     "price": "$26,195",
     "sutherlins_price": "$23,995",
     "mileage": "1,145 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Kia K4 LXS",
+    "vin": "3KPFT4DE2SE020081",
+    "stock": "P13679",
+    "exterior": "Interstellar Gray",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFT4DE2SE020081&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7ec2c1d81946469f97d384b69f751792.jpg",
+    "price": "$25,800",
+    "sutherlins_price": "$23,995",
+    "mileage": "33,437 Miles"
   },
   {
     "category": "used",
@@ -144,7 +99,7 @@
     "engine": "Gas V6 3.6L/222",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTG5CEN9N1258640&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ef82584efa6340c1b3b1c0d06da98fef.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a9dac8c1a87d4b4aa923d50397b3f15a.jpg",
     "price": "$34,350",
     "sutherlins_price": "$24,988",
     "mileage": "10,890 Miles"
@@ -211,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Altima 2.0 SR",
-    "vin": "1N4AL4CV0PN319024",
-    "stock": "P13726",
-    "exterior": "Gun Metallic",
-    "interior": "Sport",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4CV0PN319024&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040087_640_01.jpg",
-    "price": "$28,575",
-    "sutherlins_price": "$26,995",
-    "mileage": "24,797 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Rogue SL",
     "vin": "5N1BT3CA0RC723019",
     "stock": "26485A",
@@ -238,6 +178,21 @@
     "price": "$29,425",
     "sutherlins_price": "$26,995",
     "mileage": "16,495 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Altima 2.0 SR",
+    "vin": "1N4AL4CV0PN319024",
+    "stock": "P13726",
+    "exterior": "Gun Metallic",
+    "interior": "Sport",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4CV0PN319024&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC04_640/2023NIC040087_640_01.jpg",
+    "price": "$28,575",
+    "sutherlins_price": "$26,995",
+    "mileage": "24,797 Miles"
   },
   {
     "category": "used",
@@ -429,7 +384,7 @@
     "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TA6PU125039&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5788cbb2328f481a9cf92c46b909a017.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1c61c52d1c2544439f522f7a8a7103c0.jpg",
     "price": "$33,175",
     "sutherlins_price": "$31,995",
     "mileage": "24,721 Miles"
@@ -478,5 +433,50 @@
     "price": "$34,625",
     "sutherlins_price": "$33,497",
     "mileage": "24,883 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ1SN627908",
+    "stock": "P13628",
+    "exterior": "Glacier White",
+    "interior": "Charcoal w/Lava Red St",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1SN627908&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a028af644bb544228ce7f7681f7fbd8b.jpg",
+    "price": "$39,700",
+    "sutherlins_price": "$33,825",
+    "mileage": "11,239 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 RAM 1500 Big Horn",
+    "vin": "1C6SRFFT6NN439336",
+    "stock": "26343A",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFFT6NN439336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48842ec8438a47e2aa8e06b2b4d4ea3e.jpg",
+    "price": "$42,625",
+    "sutherlins_price": "$33,988",
+    "mileage": "37,414 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Palisade Limited",
+    "vin": "KM8R5DGE8RU762107",
+    "stock": "T26521A",
+    "exterior": "Sierra Burgundy",
+    "interior": "Navy/Beige",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R5DGE8RU762107&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd5580fd5382419fad02aa7befa8e42a.jpg",
+    "price": "$38,700",
+    "sutherlins_price": "$34,498",
+    "mileage": "21,286 Miles"
   }
 ]

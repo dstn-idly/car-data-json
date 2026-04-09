@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Nissan Frontier PRO-X",
-    "vin": "1N6ED1EJ1SN627908",
-    "stock": "P13628",
-    "exterior": "Glacier White",
-    "interior": "Charcoal w/Lava Red St",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ1SN627908&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a028af644bb544228ce7f7681f7fbd8b.jpg",
-    "price": "$39,700",
-    "sutherlins_price": "$33,825",
-    "mileage": "11,239 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 RAM 1500 Big Horn",
-    "vin": "1C6SRFFT6NN439336",
-    "stock": "26343A",
-    "exterior": "Granite Crystal Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFFT6NN439336&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48842ec8438a47e2aa8e06b2b4d4ea3e.jpg",
-    "price": "$42,625",
-    "sutherlins_price": "$33,988",
-    "mileage": "37,414 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Hyundai Palisade Limited",
-    "vin": "KM8R5DGE8RU762107",
-    "stock": "T26521A",
-    "exterior": "Sierra Burgundy",
-    "interior": "Navy/Beige",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R5DGE8RU762107&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd5580fd5382419fad02aa7befa8e42a.jpg",
-    "price": "$38,700",
-    "sutherlins_price": "$34,498",
-    "mileage": "21,286 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 BMW 5 Series 540i",
     "vin": "WBA53BJ09NWX60629",
     "stock": "26697A",
@@ -193,6 +148,21 @@
     "price": "$58,988",
     "sutherlins_price": "$58,988",
     "mileage": "7,743 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.5 S",
+    "vin": "1N4BL4BV3LC132484",
+    "stock": "26685A",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV3LC132484&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC04_640/2020NIC040001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "125,729 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$27,700",
     "sutherlins_price": "$15,488",
     "mileage": "37,746 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Volkswagen Golf GTI Autobahn",
+    "vin": "3VW5T7AU0KM001721",
+    "stock": "MP101B",
+    "exterior": "Pure White",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Manual",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VW5T7AU0KM001721&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VW5T7AU0KM001721&vehicletype=Hatchback",
+    "price": "$15,888",
+    "sutherlins_price": "$15,888",
+    "mileage": "86,303 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDEXRP126153",
+    "stock": "MP146",
+    "exterior": "Celestite",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
+    "price": "$23,145",
+    "sutherlins_price": "$15,888",
+    "mileage": "56,528 Miles"
   }
 ]

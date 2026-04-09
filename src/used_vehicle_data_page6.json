@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Volkswagen Golf GTI Autobahn",
-    "vin": "3VW5T7AU0KM001721",
-    "stock": "MP101B",
-    "exterior": "Pure White",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI DOHC",
-    "transmission": "Manual",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VW5T7AU0KM001721&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VW5T7AU0KM001721&vehicletype=Hatchback",
-    "price": "$15,888",
-    "sutherlins_price": "$15,888",
-    "mileage": "86,303 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDEXRP126153",
-    "stock": "MP146",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
-    "price": "$23,145",
-    "sutherlins_price": "$15,888",
-    "mileage": "56,528 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage LE",
     "vin": "ML32AUHJXRH029663",
     "stock": "MP166",
@@ -114,7 +84,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA84NZ041309&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3TA84NZ041309&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/36f1adfc-4f8c-48b0-b7c6-dd8832c0c8af.jpg",
     "price": "$28,340",
     "sutherlins_price": "$17,888",
     "mileage": "67,107 Miles"
@@ -189,7 +159,7 @@
     "engine": "1.6L I4 Turbo",
     "transmission": "",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF44AC6PE633148&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3KPF44AC6PE633148&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8c71746e-95e8-4527-a97e-3a819b44dc0a.jpg",
     "price": "$28,055",
     "sutherlins_price": "$19,888",
     "mileage": "45,218 Miles"
@@ -204,7 +174,7 @@
     "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 191hp",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3MZBPABM9RM402729&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3MZBPABM9RM402729&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/21f090de-1c13-48a1-9330-c25f992ee064.jpg",
     "price": "$26,325",
     "sutherlins_price": "$19,888",
     "mileage": "48,631 Miles"
@@ -399,7 +369,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA82RZ043285&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA82RZ043285&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/40406467-e282-4ff4-a1b9-3187e7631dac.jpg",
     "price": "$35,535",
     "sutherlins_price": "$21,888",
     "mileage": "62,667 Miles"
@@ -478,5 +448,35 @@
     "price": "$29,935",
     "sutherlins_price": "$23,488",
     "mileage": "26,401 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Maverick XLT",
+    "vin": "3FTTW8E38PRA44562",
+    "stock": "MP176",
+    "exterior": "Shadow Black",
+    "interior": "Navy Pier/Medium Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FTTW8E38PRA44562&vehicletype=Truck",
+    "price": "$27,120",
+    "sutherlins_price": "$23,888",
+    "mileage": "71,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford Bronco Sport Big Bend",
+    "vin": "3FMCR9B66NRD95510",
+    "stock": "MP110A",
+    "exterior": "Orange Metallic",
+    "interior": "Ebony",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9B66NRD95510&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e7cbbd2-c631-47a7-b9e2-62939bcda439.jpg",
+    "price": "$34,300",
+    "sutherlins_price": "$23,888",
+    "mileage": "37,717 Miles"
   }
 ]
