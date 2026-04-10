@@ -16,36 +16,6 @@
   },
   {
     "category": "cpo",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV4MY309814",
-    "stock": "P13644",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV4MY309814&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cc3435490be64728b1546bfc927e47f4.jpg",
-    "price": "$14,475",
-    "sutherlins_price": "$11,898",
-    "mileage": "86,058 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2019 Nissan Rogue S",
-    "vin": "JN8AT2MT2KW500547",
-    "stock": "26308B",
-    "exterior": "Magnetic Black Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT2KW500547&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02375ed811b04abf90317be90d3e3a50.jpg",
-    "price": "$18,300",
-    "sutherlins_price": "$11,898",
-    "mileage": "65,437 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2018 Nissan Rogue SV",
     "vin": "KNMAT2MT2JP546075",
     "stock": "26228A",
@@ -346,21 +316,6 @@
   },
   {
     "category": "cpo",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV1SY283168",
-    "stock": "P13705",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV1SY283168&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae31547a44b7466da963fa0065ddfec3.jpg",
-    "price": "$21,525",
-    "sutherlins_price": "$19,995",
-    "mileage": "511 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV7RY248501",
     "stock": "P13710",
@@ -373,6 +328,21 @@
     "price": "$22,587",
     "sutherlins_price": "$19,995",
     "mileage": "60,053 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV1SY283168",
+    "stock": "P13705",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV1SY283168&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae31547a44b7466da963fa0065ddfec3.jpg",
+    "price": "$21,525",
+    "sutherlins_price": "$19,995",
+    "mileage": "511 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +448,35 @@
     "price": "$25,875",
     "sutherlins_price": "$22,898",
     "mileage": "60,596 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2020 Nissan Maxima SR",
+    "vin": "1N4AA6EV4LC365783",
+    "stock": "25981B",
+    "exterior": "Sunset Drift Chromaflair",
+    "interior": "Charcoal",
+    "engine": "Premium Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AA6EV4LC365783&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f832bbf946ab4810adb4a90d88349a25.jpg",
+    "price": "$24,450",
+    "sutherlins_price": "$22,995",
+    "mileage": "40,957 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Rogue S",
+    "vin": "5N1BT3AA9SC867886",
+    "stock": "P13568",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA9SC867886&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/06392fe1f4c04fe7bdeab44f96e78a76.jpg",
+    "price": "$27,775",
+    "sutherlins_price": "$23,988",
+    "mileage": "1,867 Miles"
   }
 ]
