@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Nissan Rogue S",
-    "vin": "5N1BT3AA6SC868087",
-    "stock": "MP172",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA6SC868087&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0653b0d8-36ca-4380-b489-0f9dfd4fa7e4.jpg",
-    "price": "$30,710",
-    "sutherlins_price": "$23,988",
-    "mileage": "6,948 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Kia Sportage LX",
-    "vin": "KNDPU3DF4S7367027",
-    "stock": "M2540A",
-    "exterior": "Fusion Black",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
-    "price": "$28,960",
-    "sutherlins_price": "$24,488",
-    "mileage": "4,109 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Outlander SEL",
     "vin": "JA4J4VA8XNZ061640",
     "stock": "M2564A",
@@ -106,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Subaru Outback Onyx Edition XT",
-    "vin": "4S4BTGLD2P3126047",
-    "stock": "MP107",
-    "exterior": "Crystal Black Silica",
-    "interior": "Gray",
-    "engine": "2.4L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
-    "price": "$42,619",
-    "sutherlins_price": "$26,888",
-    "mileage": "29,023 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Toyota Tacoma SR5",
     "vin": "3TMAZ5CN3PM206242",
     "stock": "M2503A",
@@ -133,6 +88,21 @@
     "price": "$34,130",
     "sutherlins_price": "$26,888",
     "mileage": "50,633 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Subaru Outback Onyx Edition XT",
+    "vin": "4S4BTGLD2P3126047",
+    "stock": "MP107",
+    "exterior": "Crystal Black Silica",
+    "interior": "Gray",
+    "engine": "2.4L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
+    "price": "$42,619",
+    "sutherlins_price": "$26,888",
+    "mileage": "29,023 Miles"
   },
   {
     "category": "used",
@@ -268,21 +238,6 @@
     "price": "$67,190",
     "sutherlins_price": "$30,998",
     "mileage": "22,132 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Toyota Sienna XLE",
-    "vin": "5TDYRKEC4PS173809",
-    "stock": "MP091",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Graphite",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC4PS173809&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9ffae2e2-a8b3-4506-9f4c-5cde31556d64.jpg",
-    "price": "$42,195",
-    "sutherlins_price": "$31,888",
-    "mileage": "72,584 Miles"
   },
   {
     "category": "used",
@@ -466,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Volkswagen Tiguan 2.0T S",
+    "vin": "3VVRB7AX8RM037718",
+    "stock": "MP183",
+    "exterior": "Pure White",
+    "interior": "N/A",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VVRB7AX8RM037718&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "48,699 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Elantra Hybrid Limited",
     "vin": "KMHLN4AJ1PU054578",
     "stock": "MP184",
@@ -478,5 +448,35 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Honda Accord Sedan LX",
+    "vin": "1HGCY1F26RA060541",
+    "stock": "MP182",
+    "exterior": "Solar Silver Metallic",
+    "interior": "N/A",
+    "engine": "1.5T I4 DOHC 16V Turbocharged VTEC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F26RA060541&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1HGCY1F26RA060541&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "46,279 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "N/A",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "67,079 Miles"
   }
 ]

@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2016 BMW 7 Series 740i",
-    "vin": "WBA7E2C5XGG738583",
-    "stock": "MP104A",
-    "exterior": "White Metallic",
-    "interior": "Black",
-    "engine": "3.0L I6 DOHC 24V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA7E2C5XGG738583&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WBA7E2C5XGG738583&vehicletype=Sedan",
-    "price": "$82,295",
-    "sutherlins_price": "$9,888",
-    "mileage": "115,323 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Mitsubishi Outlander ES",
     "vin": "JA4AD2A32LZ012254",
     "stock": "M2644A",
@@ -421,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Ford Bronco Sport Base",
-    "vin": "3FMCR9A67MRA19527",
-    "stock": "M2577B",
-    "exterior": "Oxford White",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9A67MRA19527&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/281e9ef7-7c04-4ee0-b21e-39313ff20b9b.jpg",
-    "price": "$28,315",
-    "sutherlins_price": "$14,888",
-    "mileage": "93,782 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Hyundai Santa Fe SE",
     "vin": "5NMS23AD1LH239924",
     "stock": "MP098",
@@ -478,5 +448,35 @@
     "price": "$23,145",
     "sutherlins_price": "$15,888",
     "mileage": "56,528 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage LE",
+    "vin": "ML32AUHJXRH029663",
+    "stock": "MP166",
+    "exterior": "Starlight Silver Metallic",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJXRH029663&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1cb1c260-98bf-41c4-aa43-b0b0fc7531b0.jpg",
+    "price": "$16,695",
+    "sutherlins_price": "$15,888",
+    "mileage": "17,468 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Kicks SR",
+    "vin": "3N1CP5DV8ML478366",
+    "stock": "MP121",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV8ML478366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e646590-db1b-4385-9b27-ad0ff6097852.jpg",
+    "price": "$27,020",
+    "sutherlins_price": "$17,388",
+    "mileage": "50,031 Miles"
   }
 ]
