@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Mitsubishi Outlander SEL",
-    "vin": "JA4J3VA85NZ090546",
-    "stock": "M2583A",
-    "exterior": "White Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA85NZ090546&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA85NZ090546&vehicletype=SUV",
-    "price": "$32,245",
-    "sutherlins_price": "$21,488",
-    "mileage": "65,443 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV6PL505990",
     "stock": "MP174",
@@ -309,7 +294,7 @@
     "engine": "1.6L 4-Cylinder DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL505990&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fa5d9414-cdc4-4768-a887-0ea06e8c42d2.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/af2d942f-c749-4d6d-aa2f-7712c03296dd.jpg",
     "price": "$27,110",
     "sutherlins_price": "$21,488",
     "mileage": "8,933 Miles"
@@ -478,5 +463,20 @@
     "price": "$29,935",
     "sutherlins_price": "$23,488",
     "mileage": "26,401 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Maverick XLT",
+    "vin": "3FTTW8E38PRA44562",
+    "stock": "MP176",
+    "exterior": "Shadow Black",
+    "interior": "Navy Pier/Medium Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FTTW8E38PRA44562&vehicletype=Truck",
+    "price": "$27,120",
+    "sutherlins_price": "$23,888",
+    "mileage": "71,119 Miles"
   }
 ]

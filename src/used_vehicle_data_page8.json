@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Ford Expedition Max Limited",
-    "vin": "1FMJK1K85REA65820",
-    "stock": "MP030",
-    "exterior": "Red Metallic",
-    "interior": "Sandstone",
-    "engine": "EcoBoost 3.5L V6 GTDi DOHC 24V Twin Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1K85REA65820&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ac638976-c32d-4bc2-adcb-28549a622983.jpg",
-    "price": "$71,410",
-    "sutherlins_price": "$38,888",
-    "mileage": "57,088 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Genesis GV80 2.5T",
     "vin": "KMUHFESB6SU240126",
     "stock": "MP171",
@@ -58,5 +43,65 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Audi Q5 45 Premium Plus",
+    "vin": "WA1BNAFY3L2059317",
+    "stock": "MP186",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Black",
+    "engine": "2.0L TFSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BNAFY3L2059317&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WA1BNAFY3L2059317&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXTY3C05L9C93365&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "77,686 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 BMW 3 Series 330i",
+    "vin": "3MW69FF00R8E13174",
+    "stock": "MP188",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.0L 4-Cylinder DOHC 16V Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3MW69FF00R8E13174&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3MW69FF00R8E13174&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "37,704 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Mitsubishi Outlander LE",
+    "vin": "JA4AD3A31KZ020088",
+    "stock": "M2650A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4AD3A31KZ020088&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4AD3A31KZ020088&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "111,006 Miles"
   }
 ]
