@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV1SY283168",
-    "stock": "P13705",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV1SY283168&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae31547a44b7466da963fa0065ddfec3.jpg",
-    "price": "$21,525",
-    "sutherlins_price": "$19,995",
-    "mileage": "511 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV7RY248501",
     "stock": "P13710",
@@ -118,6 +103,21 @@
     "price": "$22,587",
     "sutherlins_price": "$19,995",
     "mileage": "60,053 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV1SY283168",
+    "stock": "P13705",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV1SY283168&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ae31547a44b7466da963fa0065ddfec3.jpg",
+    "price": "$21,525",
+    "sutherlins_price": "$19,995",
+    "mileage": "511 Miles"
   },
   {
     "category": "used",
@@ -346,18 +346,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA1RW351182",
-    "stock": "P13688",
-    "exterior": "Deep Ocean Blue Pearl",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1RW351182&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9349b2c3ad4e43edaf63e469fd365c71.jpg",
-    "price": "$23,900",
+    "name": "2022 RAM 1500 Classic Tradesman",
+    "vin": "1C6RR7FG0NS161963",
+    "stock": "P13729",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7FG0NS161963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022RMT14_640/2022RMT140121_640_01.jpg",
+    "price": "$22,995",
     "sutherlins_price": "$22,995",
-    "mileage": "30,924 Miles"
+    "mileage": "58,749 Miles"
   },
   {
     "category": "used",
@@ -373,6 +373,21 @@
     "price": "$24,452",
     "sutherlins_price": "$22,995",
     "mileage": "46,641 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "JN8BT3BA1RW351182",
+    "stock": "P13688",
+    "exterior": "Deep Ocean Blue Pearl",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1RW351182&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9349b2c3ad4e43edaf63e469fd365c71.jpg",
+    "price": "$23,900",
+    "sutherlins_price": "$22,995",
+    "mileage": "30,924 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$25,913",
     "sutherlins_price": "$23,995",
     "mileage": "25,228 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Frontier SV",
-    "vin": "1N6ED1EJ9RN608419",
-    "stock": "P13591",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ9RN608419&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e1030411467740979e4f0b160eafde16.jpg",
-    "price": "$30,175",
-    "sutherlins_price": "$25,988",
-    "mileage": "68,153 Miles"
   }
 ]

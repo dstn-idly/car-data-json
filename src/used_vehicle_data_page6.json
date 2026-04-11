@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Nissan Kicks SR",
+    "vin": "3N1CP5DV8ML478366",
+    "stock": "MP121",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV8ML478366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e646590-db1b-4385-9b27-ad0ff6097852.jpg",
+    "price": "$27,020",
+    "sutherlins_price": "$17,388",
+    "mileage": "50,031 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST8RF178869",
     "stock": "MP177",
@@ -256,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Volkswagen Tiguan 2.0T S",
-    "vin": "3VVRB7AX8RM037718",
-    "stock": "MP183",
-    "exterior": "Pure White",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VVRB7AX8RM037718&vehicletype=SUV",
-    "price": "$30,915",
-    "sutherlins_price": "$21,488",
-    "mileage": "48,699 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Outlander SEL",
     "vin": "JA4J3VA85NZ090546",
     "stock": "M2583A",
@@ -286,6 +286,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Volkswagen Tiguan 2.0T S",
+    "vin": "3VVRB7AX8RM037718",
+    "stock": "MP183",
+    "exterior": "Pure White",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VVRB7AX8RM037718&vehicletype=SUV",
+    "price": "$30,915",
+    "sutherlins_price": "$21,488",
+    "mileage": "48,699 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV6PL505990",
     "stock": "MP174",
@@ -294,7 +309,7 @@
     "engine": "1.6L 4-Cylinder DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL505990&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3N1CP5DV6PL505990&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fa5d9414-cdc4-4768-a887-0ea06e8c42d2.jpg",
     "price": "$27,110",
     "sutherlins_price": "$21,488",
     "mileage": "8,933 Miles"
@@ -463,20 +478,5 @@
     "price": "$29,935",
     "sutherlins_price": "$23,488",
     "mileage": "26,401 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Ford Maverick XLT",
-    "vin": "3FTTW8E38PRA44562",
-    "stock": "MP176",
-    "exterior": "Shadow Black",
-    "interior": "Navy Pier/Medium Slate",
-    "engine": "2.5L I-4 Hybrid",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FTTW8E38PRA44562&vehicletype=Truck",
-    "price": "$27,120",
-    "sutherlins_price": "$23,888",
-    "mileage": "71,119 Miles"
   }
 ]

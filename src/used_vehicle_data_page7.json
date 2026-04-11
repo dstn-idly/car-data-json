@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Ford Maverick XLT",
+    "vin": "3FTTW8E38PRA44562",
+    "stock": "MP176",
+    "exterior": "Shadow Black",
+    "interior": "Navy Pier/Medium Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FTTW8E38PRA44562&vehicletype=Truck",
+    "price": "$27,120",
+    "sutherlins_price": "$23,888",
+    "mileage": "71,119 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Ford Bronco Sport Big Bend",
     "vin": "3FMCR9B66NRD95510",
     "stock": "MP110A",
@@ -99,7 +114,7 @@
     "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA82SZ024459&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA82SZ024459&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7fe411f5-e295-4ead-b286-b2fd76a1b3be.jpg",
     "price": "$31,590",
     "sutherlins_price": "$25,888",
     "mileage": "19,398 Miles"
@@ -204,7 +219,7 @@
     "engine": "3.6L V6 24V VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJKBG1N8531470&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C4RJKBG1N8531470&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/be719939-e4f8-4feb-8ae1-2d702786bf99.jpg",
     "price": "$55,745",
     "sutherlins_price": "$27,888",
     "mileage": "69,911 Miles"
@@ -219,7 +234,7 @@
     "engine": "2.0L Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3GNKBCR4XRS127880&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ae6791ee-8be7-40a3-8515-901321c21efe.jpg",
     "price": "$39,610",
     "sutherlins_price": "$27,888",
     "mileage": "26,230 Miles"
@@ -463,20 +478,5 @@
     "price": "$62,430",
     "sutherlins_price": "$36,888",
     "mileage": "39,725 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Ford Expedition Max Limited",
-    "vin": "1FMJK1K85REA65820",
-    "stock": "MP030",
-    "exterior": "Red Metallic",
-    "interior": "Sandstone",
-    "engine": "EcoBoost 3.5L V6 GTDi DOHC 24V Twin Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1K85REA65820&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ac638976-c32d-4bc2-adcb-28549a622983.jpg",
-    "price": "$71,410",
-    "sutherlins_price": "$38,888",
-    "mileage": "57,088 Miles"
   }
 ]
