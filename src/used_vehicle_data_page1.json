@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Toyota Corolla LE",
-    "vin": "2T1BURHE7KC183472",
-    "stock": "P13682",
-    "exterior": "Barcelona Red Metallic",
-    "interior": "Almond",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE7KC183472&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7dc28a84c3204528990b0fad0be40f6b.jpg",
-    "price": "$17,350",
-    "sutherlins_price": "$15,995",
-    "mileage": "74,108 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Nissan Maxima SL",
     "vin": "1N4AA6AP6JC401123",
     "stock": "P13626",
@@ -478,5 +463,20 @@
     "price": "$29,880",
     "sutherlins_price": "$15,995",
     "mileage": "62,715 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Toyota Corolla LE",
+    "vin": "2T1BURHE7KC183472",
+    "stock": "P13682",
+    "exterior": "Barcelona Red Metallic",
+    "interior": "Almond",
+    "engine": "Regular Unleaded I-4 1.8 L/110",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE7KC183472&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7dc28a84c3204528990b0fad0be40f6b.jpg",
+    "price": "$17,350",
+    "sutherlins_price": "$15,995",
+    "mileage": "74,108 Miles"
   }
 ]
