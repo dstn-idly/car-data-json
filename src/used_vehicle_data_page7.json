@@ -436,36 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXTY3C05L9C93365&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "77,686 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 BMW 3 Series 330i",
-    "vin": "3MW69FF00R8E13174",
-    "stock": "MP188",
-    "exterior": "Gray Metallic",
-    "interior": "Black",
-    "engine": "2.0L 4-Cylinder DOHC 16V Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3MW69FF00R8E13174&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3MW69FF00R8E13174&vehicletype=Sedan",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "37,704 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Kia Sorento LX",
     "vin": "5XYPG4A54KG564288",
     "stock": "MP164A",
@@ -478,5 +448,35 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "74,877 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Audi Q5 45 Premium Plus",
+    "vin": "WA1BNAFY3L2059317",
+    "stock": "MP186",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Black",
+    "engine": "2.0L TFSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BNAFY3L2059317&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WA1BNAFY3L2059317&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXTY3C05L9C93365&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "77,686 Miles"
   }
 ]
