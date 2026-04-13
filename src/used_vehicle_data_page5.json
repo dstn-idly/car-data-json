@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Toyota Corolla LE",
-    "vin": "2T1BURHE3FC448507",
-    "stock": "P13568A",
-    "exterior": "Classic Silver Metallic",
-    "interior": "Ash",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE3FC448507&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015TOC04_640/2015TOC040022_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "126,395 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Dodge Grand Caravan SE Plus",
-    "vin": "2C4RDGBG0LR236592",
-    "stock": "P13568B",
-    "exterior": "Indigo Blue Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGBG0LR236592&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020DOV17_640/2020DOV170017_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "106,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Altima 2.5 SR",
     "vin": "1N4BL4CV8RN319568",
     "stock": "26697B",
@@ -43,21 +13,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "43,821 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder Platinum",
-    "vin": "5N1DR3DH4RC245318",
-    "stock": "26510A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Chestnut",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DH4RC245318&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071939866_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "22,056 Miles"
   },
   {
     "category": "used",
@@ -118,6 +73,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "61,699 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Frontier SV",
+    "vin": "1N6ED0EAXLN713889",
+    "stock": "26398A",
+    "exterior": "Gun Metallic",
+    "interior": "Steel",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED0EAXLN713889&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIT12_640/2020NIT120051_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "60,714 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$29,340",
     "sutherlins_price": "$17,888",
     "mileage": "61,591 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "MP173",
+    "exterior": "Rosewood",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a360e7d9-b6f5-4efc-ad32-8e9d5dcdafd5.jpg",
+    "price": "$22,985",
+    "sutherlins_price": "$17,888",
+    "mileage": "29,943 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Mitsubishi Outlander ES",
+    "vin": "JA4J3TA84NZ041309",
+    "stock": "M2594A",
+    "exterior": "Labrador Black Pearl",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA84NZ041309&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4895ba42-5eb4-4717-89fb-e9fe8441e3bc.jpg",
+    "price": "$28,340",
+    "sutherlins_price": "$17,888",
+    "mileage": "67,107 Miles"
   }
 ]
