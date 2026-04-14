@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2020 Audi Q5 45 Premium Plus",
+    "vin": "WA1BNAFY3L2059317",
+    "stock": "MP186",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Black",
+    "engine": "2.0L TFSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BNAFY3L2059317&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WA1BNAFY3L2059317&vehicletype=SUV",
+    "price": "$18,888",
+    "sutherlins_price": "$18,888",
+    "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL533100",
+    "stock": "MP125",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
+    "price": "$24,980",
+    "sutherlins_price": "$18,888",
+    "mileage": "17,950 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Altima 2.0 Platinum",
     "vin": "1N4AL4FV3LN311540",
     "stock": "MP168",
@@ -13,6 +43,21 @@
     "price": "$36,775",
     "sutherlins_price": "$17,588",
     "mileage": "63,592 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXTY3C05L9C93365&vehicletype=SUV",
+    "price": "$46,345",
+    "sutherlins_price": "$19,888",
+    "mileage": "77,686 Miles"
   },
   {
     "category": "used",
@@ -433,50 +478,5 @@
     "price": "$37,790",
     "sutherlins_price": "$24,688",
     "mileage": "39,839 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Honda Accord Sedan LX",
-    "vin": "1HGCY1F26RA060541",
-    "stock": "MP182",
-    "exterior": "Solar Silver Metallic",
-    "interior": "Black",
-    "engine": "1.5T I4 DOHC 16V Turbocharged VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F26RA060541&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1HGCY1F26RA060541&vehicletype=Sedan",
-    "price": "$29,045",
-    "sutherlins_price": "$25,888",
-    "mileage": "46,279 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mitsubishi Outlander ES",
-    "vin": "JA4J3UA82SZ024459",
-    "stock": "M2638A",
-    "exterior": "White Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA82SZ024459&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1c3f9751-5cdd-4f7c-b7e4-c977b5de1f8d.jpg",
-    "price": "$31,590",
-    "sutherlins_price": "$25,888",
-    "mileage": "19,398 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA3RC203647",
-    "stock": "MP049",
-    "exterior": "Scarlet",
-    "interior": "Charcoal",
-    "engine": "3.5L V6 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
-    "price": "$48,999",
-    "sutherlins_price": "$25,888",
-    "mileage": "22,521 Miles"
   }
 ]
