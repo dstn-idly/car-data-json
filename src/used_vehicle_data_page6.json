@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SV",
-    "vin": "3N1CP5CV8PL533100",
-    "stock": "MP125",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
-    "price": "$24,980",
-    "sutherlins_price": "$18,888",
-    "mileage": "17,950 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Altima 2.0 Platinum",
     "vin": "1N4AL4FV3LN311540",
     "stock": "MP168",
@@ -478,5 +463,20 @@
     "price": "$31,590",
     "sutherlins_price": "$25,888",
     "mileage": "19,398 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA3RC203647",
+    "stock": "MP049",
+    "exterior": "Scarlet",
+    "interior": "Charcoal",
+    "engine": "3.5L V6 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2d7d0ce7-6cd6-4281-8e75-219a68ad968a.jpg",
+    "price": "$48,999",
+    "sutherlins_price": "$25,888",
+    "mileage": "22,521 Miles"
   }
 ]
