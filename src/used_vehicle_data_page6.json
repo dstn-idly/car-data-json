@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2013 RAM 1500 Sport",
-    "vin": "1C6RR6MT1DS724415",
-    "stock": "MP088",
-    "exterior": "Deep Cherry Red Crystal Pearlcoat",
-    "interior": "Black Interior",
-    "engine": "HEMI 5.7L V8 Multi Displacement VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6MT1DS724415&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8f29c5d1-cc14-4e13-8d1a-3d3d5d303d94.jpg",
-    "price": "$42,350",
-    "sutherlins_price": "$20,988",
-    "mileage": "35,055 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Volkswagen Tiguan 2.0T S",
     "vin": "3VVRB7AX8RM037718",
     "stock": "MP183",
@@ -331,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Ford Bronco Sport Big Bend",
-    "vin": "3FMCR9B66NRD95510",
-    "stock": "MP110A",
-    "exterior": "Orange Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9B66NRD95510&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e7cbbd2-c631-47a7-b9e2-62939bcda439.jpg",
-    "price": "$34,300",
-    "sutherlins_price": "$23,888",
-    "mileage": "37,717 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Camry LE",
     "vin": "4T1C11AK5RU189567",
     "stock": "MP181",
@@ -358,6 +328,21 @@
     "price": "$29,045",
     "sutherlins_price": "$23,888",
     "mileage": "21,925 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford Bronco Sport Big Bend",
+    "vin": "3FMCR9B66NRD95510",
+    "stock": "MP110A",
+    "exterior": "Orange Metallic",
+    "interior": "Ebony",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9B66NRD95510&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e7cbbd2-c631-47a7-b9e2-62939bcda439.jpg",
+    "price": "$34,300",
+    "sutherlins_price": "$23,888",
+    "mileage": "37,717 Miles"
   },
   {
     "category": "used",
@@ -414,7 +399,7 @@
     "engine": "1.5T I4 DOHC 16V Turbocharged VTEC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F26RA060541&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1HGCY1F26RA060541&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9bfd0b61-a793-4811-9501-0a5a6091366b.jpg",
     "price": "$29,045",
     "sutherlins_price": "$25,888",
     "mileage": "46,279 Miles"
@@ -478,5 +463,20 @@
     "price": "$39,910",
     "sutherlins_price": "$26,488",
     "mileage": "24,326 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Subaru Outback Onyx Edition XT",
+    "vin": "4S4BTGLD2P3126047",
+    "stock": "MP107",
+    "exterior": "Crystal Black Silica",
+    "interior": "Gray",
+    "engine": "2.4L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
+    "price": "$42,619",
+    "sutherlins_price": "$26,888",
+    "mileage": "29,023 Miles"
   }
 ]
