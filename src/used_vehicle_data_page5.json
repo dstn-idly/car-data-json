@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV0RY201780",
-    "stock": "MP173",
-    "exterior": "Rosewood",
-    "interior": "Charcoal",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a360e7d9-b6f5-4efc-ad32-8e9d5dcdafd5.jpg",
-    "price": "$22,985",
-    "sutherlins_price": "$17,888",
-    "mileage": "29,943 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Outlander ES",
     "vin": "JA4J3TA84NZ041309",
     "stock": "M2594A",
@@ -478,5 +463,20 @@
     "price": "$28,340",
     "sutherlins_price": "$17,888",
     "mileage": "67,107 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "MP173",
+    "exterior": "Rosewood",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a360e7d9-b6f5-4efc-ad32-8e9d5dcdafd5.jpg",
+    "price": "$22,985",
+    "sutherlins_price": "$17,888",
+    "mileage": "29,943 Miles"
   }
 ]
