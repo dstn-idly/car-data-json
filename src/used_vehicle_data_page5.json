@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Mitsubishi Outlander SE",
-    "vin": "JA4J3VA86RZ012959",
-    "stock": "M2555A",
-    "exterior": "Alloy Silver Metallic",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/55067323-1f70-4c17-ad97-09456b9c960f.jpg",
-    "price": "$32,940",
-    "sutherlins_price": "$19,888",
-    "mileage": "80,040 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 BMW X3 sDrive30i",
     "vin": "5UXTY3C05L9C93365",
     "stock": "MP187",
@@ -478,5 +463,20 @@
     "price": "$46,345",
     "sutherlins_price": "$19,888",
     "mileage": "77,686 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA86RZ012959",
+    "stock": "M2555A",
+    "exterior": "Alloy Silver Metallic",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA86RZ012959&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/55067323-1f70-4c17-ad97-09456b9c960f.jpg",
+    "price": "$32,940",
+    "sutherlins_price": "$19,888",
+    "mileage": "80,040 Miles"
   }
 ]
