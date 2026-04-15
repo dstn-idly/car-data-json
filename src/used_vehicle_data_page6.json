@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Honda Prologue EX",
-    "vin": "3GPKHVRJ1RS513921",
-    "stock": "MP152",
-    "exterior": "Pacific Blue Metallic",
-    "interior": "Black",
-    "engine": "Electric ZEV 288hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
-    "price": "$52,305",
-    "sutherlins_price": "$20,888",
-    "mileage": "22,961 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Jeep Compass Sport",
     "vin": "3C4NJDAN0RT115038",
     "stock": "MP154",
@@ -73,6 +58,21 @@
     "price": "$28,090",
     "sutherlins_price": "$20,888",
     "mileage": "464 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Honda Prologue EX",
+    "vin": "3GPKHVRJ1RS513921",
+    "stock": "MP152",
+    "exterior": "Pacific Blue Metallic",
+    "interior": "Black",
+    "engine": "Electric ZEV 288hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
+    "price": "$52,305",
+    "sutherlins_price": "$20,888",
+    "mileage": "22,961 Miles"
   },
   {
     "category": "used",
@@ -399,7 +399,7 @@
     "engine": "1.5T I4 DOHC 16V Turbocharged VTEC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F26RA060541&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9bfd0b61-a793-4811-9501-0a5a6091366b.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9293a5c3-3566-40eb-b9c7-64f3040df025.jpg",
     "price": "$29,045",
     "sutherlins_price": "$25,888",
     "mileage": "46,279 Miles"
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2023 Subaru Outback Onyx Edition XT",
-    "vin": "4S4BTGLD2P3126047",
-    "stock": "MP107",
-    "exterior": "Crystal Black Silica",
-    "interior": "Gray",
-    "engine": "2.4L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4BTGLD2P3126047&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2ed040d6-2208-4a08-bef6-449f5e40c00f.jpg",
-    "price": "$42,619",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
+    "price": "$64,190",
     "sutherlins_price": "$26,888",
-    "mileage": "29,023 Miles"
+    "mileage": "67,079 Miles"
   }
 ]
