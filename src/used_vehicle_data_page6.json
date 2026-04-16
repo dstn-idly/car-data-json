@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Mazda MAZDA3 2.5 S Select Sport",
-    "vin": "3MZBPABM9RM402729",
-    "stock": "MP169",
-    "exterior": "Crystal Blue",
-    "interior": "Black",
-    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 191hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3MZBPABM9RM402729&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8b089b03-2974-41b0-960f-9603559b4f0a.jpg",
-    "price": "$26,325",
-    "sutherlins_price": "$19,888",
-    "mileage": "48,631 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Camry LE",
     "vin": "4T1C11AK8RU875344",
     "stock": "MP102",
@@ -163,21 +148,6 @@
     "price": "$37,090",
     "sutherlins_price": "$21,888",
     "mileage": "70,274 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Outlander SE Black Edition",
-    "vin": "JA4J3VA82RZ043285",
-    "stock": "M2516A",
-    "exterior": "Black Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA82RZ043285&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6556015e-51ff-4d21-ba6b-806fc6250ed7.jpg",
-    "price": "$35,535",
-    "sutherlins_price": "$21,888",
-    "mileage": "62,667 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$55,745",
     "sutherlins_price": "$27,888",
     "mileage": "69,911 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Blazer LT",
+    "vin": "3GNKBCR4XRS127880",
+    "stock": "MP175",
+    "exterior": "Summit White",
+    "interior": "Gray",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7d55fc4b-9697-4bc9-a451-fdf621c82b51.jpg",
+    "price": "$39,610",
+    "sutherlins_price": "$27,888",
+    "mileage": "26,230 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG3PR536366",
+    "stock": "MP165",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/49939f8a-da06-45df-85f3-918e8ea73128.jpg",
+    "price": "$49,450",
+    "sutherlins_price": "$27,888",
+    "mileage": "50,294 Miles"
   }
 ]
