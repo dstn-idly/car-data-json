@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Dodge Challenger GT",
-    "vin": "2C3CDZJGXNH263234",
-    "stock": "MP155",
-    "exterior": "Pitch Black Clearcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
-    "price": "$36,830",
-    "sutherlins_price": "$22,888",
-    "mileage": "58,320 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Atlas 2.0T SEL",
     "vin": "1V2BP2CA0NC512740",
     "stock": "MP142",
@@ -148,6 +133,21 @@
     "price": "$45,775",
     "sutherlins_price": "$22,888",
     "mileage": "83,565 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Dodge Challenger GT",
+    "vin": "2C3CDZJGXNH263234",
+    "stock": "MP155",
+    "exterior": "Pitch Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDZJGXNH263234&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d36a371-e644-4c05-9a92-696999f6d49e.jpg",
+    "price": "$36,830",
+    "sutherlins_price": "$22,888",
+    "mileage": "58,320 Miles"
   },
   {
     "category": "used",
