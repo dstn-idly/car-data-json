@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Renegade Limited",
-    "vin": "ZACNJDD1XMPM29950",
-    "stock": "MP194",
-    "exterior": "Bikini Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "1.3L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZACNJDD1XMPM29950&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "79,227 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Tesla Model Y",
     "vin": "7SAYGDED6RF055216",
     "stock": "MP197",
@@ -418,5 +403,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "19,060 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Renegade Limited",
+    "vin": "ZACNJDD1XMPM29950",
+    "stock": "MP194",
+    "exterior": "Bikini Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "1.3L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZACNJDD1XMPM29950&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "79,227 Miles"
   }
 ]

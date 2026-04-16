@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Volkswagen Atlas 2.0T SEL",
-    "vin": "1V2BP2CA0NC512740",
-    "stock": "MP142",
-    "exterior": "Platinum Gray Metallic",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2BP2CA0NC512740&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9c9c5457-d221-4d77-82ed-ede7b90d5047.jpg",
-    "price": "$45,775",
-    "sutherlins_price": "$22,888",
-    "mileage": "83,565 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Dodge Challenger GT",
     "vin": "2C3CDZJGXNH263234",
     "stock": "MP155",
@@ -148,6 +133,21 @@
     "price": "$36,830",
     "sutherlins_price": "$22,888",
     "mileage": "58,320 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Volkswagen Atlas 2.0T SEL",
+    "vin": "1V2BP2CA0NC512740",
+    "stock": "MP142",
+    "exterior": "Platinum Gray Metallic",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2BP2CA0NC512740&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9c9c5457-d221-4d77-82ed-ede7b90d5047.jpg",
+    "price": "$45,775",
+    "sutherlins_price": "$22,888",
+    "mileage": "83,565 Miles"
   },
   {
     "category": "used",
