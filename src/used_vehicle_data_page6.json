@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL533100",
+    "stock": "MP125",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
+    "price": "$24,980",
+    "sutherlins_price": "$18,888",
+    "mileage": "17,950 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Nissan Altima 2.0 Platinum",
     "vin": "1N4AL4FV3LN311540",
     "stock": "MP168",
@@ -9,7 +24,7 @@
     "engine": "2.0L I4 PDI Turbocharged DOHC 16V LEV3-ULEV70 236hp",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4FV3LN311540&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1N4AL4FV3LN311540&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e1984d58-d34e-48cf-9a7c-0013aeecc7fe.jpg",
     "price": "$36,775",
     "sutherlins_price": "$17,588",
     "mileage": "63,592 Miles"
@@ -91,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Honda Prologue EX",
-    "vin": "3GPKHVRJ1RS513921",
-    "stock": "MP152",
-    "exterior": "Pacific Blue Metallic",
-    "interior": "Black",
-    "engine": "Electric ZEV 288hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
-    "price": "$52,305",
-    "sutherlins_price": "$20,888",
-    "mileage": "22,961 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Jeep Compass Sport",
     "vin": "3C4NJDAN0RT115038",
     "stock": "MP154",
@@ -118,6 +118,21 @@
     "price": "$28,090",
     "sutherlins_price": "$20,888",
     "mileage": "464 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Honda Prologue EX",
+    "vin": "3GPKHVRJ1RS513921",
+    "stock": "MP152",
+    "exterior": "Pacific Blue Metallic",
+    "interior": "Black",
+    "engine": "Electric ZEV 288hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GPKHVRJ1RS513921&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1b162def-70ef-4ce9-a63b-150ead9037ee.jpg",
+    "price": "$52,305",
+    "sutherlins_price": "$20,888",
+    "mileage": "22,961 Miles"
   },
   {
     "category": "used",
@@ -139,7 +154,7 @@
     "name": "2017 RAM 1500 Big Horn",
     "vin": "1C6RR7TM0HS586548",
     "stock": "MP161",
-    "exterior": "Luxury Brown Pearlcoat",
+    "exterior": "Brown",
     "interior": "Lt Frost Beige/Brown",
     "engine": "EcoDiesel 3.0L V6",
     "transmission": "Automatic",
@@ -463,20 +478,5 @@
     "price": "$48,999",
     "sutherlins_price": "$25,888",
     "mileage": "22,521 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mitsubishi Eclipse Cross SEL",
-    "vin": "JA4ATWAA7SZ005954",
-    "stock": "M2570",
-    "exterior": "Mercury Gray Metallic",
-    "interior": "Lt Gry Lth Appointed",
-    "engine": "1.5L I4 DI Turbocharged DOHC 16V LEV3-ULEV70 152hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4ATWAA7SZ005954&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ca6b0e42-219b-46a0-9874-b3ff7acc7883.jpg",
-    "price": "$33,100",
-    "sutherlins_price": "$25,888",
-    "mileage": "2,972 Miles"
   }
 ]

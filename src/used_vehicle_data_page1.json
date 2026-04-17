@@ -151,6 +151,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA9NC711415",
+    "stock": "P13702A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9NC711415&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "price": "$12,905",
+    "sutherlins_price": "$12,905",
+    "mileage": "105,975 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Toyota Corolla LE",
     "vin": "2T1BURHE7KC183472",
     "stock": "P13682",
@@ -178,36 +193,6 @@
     "price": "$16,450",
     "sutherlins_price": "$13,687",
     "mileage": "50,466 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CP1HW004090",
-    "stock": "P13694",
-    "exterior": "Magnetic Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP1HW004090&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40129db8d04e4e39adde811ef2bcdf34.jpg",
-    "price": "$18,785",
-    "sutherlins_price": "$13,866",
-    "mileage": "67,821 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Toyota Corolla LE",
-    "vin": "JTDEPRAEXLJ092135",
-    "stock": "P13589",
-    "exterior": "Barcelona Red Metallic",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 1.8 L/110",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDEPRAEXLJ092135&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/62e76bbce0fb4eef87031a9cda80c703.jpg",
-    "price": "$16,700",
-    "sutherlins_price": "$14,933",
-    "mileage": "58,996 Miles"
   },
   {
     "category": "used",
@@ -316,6 +301,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Honda CR-V EX",
+    "vin": "7FARW1H52JE010340",
+    "stock": "26445B",
+    "exterior": "Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7FARW1H52JE010340&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4cc09d6c57d044a398c185e9b11813aa.jpg",
+    "price": "$17,600",
+    "sutherlins_price": "$15,995",
+    "mileage": "99,385 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Hyundai Santa Fe SEL",
     "vin": "5NMS33AD6LH256442",
     "stock": "P13717",
@@ -328,21 +328,6 @@
     "price": "$18,892",
     "sutherlins_price": "$15,995",
     "mileage": "69,975 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Honda CR-V EX",
-    "vin": "7FARW1H52JE010340",
-    "stock": "26445B",
-    "exterior": "Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7FARW1H52JE010340&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/13bd989b79dd4f0fa3af8091c299a3fb.jpg",
-    "price": "$17,600",
-    "sutherlins_price": "$15,995",
-    "mileage": "99,385 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$18,250",
     "sutherlins_price": "$16,900",
     "mileage": "39,712 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Kicks S",
+    "vin": "3N1CP5BV8PL544728",
+    "stock": "26634A",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV8PL544728&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40727e09df414caab0169ce36b0875d6.jpg",
+    "price": "$19,400",
+    "sutherlins_price": "$16,945",
+    "mileage": "20,005 Miles"
   }
 ]
