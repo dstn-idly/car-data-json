@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Tesla Model 3 Base",
+    "vin": "5YJ3E1EA7PF542701",
+    "stock": "MP198",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA7PF542701&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA7PF542701&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "22,784 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Chevrolet Bolt EV 1LT",
     "vin": "1G1FW6S00N4110502",
     "stock": "MP199",
@@ -58,20 +73,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "19,060 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Tesla Model 3 Base",
-    "vin": "5YJ3E1EA7PF542701",
-    "stock": "MP198",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA7PF542701&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA7PF542701&vehicletype=Sedan",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "22,784 Miles"
   }
 ]
