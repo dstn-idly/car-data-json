@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Mitsubishi Eclipse Cross SEL",
-    "vin": "JA4ATWAA7SZ005954",
-    "stock": "M2570",
-    "exterior": "Mercury Gray Metallic",
-    "interior": "Lt Gry Lth Appointed",
-    "engine": "1.5L I4 DI Turbocharged DOHC 16V LEV3-ULEV70 152hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4ATWAA7SZ005954&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ca6b0e42-219b-46a0-9874-b3ff7acc7883.jpg",
-    "price": "$33,100",
-    "sutherlins_price": "$25,888",
-    "mileage": "2,972 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Jeep Gladiator Sport",
     "vin": "1C6HJTAG0NL161300",
     "stock": "MP115",
@@ -139,7 +124,7 @@
     "name": "2025 Chrysler Pacifica Limited",
     "vin": "2C4RC1GG2SR515811",
     "stock": "MP139",
-    "exterior": "Diamond Black Crystal Pearlcoat",
+    "exterior": "Diamond Black",
     "interior": "Black",
     "engine": "3.6L V6 24V VVT",
     "transmission": "Automatic",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "21,630 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Acura RDX Technology Package",
+    "vin": "5J8TC2H58RL026763",
+    "stock": "MP191",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.0L 16V DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J8TC2H58RL026763&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5J8TC2H58RL026763&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "11,153 Miles"
   }
 ]
