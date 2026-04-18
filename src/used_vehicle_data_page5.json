@@ -296,7 +296,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3HW405200&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5afdb7b9-baaf-4a15-a284-22827151254f.jpg",
     "price": "$31,875",
-    "sutherlins_price": "$12,888",
+    "sutherlins_price": "$11,888",
     "mileage": "69,727 Miles"
   },
   {
@@ -371,8 +371,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDEXRP126153&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6e3ee88c-d6c5-490b-838d-27f651678f94.jpg",
     "price": "$23,145",
-    "sutherlins_price": "$15,888",
+    "sutherlins_price": "$14,888",
     "mileage": "56,528 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Kicks SR",
+    "vin": "3N1CP5DV8ML478366",
+    "stock": "MP121",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV8ML478366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e646590-db1b-4385-9b27-ad0ff6097852.jpg",
+    "price": "$27,020",
+    "sutherlins_price": "$15,888",
+    "mileage": "50,031 Miles"
   },
   {
     "category": "used",
@@ -406,6 +421,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Nissan Kicks SV",
+    "vin": "3N1CP5CV8PL533100",
+    "stock": "MP125",
+    "exterior": "Aspen White",
+    "interior": "Charcoal",
+    "engine": "1.6L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV8PL533100&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cc7df0f2-ee14-4d56-8b47-3412cd091082.jpg",
+    "price": "$24,980",
+    "sutherlins_price": "$16,888",
+    "mileage": "17,950 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 Black Edition",
     "vin": "ML32FUFJ6RHF09240",
     "stock": "M2682A",
@@ -418,21 +448,6 @@
     "price": "$18,940",
     "sutherlins_price": "$16,888",
     "mileage": "2,136 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Kicks SR",
-    "vin": "3N1CP5DV8ML478366",
-    "stock": "MP121",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV8ML478366&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e646590-db1b-4385-9b27-ad0ff6097852.jpg",
-    "price": "$27,020",
-    "sutherlins_price": "$17,388",
-    "mileage": "50,031 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$29,340",
     "sutherlins_price": "$17,888",
     "mileage": "61,591 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Toyota Camry LE",
-    "vin": "4T1C11AK0LU360961",
-    "stock": "M2549A",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Ash",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK0LU360961&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T1C11AK0LU360961&vehicletype=Sedan",
-    "price": "$25,925",
-    "sutherlins_price": "$17,888",
-    "mileage": "70,217 Miles"
   }
 ]
