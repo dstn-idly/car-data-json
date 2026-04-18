@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2009 Toyota Corolla",
+    "vin": "1NXBU40E99Z036089",
+    "stock": "P13589A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Gas I4 1.8L/110",
+    "transmission": "",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1NXBU40E99Z036089&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2009TOY005a_640/2009TOY005a_640_01.jpg",
+    "price": "$2,988",
+    "sutherlins_price": "$2,988",
+    "mileage": "239,498 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Jeep Renegade Latitude",
     "vin": "ZACCJABH4FPC06637",
     "stock": "26115B",
@@ -463,20 +478,5 @@
     "price": "$18,250",
     "sutherlins_price": "$16,900",
     "mileage": "39,712 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks S",
-    "vin": "3N1CP5BV8PL544728",
-    "stock": "26634A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV8PL544728&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40727e09df414caab0169ce36b0875d6.jpg",
-    "price": "$19,400",
-    "sutherlins_price": "$16,945",
-    "mileage": "20,005 Miles"
   }
 ]
