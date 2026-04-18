@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Mitsubishi Outlander SEL",
-    "vin": "JA4J4VA8XNZ061640",
-    "stock": "M2564A",
-    "exterior": "White Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4VA8XNZ061640&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J4VA8XNZ061640&vehicletype=SUV",
-    "price": "$37,790",
-    "sutherlins_price": "$24,688",
-    "mileage": "39,839 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Jeep Gladiator Sport",
     "vin": "1C6HJTAG0NL161300",
     "stock": "MP115",
@@ -478,5 +463,20 @@
     "price": "$48,950",
     "sutherlins_price": "$38,888",
     "mileage": "11,153 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Genesis GV80 2.5T",
+    "vin": "KMUHFESB6SU240126",
+    "stock": "MP171",
+    "exterior": "Gray",
+    "interior": "Obsidian Black",
+    "engine": "2.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHFESB6SU240126&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMUHFESB6SU240126&vehicletype=SUV",
+    "price": "$59,700",
+    "sutherlins_price": "$40,888",
+    "mileage": "39,562 Miles"
   }
 ]

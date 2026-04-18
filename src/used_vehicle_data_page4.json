@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Rogue Platinum",
-    "vin": "JN8BT3DC9SW380367",
-    "stock": "26256A",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Chestnut",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC9SW380367&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/69f9e9d668434b278c0d221c69a56da3.jpg",
-    "price": "$34,450",
-    "sutherlins_price": "$29,988",
-    "mileage": "16,359 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA6RC220829",
     "stock": "P13734",
@@ -478,5 +463,20 @@
     "price": "$38,875",
     "sutherlins_price": "$37,995",
     "mileage": "82,995 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder Platinum",
+    "vin": "5N1DR3DH4RC245318",
+    "stock": "26510A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Chestnut",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DH4RC245318&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b8ab567537564dc5a5969faba9b574dd.jpg",
+    "price": "$41,050",
+    "sutherlins_price": "$39,991",
+    "mileage": "22,056 Miles"
   }
 ]
