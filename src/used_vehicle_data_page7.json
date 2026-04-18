@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG3PR536366",
-    "stock": "MP165",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/49939f8a-da06-45df-85f3-918e8ea73128.jpg",
-    "price": "$49,450",
-    "sutherlins_price": "$27,888",
-    "mileage": "50,294 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Blazer LT",
     "vin": "3GNKBCR4XRS127880",
     "stock": "MP175",
@@ -148,6 +133,21 @@
     "price": "$39,610",
     "sutherlins_price": "$27,888",
     "mileage": "26,230 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG3PR536366",
+    "stock": "MP165",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/49939f8a-da06-45df-85f3-918e8ea73128.jpg",
+    "price": "$49,450",
+    "sutherlins_price": "$27,888",
+    "mileage": "50,294 Miles"
   },
   {
     "category": "used",
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE1NF367804&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/322e7590-f805-42d6-90cc-e6e680013c30.jpg",
     "price": "$67,190",
-    "sutherlins_price": "$30,998",
+    "sutherlins_price": "$29,988",
     "mileage": "22,132 Miles"
   },
   {
@@ -436,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Genesis G70 3.3T",
-    "vin": "KMTG54TE3PU117543",
-    "stock": "MP193",
-    "exterior": "Makalu Gray",
-    "interior": "Obsidian Black/Sevilla Red",
-    "engine": "3.3L V6 DGI DOHC 24V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG54TE3PU117543&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMTG54TE3PU117543&vehicletype=Sedan",
-    "price": "$55,330",
-    "sutherlins_price": "$38,888",
-    "mileage": "21,630 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Ford Expedition Max Limited",
     "vin": "1FMJK1K85REA65820",
     "stock": "MP030",
@@ -463,6 +448,21 @@
     "price": "$71,410",
     "sutherlins_price": "$38,888",
     "mileage": "57,088 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Genesis G70 3.3T",
+    "vin": "KMTG54TE3PU117543",
+    "stock": "MP193",
+    "exterior": "Makalu Gray",
+    "interior": "Obsidian Black/Sevilla Red",
+    "engine": "3.3L V6 DGI DOHC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG54TE3PU117543&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMTG54TE3PU117543&vehicletype=Sedan",
+    "price": "$55,330",
+    "sutherlins_price": "$38,888",
+    "mileage": "21,630 Miles"
   },
   {
     "category": "used",
