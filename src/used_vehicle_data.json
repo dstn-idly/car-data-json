@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9NC711415&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
     "price": "$14,988",
-    "sutherlins_price": "$12,905",
+    "sutherlins_price": "$14,988",
     "mileage": "105,975 Miles"
   },
   {
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Santa Fe SEL",
-    "vin": "5NMS33AD6LH256442",
-    "stock": "P13717",
-    "exterior": "Rainforest",
-    "interior": "Black/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda0ff71c9bc46c48b212b1e91d9fca2.jpg",
-    "price": "$18,892",
-    "sutherlins_price": "$15,995",
-    "mileage": "69,975 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Honda CR-V EX",
     "vin": "7FARW1H52JE010340",
     "stock": "26445B",
@@ -328,6 +313,21 @@
     "price": "$17,600",
     "sutherlins_price": "$15,995",
     "mileage": "99,385 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Santa Fe SEL",
+    "vin": "5NMS33AD6LH256442",
+    "stock": "P13717",
+    "exterior": "Rainforest",
+    "interior": "Black/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda0ff71c9bc46c48b212b1e91d9fca2.jpg",
+    "price": "$18,892",
+    "sutherlins_price": "$15,995",
+    "mileage": "69,975 Miles"
   },
   {
     "category": "used",
@@ -676,6 +676,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Nissan NV Cargo SV",
+    "vin": "1N6BF0KM3HN807695",
+    "stock": "P13727",
+    "exterior": "Glacier White",
+    "interior": "Gray",
+    "engine": "Regular Unleaded V-6 4.0 L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6BF0KM3HN807695&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/82f4d094611243fd8c6b9e6ce6332fdf.jpg",
+    "price": "$19,125",
+    "sutherlins_price": "$17,995",
+    "mileage": "101,058 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Kicks SV",
     "vin": "3N1CP5CV7PL522444",
     "stock": "26587A",
@@ -703,21 +718,6 @@
     "price": "$19,250",
     "sutherlins_price": "$17,995",
     "mileage": "68,172 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan NV Cargo SV",
-    "vin": "1N6BF0KM3HN807695",
-    "stock": "P13727",
-    "exterior": "Glacier White",
-    "interior": "Gray",
-    "engine": "Regular Unleaded V-6 4.0 L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6BF0KM3HN807695&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/82f4d094611243fd8c6b9e6ce6332fdf.jpg",
-    "price": "$19,125",
-    "sutherlins_price": "$17,995",
-    "mileage": "101,058 Miles"
   },
   {
     "category": "used",
@@ -796,21 +796,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Latitude",
-    "vin": "3C4NJDBN9RT119586",
-    "stock": "KP1095",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN9RT119586&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c9854276538471cb24511782fbe982c.jpg",
-    "price": "$23,650",
-    "sutherlins_price": "$18,988",
-    "mileage": "50,837 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chrysler Pacifica Touring L",
     "vin": "2C4RC1BG6PR515874",
     "stock": "P13594",
@@ -823,6 +808,21 @@
     "price": "$24,375",
     "sutherlins_price": "$18,988",
     "mileage": "79,819 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Jeep Compass Latitude",
+    "vin": "3C4NJDBN9RT119586",
+    "stock": "KP1095",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN9RT119586&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c9854276538471cb24511782fbe982c.jpg",
+    "price": "$23,650",
+    "sutherlins_price": "$18,988",
+    "mileage": "50,837 Miles"
   },
   {
     "category": "used",
@@ -901,21 +901,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SEL",
-    "vin": "5NMS2DAJ9PH502551",
-    "stock": "P13590",
-    "exterior": "Stormy Sea",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH502551&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/09cb8954f6ba414695f221f416bd2dfb.jpg",
-    "price": "$23,675",
-    "sutherlins_price": "$19,988",
-    "mileage": "57,246 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV7SL477600",
     "stock": "P13698",
@@ -928,6 +913,21 @@
     "price": "$23,760",
     "sutherlins_price": "$19,988",
     "mileage": "3,310 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SEL",
+    "vin": "5NMS2DAJ9PH502551",
+    "stock": "P13590",
+    "exterior": "Stormy Sea",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS2DAJ9PH502551&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/09cb8954f6ba414695f221f416bd2dfb.jpg",
+    "price": "$23,675",
+    "sutherlins_price": "$19,988",
+    "mileage": "57,246 Miles"
   },
   {
     "category": "used",
@@ -958,6 +958,21 @@
     "price": "$19,995",
     "sutherlins_price": "$19,995",
     "mileage": "18,817 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV8RY201199",
+    "stock": "P13735",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
+    "price": "$19,995",
+    "sutherlins_price": "$19,995",
+    "mileage": "40,372 Miles"
   },
   {
     "category": "used",
@@ -1261,6 +1276,21 @@
   },
   {
     "category": "used",
+    "name": "2026 Nissan Kicks SV",
+    "vin": "3N8AP6CE5TL307993",
+    "stock": "P13707",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/614e610689ec4aaab3020c8eade39401.jpg",
+    "price": "$26,195",
+    "sutherlins_price": "$23,995",
+    "mileage": "1,145 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BB5PC930951",
     "stock": "P13742",
@@ -1288,21 +1318,6 @@
     "price": "$25,800",
     "sutherlins_price": "$23,995",
     "mileage": "33,437 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2026 Nissan Kicks SV",
-    "vin": "3N8AP6CE5TL307993",
-    "stock": "P13707",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/614e610689ec4aaab3020c8eade39401.jpg",
-    "price": "$26,195",
-    "sutherlins_price": "$23,995",
-    "mileage": "1,145 Miles"
   },
   {
     "category": "used",
@@ -1423,6 +1438,21 @@
     "price": "$27,489",
     "sutherlins_price": "$25,995",
     "mileage": "57,352 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR40PS223708",
+    "stock": "KP1101",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black/Medium Ash Gray",
+    "engine": "Turbocharged Gas I4 2.0L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR40PS223708&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHS09_640/2023CHS092014666_640_01.jpg",
+    "price": "$25,995",
+    "sutherlins_price": "$25,995",
+    "mileage": "25,995 Miles"
   },
   {
     "category": "used",
@@ -2401,21 +2431,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Sport",
-    "vin": "3C4NJDAN0RT115038",
-    "stock": "MP154",
-    "exterior": "Hydro Blue Pearlcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/85612ffe-5617-477f-8158-8698d139a6b5.jpg",
-    "price": "$28,090",
-    "sutherlins_price": "$20,888",
-    "mileage": "464 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Honda Prologue EX",
     "vin": "3GPKHVRJ1RS513921",
     "stock": "MP152",
@@ -2428,6 +2443,21 @@
     "price": "$52,305",
     "sutherlins_price": "$20,888",
     "mileage": "22,961 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Jeep Compass Sport",
+    "vin": "3C4NJDAN0RT115038",
+    "stock": "MP154",
+    "exterior": "Hydro Blue Pearlcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/85612ffe-5617-477f-8158-8698d139a6b5.jpg",
+    "price": "$28,090",
+    "sutherlins_price": "$20,888",
+    "mileage": "464 Miles"
   },
   {
     "category": "used",
@@ -2641,21 +2671,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Camry LE",
-    "vin": "4T1C11AK5RU189567",
-    "stock": "MP181",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Ash",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK5RU189567&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T1C11AK5RU189567&vehicletype=Sedan",
-    "price": "$29,045",
-    "sutherlins_price": "$23,888",
-    "mileage": "21,925 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Ford Bronco Sport Big Bend",
     "vin": "3FMCR9B66NRD95510",
     "stock": "MP110A",
@@ -2668,6 +2683,21 @@
     "price": "$34,300",
     "sutherlins_price": "$23,888",
     "mileage": "37,717 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Camry LE",
+    "vin": "4T1C11AK5RU189567",
+    "stock": "MP181",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Ash",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK5RU189567&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T1C11AK5RU189567&vehicletype=Sedan",
+    "price": "$29,045",
+    "sutherlins_price": "$23,888",
+    "mileage": "21,925 Miles"
   },
   {
     "category": "used",
@@ -2833,6 +2863,21 @@
     "price": "$67,190",
     "sutherlins_price": "$27,888",
     "mileage": "22,132 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Blazer LT",
+    "vin": "3GNKBCR4XRS127880",
+    "stock": "MP175",
+    "exterior": "Summit White",
+    "interior": "Gray",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7d55fc4b-9697-4bc9-a451-fdf621c82b51.jpg",
+    "price": "$39,610",
+    "sutherlins_price": "$27,888",
+    "mileage": "26,230 Miles"
   },
   {
     "category": "used",
