@@ -64,7 +64,7 @@
     "name": "2025 Hyundai Elantra SEL Convenience",
     "vin": "KMHLS4DG6SU853564",
     "stock": "M2655A",
-    "exterior": "Ultimate Red",
+    "exterior": "Red",
     "interior": "Gray",
     "engine": "I4",
     "transmission": "CVT",
@@ -84,7 +84,7 @@
     "engine": "2.0L TSI DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3e781c15-8d9d-4e29-8025-10896d82e50d.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3c47e150-6538-42ab-aff7-b2eb63ad9475.jpg",
     "price": "$30,915",
     "sutherlins_price": "$21,488",
     "mileage": "48,699 Miles"
@@ -159,7 +159,7 @@
     "engine": "3.6L V6 24V VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1CG3PR564125&vehicletype=Van",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fd7d92bc-fb29-477c-93e6-7953c9add7f3.jpg",
     "price": "$37,090",
     "sutherlins_price": "$21,888",
     "mileage": "70,274 Miles"
@@ -226,6 +226,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Toyota Camry LE",
+    "vin": "4T1C11AK5RU189567",
+    "stock": "MP181",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Ash",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK5RU189567&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f47aaca6-24d6-40c0-983b-00004fa8db96.jpg",
+    "price": "$29,045",
+    "sutherlins_price": "$23,888",
+    "mileage": "21,925 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Ford Bronco Sport Big Bend",
     "vin": "3FMCR9B66NRD95510",
     "stock": "MP110A",
@@ -238,21 +253,6 @@
     "price": "$34,300",
     "sutherlins_price": "$23,888",
     "mileage": "37,717 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Camry LE",
-    "vin": "4T1C11AK5RU189567",
-    "stock": "MP181",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Ash",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK5RU189567&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2011ee98-36f5-4492-85c6-e20aa7e220e1.jpg",
-    "price": "$29,045",
-    "sutherlins_price": "$23,888",
-    "mileage": "21,925 Miles"
   },
   {
     "category": "used",
@@ -421,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chevrolet Blazer LT",
-    "vin": "3GNKBCR4XRS127880",
-    "stock": "MP175",
-    "exterior": "Summit White",
-    "interior": "Gray",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7d55fc4b-9697-4bc9-a451-fdf621c82b51.jpg",
-    "price": "$39,610",
-    "sutherlins_price": "$27,888",
-    "mileage": "26,230 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chrysler Pacifica Limited",
     "vin": "2C4RC1GG3PR536366",
     "stock": "MP165",
@@ -448,6 +433,21 @@
     "price": "$49,450",
     "sutherlins_price": "$27,888",
     "mileage": "50,294 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Blazer LT",
+    "vin": "3GNKBCR4XRS127880",
+    "stock": "MP175",
+    "exterior": "Summit White",
+    "interior": "Gray",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7d55fc4b-9697-4bc9-a451-fdf621c82b51.jpg",
+    "price": "$39,610",
+    "sutherlins_price": "$27,888",
+    "mileage": "26,230 Miles"
   },
   {
     "category": "used",
