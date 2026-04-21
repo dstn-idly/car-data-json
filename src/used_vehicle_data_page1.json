@@ -136,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Kicks SR",
-    "vin": "3N1CP5DV4LL561758",
-    "stock": "250058A",
-    "exterior": "Aspen White Tricoat Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV4LL561758&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ee842fcda474d04b367ac325e4af686.jpg",
-    "price": "$15,000",
-    "sutherlins_price": "$12,865",
-    "mileage": "76,152 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Kia Rio 5-Door S",
     "vin": "3KPA25AD2NE450325",
     "stock": "P13632",
@@ -163,21 +148,6 @@
     "price": "$14,625",
     "sutherlins_price": "$12,898",
     "mileage": "31,588 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Kia Sorento LX",
-    "vin": "5XYPGDA35KG567022",
-    "stock": "T26743A",
-    "exterior": "Ebony Black",
-    "interior": "Satin Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPGDA35KG567022&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019KIS02_640/2019KIS020002_640_01.jpg",
-    "price": "$13,325",
-    "sutherlins_price": "$12,988",
-    "mileage": "67,318 Miles"
   },
   {
     "category": "used",
@@ -238,21 +208,6 @@
     "price": "$17,125",
     "sutherlins_price": "$14,988",
     "mileage": "105,975 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Kicks S",
-    "vin": "3N1CP5BV1ML515132",
-    "stock": "26702A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV1ML515132&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS26_640/2021NIS260001_640_01.jpg",
-    "price": "$16,800",
-    "sutherlins_price": "$14,988",
-    "mileage": "33,118 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$18,275",
     "sutherlins_price": "$16,898",
     "mileage": "87,305 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue Sport SV",
+    "vin": "JN1BJ1BV4NW580252",
+    "stock": "P13602",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV4NW580252&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a2c221fbfbfb4f45acc41541ed372d0b.jpg",
+    "price": "$21,289",
+    "sutherlins_price": "$16,898",
+    "mileage": "63,858 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Sentra SV",
+    "vin": "3N1AB8CV5LY306709",
+    "stock": "P13719",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV5LY306709&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8f37402fb5494093946cd417984fe1fc.jpg",
+    "price": "$18,250",
+    "sutherlins_price": "$16,900",
+    "mileage": "39,712 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV5RL516628",
+    "stock": "P13586",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
+    "price": "$19,900",
+    "sutherlins_price": "$16,988",
+    "mileage": "29,602 Miles"
   }
 ]

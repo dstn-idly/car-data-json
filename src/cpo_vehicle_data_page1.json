@@ -1,21 +1,6 @@
 [
   {
     "category": "cpo",
-    "name": "2020 Nissan Kicks SR",
-    "vin": "3N1CP5DV4LL561758",
-    "stock": "250058A",
-    "exterior": "Aspen White Tricoat Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV4LL561758&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0ee842fcda474d04b367ac325e4af686.jpg",
-    "price": "$15,000",
-    "sutherlins_price": "$12,865",
-    "mileage": "76,152 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2021 Nissan Sentra SV",
     "vin": "3N1AB8CV2MY285478",
     "stock": "P13676",
@@ -106,21 +91,6 @@
   },
   {
     "category": "cpo",
-    "name": "2023 Nissan Kicks S",
-    "vin": "3N1CP5BV8PL544728",
-    "stock": "26634A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV8PL544728&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40727e09df414caab0169ce36b0875d6.jpg",
-    "price": "$19,400",
-    "sutherlins_price": "$16,945",
-    "mileage": "20,005 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV5RL516628",
     "stock": "P13586",
@@ -159,7 +129,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV3NL501233&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS26_640/2022NIS260138_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7e20717ab9c84411ac2ed49280cce8cc.jpg",
     "price": "$18,550",
     "sutherlins_price": "$16,995",
     "mileage": "25,953 Miles"
@@ -324,7 +294,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bed36d8b72d84914bfb1e41547ce18c7.jpg",
     "price": "$24,350",
     "sutherlins_price": "$22,995",
     "mileage": "67,057 Miles"
@@ -339,7 +309,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB7PC834089&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110156_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9e905415630b42a5aacd429abc720f81.jpg",
     "price": "$23,975",
     "sutherlins_price": "$22,995",
     "mileage": "59,734 Miles"
@@ -354,7 +324,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA3SC789538&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS11_640/2025NIS111982986_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/99be77e633e543dd87e4556110b1b0a3.jpg",
     "price": "$26,025",
     "sutherlins_price": "$24,995",
     "mileage": "20,676 Miles"
@@ -478,5 +448,35 @@
     "price": "$38,625",
     "sutherlins_price": "$28,898",
     "mileage": "71,602 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2026 Nissan Rogue SV",
+    "vin": "5N1BT3BA9TC720371",
+    "stock": "T26568A",
+    "exterior": "Everest White Pearl Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9TC720371&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS11_640/2026NIS111982986_640_01.jpg",
+    "price": "$32,950",
+    "sutherlins_price": "$28,940",
+    "mileage": "1,620 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2020 Nissan Titan XD SL",
+    "vin": "1N6AA1FB1LN504335",
+    "stock": "P13701",
+    "exterior": "Pearl White",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1FB1LN504335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f6330b0a99c64ce29fe6fec9fc49af42.jpg",
+    "price": "$32,250",
+    "sutherlins_price": "$29,433",
+    "mileage": "88,216 Miles"
   }
 ]
