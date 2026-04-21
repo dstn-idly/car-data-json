@@ -76,6 +76,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Mitsubishi Outlander SEL",
+    "vin": "JA4AD3A30LZ034646",
+    "stock": "M2661A",
+    "exterior": "Alloy Silver Metallic",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4AD3A30LZ034646&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4AD3A30LZ034646&vehicletype=SUV",
+    "price": "$29,025",
+    "sutherlins_price": "$11,888",
+    "mileage": "82,139 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Hyundai Tucson SE Plus",
     "vin": "KM8J33A41HU529665",
     "stock": "MP162A",
@@ -133,6 +148,21 @@
     "price": "$32,530",
     "sutherlins_price": "$13,888",
     "mileage": "74,877 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota Camry SE",
+    "vin": "4T1G11AK5LU353392",
+    "stock": "M2684A",
+    "exterior": "Predawn Gray Mica",
+    "interior": "Black",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1G11AK5LU353392&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T1G11AK5LU353392&vehicletype=Sedan",
+    "price": "$26,170",
+    "sutherlins_price": "$13,888",
+    "mileage": "114,765 Miles"
   },
   {
     "category": "used",
@@ -361,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXTY3C05L9C93365&vehicletype=SUV",
-    "price": "$46,345",
-    "sutherlins_price": "$19,888",
-    "mileage": "77,686 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q5 45 Premium Plus",
     "vin": "WA1BNAFY3L2059317",
     "stock": "MP186",
@@ -388,6 +403,21 @@
     "price": "$19,888",
     "sutherlins_price": "$19,888",
     "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5UXTY3C05L9C93365&vehicletype=SUV",
+    "price": "$46,345",
+    "sutherlins_price": "$19,888",
+    "mileage": "77,686 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$28,090",
     "sutherlins_price": "$20,888",
     "mileage": "464 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Prius LE",
-    "vin": "JTDACAAU9R3024523",
-    "stock": "MP153",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Black",
-    "engine": "2.0L 4-Cylinder DOHC 16V VVT",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDACAAU9R3024523&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2f7f0d25-eff9-4986-9ac3-744a7f62fae2.jpg",
-    "price": "$29,145",
-    "sutherlins_price": "$20,888",
-    "mileage": "66,147 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 RAM 1500 Big Horn",
-    "vin": "1C6RR7TM0HS586548",
-    "stock": "MP161",
-    "exterior": "Brown",
-    "interior": "Lt Frost Beige/Brown",
-    "engine": "EcoDiesel 3.0L V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2e8495b8-0261-49fc-a528-4bf1b48e7300.jpg",
-    "price": "$52,580",
-    "sutherlins_price": "$20,888",
-    "mileage": "92,455 Miles"
   }
 ]
