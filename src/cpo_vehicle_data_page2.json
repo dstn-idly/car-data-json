@@ -1,6 +1,51 @@
 [
   {
     "category": "cpo",
+    "name": "2024 Nissan Armada SL",
+    "vin": "JN8AY2BA4R9417598",
+    "stock": "P13557",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38245a369e0c4abfb3fe0cfae3ab9210.jpg",
+    "price": "$38,625",
+    "sutherlins_price": "$28,898",
+    "mileage": "71,602 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2026 Nissan Rogue SV",
+    "vin": "5N1BT3BA9TC720371",
+    "stock": "T26568A",
+    "exterior": "Everest White Pearl Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9TC720371&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS11_640/2026NIS111982986_640_01.jpg",
+    "price": "$32,950",
+    "sutherlins_price": "$28,940",
+    "mileage": "1,620 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2021 Nissan Armada SV",
+    "vin": "JN8AY2AC9M9146131",
+    "stock": "26079A",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC9M9146131&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS10_640/2021NIS100001_640_01.jpg",
+    "price": "$30,208",
+    "sutherlins_price": "$28,988",
+    "mileage": "42,124 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2020 Nissan Titan XD SL",
     "vin": "1N6AA1FB1LN504335",
     "stock": "P13701",
@@ -57,7 +102,22 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/533d4e78c49c41cdbf50567f5f0c05a4.jpg",
     "price": "$35,150",
     "sutherlins_price": "$30,490",
-    "mileage": "N/A"
+    "mileage": "4,900 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Pathfinder SL",
+    "vin": "5N1DR3CC9PC221454",
+    "stock": "P13732",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CC9PC221454&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS07_640/2023NIS070031_640_01.jpg",
+    "price": "$34,720",
+    "sutherlins_price": "$33,995",
+    "mileage": "45,918 Miles"
   },
   {
     "category": "cpo",
