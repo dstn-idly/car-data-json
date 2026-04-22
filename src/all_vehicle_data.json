@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Santa Fe SEL",
-    "vin": "5NMS33AD6LH256442",
-    "stock": "P13717",
-    "exterior": "Rainforest",
-    "interior": "Black/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda0ff71c9bc46c48b212b1e91d9fca2.jpg",
-    "price": "$18,892",
-    "sutherlins_price": "$15,995",
-    "mileage": "69,975 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Honda CR-V EX",
     "vin": "7FARW1H52JE010340",
     "stock": "26445B",
@@ -358,6 +343,21 @@
     "price": "$17,600",
     "sutherlins_price": "$15,995",
     "mileage": "99,385 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Santa Fe SEL",
+    "vin": "5NMS33AD6LH256442",
+    "stock": "P13717",
+    "exterior": "Rainforest",
+    "interior": "Black/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda0ff71c9bc46c48b212b1e91d9fca2.jpg",
+    "price": "$18,892",
+    "sutherlins_price": "$15,995",
+    "mileage": "69,975 Miles"
   },
   {
     "category": "used",
@@ -2081,7 +2081,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ4RH008680&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e5926e26-8ac2-4d1b-bff7-68a855b13bcc.jpg",
     "price": "$11,988",
-    "sutherlins_price": "$12,888",
+    "sutherlins_price": "$11,988",
     "mileage": "35,408 Miles"
   },
   {
@@ -2591,7 +2591,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMWWJ3C03M3M17098&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WMWWJ3C03M3M17098&vehicletype=Convertible",
     "price": "$30,500",
-    "sutherlins_price": "$22,888",
+    "sutherlins_price": "$23,888",
     "mileage": "5,831 Miles"
   },
   {
