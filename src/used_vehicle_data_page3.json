@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED0EAXLN713889&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIT12_640/2020NIT120051_640_01.jpg",
     "price": "$21,375",
-    "sutherlins_price": "$19,995",
+    "sutherlins_price": "$20,699",
     "mileage": "60,714 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV8RN319568&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/6811f8369402401ea9ba034ffcc6dd1f.jpg",
     "price": "$22,200",
-    "sutherlins_price": "$20,995",
+    "sutherlins_price": "$21,496",
     "mileage": "43,821 Miles"
   },
   {
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks SV",
-    "vin": "3N8AP6CE5TL307993",
-    "stock": "P13707",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/614e610689ec4aaab3020c8eade39401.jpg",
-    "price": "$26,195",
-    "sutherlins_price": "$23,995",
-    "mileage": "1,145 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Kia K4 LXS",
     "vin": "3KPFT4DE2SE020081",
     "stock": "P13679",
@@ -358,6 +343,21 @@
     "price": "$25,800",
     "sutherlins_price": "$23,995",
     "mileage": "33,437 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks SV",
+    "vin": "3N8AP6CE5TL307993",
+    "stock": "P13707",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/614e610689ec4aaab3020c8eade39401.jpg",
+    "price": "$26,195",
+    "sutherlins_price": "$23,995",
+    "mileage": "1,145 Miles"
   },
   {
     "category": "used",
