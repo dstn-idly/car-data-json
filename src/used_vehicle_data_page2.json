@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2020 Nissan Sentra SV",
+    "vin": "3N1AB8CV5LY306709",
+    "stock": "P13719",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV5LY306709&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8f37402fb5494093946cd417984fe1fc.jpg",
+    "price": "$18,250",
+    "sutherlins_price": "$16,900",
+    "mileage": "39,712 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV5RL516628",
     "stock": "P13586",
@@ -189,7 +204,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7PL522444&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a2aef2c972ef417c95e2be547007d160.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/eb193af413784654a270089abaea6366.jpg",
     "price": "$19,175",
     "sutherlins_price": "$17,995",
     "mileage": "50,979 Miles"
@@ -463,20 +478,5 @@
     "price": "$23,675",
     "sutherlins_price": "$19,988",
     "mileage": "57,246 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 GMC Terrain SLE",
-    "vin": "3GKALMEV5ML394101",
-    "stock": "P13715",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas 1.5L/92",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GKALMEV5ML394101&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d7078b1e824466b3ba62d41a8cdfd0.jpg",
-    "price": "$21,125",
-    "sutherlins_price": "$19,995",
-    "mileage": "62,315 Miles"
   }
 ]

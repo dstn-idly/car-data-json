@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Honda Accord Sedan LX",
-    "vin": "1HGCY1F26RA060541",
-    "stock": "MP182",
-    "exterior": "Solar Silver Metallic",
-    "interior": "Black",
-    "engine": "1.5T I4 DOHC 16V Turbocharged VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F26RA060541&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9293a5c3-3566-40eb-b9c7-64f3040df025.jpg",
-    "price": "$29,045",
-    "sutherlins_price": "$25,888",
-    "mileage": "46,279 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mitsubishi Outlander ES",
     "vin": "JA4J3UA82SZ024459",
     "stock": "M2638A",
@@ -444,7 +429,7 @@
     "engine": "2.0L I4 Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTHCA1D24P5124019&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/94c801ac-462a-4431-a6b7-6a8a6461d8ad.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e6f30a10-f3dd-4ca0-b761-5d8bdefba741.jpg",
     "price": "$44,265",
     "sutherlins_price": "$40,888",
     "mileage": "6,370 Miles"
@@ -478,5 +463,20 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Genesis G70 2.0T",
+    "vin": "KMTG34TAXPU129708",
+    "stock": "MP208",
+    "exterior": "Capri Blue",
+    "interior": "Obsidian Black/Sandstorm Gray",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMTG34TAXPU129708&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "31,197 Miles"
   }
 ]
