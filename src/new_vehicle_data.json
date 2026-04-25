@@ -1119,7 +1119,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA8TC800180&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8ebfb2c7f04a4c7e8e8198927b050566.jpg",
     "price": "$32,550",
     "sutherlins_price": "$27,008",
     "mileage": "6 Miles"
@@ -1164,7 +1164,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA8TC803614&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kh3.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2cc5ba76cd424a23b3327180b2dc3f03.jpg",
     "price": "$32,645",
     "sutherlins_price": "$27,103",
     "mileage": "6 Miles"
@@ -1914,7 +1914,7 @@
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BS3TC238821&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/pathfinder/2026-nissan-pathfinder-52316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/37c72ed320054269aaae222c058102e0.jpg",
     "price": "$42,125",
     "sutherlins_price": "$35,353",
     "mileage": "6 Miles"
@@ -2124,7 +2124,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DD9TW314413&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54816-exterior-qbe.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/47d8cfab39264889b622ede475f572e3.jpg",
     "price": "$42,555",
     "sutherlins_price": "$36,433",
     "mileage": "6 Miles"
@@ -2424,7 +2424,7 @@
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CS3TC236436&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/pathfinder/2026-nissan-pathfinder-52516-exterior-nbl.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d4f253661a6451cbf0133d5e3bd6d4a.jpg",
     "price": "$45,175",
     "sutherlins_price": "$38,180",
     "mileage": "6 Miles"
@@ -2577,6 +2577,21 @@
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54816-exterior-xkj.png.ximg.m_6_h.smart.png",
     "price": "$43,105",
     "sutherlins_price": "$39,605",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab SV",
+    "vin": "1N6ED1EJ5TN660783",
+    "stock": "TN660783",
+    "exterior": "Gun Metallic",
+    "interior": "Premium Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ5TN660783&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2016/frontier/2016-nissan-frontier-32316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$39,665",
+    "sutherlins_price": "$39,665",
     "mileage": "6 Miles"
   },
   {
@@ -2866,6 +2881,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Pathfinder SV",
+    "vin": "5N1DR3BS2TC253603",
+    "stock": "TC253603",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BS2TC253603&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/pathfinder/2026-nissan-pathfinder-52316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$42,560",
+    "sutherlins_price": "$42,560",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2026 Nissan Murano SL",
     "vin": "5N1AZ3CS0TC109310",
     "stock": "26324",
@@ -2994,7 +3024,7 @@
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DM1TC217688&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/pathfinder/2026-nissan-pathfinder-52716-exterior-kby.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5e8825a393d24eb48eb3c3f3b517c1e8.jpg",
     "price": "$52,840",
     "sutherlins_price": "$45,430",
     "mileage": "6 Miles"
@@ -3189,7 +3219,7 @@
     "engine": "Twin Turbo Premium Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY3BAXT9030146&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/armada/2026-nissan-armada-56316-exterior-kh3.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/570e1ae99c3d4ab2a2770679f3dc8f5a.jpg",
     "price": "$68,495",
     "sutherlins_price": "$61,972",
     "mileage": "6 Miles"

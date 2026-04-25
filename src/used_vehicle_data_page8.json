@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2020 Toyota RAV4 TRD Off Road",
+    "vin": "2T3J1RFV7LC093979",
+    "stock": "MP178",
+    "exterior": "Super White",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1d8537ee-7a97-4fbb-8dd1-a0d26ae5cbb9.jpg",
+    "price": "$35,200",
+    "sutherlins_price": "$29,888",
+    "mileage": "70,672 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2383c0dd-d6db-4b44-8718-bb2af64ccd9f.jpg",
+    "price": "$51,265",
+    "sutherlins_price": "$29,888",
+    "mileage": "62,231 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 BMW X1 xDrive28i",
     "vin": "WBX73EF06S5102647",
     "stock": "MP156",
@@ -13,6 +43,21 @@
     "price": "$45,500",
     "sutherlins_price": "$30,888",
     "mileage": "34,906 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 GMC Acadia AT4",
+    "vin": "1GKKNLLS1PZ253556",
+    "stock": "MP120",
+    "exterior": "Volcanic Red",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcca1a85-8271-43fe-ad3b-2a1a6388bcba.jpg",
+    "price": "$49,980",
+    "sutherlins_price": "$30,888",
+    "mileage": "32,033 Miles"
   },
   {
     "category": "used",
