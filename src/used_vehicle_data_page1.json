@@ -55,24 +55,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV6LL811085&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIC10_640/2020NIC100001_640_01.jpg",
-    "price": "$9,995",
+    "price": "$10,575",
     "sutherlins_price": "$9,995",
     "mileage": "72,499 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Versa SV",
-    "vin": "3N1CN8EV9ML851128",
-    "stock": "P13691",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV9ML851128&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1c98e32149714d5bbe6f9386119bddbf.jpg",
-    "price": "$12,775",
-    "sutherlins_price": "$10,739",
-    "mileage": "65,232 Miles"
   },
   {
     "category": "used",
@@ -264,7 +249,7 @@
     "engine": "Regular Unleaded V-6 3.6 L/220",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4RJEAG1JC391950&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018JES05_640/2018JES050125_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/80ed994a4f1c4614932fdfd6618b0a4d.jpg",
     "price": "$16,074",
     "sutherlins_price": "$14,995",
     "mileage": "82,622 Miles"
@@ -387,7 +372,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/38829c31678a4848b75eae0e22861630.jpg",
     "price": "$19,475",
     "sutherlins_price": "$15,905",
-    "mileage": "N/A"
+    "mileage": "42,771 Miles"
   },
   {
     "category": "used",
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Hyundai Santa Fe SEL",
-    "vin": "5NMS33AD6LH256442",
-    "stock": "P13717",
-    "exterior": "Rainforest",
-    "interior": "Black/Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda0ff71c9bc46c48b212b1e91d9fca2.jpg",
-    "price": "$18,892",
-    "sutherlins_price": "$15,995",
-    "mileage": "69,975 Miles"
-  },
-  {
-    "category": "used",
     "name": "2018 Honda CR-V EX",
     "vin": "7FARW1H52JE010340",
     "stock": "26445B",
@@ -433,6 +403,21 @@
     "price": "$17,600",
     "sutherlins_price": "$15,995",
     "mileage": "99,385 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Hyundai Santa Fe SEL",
+    "vin": "5NMS33AD6LH256442",
+    "stock": "P13717",
+    "exterior": "Rainforest",
+    "interior": "Black/Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS33AD6LH256442&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dda0ff71c9bc46c48b212b1e91d9fca2.jpg",
+    "price": "$18,892",
+    "sutherlins_price": "$15,995",
+    "mileage": "69,975 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$20,425",
     "sutherlins_price": "$15,995",
     "mileage": "50,625 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue S",
+    "vin": "5N1BT3AA9PC677447",
+    "stock": "P13692",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA9PC677447&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6d15b460c0d64291b3d0e279973b4fe2.jpg",
+    "price": "$19,900",
+    "sutherlins_price": "$16,498",
+    "mileage": "71,892 Miles"
   }
 ]
