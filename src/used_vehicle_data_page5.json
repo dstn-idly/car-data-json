@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1K85REA58382&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b5c5dea9130849b78419ba36863b29ca.jpg",
     "price": "$55,600",
-    "sutherlins_price": "$37,988",
+    "sutherlins_price": "$37,410",
     "mileage": "66,838 Miles"
   },
   {
@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2DA2R9415605&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/fb6ce62b5afe4179b9eea69bd2e4dc0b.jpg",
     "price": "$49,175",
-    "sutherlins_price": "$40,988",
+    "sutherlins_price": "$40,444",
     "mileage": "39,688 Miles"
   },
   {
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFW1ED2PFC96494&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023FOT11_640/2023FOT111832840_640_01.jpg",
     "price": "$52,325",
-    "sutherlins_price": "$44,898",
+    "sutherlins_price": "$43,943",
     "mileage": "47,826 Miles"
   },
   {
@@ -181,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV3SY411152",
-    "stock": "P13763",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY411152&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2026 Nissan Kicks S",
     "vin": "3N8AP6BE5TL346701",
     "stock": "P13767",
@@ -205,6 +190,21 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE5TL346701&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS26_640/2026NIS261993320_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV3SY411152",
+    "stock": "P13763",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY411152&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "N/A"
@@ -226,15 +226,15 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Kicks Play S",
-    "vin": "3N1CP5BV5SL477935",
-    "stock": "P13762",
-    "exterior": "Gun Metallic",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV3SY247532",
+    "stock": "P13761",
+    "exterior": "Super Black",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS28_640/2025NIS281918141_640_01.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "N/A"
@@ -256,15 +256,15 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV3SY247532",
-    "stock": "P13761",
-    "exterior": "Super Black",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV5SL477935",
+    "stock": "P13762",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS28_640/2025NIS281918141_640_01.jpg",
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "N/A"
