@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Jeep Gladiator Sport",
-    "vin": "1C6HJTAG0NL161300",
-    "stock": "MP115",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
-    "price": "$39,910",
-    "sutherlins_price": "$24,888",
-    "mileage": "24,326 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Tucson SEL",
     "vin": "5NMJB3AE9PH244122",
     "stock": "MP203",
@@ -148,6 +133,21 @@
     "price": "$30,690",
     "sutherlins_price": "$24,888",
     "mileage": "24,368 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Jeep Gladiator Sport",
+    "vin": "1C6HJTAG0NL161300",
+    "stock": "MP115",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6HJTAG0NL161300&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a3090e5-fce0-441c-9237-72597dda2475.jpg",
+    "price": "$39,910",
+    "sutherlins_price": "$24,888",
+    "mileage": "24,326 Miles"
   },
   {
     "category": "used",
