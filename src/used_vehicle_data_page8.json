@@ -9,7 +9,7 @@
     "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1d8537ee-7a97-4fbb-8dd1-a0d26ae5cbb9.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d800b9cb-923d-4be3-88e8-ca5d75e1ed69.jpg",
     "price": "$35,200",
     "sutherlins_price": "$29,888",
     "mileage": "70,672 Miles"
@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2025 BMW X1 xDrive28i",
-    "vin": "WBX73EF06S5102647",
-    "stock": "MP156",
-    "exterior": "Black Sapphire Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 16V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
-    "price": "$45,500",
-    "sutherlins_price": "$30,888",
-    "mileage": "34,906 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 GMC Acadia AT4",
     "vin": "1GKKNLLS1PZ253556",
     "stock": "MP120",
@@ -58,6 +43,21 @@
     "price": "$49,980",
     "sutherlins_price": "$30,888",
     "mileage": "32,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 BMW X1 xDrive28i",
+    "vin": "WBX73EF06S5102647",
+    "stock": "MP156",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 16V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
+    "price": "$45,500",
+    "sutherlins_price": "$30,888",
+    "mileage": "34,906 Miles"
   },
   {
     "category": "used",
@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2023 GMC Canyon Elevation",
-    "vin": "1GTP6BEK5P1210276",
-    "stock": "MP132",
-    "exterior": "Desert Sand Metallic",
-    "interior": "Jet Black",
-    "engine": "2.7L Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTP6BEK5P1210276&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c41d5a6e-0699-466a-a8d9-516a5cf3816d.jpg",
-    "price": "$44,815",
-    "sutherlins_price": "$33,888",
-    "mileage": "37,007 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Expedition Limited",
     "vin": "1FMJU1K84PEA06247",
     "stock": "MP001",
@@ -223,21 +208,6 @@
     "price": "$62,430",
     "sutherlins_price": "$35,888",
     "mileage": "39,725 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Ford F-150 XL",
-    "vin": "1FTEW1CP3PKD27445",
-    "stock": "MP167",
-    "exterior": "Avalanche",
-    "interior": "Black",
-    "engine": "2.7L V6 EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1CP3PKD27445&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/73e1de24-c429-4e92-a776-eb7e5a17d55b.jpg",
-    "price": "$46,700",
-    "sutherlins_price": "$35,888",
-    "mileage": "16,274 Miles"
   },
   {
     "category": "used",
@@ -373,5 +343,65 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Dodge Charger GT",
+    "vin": "2C3CDXHG3KH584554",
+    "stock": "MP132A",
+    "exterior": "Octane Red Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L 6-Cylinder SMPI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C3CDXHG3KH584554&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C3CDXHG3KH584554&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "125,715 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford Explorer XLT",
+    "vin": "1FMSK7DH5MGC15491",
+    "stock": "MP217",
+    "exterior": "Green Metallic",
+    "interior": "Sandstone",
+    "engine": "2.3L EcoBoost I-4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMSK7DH5MGC15491&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FMSK7DH5MGC15491&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "51,053 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Murano SV",
+    "vin": "5N1AZ2BJ0LN106365",
+    "stock": "MP167A",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "3.5L V6 DOHC 24V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ0LN106365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5N1AZ2BJ0LN106365&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "96,977 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Mitsubishi Outlander SE Black Edition",
+    "vin": "JA4J3UA84PZ033140",
+    "stock": "M2698A",
+    "exterior": "Alloy Silver Metallic",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA84PZ033140&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA84PZ033140&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "56,764 Miles"
   }
 ]
