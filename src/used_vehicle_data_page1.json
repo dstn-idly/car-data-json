@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Kicks SV",
-    "vin": "3N1CP5CV5RL516628",
-    "stock": "P13586",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV5RL516628&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/501adcc2332448a79f2da5d23fdb76c7.jpg",
-    "price": "$19,900",
-    "sutherlins_price": "$15,875",
-    "mileage": "29,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV3RY364648",
     "stock": "P13587",
@@ -391,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Honda CR-V EX",
-    "vin": "7FARW1H52JE010340",
-    "stock": "26445B",
-    "exterior": "Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7FARW1H52JE010340&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4cc09d6c57d044a398c185e9b11813aa.jpg",
-    "price": "$17,600",
-    "sutherlins_price": "$15,995",
-    "mileage": "99,385 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Hyundai Santa Fe SEL",
     "vin": "5NMS33AD6LH256442",
     "stock": "P13717",
@@ -418,6 +388,21 @@
     "price": "$18,892",
     "sutherlins_price": "$15,995",
     "mileage": "69,975 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Honda CR-V EX",
+    "vin": "7FARW1H52JE010340",
+    "stock": "26445B",
+    "exterior": "Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7FARW1H52JE010340&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/4cc09d6c57d044a398c185e9b11813aa.jpg",
+    "price": "$17,600",
+    "sutherlins_price": "$15,995",
+    "mileage": "99,385 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$19,900",
     "sutherlins_price": "$16,498",
     "mileage": "71,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Chevrolet Blazer LT",
+    "vin": "3GNKBBRA6MS559567",
+    "stock": "P13681",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Gas I4 2.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBBRA6MS559567&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3451a60e52e14318a5200ccfc3f1ba62.jpg",
+    "price": "$22,475",
+    "sutherlins_price": "$16,581",
+    "mileage": "65,822 Miles"
   }
 ]
