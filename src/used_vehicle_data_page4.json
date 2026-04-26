@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 RAM 1500 Classic Tradesman",
-    "vin": "1C6RR7FG0NS161963",
-    "stock": "P13729",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7FG0NS161963&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0832377a6d534277921cc78e8e0f9dca.jpg",
-    "price": "$27,200",
-    "sutherlins_price": "$22,995",
-    "mileage": "58,749 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Altima SR",
     "vin": "1N4BL4CV4SN380552",
     "stock": "P13757",
@@ -43,6 +28,21 @@
     "price": "$23,975",
     "sutherlins_price": "$22,995",
     "mileage": "59,734 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 RAM 1500 Classic Tradesman",
+    "vin": "1C6RR7FG0NS161963",
+    "stock": "P13729",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7FG0NS161963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0832377a6d534277921cc78e8e0f9dca.jpg",
+    "price": "$27,200",
+    "sutherlins_price": "$22,995",
+    "mileage": "58,749 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Armada SL",
-    "vin": "JN8AY2BA4R9417598",
-    "stock": "P13557",
-    "exterior": "Aspen White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38245a369e0c4abfb3fe0cfae3ab9210.jpg",
-    "price": "$38,625",
-    "sutherlins_price": "$28,498",
-    "mileage": "71,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 GMC Canyon 2WD Elevation",
     "vin": "1GTG5CEN9N1258640",
     "stock": "P13285",
@@ -478,5 +463,20 @@
     "price": "$34,350",
     "sutherlins_price": "$28,498",
     "mileage": "10,890 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Armada SL",
+    "vin": "JN8AY2BA4R9417598",
+    "stock": "P13557",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38245a369e0c4abfb3fe0cfae3ab9210.jpg",
+    "price": "$38,625",
+    "sutherlins_price": "$28,498",
+    "mileage": "71,602 Miles"
   }
 ]
