@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bd451d6-96b3-45b8-b4d9-5f3dc2897d11.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$19,888",
-    "mileage": "77,686 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q5 45 Premium Plus",
     "vin": "WA1BNAFY3L2059317",
     "stock": "MP186",
@@ -283,6 +268,21 @@
     "price": "$19,888",
     "sutherlins_price": "$19,888",
     "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bd451d6-96b3-45b8-b4d9-5f3dc2897d11.jpg",
+    "price": "$46,345",
+    "sutherlins_price": "$19,888",
+    "mileage": "77,686 Miles"
   },
   {
     "category": "used",

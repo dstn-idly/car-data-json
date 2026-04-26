@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra Hybrid Limited",
-    "vin": "KMHLN4AJ1PU054578",
-    "stock": "MP184",
-    "exterior": "Fluid Metal",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dccbdb46-bdbc-45b3-b48a-85fd53b571d4.jpg",
-    "price": "$30,500",
-    "sutherlins_price": "$22,888",
-    "mileage": "61,194 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford Escape ST-Line",
     "vin": "1FMCU9MN4PUB39512",
     "stock": "MP151",
@@ -73,6 +58,21 @@
     "price": "$34,250",
     "sutherlins_price": "$22,888",
     "mileage": "24,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dccbdb46-bdbc-45b3-b48a-85fd53b571d4.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$22,888",
+    "mileage": "61,194 Miles"
   },
   {
     "category": "used",
@@ -182,17 +182,17 @@
   {
     "category": "used",
     "name": "2023 Hyundai Tucson SEL",
-    "vin": "5NMJB3AE9PH244122",
-    "stock": "MP203",
-    "exterior": "Calypso Red",
-    "interior": "Black",
+    "vin": "5NMJB3AE0PH184862",
+    "stock": "MP210",
+    "exterior": "Phantom Black",
+    "interior": "Gray",
     "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE9PH244122&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMJB3AE9PH244122&vehicletype=SUV",
-    "price": "$30,690",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE0PH184862&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMJB3AE0PH184862&vehicletype=SUV",
+    "price": "$29,940",
     "sutherlins_price": "$24,888",
-    "mileage": "24,368 Miles"
+    "mileage": "25,361 Miles"
   },
   {
     "category": "used",
@@ -212,17 +212,17 @@
   {
     "category": "used",
     "name": "2023 Hyundai Tucson SEL",
-    "vin": "5NMJB3AE0PH184862",
-    "stock": "MP210",
-    "exterior": "Phantom Black",
-    "interior": "Gray",
+    "vin": "5NMJB3AE9PH244122",
+    "stock": "MP203",
+    "exterior": "Calypso Red",
+    "interior": "Black",
     "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE0PH184862&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMJB3AE0PH184862&vehicletype=SUV",
-    "price": "$29,940",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE9PH244122&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMJB3AE9PH244122&vehicletype=SUV",
+    "price": "$30,690",
     "sutherlins_price": "$24,888",
-    "mileage": "25,361 Miles"
+    "mileage": "24,368 Miles"
   },
   {
     "category": "used",
@@ -421,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Carnival LX Seat Package",
-    "vin": "KNDNB4H34P6194027",
-    "stock": "MP212",
-    "exterior": "Aurora Black",
-    "interior": "Gray",
-    "engine": "V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDNB4H34P6194027&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDNB4H34P6194027&vehicletype=",
-    "price": "$37,185",
-    "sutherlins_price": "$27,888",
-    "mileage": "67,427 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Jeep Grand Cherokee L Limited",
     "vin": "1C4RJKBG1N8531470",
     "stock": "MP170",
@@ -448,6 +433,21 @@
     "price": "$55,745",
     "sutherlins_price": "$27,888",
     "mileage": "69,911 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Carnival LX Seat Package",
+    "vin": "KNDNB4H34P6194027",
+    "stock": "MP212",
+    "exterior": "Aurora Black",
+    "interior": "Gray",
+    "engine": "V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDNB4H34P6194027&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDNB4H34P6194027&vehicletype=",
+    "price": "$37,185",
+    "sutherlins_price": "$27,888",
+    "mileage": "67,427 Miles"
   },
   {
     "category": "used",
