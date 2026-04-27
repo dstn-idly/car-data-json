@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Kicks SR",
-    "vin": "3N1CP5DV9PL529619",
-    "stock": "26423A",
-    "exterior": "Boulder Gray Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV9PL529619&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fcc60c0f489b445d806053a14df9d679.jpg",
-    "price": "$21,600",
-    "sutherlins_price": "$18,988",
-    "mileage": "31,516 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Kia Forte LX",
     "vin": "3KPF24AD6RE815577",
     "stock": "KP1103",
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2017 RAM 1500 Express",
-    "vin": "3C6RR6KT2HG542447",
-    "stock": "P13671B",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6RR6KT2HG542447&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017RMT110009_640/2017RMT110009_640_01.jpg",
-    "price": "$18,995",
-    "sutherlins_price": "$18,995",
-    "mileage": "96,082 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Versa SV",
     "vin": "3N1CN8EV1SL815821",
     "stock": "P13716",
@@ -433,6 +403,21 @@
     "price": "$21,398",
     "sutherlins_price": "$18,995",
     "mileage": "23,585 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 RAM 1500 Express",
+    "vin": "3C6RR6KT2HG542447",
+    "stock": "P13671B",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6RR6KT2HG542447&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017RMT110009_640/2017RMT110009_640_01.jpg",
+    "price": "$19,825",
+    "sutherlins_price": "$18,995",
+    "mileage": "96,082 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$22,600",
     "sutherlins_price": "$19,988",
     "mileage": "85,645 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 GMC Terrain SLE",
+    "vin": "3GKALMEV5ML394101",
+    "stock": "P13715",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GKALMEV5ML394101&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d7078b1e824466b3ba62d41a8cdfd0.jpg",
+    "price": "$21,125",
+    "sutherlins_price": "$19,995",
+    "mileage": "62,315 Miles"
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Subaru Crosstrek Limited",
-    "vin": "4S4GUHL65R3752897",
-    "stock": "MP202",
-    "exterior": "Alpine Green",
-    "interior": "Gray W/Orange Stitching",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4S4GUHL65R3752897&vehicletype=SUV",
-    "price": "$33,859",
-    "sutherlins_price": "$29,888",
-    "mileage": "16,234 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Toyota RAV4 TRD Off Road",
     "vin": "2T3J1RFV7LC093979",
     "stock": "MP178",
@@ -46,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2023 GMC Acadia AT4",
-    "vin": "1GKKNLLS1PZ253556",
-    "stock": "MP120",
-    "exterior": "Volcanic Red",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 SIDI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcca1a85-8271-43fe-ad3b-2a1a6388bcba.jpg",
-    "price": "$49,980",
-    "sutherlins_price": "$30,888",
-    "mileage": "32,033 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 BMW X1 xDrive28i",
     "vin": "WBX73EF06S5102647",
     "stock": "MP156",
@@ -73,6 +43,21 @@
     "price": "$45,500",
     "sutherlins_price": "$30,888",
     "mileage": "34,906 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 GMC Acadia AT4",
+    "vin": "1GKKNLLS1PZ253556",
+    "stock": "MP120",
+    "exterior": "Volcanic Red",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcca1a85-8271-43fe-ad3b-2a1a6388bcba.jpg",
+    "price": "$49,980",
+    "sutherlins_price": "$30,888",
+    "mileage": "32,033 Miles"
   },
   {
     "category": "used",
@@ -391,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Hyundai Tucson Limited",
-    "vin": "KM8J33A29GU048026",
-    "stock": "M2659A",
-    "exterior": "Chromium Silver",
-    "interior": "Black",
-    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "50,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3UA84PZ033140",
     "stock": "M2698A",
@@ -418,5 +388,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,764 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Hyundai Tucson Limited",
+    "vin": "KM8J33A29GU048026",
+    "stock": "M2659A",
+    "exterior": "Chromium Silver",
+    "interior": "Black",
+    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "50,000 Miles"
   }
 ]
