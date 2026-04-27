@@ -886,6 +886,21 @@
   },
   {
     "category": "used",
+    "name": "2017 RAM 1500 Express",
+    "vin": "3C6RR6KT2HG542447",
+    "stock": "P13671B",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6RR6KT2HG542447&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017RMT110009_640/2017RMT110009_640_01.jpg",
+    "price": "$18,995",
+    "sutherlins_price": "$18,995",
+    "mileage": "96,082 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Versa SV",
     "vin": "3N1CN8EV1SL815821",
     "stock": "P13716",
@@ -991,51 +1006,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV0SY313954",
-    "stock": "P13741",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0SY313954&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbc7a31d56b941aca0b851097dee4822.jpg",
-    "price": "$20,925",
-    "sutherlins_price": "$19,995",
-    "mileage": "18,817 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY201199",
-    "stock": "P13735",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
-    "price": "$21,275",
-    "sutherlins_price": "$19,995",
-    "mileage": "40,372 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV4SY414156",
-    "stock": "P13765",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY414156&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
-    "price": "$20,950",
-    "sutherlins_price": "$19,995",
-    "mileage": "1,982 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Kicks Play S",
     "vin": "3N1CP5BV5SL477935",
     "stock": "P13762",
@@ -1063,6 +1033,51 @@
     "price": "$20,775",
     "sutherlins_price": "$19,995",
     "mileage": "1,156 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV4SY414156",
+    "stock": "P13765",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY414156&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
+    "price": "$20,950",
+    "sutherlins_price": "$19,995",
+    "mileage": "1,982 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV8RY201199",
+    "stock": "P13735",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
+    "price": "$21,275",
+    "sutherlins_price": "$19,995",
+    "mileage": "40,372 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV0SY313954",
+    "stock": "P13741",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0SY313954&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbc7a31d56b941aca0b851097dee4822.jpg",
+    "price": "$20,925",
+    "sutherlins_price": "$19,995",
+    "mileage": "18,817 Miles"
   },
   {
     "category": "used",
@@ -1213,6 +1228,21 @@
     "price": "$22,825",
     "sutherlins_price": "$20,988",
     "mileage": "57,415 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Audi A4 Sedan S line Premium Plus",
+    "vin": "WAUEAAF47MN012865",
+    "stock": "26796A",
+    "exterior": "Blue",
+    "interior": "N/A",
+    "engine": "Intercooled Turbo Gas/Electric I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUEAAF47MN012865&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021AUC01_640/2021AUC010001_640_01.jpg",
+    "price": "$20,995",
+    "sutherlins_price": "$20,995",
+    "mileage": "82,560 Miles"
   },
   {
     "category": "used",
@@ -1426,21 +1456,6 @@
   },
   {
     "category": "used",
-    "name": "2022 RAM 1500 Classic Tradesman",
-    "vin": "1C6RR7FG0NS161963",
-    "stock": "P13729",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-6 3.6 L/220",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7FG0NS161963&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0832377a6d534277921cc78e8e0f9dca.jpg",
-    "price": "$27,200",
-    "sutherlins_price": "$22,995",
-    "mileage": "58,749 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Altima SR",
     "vin": "1N4BL4CV4SN380552",
     "stock": "P13757",
@@ -1468,6 +1483,21 @@
     "price": "$23,975",
     "sutherlins_price": "$22,995",
     "mileage": "59,734 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 RAM 1500 Classic Tradesman",
+    "vin": "1C6RR7FG0NS161963",
+    "stock": "P13729",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Diesel Gray/Black",
+    "engine": "Regular Unleaded V-6 3.6 L/220",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7FG0NS161963&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0832377a6d534277921cc78e8e0f9dca.jpg",
+    "price": "$27,200",
+    "sutherlins_price": "$22,995",
+    "mileage": "58,749 Miles"
   },
   {
     "category": "used",
@@ -1707,7 +1737,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017LES150001_640/2017LES150001_640_01.jpg",
     "price": "$34,725",
     "sutherlins_price": "$26,498",
-    "mileage": "25,250 Miles"
+    "mileage": "104,164 Miles"
   },
   {
     "category": "used",
@@ -1786,21 +1816,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Tucson Limited",
-    "vin": "5NMJE3AE1PH180035",
-    "stock": "26814A",
-    "exterior": "Intense Blue",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE1PH180035&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS02_640/2023HYS020016_640_01.jpg",
-    "price": "$28,300",
-    "sutherlins_price": "$26,995",
-    "mileage": "24,188 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota RAV4 XLE",
     "vin": "2T3W1RFV5NC193698",
     "stock": "T26456A",
@@ -1813,6 +1828,21 @@
     "price": "$28,025",
     "sutherlins_price": "$26,995",
     "mileage": "61,176 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson Limited",
+    "vin": "5NMJE3AE1PH180035",
+    "stock": "26814A",
+    "exterior": "Intense Blue",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE1PH180035&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS02_640/2023HYS020016_640_01.jpg",
+    "price": "$28,300",
+    "sutherlins_price": "$26,995",
+    "mileage": "24,188 Miles"
   },
   {
     "category": "used",
@@ -1861,21 +1891,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Armada SL",
-    "vin": "JN8AY2BA4R9417598",
-    "stock": "P13557",
-    "exterior": "Aspen White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38245a369e0c4abfb3fe0cfae3ab9210.jpg",
-    "price": "$38,625",
-    "sutherlins_price": "$28,498",
-    "mileage": "71,602 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 GMC Canyon 2WD Elevation",
     "vin": "1GTG5CEN9N1258640",
     "stock": "P13285",
@@ -1888,6 +1903,21 @@
     "price": "$34,350",
     "sutherlins_price": "$28,498",
     "mileage": "10,890 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Armada SL",
+    "vin": "JN8AY2BA4R9417598",
+    "stock": "P13557",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BA4R9417598&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38245a369e0c4abfb3fe0cfae3ab9210.jpg",
+    "price": "$38,625",
+    "sutherlins_price": "$28,498",
+    "mileage": "71,602 Miles"
   },
   {
     "category": "used",
@@ -2236,21 +2266,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Audi A4 Sedan S line Premium Plus",
-    "vin": "WAUEAAF47MN012865",
-    "stock": "26796A",
-    "exterior": "Blue",
-    "interior": "N/A",
-    "engine": "Intercooled Turbo Gas/Electric I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUEAAF47MN012865&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021AUC01_640/2021AUC010001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "82,560 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Tahoe RST",
     "vin": "1GNSCRKD3RR325360",
     "stock": "26774A",
@@ -2260,24 +2275,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCRKD3RR325360&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024CHS11_640/2024CHS110001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
+    "price": "$58,988",
+    "sutherlins_price": "$58,988",
     "mileage": "28,988 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 RAM 1500 Express",
-    "vin": "3C6RR6KT2HG542447",
-    "stock": "P13671B",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6RR6KT2HG542447&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017RMT110009_640/2017RMT110009_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "96,082 Miles"
   },
   {
     "category": "used",
@@ -2476,21 +2476,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Mitsubishi Mirage G4 Black Edition",
-    "vin": "ML32FUFJ6RHF09240",
-    "stock": "M2682A",
-    "exterior": "Jet Black Metallic",
-    "interior": "Black",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FUFJ6RHF09240&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b552501f-179a-4f96-ab49-739323cb0613.jpg",
-    "price": "$18,940",
-    "sutherlins_price": "$16,888",
-    "mileage": "2,136 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Hyundai Kona SEL",
     "vin": "KM8K22AA4MU697771",
     "stock": "MP216",
@@ -2503,6 +2488,21 @@
     "price": "$24,035",
     "sutherlins_price": "$16,888",
     "mileage": "76,786 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage G4 Black Edition",
+    "vin": "ML32FUFJ6RHF09240",
+    "stock": "M2682A",
+    "exterior": "Jet Black Metallic",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FUFJ6RHF09240&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b552501f-179a-4f96-ab49-739323cb0613.jpg",
+    "price": "$18,940",
+    "sutherlins_price": "$16,888",
+    "mileage": "2,136 Miles"
   },
   {
     "category": "used",
@@ -2701,21 +2701,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Chrysler Pacifica Touring L",
-    "vin": "2C4RC1BG2NR170565",
-    "stock": "M2653A",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG2NR170565&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1BG2NR170565&vehicletype=Van",
-    "price": "$42,133",
-    "sutherlins_price": "$19,888",
-    "mileage": "65,470 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mazda MAZDA3 2.5 S Select Sport",
     "vin": "3MZBPABM9RM402729",
     "stock": "MP169",
@@ -2728,6 +2713,21 @@
     "price": "$26,325",
     "sutherlins_price": "$19,888",
     "mileage": "48,631 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Chrysler Pacifica Touring L",
+    "vin": "2C4RC1BG2NR170565",
+    "stock": "M2653A",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG2NR170565&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1BG2NR170565&vehicletype=Van",
+    "price": "$42,133",
+    "sutherlins_price": "$19,888",
+    "mileage": "65,470 Miles"
   },
   {
     "category": "used",
@@ -3163,21 +3163,6 @@
     "price": "$48,999",
     "sutherlins_price": "$25,888",
     "mileage": "22,521 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mitsubishi Eclipse Cross SEL",
-    "vin": "JA4ATWAA7SZ005954",
-    "stock": "M2570",
-    "exterior": "Mercury Gray Metallic",
-    "interior": "Lt Gry Lth Appointed",
-    "engine": "1.5L I4 DI Turbocharged DOHC 16V LEV3-ULEV70 152hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4ATWAA7SZ005954&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ca6b0e42-219b-46a0-9874-b3ff7acc7883.jpg",
-    "price": "$33,100",
-    "sutherlins_price": "$25,888",
-    "mileage": "2,972 Miles"
   },
   {
     "category": "used",
@@ -3766,21 +3751,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Hyundai Tucson Limited",
-    "vin": "KM8J33A29GU048026",
-    "stock": "M2659A",
-    "exterior": "Chromium Silver",
-    "interior": "Black",
-    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "50,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3UA84PZ033140",
     "stock": "M2698A",
@@ -3793,5 +3763,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,764 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Hyundai Tucson Limited",
+    "vin": "KM8J33A29GU048026",
+    "stock": "M2659A",
+    "exterior": "Chromium Silver",
+    "interior": "Black",
+    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "50,000 Miles"
   }
 ]

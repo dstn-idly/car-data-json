@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 BMW X5 xDrive40i",
-    "vin": "5UXCR6C09L9B05218",
-    "stock": "MP140",
-    "exterior": "Gray Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "3.0L I6 DOHC 24V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXCR6C09L9B05218&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/eab6309a-3cae-4fde-88cc-abdf228c386c.jpg",
-    "price": "$66,245",
-    "sutherlins_price": "$28,888",
-    "mileage": "58,611 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Subaru Crosstrek Limited",
     "vin": "4S4GUHL65R3752897",
     "stock": "MP202",
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Hyundai Tucson Limited",
-    "vin": "KM8J33A29GU048026",
-    "stock": "M2659A",
-    "exterior": "Chromium Silver",
-    "interior": "Black",
-    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "50,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3UA84PZ033140",
     "stock": "M2698A",
@@ -433,5 +403,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,764 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Hyundai Tucson Limited",
+    "vin": "KM8J33A29GU048026",
+    "stock": "M2659A",
+    "exterior": "Chromium Silver",
+    "interior": "Black",
+    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "50,000 Miles"
   }
 ]
