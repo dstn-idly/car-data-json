@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2016 Hyundai Tucson Limited",
-    "vin": "KM8J33A29GU048026",
-    "stock": "M2659A",
-    "exterior": "Chromium Silver",
-    "interior": "Black",
-    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "50,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3UA84PZ033140",
     "stock": "M2698A",
@@ -433,5 +418,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,764 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Hyundai Tucson Limited",
+    "vin": "KM8J33A29GU048026",
+    "stock": "M2659A",
+    "exterior": "Chromium Silver",
+    "interior": "Black",
+    "engine": "1.6L I4 DGI Turbocharged DOHC 16V ULEV II 175hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8J33A29GU048026&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8J33A29GU048026&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "50,000 Miles"
   }
 ]
