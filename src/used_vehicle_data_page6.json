@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Chevrolet Malibu LS",
-    "vin": "1G1ZB5ST3MF042910",
-    "stock": "MP195",
-    "exterior": "Black Cherry Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1ZB5ST3MF042910&vehicletype=Sedan",
-    "price": "$24,195",
-    "sutherlins_price": "$16,888",
-    "mileage": "58,213 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 Black Edition",
     "vin": "ML32FUFJ6RHF09240",
     "stock": "M2682A",
@@ -199,7 +184,7 @@
     "name": "2020 Lincoln Corsair Standard",
     "vin": "5LMCJ1C98LUL01325",
     "stock": "M2678A",
-    "exterior": "Pristine White",
+    "exterior": "White",
     "interior": "Sandstone",
     "engine": "2.0L I4",
     "transmission": "Automatic",
@@ -226,6 +211,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Audi Q5 45 Premium Plus",
+    "vin": "WA1BNAFY3L2059317",
+    "stock": "MP186",
+    "exterior": "Monsoon Gray Metallic",
+    "interior": "Black",
+    "engine": "2.0L TFSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BNAFY3L2059317&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/445b995a-bb18-4e14-a723-c4b1e9eecc2a.jpg",
+    "price": "$19,888",
+    "sutherlins_price": "$19,888",
+    "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 BMW X3 sDrive30i",
     "vin": "5UXTY3C05L9C93365",
     "stock": "MP187",
@@ -238,21 +238,6 @@
     "price": "$46,345",
     "sutherlins_price": "$19,888",
     "mileage": "N/A"
-  },
-  {
-    "category": "used",
-    "name": "2020 Audi Q5 45 Premium Plus",
-    "vin": "WA1BNAFY3L2059317",
-    "stock": "MP186",
-    "exterior": "Monsoon Gray Metallic",
-    "interior": "Black",
-    "engine": "2.0L TFSI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BNAFY3L2059317&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WA1BNAFY3L2059317&vehicletype=SUV",
-    "price": "$19,888",
-    "sutherlins_price": "$19,888",
-    "mileage": "84,931 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$37,090",
     "sutherlins_price": "$21,888",
     "mileage": "70,274 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Kia Sportage LX",
+    "vin": "KNDPU3DF4S7367027",
+    "stock": "M2540A",
+    "exterior": "Black",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
+    "price": "$28,960",
+    "sutherlins_price": "$21,888",
+    "mileage": "4,109 Miles"
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Kia Sportage LX",
-    "vin": "KNDPU3DF4S7367027",
-    "stock": "M2540A",
-    "exterior": "Black",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
-    "price": "$28,960",
-    "sutherlins_price": "$21,888",
-    "mileage": "4,109 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE Black Edition",
     "vin": "JA4J3UA84PZ033140",
     "stock": "M2698A",
@@ -354,7 +339,7 @@
     "engine": "2.5L 4-Cylinder DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2SKAPC8NH406174&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JF2SKAPC8NH406174&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a3da3417-f820-497a-89b4-191d097f8f93.jpg",
     "price": "$36,599",
     "sutherlins_price": "$26,888",
     "mileage": "61,191 Miles"
@@ -364,7 +349,7 @@
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
-    "exterior": "Forged Green Metallic",
+    "exterior": "Green Metallic",
     "interior": "Sandstone",
     "engine": "2.3L EcoBoost I-4",
     "transmission": "Automatic",
@@ -478,5 +463,20 @@
     "price": "$33,859",
     "sutherlins_price": "$29,888",
     "mileage": "16,234 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota RAV4 TRD Off Road",
+    "vin": "2T3J1RFV7LC093979",
+    "stock": "MP178",
+    "exterior": "Super White",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d800b9cb-923d-4be3-88e8-ca5d75e1ed69.jpg",
+    "price": "$35,200",
+    "sutherlins_price": "$29,888",
+    "mileage": "70,672 Miles"
   }
 ]
