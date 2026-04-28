@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2020 Toyota RAV4 TRD Off Road",
-    "vin": "2T3J1RFV7LC093979",
-    "stock": "MP178",
-    "exterior": "Super White",
-    "interior": "Black",
-    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d800b9cb-923d-4be3-88e8-ca5d75e1ed69.jpg",
-    "price": "$35,200",
-    "sutherlins_price": "$29,888",
-    "mileage": "70,672 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Chrysler Pacifica Limited",
     "vin": "2C4RC1GG2SR515811",
     "stock": "MP139",
@@ -31,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2025 BMW X1 xDrive28i",
-    "vin": "WBX73EF06S5102647",
-    "stock": "MP156",
-    "exterior": "Black Sapphire Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 16V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
-    "price": "$45,500",
-    "sutherlins_price": "$30,888",
-    "mileage": "34,906 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 GMC Acadia AT4",
     "vin": "1GKKNLLS1PZ253556",
     "stock": "MP120",
@@ -58,6 +28,21 @@
     "price": "$49,980",
     "sutherlins_price": "$30,888",
     "mileage": "32,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 BMW X1 xDrive28i",
+    "vin": "WBX73EF06S5102647",
+    "stock": "MP156",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 16V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b78986b3-af02-4459-af50-d882b1ccb4dd.jpg",
+    "price": "$45,500",
+    "sutherlins_price": "$30,888",
+    "mileage": "34,906 Miles"
   },
   {
     "category": "used",
@@ -346,6 +331,21 @@
   },
   {
     "category": "used",
+    "name": "2002 Nissan Frontier SE",
+    "vin": "1N6ED29X52C341236",
+    "stock": "M26121A",
+    "exterior": "Gold Rush Clearcoat Metallic",
+    "interior": "Beige",
+    "engine": "3.3L V6 SMPI SOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED29X52C341236&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1N6ED29X52C341236&vehicletype=Truck",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "210,000 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
@@ -388,6 +388,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "56,764 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Lincoln Corsair Standard",
+    "vin": "5LMCJ1C98LUL01325",
+    "stock": "M2678A",
+    "exterior": "White",
+    "interior": "Sandstone",
+    "engine": "2.0L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1C98LUL01325&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5LMCJ1C98LUL01325&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "73,117 Miles"
   },
   {
     "category": "used",

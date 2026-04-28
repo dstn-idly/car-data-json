@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Kia Sportage LX",
-    "vin": "KNDPU3DF4S7367027",
-    "stock": "M2540A",
-    "exterior": "Black",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPU3DF4S7367027&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcf0d3c1-160e-4819-9ec7-1955ed242352.jpg",
-    "price": "$28,960",
-    "sutherlins_price": "$21,888",
-    "mileage": "4,109 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Fe SE",
     "vin": "5NMS14AJ3PH593061",
     "stock": "MP180",
@@ -478,5 +463,20 @@
     "price": "$33,859",
     "sutherlins_price": "$29,888",
     "mileage": "16,234 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota RAV4 TRD Off Road",
+    "vin": "2T3J1RFV7LC093979",
+    "stock": "MP178",
+    "exterior": "Super White",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d800b9cb-923d-4be3-88e8-ca5d75e1ed69.jpg",
+    "price": "$35,200",
+    "sutherlins_price": "$29,888",
+    "mileage": "70,672 Miles"
   }
 ]
