@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Ford Escape ST-Line",
+    "vin": "1FMCU9MN4PUB39512",
+    "stock": "MP151",
+    "exterior": "Gray Metallic",
+    "interior": "Ebony",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
+    "price": "$34,250",
+    "sutherlins_price": "$21,888",
+    "mileage": "24,892 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Elantra Hybrid Limited",
     "vin": "KMHLN4AJ1PU054578",
     "stock": "MP184",
@@ -31,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Escape ST-Line",
-    "vin": "1FMCU9MN4PUB39512",
-    "stock": "MP151",
-    "exterior": "Gray Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/51cabd2d-52ba-4bd4-bf59-4dc94141aaae.jpg",
-    "price": "$34,250",
-    "sutherlins_price": "$22,888",
-    "mileage": "24,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Ford Bronco Sport Big Bend",
     "vin": "3FMCR9B66NRD95510",
     "stock": "MP110A",
@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMCR9B66NRD95510&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4e7cbbd2-c631-47a7-b9e2-62939bcda439.jpg",
     "price": "$34,300",
-    "sutherlins_price": "$22,888",
+    "sutherlins_price": "$20,888",
     "mileage": "37,717 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/49939f8a-da06-45df-85f3-918e8ea73128.jpg",
     "price": "$49,450",
-    "sutherlins_price": "$26,888",
+    "sutherlins_price": "$25,888",
     "mileage": "50,294 Miles"
   },
   {
