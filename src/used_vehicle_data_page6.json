@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Altima 2.0 Platinum",
-    "vin": "1N4AL4FV3LN311540",
-    "stock": "MP168",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "2.0L I4 PDI Turbocharged DOHC 16V LEV3-ULEV70 236hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4FV3LN311540&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cf9d30bc-0ebe-4079-8761-0570acef5eab.jpg",
-    "price": "$36,775",
-    "sutherlins_price": "$15,888",
-    "mileage": "63,592 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Kia Soul LX",
     "vin": "KNDJ23AU5P7891986",
     "stock": "MP192",
@@ -238,6 +223,21 @@
     "price": "$21,735",
     "sutherlins_price": "$18,888",
     "mileage": "28,813 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Altima 2.0 Platinum",
+    "vin": "1N4AL4FV3LN311540",
+    "stock": "MP168",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 PDI Turbocharged DOHC 16V LEV3-ULEV70 236hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4FV3LN311540&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cf9d30bc-0ebe-4079-8761-0570acef5eab.jpg",
+    "price": "$36,775",
+    "sutherlins_price": "$15,888",
+    "mileage": "63,592 Miles"
   },
   {
     "category": "used",
