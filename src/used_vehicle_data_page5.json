@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford Escape S",
-    "vin": "1FMCU0F66LUC69674",
-    "stock": "MP133",
-    "exterior": "Oxford White",
-    "interior": "Dark Earth Gray",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
-    "price": "$26,290",
-    "sutherlins_price": "$13,888",
-    "mileage": "42,285 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SV",
     "vin": "5N1AZ2BJ0LN106365",
     "stock": "MP167A",
@@ -478,5 +463,20 @@
     "price": "$36,455",
     "sutherlins_price": "$13,888",
     "mileage": "96,977 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford Escape S",
+    "vin": "1FMCU0F66LUC69674",
+    "stock": "MP133",
+    "exterior": "Oxford White",
+    "interior": "Dark Earth Gray",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
+    "price": "$26,290",
+    "sutherlins_price": "$13,888",
+    "mileage": "42,285 Miles"
   }
 ]
