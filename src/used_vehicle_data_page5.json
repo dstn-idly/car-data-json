@@ -1,6 +1,66 @@
 [
   {
     "category": "used",
+    "name": "2021 Nissan Armada SV",
+    "vin": "JN8AY2AC9M9146131",
+    "stock": "26079A",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2AC9M9146131&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a826300a91c74436b493e85005a1cf8f.jpg",
+    "price": "$30,208",
+    "sutherlins_price": "$28,988",
+    "mileage": "42,124 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 RAM 1500 Big Horn",
+    "vin": "1C6RREFT4MN544335",
+    "stock": "P13718",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREFT4MN544335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/381fb107a41044c19df7219d215319b6.jpg",
+    "price": "$34,075",
+    "sutherlins_price": "$29,490",
+    "mileage": "67,416 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Palisade SEL 7P",
+    "vin": "KM8R24GE2RU802058",
+    "stock": "P13724",
+    "exterior": "Hyper White",
+    "interior": "Gray/Black",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R24GE2RU802058&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e6a9777b459c40dfb28acd86c16754c3.jpg",
+    "price": "$37,812",
+    "sutherlins_price": "$29,936",
+    "mileage": "38,218 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA6RC220829",
+    "stock": "P13734",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC220829&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c8b22be985741b386ce0b3824a9ddec.jpg",
+    "price": "$32,225",
+    "sutherlins_price": "$29,995",
+    "mileage": "51,084 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue Platinum",
     "vin": "JN8BT3DC7PW104597",
     "stock": "P13725",
@@ -13,21 +73,6 @@
     "price": "$34,587",
     "sutherlins_price": "$29,995",
     "mileage": "22,905 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Frontier SV",
-    "vin": "1N6ED1EJXRN623236",
-    "stock": "26684A",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJXRN623236&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/533d4e78c49c41cdbf50567f5f0c05a4.jpg",
-    "price": "$35,150",
-    "sutherlins_price": "$27,669",
-    "mileage": "4,900 Miles"
   },
   {
     "category": "used",
@@ -46,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Genesis G70 2.0T",
-    "vin": "KMTG34TA6PU125039",
-    "stock": "P13712",
-    "exterior": "Vik Black",
-    "interior": "Obsidian Blk/Sandstorm Gy",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TA6PU125039&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1c61c52d1c2544439f522f7a8a7103c0.jpg",
-    "price": "$33,175",
-    "sutherlins_price": "$28,898",
-    "mileage": "24,721 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Pathfinder SL",
     "vin": "5N1DR3CC9PC221454",
     "stock": "P13732",
@@ -73,21 +103,6 @@
     "price": "$34,720",
     "sutherlins_price": "$32,498",
     "mileage": "45,918 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 RAM 1500 Big Horn",
-    "vin": "1C6RREFT4MN544335",
-    "stock": "P13718",
-    "exterior": "Granite Crystal Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREFT4MN544335&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/381fb107a41044c19df7219d215319b6.jpg",
-    "price": "$34,075",
-    "sutherlins_price": "$29,490",
-    "mileage": "67,416 Miles"
   },
   {
     "category": "used",
@@ -118,21 +133,6 @@
     "price": "$33,825",
     "sutherlins_price": "$32,995",
     "mileage": "44,347 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Hyundai Palisade SEL 7P",
-    "vin": "KM8R24GE2RU802058",
-    "stock": "P13724",
-    "exterior": "Hyper White",
-    "interior": "Gray/Black",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8R24GE2RU802058&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e6a9777b459c40dfb28acd86c16754c3.jpg",
-    "price": "$37,812",
-    "sutherlins_price": "$29,936",
-    "mileage": "38,218 Miles"
   },
   {
     "category": "used",
@@ -436,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford Escape S",
-    "vin": "1FMCU0F66LUC69674",
-    "stock": "MP133",
-    "exterior": "Oxford White",
-    "interior": "Dark Earth Gray",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
-    "price": "$26,290",
-    "sutherlins_price": "$13,888",
-    "mileage": "42,285 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SV",
     "vin": "5N1AZ2BJ0LN106365",
     "stock": "MP167A",
@@ -463,6 +448,21 @@
     "price": "$36,455",
     "sutherlins_price": "$13,888",
     "mileage": "96,977 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford Escape S",
+    "vin": "1FMCU0F66LUC69674",
+    "stock": "MP133",
+    "exterior": "Oxford White",
+    "interior": "Dark Earth Gray",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
+    "price": "$26,290",
+    "sutherlins_price": "$13,888",
+    "mileage": "42,285 Miles"
   },
   {
     "category": "used",
