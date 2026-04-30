@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Wrangler",
-    "vin": "1C4HJXDN5MW664702",
-    "stock": "MP233",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDN5MW664702&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C4HJXDN5MW664702&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "64,087 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Chevrolet Trax LS",
     "vin": "KL7CJKSB5LB323776",
     "stock": "MP226",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "54,302 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Wrangler",
+    "vin": "1C4HJXDN5MW664702",
+    "stock": "MP233",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDN5MW664702&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1C4HJXDN5MW664702&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "64,087 Miles"
   }
 ]
