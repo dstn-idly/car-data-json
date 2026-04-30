@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks S",
-    "vin": "3N8AP6BE5TL346701",
-    "stock": "P13767",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE5TL346701&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fb397e5b73b9416a838f3f9e94c666b7.jpg",
-    "price": "$24,455",
-    "sutherlins_price": "$22,995",
-    "mileage": "1,834 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Ford Ranger XLT",
     "vin": "1FTER4FH3LLA26935",
     "stock": "26093A",
@@ -43,6 +28,21 @@
     "price": "$27,485",
     "sutherlins_price": "$22,995",
     "mileage": "96,482 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BE5TL346701",
+    "stock": "P13767",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE5TL346701&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fb397e5b73b9416a838f3f9e94c666b7.jpg",
+    "price": "$24,455",
+    "sutherlins_price": "$22,995",
+    "mileage": "1,834 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 GMC Canyon 2WD Elevation",
-    "vin": "1GTG5CEN9N1258640",
-    "stock": "P13285",
-    "exterior": "Onyx Black",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTG5CEN9N1258640&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a9dac8c1a87d4b4aa923d50397b3f15a.jpg",
-    "price": "$34,350",
-    "sutherlins_price": "$28,498",
-    "mileage": "10,890 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Armada SL",
     "vin": "JN8AY2BA4R9417598",
     "stock": "P13557",
@@ -478,5 +463,20 @@
     "price": "$38,625",
     "sutherlins_price": "$28,498",
     "mileage": "71,602 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 GMC Canyon 2WD Elevation",
+    "vin": "1GTG5CEN9N1258640",
+    "stock": "P13285",
+    "exterior": "Onyx Black",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTG5CEN9N1258640&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a9dac8c1a87d4b4aa923d50397b3f15a.jpg",
+    "price": "$34,350",
+    "sutherlins_price": "$28,498",
+    "mileage": "10,890 Miles"
   }
 ]
