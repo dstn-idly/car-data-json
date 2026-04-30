@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2008 Dodge Grand Caravan SE",
-    "vin": "1D8HN44H28B134621",
-    "stock": "26552A",
-    "exterior": "Stone White",
-    "interior": "Dk Slate/Lt Shale",
-    "engine": "Gas/Ethanol V6 3.3L/202",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1D8HN44H28B134621&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008DOD003b_640/2008DOD003b_640_01.jpg",
-    "price": "$4,995",
-    "sutherlins_price": "$4,995",
-    "mileage": "209,839 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2011 Jeep Compass Latitude",
-    "vin": "1J4NT1FB3BD245571",
-    "stock": "26510B",
-    "exterior": "Bright White",
-    "interior": "Dark Slate Gray/Light Pebble Beige Interior",
-    "engine": "Gas I4 2.4L/144",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1J4NT1FB3BD245571&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/261d2f4ecac2450fa941e26058d47cfd.jpg",
-    "price": "$6,613",
-    "sutherlins_price": "$4,995",
-    "mileage": "110,500 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Rogue SV",
     "vin": "5N1AT2MT9EC872190",
     "stock": "P12816",
@@ -267,7 +237,7 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/05daf26c74ed489d9798b5c68dc6cd2e.jpg",
     "price": "$16,074",
     "sutherlins_price": "$14,995",
-    "mileage": "N/A"
+    "mileage": "82,622 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$19,900",
     "sutherlins_price": "$16,498",
     "mileage": "71,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Chevrolet Blazer LT",
+    "vin": "3GNKBBRA6MS559567",
+    "stock": "P13681",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Gas I4 2.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBBRA6MS559567&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3451a60e52e14318a5200ccfc3f1ba62.jpg",
+    "price": "$22,475",
+    "sutherlins_price": "$16,581",
+    "mileage": "65,822 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA9NC711415",
+    "stock": "P13702A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9NC711415&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/70b1f3a371ed4ea69989226ae4e59def.jpg",
+    "price": "$17,125",
+    "sutherlins_price": "$16,698",
+    "mileage": "105,975 Miles"
   }
 ]

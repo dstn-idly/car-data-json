@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Chevrolet Blazer LT",
-    "vin": "3GNKBBRA6MS559567",
-    "stock": "P13681",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Gas I4 2.5L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBBRA6MS559567&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3451a60e52e14318a5200ccfc3f1ba62.jpg",
-    "price": "$22,475",
-    "sutherlins_price": "$16,581",
-    "mileage": "65,822 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA9NC711415",
-    "stock": "P13702A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA9NC711415&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/70b1f3a371ed4ea69989226ae4e59def.jpg",
-    "price": "$17,125",
-    "sutherlins_price": "$16,698",
-    "mileage": "105,975 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Kicks SV",
     "vin": "3N1CP5CVXNL489176",
     "stock": "P13738",
@@ -355,7 +325,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD6RE815577&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/086520b1a221485c8d50743f1ed59077.jpg",
-    "price": "$19,675",
+    "price": "$20,100",
     "sutherlins_price": "$18,988",
     "mileage": "12,758 Miles"
   },
@@ -421,18 +391,18 @@
   },
   {
     "category": "used",
-    "name": "2017 RAM 1500 Express",
-    "vin": "3C6RR6KT2HG542447",
-    "stock": "P13671B",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Diesel Gray/Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C6RR6KT2HG542447&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a3b832b9f20d4cd585584a2a4b1ed0ad.jpg",
-    "price": "$19,825",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV9RY267230",
+    "stock": "P13774",
+    "exterior": "Aspen White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9RY267230&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC06_640/2024NIC061924644_640_01.jpg",
+    "price": "$19,275",
     "sutherlins_price": "$18,995",
-    "mileage": "96,082 Miles"
+    "mileage": "43,429 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$24,452",
     "sutherlins_price": "$19,987",
     "mileage": "46,641 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Kia Carnival LX",
+    "vin": "KNDNB4H39N6167645",
+    "stock": "P13749",
+    "exterior": "Snow White Pearl",
+    "interior": "Gray",
+    "engine": "Regular Unleaded V-6 3.5 L/212",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDNB4H39N6167645&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022KIV02_640/2022KIV020017_640_01.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$19,988",
+    "mileage": "85,645 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 GMC Acadia SLT",
+    "vin": "1GKKNMLS9KZ169855",
+    "stock": "P13559",
+    "exterior": "Ebony Twilight Metallic",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbffe32d07f24601b95576556746c4f2.jpg",
+    "price": "$22,100",
+    "sutherlins_price": "$19,995",
+    "mileage": "89,136 Miles"
   }
 ]
