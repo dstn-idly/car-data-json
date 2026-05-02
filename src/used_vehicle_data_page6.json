@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8RF178869",
+    "stock": "MP177",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7df9d76-d18a-4eff-b3b5-aaa97813a928.jpg",
+    "price": "$29,095",
+    "sutherlins_price": "$17,888",
+    "mileage": "60,166 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Mitsubishi Outlander ES",
     "vin": "JA4J3TA80PZ015860",
     "stock": "MP160",
@@ -463,20 +478,5 @@
     "price": "$30,690",
     "sutherlins_price": "$22,788",
     "mileage": "43,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra Hybrid Limited",
-    "vin": "KMHLN4AJ1PU054578",
-    "stock": "MP184",
-    "exterior": "Fluid Metal",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dccbdb46-bdbc-45b3-b48a-85fd53b571d4.jpg",
-    "price": "$30,500",
-    "sutherlins_price": "$22,888",
-    "mileage": "61,194 Miles"
   }
 ]
