@@ -391,6 +391,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Nissan Altima 2.0 Platinum",
+    "vin": "1N4AL4FV3LN311540",
+    "stock": "MP168",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 PDI Turbocharged DOHC 16V LEV3-ULEV70 236hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4FV3LN311540&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cf9d30bc-0ebe-4079-8761-0570acef5eab.jpg",
+    "price": "$36,775",
+    "sutherlins_price": "$15,888",
+    "mileage": "63,592 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Chevrolet Malibu LS",
     "vin": "1G1ZB5ST3MF042910",
     "stock": "MP195",
@@ -436,36 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2017 RAM 1500 Big Horn",
-    "vin": "1C6RR7TM0HS586548",
-    "stock": "MP161",
-    "exterior": "Brown",
-    "interior": "Lt Frost Beige/Brown",
-    "engine": "EcoDiesel 3.0L V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2e8495b8-0261-49fc-a528-4bf1b48e7300.jpg",
-    "price": "$52,580",
-    "sutherlins_price": "$17,888",
-    "mileage": "92,455 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST8RF178869",
-    "stock": "MP177",
-    "exterior": "Mineral Gray Metallic",
-    "interior": "Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7df9d76-d18a-4eff-b3b5-aaa97813a928.jpg",
-    "price": "$29,095",
-    "sutherlins_price": "$17,888",
-    "mileage": "60,166 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander ES",
     "vin": "JA4J3TA80PZ015860",
     "stock": "MP160",
@@ -478,5 +463,20 @@
     "price": "$29,340",
     "sutherlins_price": "$17,888",
     "mileage": "61,591 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2017 RAM 1500 Big Horn",
+    "vin": "1C6RR7TM0HS586548",
+    "stock": "MP161",
+    "exterior": "Brown",
+    "interior": "Lt Frost Beige/Brown",
+    "engine": "EcoDiesel 3.0L V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2e8495b8-0261-49fc-a528-4bf1b48e7300.jpg",
+    "price": "$52,580",
+    "sutherlins_price": "$17,888",
+    "mileage": "92,455 Miles"
   }
 ]
