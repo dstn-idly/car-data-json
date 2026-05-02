@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford Escape S",
-    "vin": "1FMCU0F66LUC69674",
-    "stock": "MP133",
-    "exterior": "Oxford White",
-    "interior": "Dark Earth Gray",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
-    "price": "$26,290",
-    "sutherlins_price": "$13,888",
-    "mileage": "42,285 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SV",
     "vin": "5N1AZ2BJ0LN106365",
     "stock": "MP167A",
@@ -343,6 +328,21 @@
     "price": "$36,455",
     "sutherlins_price": "$13,888",
     "mileage": "96,977 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford Escape S",
+    "vin": "1FMCU0F66LUC69674",
+    "stock": "MP133",
+    "exterior": "Oxford White",
+    "interior": "Dark Earth Gray",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
+    "price": "$26,290",
+    "sutherlins_price": "$13,888",
+    "mileage": "42,285 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2023 Mitsubishi Outlander ES",
-    "vin": "JA4J3TA80PZ015860",
-    "stock": "MP160",
-    "exterior": "Labrador Black Pearl",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA80PZ015860&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f54097fd-047a-4a10-b020-642384a001f0.jpg",
-    "price": "$29,340",
+    "name": "2020 Toyota Camry LE",
+    "vin": "4T1C11AK0LU360961",
+    "stock": "M2549A",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Ash",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK0LU360961&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9839a94a-5c8e-43ed-a3d9-16f6ed8d29d5.jpg",
+    "price": "$25,925",
     "sutherlins_price": "$17,888",
-    "mileage": "61,591 Miles"
+    "mileage": "70,217 Miles"
   }
 ]
