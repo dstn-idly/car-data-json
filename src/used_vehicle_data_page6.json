@@ -54,25 +54,10 @@
     "engine": "2.0L I4 DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU5P7891986&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KNDJ23AU5P7891986&vehicletype=Hatchback",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b4e15248-db48-496d-b41e-1bedcf604810.jpg",
     "price": "$21,735",
     "sutherlins_price": "$18,888",
     "mileage": "28,813 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Lincoln Corsair Standard",
-    "vin": "5LMCJ1C98LUL01325",
-    "stock": "M2678A",
-    "exterior": "White",
-    "interior": "Sandstone",
-    "engine": "2.0L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1C98LUL01325&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5LMCJ1C98LUL01325&vehicletype=SUV",
-    "price": "$42,635",
-    "sutherlins_price": "$18,888",
-    "mileage": "73,117 Miles"
   },
   {
     "category": "used",
@@ -91,18 +76,18 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
+    "name": "2020 Lincoln Corsair Standard",
+    "vin": "5LMCJ1C98LUL01325",
+    "stock": "M2678A",
+    "exterior": "White",
+    "interior": "Sandstone",
+    "engine": "2.0L I4",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bd451d6-96b3-45b8-b4d9-5f3dc2897d11.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$19,888",
-    "mileage": "N/A"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1C98LUL01325&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5LMCJ1C98LUL01325&vehicletype=SUV",
+    "price": "$42,635",
+    "sutherlins_price": "$18,888",
+    "mileage": "73,117 Miles"
   },
   {
     "category": "used",
@@ -118,6 +103,21 @@
     "price": "$19,888",
     "sutherlins_price": "$19,888",
     "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bd451d6-96b3-45b8-b4d9-5f3dc2897d11.jpg",
+    "price": "$46,345",
+    "sutherlins_price": "$19,888",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Mitsubishi Outlander SE Black Edition",
-    "vin": "JA4J3UA84PZ033140",
-    "stock": "M2698A",
-    "exterior": "Alloy Silver Metallic",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA84PZ033140&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3UA84PZ033140&vehicletype=SUV",
-    "price": "$30,645",
-    "sutherlins_price": "$21,888",
-    "mileage": "56,764 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Fe SE",
     "vin": "5NMS14AJ3PH593061",
     "stock": "MP180",
@@ -478,5 +463,20 @@
     "price": "$29,045",
     "sutherlins_price": "$23,888",
     "mileage": "21,925 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mercedes-Benz C-Class C 300",
+    "vin": "W1KWF8EB2MR612919",
+    "stock": "MP222",
+    "exterior": "Polar White",
+    "interior": "Almond",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWF8EB2MR612919&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=W1KWF8EB2MR612919&vehicletype=Sedan",
+    "price": "$23,988",
+    "sutherlins_price": "$23,988",
+    "mileage": "73,581 Miles"
   }
 ]
