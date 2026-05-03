@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Nissan Rogue SV",
-    "vin": "5N1AT2MV1JC838420",
-    "stock": "P13736",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV1JC838420&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fde77f7be85a459ea7b474c1655fa95b.jpg",
-    "price": "$16,750",
-    "sutherlins_price": "$14,995",
-    "mileage": "56,588 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Versa SV",
     "vin": "3N1CN8EV1SL815821",
     "stock": "P13716",
@@ -223,6 +208,21 @@
     "price": "$21,398",
     "sutherlins_price": "$14,995",
     "mileage": "23,585 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue SV",
+    "vin": "5N1AT2MV1JC838420",
+    "stock": "P13736",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MV1JC838420&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fde77f7be85a459ea7b474c1655fa95b.jpg",
+    "price": "$16,750",
+    "sutherlins_price": "$14,995",
+    "mileage": "56,588 Miles"
   },
   {
     "category": "used",
@@ -811,33 +811,18 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Kicks Play S",
-    "vin": "3N1CP5BV5SL477935",
-    "stock": "P13762",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b62108857ee408d88f011e1373aa2a1.jpg",
-    "price": "$23,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "6,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV4SY414156",
-    "stock": "P13765",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV0SY313954",
+    "stock": "P13741",
     "exterior": "Gun Metallic",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY414156&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1505c1ce047e408dbccbba130bae1359.jpg",
-    "price": "$20,950",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0SY313954&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbc7a31d56b941aca0b851097dee4822.jpg",
+    "price": "$20,925",
     "sutherlins_price": "$19,995",
-    "mileage": "1,982 Miles"
+    "mileage": "18,817 Miles"
   },
   {
     "category": "used",
@@ -856,18 +841,33 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV0SY313954",
-    "stock": "P13741",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV4SY414156",
+    "stock": "P13765",
     "exterior": "Gun Metallic",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0SY313954&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbc7a31d56b941aca0b851097dee4822.jpg",
-    "price": "$20,925",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY414156&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1505c1ce047e408dbccbba130bae1359.jpg",
+    "price": "$20,950",
     "sutherlins_price": "$19,995",
-    "mileage": "18,817 Miles"
+    "mileage": "1,982 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV5SL477935",
+    "stock": "P13762",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b62108857ee408d88f011e1373aa2a1.jpg",
+    "price": "$23,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "6,849 Miles"
   },
   {
     "category": "used",
@@ -1381,21 +1381,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BB7PC834089",
-    "stock": "P13743",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB7PC834089&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/911dc87e6b1e479eb133d5a6cd0d80b3.jpg",
-    "price": "$23,975",
-    "sutherlins_price": "$22,995",
-    "mileage": "59,734 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Altima SR",
     "vin": "1N4BL4CV4SN380552",
     "stock": "P13757",
@@ -1408,6 +1393,21 @@
     "price": "$24,250",
     "sutherlins_price": "$22,995",
     "mileage": "24,413 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BB7PC834089",
+    "stock": "P13743",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB7PC834089&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/911dc87e6b1e479eb133d5a6cd0d80b3.jpg",
+    "price": "$23,975",
+    "sutherlins_price": "$22,995",
+    "mileage": "59,734 Miles"
   },
   {
     "category": "used",
@@ -2461,21 +2461,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Chevrolet Bolt EV 1LT",
-    "vin": "1G1FW6S00N4110502",
-    "stock": "MP199",
-    "exterior": "Silver",
-    "interior": "Jet Black",
-    "engine": "Electric Drive Unit",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FW6S00N4110502&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7e266790-f721-42e8-a15c-51391b14ab9d.jpg",
-    "price": "$31,995",
-    "sutherlins_price": "$18,888",
-    "mileage": "31,869 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Lincoln Corsair Standard",
     "vin": "5LMCJ1C98LUL01325",
     "stock": "M2678A",
@@ -2488,6 +2473,21 @@
     "price": "$42,635",
     "sutherlins_price": "$18,888",
     "mileage": "73,117 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Chevrolet Bolt EV 1LT",
+    "vin": "1G1FW6S00N4110502",
+    "stock": "MP199",
+    "exterior": "Silver",
+    "interior": "Jet Black",
+    "engine": "Electric Drive Unit",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FW6S00N4110502&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7e266790-f721-42e8-a15c-51391b14ab9d.jpg",
+    "price": "$31,995",
+    "sutherlins_price": "$18,888",
+    "mileage": "31,869 Miles"
   },
   {
     "category": "used",
@@ -3736,21 +3736,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Honda Ridgeline RTL",
-    "vin": "5FPYK3F56PB025103",
-    "stock": "MP235",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "3.5L V6 SOHC i-VTEC 24V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FPYK3F56PB025103&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FPYK3F56PB025103&vehicletype=Truck",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "29,335 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 Black Edition",
     "vin": "ML32FUFJ3RHF11186",
     "stock": "M2623A",
@@ -3763,5 +3748,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "23,300 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Honda Ridgeline RTL",
+    "vin": "5FPYK3F56PB025103",
+    "stock": "MP235",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "3.5L V6 SOHC i-VTEC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FPYK3F56PB025103&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FPYK3F56PB025103&vehicletype=Truck",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "29,335 Miles"
   }
 ]

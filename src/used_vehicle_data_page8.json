@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Honda Ridgeline RTL",
-    "vin": "5FPYK3F56PB025103",
-    "stock": "MP235",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "3.5L V6 SOHC i-VTEC 24V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FPYK3F56PB025103&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FPYK3F56PB025103&vehicletype=Truck",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "29,335 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 Black Edition",
     "vin": "ML32FUFJ3RHF11186",
     "stock": "M2623A",
@@ -403,5 +388,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "23,300 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Honda Ridgeline RTL",
+    "vin": "5FPYK3F56PB025103",
+    "stock": "MP235",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "3.5L V6 SOHC i-VTEC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FPYK3F56PB025103&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FPYK3F56PB025103&vehicletype=Truck",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "29,335 Miles"
   }
 ]
