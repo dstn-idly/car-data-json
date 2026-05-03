@@ -1,6 +1,36 @@
 [
   {
     "category": "cpo",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA4RC673419",
+    "stock": "P13744",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df8d22d429b441df85a324c447c76f47.jpg",
+    "price": "$24,350",
+    "sutherlins_price": "$22,995",
+    "mileage": "67,057 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Altima SR",
+    "vin": "1N4BL4CV4SN380552",
+    "stock": "P13757",
+    "exterior": "Gun Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4SN380552&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc9dcac97d64979845c90c376cd530e.jpg",
+    "price": "$24,250",
+    "sutherlins_price": "$22,995",
+    "mileage": "24,413 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BB7PC834089",
     "stock": "P13743",
@@ -13,6 +43,21 @@
     "price": "$23,975",
     "sutherlins_price": "$22,995",
     "mileage": "59,734 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "JN8BT3BA5RW351704",
+    "stock": "P13773",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
+    "price": "$25,600",
+    "sutherlins_price": "$22,995",
+    "mileage": "32,291 Miles"
   },
   {
     "category": "cpo",
@@ -208,5 +253,20 @@
     "price": "$34,587",
     "sutherlins_price": "$29,995",
     "mileage": "22,905 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2022 Nissan Armada SL",
+    "vin": "JN8AY2BC9N9160658",
+    "stock": "26658A",
+    "exterior": "Super Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BC9N9160658&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cfd53933eba647b1ab58bb9ad3232dbd.jpg",
+    "price": "$34,225",
+    "sutherlins_price": "$32,995",
+    "mileage": "57,917 Miles"
   }
 ]

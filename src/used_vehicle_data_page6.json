@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Chevrolet Malibu LT",
-    "vin": "1G1ZD5ST6PF211221",
-    "stock": "MP229",
-    "exterior": "Blue Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST6PF211221&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1ZD5ST6PF211221&vehicletype=Sedan",
-    "price": "$30,145",
-    "sutherlins_price": "$17,888",
-    "mileage": "62,657 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Renegade Limited",
     "vin": "ZACNJDD1XMPM29950",
     "stock": "MP194",
@@ -76,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Chevrolet Bolt EV 1LT",
-    "vin": "1G1FW6S00N4110502",
-    "stock": "MP199",
-    "exterior": "Silver",
-    "interior": "Jet Black",
-    "engine": "Electric Drive Unit",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FW6S00N4110502&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7e266790-f721-42e8-a15c-51391b14ab9d.jpg",
-    "price": "$31,995",
-    "sutherlins_price": "$18,888",
-    "mileage": "31,869 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Lincoln Corsair Standard",
     "vin": "5LMCJ1C98LUL01325",
     "stock": "M2678A",
@@ -103,6 +73,21 @@
     "price": "$42,635",
     "sutherlins_price": "$18,888",
     "mileage": "73,117 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Chevrolet Bolt EV 1LT",
+    "vin": "1G1FW6S00N4110502",
+    "stock": "MP199",
+    "exterior": "Silver",
+    "interior": "Jet Black",
+    "engine": "Electric Drive Unit",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FW6S00N4110502&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7e266790-f721-42e8-a15c-51391b14ab9d.jpg",
+    "price": "$31,995",
+    "sutherlins_price": "$18,888",
+    "mileage": "31,869 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$37,790",
     "sutherlins_price": "$23,888",
     "mileage": "39,839 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Camry LE",
+    "vin": "4T1C11AK5RU189567",
+    "stock": "MP181",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Ash",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK5RU189567&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f47aaca6-24d6-40c0-983b-00004fa8db96.jpg",
+    "price": "$29,045",
+    "sutherlins_price": "$23,888",
+    "mileage": "21,925 Miles"
   }
 ]

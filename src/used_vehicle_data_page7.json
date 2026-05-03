@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Toyota Camry LE",
-    "vin": "4T1C11AK5RU189567",
-    "stock": "MP181",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Ash",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK5RU189567&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f47aaca6-24d6-40c0-983b-00004fa8db96.jpg",
-    "price": "$29,045",
-    "sutherlins_price": "$23,888",
-    "mileage": "21,925 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Mercedes-Benz C-Class C 300",
     "vin": "W1KWF8EB2MR612919",
     "stock": "MP222",
@@ -196,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Tesla Model 3 Performance",
-    "vin": "5YJ3E1EC1NF273819",
-    "stock": "MP185",
-    "exterior": "Pearl White Multi-Coat",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
-    "price": "$64,190",
-    "sutherlins_price": "$26,888",
-    "mileage": "67,079 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Tucson Limited",
     "vin": "5NMJE3AE2PH183123",
     "stock": "MP215",
@@ -238,6 +208,21 @@
     "price": "$36,495",
     "sutherlins_price": "$26,888",
     "mileage": "30,228 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
+    "price": "$64,190",
+    "sutherlins_price": "$26,888",
+    "mileage": "67,079 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$45,500",
     "sutherlins_price": "$30,888",
     "mileage": "34,906 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 GMC Acadia AT4",
+    "vin": "1GKKNLLS1PZ253556",
+    "stock": "MP120",
+    "exterior": "Volcanic Red",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fcca1a85-8271-43fe-ad3b-2a1a6388bcba.jpg",
+    "price": "$49,980",
+    "sutherlins_price": "$30,888",
+    "mileage": "32,033 Miles"
   }
 ]
