@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford Escape S",
-    "vin": "1FMCU0F66LUC69674",
-    "stock": "MP133",
-    "exterior": "Oxford White",
-    "interior": "Dark Earth Gray",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
-    "price": "$26,290",
-    "sutherlins_price": "$13,888",
-    "mileage": "42,285 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Murano SV",
     "vin": "5N1AZ2BJ0LN106365",
     "stock": "MP167A",
@@ -283,6 +268,21 @@
     "price": "$36,455",
     "sutherlins_price": "$13,888",
     "mileage": "96,977 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford Escape S",
+    "vin": "1FMCU0F66LUC69674",
+    "stock": "MP133",
+    "exterior": "Oxford White",
+    "interior": "Dark Earth Gray",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU0F66LUC69674&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f049f9f9-b180-42ff-a205-f944a73c2d39.jpg",
+    "price": "$26,290",
+    "sutherlins_price": "$13,888",
+    "mileage": "42,285 Miles"
   },
   {
     "category": "used",
@@ -354,7 +354,7 @@
     "engine": "1.5L DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1ZB5ST3MF042910&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/df596658-8c4c-4705-9d57-2d02a8b5abe8.jpg",
     "price": "$24,195",
     "sutherlins_price": "$16,888",
     "mileage": "58,213 Miles"
@@ -384,7 +384,7 @@
     "engine": "I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8K22AA4MU697771&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4774ba1-5b25-4d87-821d-34ef2fe004fe.jpg",
     "price": "$24,035",
     "sutherlins_price": "$16,888",
     "mileage": "76,786 Miles"
