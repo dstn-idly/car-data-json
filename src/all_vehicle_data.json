@@ -781,6 +781,36 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Rogue S",
+    "vin": "5N1BT3AA7RC725028",
+    "stock": "26703A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS112031203_640_01.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$19,995",
+    "mileage": "15,115 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV3SY247532",
+    "stock": "P13761",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0e5a9f98c86448cd9ea5c550433e2b6b.jpg",
+    "price": "$20,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "1,156 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV8RY201199",
     "stock": "P13735",
@@ -823,36 +853,6 @@
     "price": "$23,775",
     "sutherlins_price": "$19,995",
     "mileage": "6,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue S",
-    "vin": "5N1BT3AA7RC725028",
-    "stock": "26703A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS112031203_640_01.jpg",
-    "price": "$23,475",
-    "sutherlins_price": "$19,995",
-    "mileage": "15,115 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV3SY247532",
-    "stock": "P13761",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0e5a9f98c86448cd9ea5c550433e2b6b.jpg",
-    "price": "$20,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "1,156 Miles"
   },
   {
     "category": "used",
@@ -1036,21 +1036,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE0RP103142",
-    "stock": "KP1102",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE0RP103142&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/01893a6fefb74a5793deed85d98b6c36.jpg",
-    "price": "$22,750",
-    "sutherlins_price": "$20,995",
-    "mileage": "21,950 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Audi A4 Sedan S line Premium Plus",
     "vin": "WAUEAAF47MN012865",
     "stock": "26796A",
@@ -1063,6 +1048,21 @@
     "price": "$23,900",
     "sutherlins_price": "$20,995",
     "mileage": "82,560 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE0RP103142",
+    "stock": "KP1102",
+    "exterior": "Celestite",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE0RP103142&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/01893a6fefb74a5793deed85d98b6c36.jpg",
+    "price": "$22,750",
+    "sutherlins_price": "$20,995",
+    "mileage": "21,950 Miles"
   },
   {
     "category": "used",
@@ -1096,21 +1096,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Kicks Play S",
-    "vin": "3N1CP5BV0SL481021",
-    "stock": "P13781",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV0SL481021&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS28_640/2025NIS281918141_640_01.jpg",
-    "price": "$23,760",
-    "sutherlins_price": "$20,995",
-    "mileage": "1,485 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mazda MAZDA3 Sedan 2.5 S Preferred",
     "vin": "3MZBPACM8RM413249",
     "stock": "P13753",
@@ -1123,6 +1108,21 @@
     "price": "$22,725",
     "sutherlins_price": "$20,995",
     "mileage": "20,365 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV0SL481021",
+    "stock": "P13781",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV0SL481021&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS28_640/2025NIS281918141_640_01.jpg",
+    "price": "$23,760",
+    "sutherlins_price": "$20,995",
+    "mileage": "1,485 Miles"
   },
   {
     "category": "used",
@@ -1141,21 +1141,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Toyota Highlander LE",
-    "vin": "5TDZZRAH5NS094466",
-    "stock": "26735A",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDZZRAH5NS094466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022TOS14_640/2022TOS140001_640_01.jpg",
-    "price": "$23,475",
-    "sutherlins_price": "$21,988",
-    "mileage": "112,013 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SR",
     "vin": "3N1AB8DV1RY325393",
     "stock": "26617C",
@@ -1168,6 +1153,21 @@
     "price": "$23,575",
     "sutherlins_price": "$21,988",
     "mileage": "25,583 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Toyota Highlander LE",
+    "vin": "5TDZZRAH5NS094466",
+    "stock": "26735A",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDZZRAH5NS094466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022TOS14_640/2022TOS140001_640_01.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$21,988",
+    "mileage": "112,013 Miles"
   },
   {
     "category": "used",
@@ -1351,21 +1351,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA4RC673419",
-    "stock": "P13744",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df8d22d429b441df85a324c447c76f47.jpg",
-    "price": "$24,350",
-    "sutherlins_price": "$22,995",
-    "mileage": "67,057 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Nissan Kicks S",
     "vin": "3N8AP6BE2TL339947",
     "stock": "P13783",
@@ -1381,18 +1366,18 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Altima SR",
-    "vin": "1N4BL4CV4SN380552",
-    "stock": "P13757",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA4RC673419",
+    "stock": "P13744",
     "exterior": "Gun Metallic",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4SN380552&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc9dcac97d64979845c90c376cd530e.jpg",
-    "price": "$24,250",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/df8d22d429b441df85a324c447c76f47.jpg",
+    "price": "$24,350",
     "sutherlins_price": "$22,995",
-    "mileage": "24,413 Miles"
+    "mileage": "67,057 Miles"
   },
   {
     "category": "used",
@@ -1408,6 +1393,21 @@
     "price": "$23,975",
     "sutherlins_price": "$22,995",
     "mileage": "59,734 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Altima SR",
+    "vin": "1N4BL4CV4SN380552",
+    "stock": "P13757",
+    "exterior": "Gun Metallic",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4CV4SN380552&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5cc9dcac97d64979845c90c376cd530e.jpg",
+    "price": "$24,250",
+    "sutherlins_price": "$22,995",
+    "mileage": "24,413 Miles"
   },
   {
     "category": "used",
@@ -1771,21 +1771,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Honda CR-V LX",
-    "vin": "2HKRS3H20SH311264",
-    "stock": "P13695",
-    "exterior": "Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HKRS3H20SH311264&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fc3966bd39234865b6baaa03ad97ba4b.jpg",
-    "price": "$28,700",
-    "sutherlins_price": "$27,995",
-    "mileage": "30,996 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Honda HR-V EX-L",
     "vin": "3CZRZ1H75RM700959",
     "stock": "KP1106",
@@ -1798,6 +1783,21 @@
     "price": "$29,775",
     "sutherlins_price": "$27,995",
     "mileage": "1,612 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Honda CR-V LX",
+    "vin": "2HKRS3H20SH311264",
+    "stock": "P13695",
+    "exterior": "Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HKRS3H20SH311264&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fc3966bd39234865b6baaa03ad97ba4b.jpg",
+    "price": "$28,700",
+    "sutherlins_price": "$27,995",
+    "mileage": "30,996 Miles"
   },
   {
     "category": "used",
@@ -1996,21 +1996,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Frontier PRO-X",
-    "vin": "1N6ED1EJ2PN634339",
-    "stock": "26164A",
-    "exterior": "Super Black",
-    "interior": "Charcoal w/Lava Red Stit",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ2PN634339&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT12_640/2023NIT120062_640_01.jpg",
-    "price": "$35,700",
-    "sutherlins_price": "$32,995",
-    "mileage": "24,569 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 INFINITI QX50 SPORT",
     "vin": "3PCAJ5FAXPF111178",
     "stock": "P13739",
@@ -2023,6 +2008,21 @@
     "price": "$33,825",
     "sutherlins_price": "$32,995",
     "mileage": "44,347 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Frontier PRO-X",
+    "vin": "1N6ED1EJ2PN634339",
+    "stock": "26164A",
+    "exterior": "Super Black",
+    "interior": "Charcoal w/Lava Red Stit",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ2PN634339&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT12_640/2023NIT120062_640_01.jpg",
+    "price": "$35,700",
+    "sutherlins_price": "$32,995",
+    "mileage": "24,569 Miles"
   },
   {
     "category": "used",
@@ -2221,21 +2221,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Murano SV",
-    "vin": "5N1AZ2BJ0LN106365",
-    "stock": "MP167A",
-    "exterior": "Gun Metallic",
-    "interior": "Graphite",
-    "engine": "3.5L V6 DOHC 24V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ0LN106365&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5N1AZ2BJ0LN106365&vehicletype=SUV",
-    "price": "$36,455",
-    "sutherlins_price": "$13,888",
-    "mileage": "96,977 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Ford Escape S",
     "vin": "1FMCU0F66LUC69674",
     "stock": "MP133",
@@ -2248,6 +2233,21 @@
     "price": "$26,290",
     "sutherlins_price": "$13,888",
     "mileage": "42,285 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Nissan Murano SV",
+    "vin": "5N1AZ2BJ0LN106365",
+    "stock": "MP167A",
+    "exterior": "Gun Metallic",
+    "interior": "Graphite",
+    "engine": "3.5L V6 DOHC 24V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2BJ0LN106365&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5N1AZ2BJ0LN106365&vehicletype=SUV",
+    "price": "$36,455",
+    "sutherlins_price": "$13,888",
+    "mileage": "96,977 Miles"
   },
   {
     "category": "used",
@@ -2454,7 +2454,7 @@
     "engine": "2.0L I4 DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE6RP080580&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YFB4MDE6RP080580&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6eef5756-2962-4211-987c-1fa199a87861.jpg",
     "price": "$21,900",
     "sutherlins_price": "$18,888",
     "mileage": "54,623 Miles"
@@ -2499,7 +2499,7 @@
     "engine": "2.0L I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1C98LUL01325&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5LMCJ1C98LUL01325&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d281f614-bd15-40f9-8220-62c92d0ee7ea.jpg",
     "price": "$42,635",
     "sutherlins_price": "$18,888",
     "mileage": "73,117 Miles"
@@ -2521,21 +2521,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bd451d6-96b3-45b8-b4d9-5f3dc2897d11.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$19,888",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q5 45 Premium Plus",
     "vin": "WA1BNAFY3L2059317",
     "stock": "MP186",
@@ -2548,6 +2533,21 @@
     "price": "$19,888",
     "sutherlins_price": "$19,888",
     "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bd451d6-96b3-45b8-b4d9-5f3dc2897d11.jpg",
+    "price": "$46,345",
+    "sutherlins_price": "$19,888",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -2949,7 +2949,7 @@
     "engine": "2.5L I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS1DAJXPH573485&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMS1DAJXPH573485&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/95e40c2f-b5f1-4b9a-81ca-b98ebf64fa59.jpg",
     "price": "$32,985",
     "sutherlins_price": "$24,988",
     "mileage": "28,599 Miles"
@@ -3001,21 +3001,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG3PR536366",
-    "stock": "MP165",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/49939f8a-da06-45df-85f3-918e8ea73128.jpg",
-    "price": "$49,450",
-    "sutherlins_price": "$25,888",
-    "mileage": "50,294 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA3RC203647",
     "stock": "MP049",
@@ -3028,6 +3013,21 @@
     "price": "$48,999",
     "sutherlins_price": "$25,888",
     "mileage": "22,521 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG3PR536366",
+    "stock": "MP165",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/49939f8a-da06-45df-85f3-918e8ea73128.jpg",
+    "price": "$49,450",
+    "sutherlins_price": "$25,888",
+    "mileage": "50,294 Miles"
   },
   {
     "category": "used",
@@ -3384,7 +3384,7 @@
     "engine": "2.0L Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1CA8PUL26757&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5LMCJ1CA8PUL26757&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2aab347a-ee13-4273-9b40-c461a1323749.jpg",
     "price": "$39,835",
     "sutherlins_price": "$31,888",
     "mileage": "12,771 Miles"
@@ -3466,21 +3466,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Genesis GV80 3.5T",
-    "vin": "KMUHCESC5MU062908",
-    "stock": "MP159",
-    "exterior": "Silver",
-    "interior": "Beige/Black",
-    "engine": "3.5L DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dbc5df6e-77c4-47d5-9791-fa670b227097.jpg",
-    "price": "$66,395",
-    "sutherlins_price": "$35,888",
-    "mileage": "50,890 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mercedes-Benz C-Class C 300",
     "vin": "W1KAF4HB2NR039147",
     "stock": "MP220",
@@ -3493,6 +3478,21 @@
     "price": "$57,400",
     "sutherlins_price": "$35,888",
     "mileage": "27,136 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Genesis GV80 3.5T",
+    "vin": "KMUHCESC5MU062908",
+    "stock": "MP159",
+    "exterior": "Silver",
+    "interior": "Beige/Black",
+    "engine": "3.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dbc5df6e-77c4-47d5-9791-fa670b227097.jpg",
+    "price": "$66,395",
+    "sutherlins_price": "$35,888",
+    "mileage": "50,890 Miles"
   },
   {
     "category": "used",
@@ -3564,7 +3564,7 @@
     "engine": "2.0L I4 Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFB4KB1NA766651&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4JGFB4KB1NA766651&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1c800d95-96bb-4c01-b1ba-63ff3d26982f.jpg",
     "price": "$73,225",
     "sutherlins_price": "$39,888",
     "mileage": "58,620 Miles"
@@ -3609,7 +3609,7 @@
     "engine": "2.7L V6 EcoBoost",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1EP4NKE59494&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FTEW1EP4NKE59494&vehicletype=Truck",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8412780a-61c3-43cb-b592-be8f57d6d6db.jpg",
     "price": "$57,180",
     "sutherlins_price": "$41,888",
     "mileage": "30,501 Miles"
@@ -3661,21 +3661,6 @@
   },
   {
     "category": "used",
-    "name": "2025 GMC Sierra 1500 SLT",
-    "vin": "1GTUUDED9SZ219837",
-    "stock": "MP230",
-    "exterior": "Titanium",
-    "interior": "Jet Black",
-    "engine": "EcoTec3 5.3L V8",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTUUDED9SZ219837&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1GTUUDED9SZ219837&vehicletype=Truck",
-    "price": "$60,490",
-    "sutherlins_price": "$43,888",
-    "mileage": "62,097 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Lexus RX 350 Premium",
     "vin": "2T2BAMBA3PC004994",
     "stock": "MP134",
@@ -3688,6 +3673,21 @@
     "price": "$52,575",
     "sutherlins_price": "$43,888",
     "mileage": "18,737 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 GMC Sierra 1500 SLT",
+    "vin": "1GTUUDED9SZ219837",
+    "stock": "MP230",
+    "exterior": "Titanium",
+    "interior": "Jet Black",
+    "engine": "EcoTec3 5.3L V8",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTUUDED9SZ219837&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1GTUUDED9SZ219837&vehicletype=Truck",
+    "price": "$60,490",
+    "sutherlins_price": "$43,888",
+    "mileage": "62,097 Miles"
   },
   {
     "category": "used",
