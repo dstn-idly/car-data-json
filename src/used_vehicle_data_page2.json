@@ -86,23 +86,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN327173&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/20c9fc5080fb439d8140e7cb4293c6a2.jpg",
     "price": "$22,950",
-    "sutherlins_price": "$17,983",
+    "sutherlins_price": "$21,995",
     "mileage": "26,835 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Sonata SEL Plus",
-    "vin": "5NPEJ4J29MH087030",
-    "stock": "P13635A",
-    "exterior": "Hampton Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEJ4J29MH087030&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e5e55afadcd45769d1256ec8ecf2c87.jpg",
-    "price": "$19,400",
-    "sutherlins_price": "$17,995",
-    "mileage": "83,865 Miles"
   },
   {
     "category": "used",
@@ -136,6 +121,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Hyundai Sonata SEL Plus",
+    "vin": "5NPEJ4J29MH087030",
+    "stock": "P13635A",
+    "exterior": "Hampton Gray",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEJ4J29MH087030&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e5e55afadcd45769d1256ec8ecf2c87.jpg",
+    "price": "$19,400",
+    "sutherlins_price": "$17,995",
+    "mileage": "83,865 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Kia Forte LXS",
     "vin": "3KPF24AD9RE717255",
     "stock": "P13755",
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDBN9RT119586&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c9854276538471cb24511782fbe982c.jpg",
     "price": "$23,650",
-    "sutherlins_price": "$18,499",
+    "sutherlins_price": "$22,995",
     "mileage": "50,837 Miles"
   },
   {
@@ -316,18 +316,33 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY201199",
-    "stock": "P13735",
-    "exterior": "Rosewood Metallic",
+    "name": "2024 Nissan Rogue S",
+    "vin": "5N1BT3AA7RC725028",
+    "stock": "26703A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS112031203_640_01.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$19,995",
+    "mileage": "15,115 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV3SY247532",
+    "stock": "P13761",
+    "exterior": "Super Black",
     "interior": "Charcoal",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b295cceb0f54f35bee7abaeea521a29.jpg",
-    "price": "$21,275",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0e5a9f98c86448cd9ea5c550433e2b6b.jpg",
+    "price": "$20,775",
     "sutherlins_price": "$19,995",
-    "mileage": "40,372 Miles"
+    "mileage": "1,156 Miles"
   },
   {
     "category": "used",
@@ -343,6 +358,21 @@
     "price": "$20,925",
     "sutherlins_price": "$19,995",
     "mileage": "18,817 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV8RY201199",
+    "stock": "P13735",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b295cceb0f54f35bee7abaeea521a29.jpg",
+    "price": "$21,275",
+    "sutherlins_price": "$19,995",
+    "mileage": "40,372 Miles"
   },
   {
     "category": "used",
@@ -373,36 +403,6 @@
     "price": "$23,775",
     "sutherlins_price": "$19,995",
     "mileage": "6,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV3SY247532",
-    "stock": "P13761",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0e5a9f98c86448cd9ea5c550433e2b6b.jpg",
-    "price": "$20,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "1,156 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue S",
-    "vin": "5N1BT3AA7RC725028",
-    "stock": "26703A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS112031203_640_01.jpg",
-    "price": "$23,475",
-    "sutherlins_price": "$19,995",
-    "mileage": "15,115 Miles"
   },
   {
     "category": "used",
