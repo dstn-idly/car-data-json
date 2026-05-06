@@ -42,7 +42,7 @@
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
     "price": "$46,345",
     "sutherlins_price": "$19,888",
-    "mileage": "N/A"
+    "mileage": "77,710 Miles"
   },
   {
     "category": "used",
@@ -58,21 +58,6 @@
     "price": "$28,090",
     "sutherlins_price": "$19,888",
     "mileage": "464 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Chrysler Pacifica Touring L",
-    "vin": "2C4RC1BG2NR170565",
-    "stock": "M2653A",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1BG2NR170565&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RC1BG2NR170565&vehicletype=Van",
-    "price": "$42,133",
-    "sutherlins_price": "$19,888",
-    "mileage": "65,470 Miles"
   },
   {
     "category": "used",
@@ -385,7 +370,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWF8EB2MR612919&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e6f8929d-be18-4b3f-81ae-f7d9f5a81170.jpg",
-    "price": "$23,988",
+    "price": "$22,888",
     "sutherlins_price": "$23,988",
     "mileage": "73,581 Miles"
   },
@@ -474,9 +459,24 @@
     "engine": "2.0L I4 DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HB3AB3RU134498&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8HB3AB3RU134498&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0bc8f27a-8431-453a-a7f4-a6cab85894e6.jpg",
     "price": "$27,684",
     "sutherlins_price": "$25,888",
     "mileage": "8,283 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Mitsubishi Outlander ES",
+    "vin": "JA4J3UA82SZ024459",
+    "stock": "M2638A",
+    "exterior": "White Diamond",
+    "interior": "Black",
+    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA82SZ024459&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3173d8f0-ab5e-4e3e-a2f9-774a6c0f792d.jpg",
+    "price": "$31,590",
+    "sutherlins_price": "$25,888",
+    "mileage": "19,398 Miles"
   }
 ]

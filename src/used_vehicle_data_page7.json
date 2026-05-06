@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Mitsubishi Outlander ES",
-    "vin": "JA4J3UA82SZ024459",
-    "stock": "M2638A",
-    "exterior": "White Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3UA82SZ024459&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3173d8f0-ab5e-4e3e-a2f9-774a6c0f792d.jpg",
-    "price": "$31,590",
-    "sutherlins_price": "$25,888",
-    "mileage": "19,398 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Pathfinder SV",
     "vin": "5N1DR3BA3RC203647",
     "stock": "MP049",
@@ -46,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Tesla Model 3 Performance",
-    "vin": "5YJ3E1EC1NF273819",
-    "stock": "MP185",
-    "exterior": "Pearl White Multi-Coat",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
-    "price": "$64,190",
-    "sutherlins_price": "$26,888",
-    "mileage": "67,079 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR43PS220446",
     "stock": "MP209",
@@ -88,6 +58,21 @@
     "price": "$37,820",
     "sutherlins_price": "$26,888",
     "mileage": "33,250 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
+    "price": "$64,190",
+    "sutherlins_price": "$26,888",
+    "mileage": "67,079 Miles"
   },
   {
     "category": "used",
@@ -159,7 +144,7 @@
     "engine": "2.0L Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR44SS196327&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3GNKBCR44SS196327&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/75951761-1997-4487-b4f0-9e4636801af3.jpg",
     "price": "$36,795",
     "sutherlins_price": "$26,999",
     "mileage": "29,649 Miles"
@@ -354,7 +339,7 @@
     "engine": "I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/58b14b89-a795-44f8-9b1c-337d590ab132.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ebb3f6a7-ac34-4d7d-9258-9d4e3f37ece6.jpg",
     "price": "$41,615",
     "sutherlins_price": "$31,888",
     "mileage": "31,197 Miles"
@@ -376,6 +361,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Honda Ridgeline RTL",
+    "vin": "5FPYK3F56PB025103",
+    "stock": "MP235",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "3.5L V6 SOHC i-VTEC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FPYK3F56PB025103&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FPYK3F56PB025103&vehicletype=Truck",
+    "price": "$31,888",
+    "sutherlins_price": "$31,888",
+    "mileage": "29,335 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Ford Mustang Mach-E Premium",
     "vin": "3FMTK3SU3NMA58063",
     "stock": "MP214",
@@ -384,7 +384,7 @@
     "engine": "Dual Electric Motor",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK3SU3NMA58063&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FMTK3SU3NMA58063&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7a76c67e-0d6b-48b3-9b8a-75f0b0c18792.jpg",
     "price": "$58,815",
     "sutherlins_price": "$31,888",
     "mileage": "13,486 Miles"
@@ -399,7 +399,7 @@
     "engine": "2.0L Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1CA8PUL26757&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2aab347a-ee13-4273-9b40-c461a1323749.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/85a65454-b425-4710-9f5c-8f8d84379cd6.jpg",
     "price": "$39,835",
     "sutherlins_price": "$31,888",
     "mileage": "12,771 Miles"
