@@ -41,7 +41,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV7PL522444&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/009702250a67479ca86593b099ec7765.jpg",
     "price": "$19,175",
-    "sutherlins_price": "$17,995",
+    "sutherlins_price": "$16,450",
     "mileage": "50,979 Miles"
   },
   {
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA9MC811573&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/135bd365e3e1450a8292891770aefc61.jpg",
     "price": "$17,800",
-    "sutherlins_price": "$15,478",
+    "sutherlins_price": "$17,400",
     "mileage": "75,119 Miles"
   },
   {
@@ -101,7 +101,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV4NW580252&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a2c221fbfbfb4f45acc41541ed372d0b.jpg",
     "price": "$21,289",
-    "sutherlins_price": "$15,498",
+    "sutherlins_price": "$17,498",
     "mileage": "63,858 Miles"
   },
   {
@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY411152&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d49dc91f231a4d25b19d5e10c55e04e0.jpg",
     "price": "$20,775",
-    "sutherlins_price": "$19,995",
+    "sutherlins_price": "$18,699",
     "mileage": "2,102 Miles"
   },
   {
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY414156&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/1505c1ce047e408dbccbba130bae1359.jpg",
     "price": "$20,950",
-    "sutherlins_price": "$19,995",
+    "sutherlins_price": "$18,995",
     "mileage": "1,982 Miles"
   },
   {
@@ -211,36 +211,6 @@
   },
   {
     "category": "cpo",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV3SY247532",
-    "stock": "P13761",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0e5a9f98c86448cd9ea5c550433e2b6b.jpg",
-    "price": "$20,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "1,156 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2025 Nissan Kicks Play S",
-    "vin": "3N1CP5BV5SL477935",
-    "stock": "P13762",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b62108857ee408d88f011e1373aa2a1.jpg",
-    "price": "$23,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "6,849 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2025 Nissan Sentra SV",
     "vin": "3N1AB8CV0SY313954",
     "stock": "P13741",
@@ -268,6 +238,36 @@
     "price": "$21,275",
     "sutherlins_price": "$19,995",
     "mileage": "40,372 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV5SL477935",
+    "stock": "P13762",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b62108857ee408d88f011e1373aa2a1.jpg",
+    "price": "$23,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "6,849 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV3SY247532",
+    "stock": "P13761",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY247532&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0e5a9f98c86448cd9ea5c550433e2b6b.jpg",
+    "price": "$20,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "1,156 Miles"
   },
   {
     "category": "cpo",

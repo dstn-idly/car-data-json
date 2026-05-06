@@ -56,7 +56,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTFW1ED2PFC96494&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a4a190d7fa404f23aa8c481f25819544.jpg",
     "price": "$52,325",
-    "sutherlins_price": "$43,943",
+    "sutherlins_price": "$40,988",
     "mileage": "47,826 Miles"
   },
   {
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1K85REA58382&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/b5c5dea9130849b78419ba36863b29ca.jpg",
     "price": "$55,600",
-    "sutherlins_price": "$37,410",
+    "sutherlins_price": "$41,988",
     "mileage": "66,838 Miles"
   },
   {
@@ -101,23 +101,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNSCRKD3RR325360&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bf445eab82664a15bd449404dbce94f4.jpg",
     "price": "$66,025",
-    "sutherlins_price": "$58,988",
+    "sutherlins_price": "$57,698",
     "mileage": "28,988 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Altima SV",
-    "vin": "1N4BL4DV5SN361555",
-    "stock": "KP1108",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5SN361555&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC04_640/2025NIC042008864_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "22,243 Miles"
   },
   {
     "category": "used",
@@ -136,6 +121,21 @@
   },
   {
     "category": "used",
+    "name": "2025 Nissan Altima SV",
+    "vin": "1N4BL4DV5SN361555",
+    "stock": "KP1108",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5SN361555&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC04_640/2025NIC042008864_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "22,243 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AB8PC934185",
     "stock": "P13785",
@@ -148,6 +148,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "37,233 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV9NY252297",
+    "stock": "T26625A",
+    "exterior": "Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9NY252297&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060046_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "87,229 Miles"
   },
   {
     "category": "used",
@@ -178,21 +193,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "191,244 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Sentra SR",
-    "vin": "3N1AB8DV9NY252297",
-    "stock": "T26625A",
-    "exterior": "Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9NY252297&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC06_640/2022NIC060046_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "87,229 Miles"
   },
   {
     "category": "used",
@@ -271,21 +271,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Murano SL",
-    "vin": "5N1AZ2CJ5PC142004",
-    "stock": "P13787",
-    "exterior": "Super Black",
-    "interior": "Cashmere",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC142004&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS02_640/2023NIS020023_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "17,750 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CVXRY269732",
     "stock": "P13796",
@@ -343,6 +328,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "6,733 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano SL",
+    "vin": "5N1AZ2CJ5PC142004",
+    "stock": "P13787",
+    "exterior": "Super Black",
+    "interior": "Cashmere",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC142004&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS02_640/2023NIS020023_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "17,750 Miles"
   },
   {
     "category": "used",
