@@ -811,6 +811,36 @@
   },
   {
     "category": "used",
+    "name": "2025 Nissan Kicks Play S",
+    "vin": "3N1CP5BV5SL477935",
+    "stock": "P13762",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b62108857ee408d88f011e1373aa2a1.jpg",
+    "price": "$23,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "6,849 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue S",
+    "vin": "5N1BT3AA7RC725028",
+    "stock": "26703A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS112031203_640_01.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$19,995",
+    "mileage": "15,115 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Altima SV",
     "vin": "1N4BL4DV6SN321369",
     "stock": "P13789",
@@ -853,36 +883,6 @@
     "price": "$21,275",
     "sutherlins_price": "$19,995",
     "mileage": "40,372 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Kicks Play S",
-    "vin": "3N1CP5BV5SL477935",
-    "stock": "P13762",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5BV5SL477935&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b62108857ee408d88f011e1373aa2a1.jpg",
-    "price": "$23,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "6,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue S",
-    "vin": "5N1BT3AA7RC725028",
-    "stock": "26703A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS112031203_640_01.jpg",
-    "price": "$23,475",
-    "sutherlins_price": "$19,995",
-    "mileage": "15,115 Miles"
   },
   {
     "category": "used",
@@ -1291,21 +1291,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks S",
-    "vin": "3N8AP6BE8TL351956",
-    "stock": "P13766",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE8TL351956&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8915c951dc44a52bc5f319abdcc8e5e.jpg",
-    "price": "$24,225",
-    "sutherlins_price": "$21,995",
-    "mileage": "795 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Murano SL",
     "vin": "5N1AZ2CS4PC125378",
     "stock": "P13624",
@@ -1318,6 +1303,21 @@
     "price": "$25,875",
     "sutherlins_price": "$21,995",
     "mileage": "60,596 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BE8TL351956",
+    "stock": "P13766",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE8TL351956&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8915c951dc44a52bc5f319abdcc8e5e.jpg",
+    "price": "$24,225",
+    "sutherlins_price": "$21,995",
+    "mileage": "795 Miles"
   },
   {
     "category": "used",
@@ -1411,21 +1411,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks S",
-    "vin": "3N8AP6BE2TL339947",
-    "stock": "P13783",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE2TL339947&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS26_640/2026NIS261993320_640_01.jpg",
-    "price": "$24,555",
-    "sutherlins_price": "$22,995",
-    "mileage": "2,757 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "5N1BT3BA4RC673419",
     "stock": "P13744",
@@ -1438,6 +1423,21 @@
     "price": "$24,350",
     "sutherlins_price": "$22,995",
     "mileage": "67,057 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BE2TL339947",
+    "stock": "P13783",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE2TL339947&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS26_640/2026NIS261993320_640_01.jpg",
+    "price": "$24,555",
+    "sutherlins_price": "$22,995",
+    "mileage": "2,757 Miles"
   },
   {
     "category": "used",
@@ -1558,21 +1558,6 @@
     "price": "$26,195",
     "sutherlins_price": "$23,995",
     "mileage": "1,145 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue Platinum",
-    "vin": "JN8AT3DC4MW100756",
-    "stock": "KP1109",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3DC4MW100756&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110063_640_01.jpg",
-    "price": "$28,600",
-    "sutherlins_price": "$25,988",
-    "mileage": "6,733 Miles"
   },
   {
     "category": "used",
@@ -1726,6 +1711,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Rogue Platinum",
+    "vin": "JN8AT3DC4MW100756",
+    "stock": "KP1109",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3DC4MW100756&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110063_640_01.jpg",
+    "price": "$28,600",
+    "sutherlins_price": "$25,988",
+    "mileage": "6,733 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR40PS223708",
     "stock": "KP1101",
@@ -1801,21 +1801,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA5RC209126",
-    "stock": "26782A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA5RC209126&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/411d3c9a5a6a497ca7c5359b1b0fb90f.jpg",
-    "price": "$27,525",
-    "sutherlins_price": "$26,995",
-    "mileage": "61,699 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Titan XD SL",
     "vin": "1N6AA1FB1LN504335",
     "stock": "P13701",
@@ -1828,6 +1813,21 @@
     "price": "$32,250",
     "sutherlins_price": "$26,995",
     "mileage": "88,216 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA5RC209126",
+    "stock": "26782A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA5RC209126&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/411d3c9a5a6a497ca7c5359b1b0fb90f.jpg",
+    "price": "$27,525",
+    "sutherlins_price": "$26,995",
+    "mileage": "61,699 Miles"
   },
   {
     "category": "used",
@@ -4501,21 +4501,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA5RC209126",
-    "stock": "26782A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA5RC209126&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/411d3c9a5a6a497ca7c5359b1b0fb90f.jpg",
-    "price": "$27,525",
-    "sutherlins_price": "$26,995",
-    "mileage": "61,699 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2020 Nissan Titan XD SL",
     "vin": "1N6AA1FB1LN504335",
     "stock": "P13701",
@@ -4528,6 +4513,21 @@
     "price": "$32,250",
     "sutherlins_price": "$26,995",
     "mileage": "88,216 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SV",
+    "vin": "5N1DR3BA5RC209126",
+    "stock": "26782A",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA5RC209126&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/411d3c9a5a6a497ca7c5359b1b0fb90f.jpg",
+    "price": "$27,525",
+    "sutherlins_price": "$26,995",
+    "mileage": "61,699 Miles"
   },
   {
     "category": "cpo",
