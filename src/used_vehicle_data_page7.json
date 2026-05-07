@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Toyota Corolla SE",
-    "vin": "5YFS4MCE1RP189384",
-    "stock": "MP127",
-    "exterior": "Classic Silver Metallic",
-    "interior": "Black/Red",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFS4MCE1RP189384&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bb2a627-5483-4af8-a218-9f4fd4c5b798.jpg",
-    "price": "$27,395",
-    "sutherlins_price": "$21,888",
-    "mileage": "15,805 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chrysler Voyager LX",
-    "vin": "2C4RC1CG3PR564125",
-    "stock": "MP179",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0369a54f-5227-49e9-ac51-320a6370fc6e.jpg",
-    "price": "$37,090",
-    "sutherlins_price": "$21,888",
-    "mileage": "70,274 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Fe SE",
     "vin": "5NMS14AJ3PH593061",
     "stock": "MP180",
@@ -249,7 +219,7 @@
     "engine": "2.0L I4 DOHC 16V",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HB3AB3RU134498&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9a8d499d-96ea-45c4-90fb-6d6abcd03e65.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ffb6ecf6-e95c-48ab-a7d1-eb01235a0e17.jpg",
     "price": "$27,684",
     "sutherlins_price": "$25,888",
     "mileage": "8,283 Miles"
@@ -399,7 +369,7 @@
     "engine": "2.0L Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR44SS196327&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b136319d-4e97-4bec-b2be-40218e058a07.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2f9ae9be-f447-4f47-a6c0-cec1f5fea6be.jpg",
     "price": "$36,795",
     "sutherlins_price": "$26,999",
     "mileage": "29,649 Miles"
@@ -478,5 +448,35 @@
     "price": "$40,380",
     "sutherlins_price": "$27,888",
     "mileage": "22,784 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Maserati Grecale GT",
+    "vin": "ZN6PMDAA2R7449295",
+    "stock": "MP228",
+    "exterior": "Bianco",
+    "interior": "Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZN6PMDAA2R7449295&vehicletype=SUV",
+    "price": "$69,995",
+    "sutherlins_price": "$28,888",
+    "mileage": "58,990 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Subaru Crosstrek Limited",
+    "vin": "4S4GUHL65R3752897",
+    "stock": "MP202",
+    "exterior": "Alpine Green",
+    "interior": "Gray W/Orange Stitching",
+    "engine": "2.5L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
+    "price": "$33,859",
+    "sutherlins_price": "$29,888",
+    "mileage": "16,234 Miles"
   }
 ]
