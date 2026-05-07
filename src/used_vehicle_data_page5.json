@@ -370,24 +370,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA32U8FW7FU022343&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA32U8FW7FU022343&vehicletype=Sedan",
-    "price": "$11,888",
+    "price": "$11,488",
     "sutherlins_price": "$11,888",
     "mileage": "95,786 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Kia Sorento LX",
-    "vin": "5XYPG4A54KG564288",
-    "stock": "MP164A",
-    "exterior": "Sparkling Silver",
-    "interior": "Black",
-    "engine": "V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPG4A54KG564288&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/40cdb837-4fec-471f-99a9-8abaa8282194.jpg",
-    "price": "$32,530",
-    "sutherlins_price": "$12,888",
-    "mileage": "74,877 Miles"
   },
   {
     "category": "used",
@@ -406,18 +391,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Trax LS",
-    "vin": "KL7CJKSB5LB323776",
-    "stock": "MP226",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
+    "name": "2019 Kia Sorento LX",
+    "vin": "5XYPG4A54KG564288",
+    "stock": "MP164A",
+    "exterior": "Sparkling Silver",
+    "interior": "Black",
+    "engine": "V6",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KL7CJKSB5LB323776&vehicletype=SUV",
-    "price": "$22,295",
-    "sutherlins_price": "$13,888",
-    "mileage": "54,302 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYPG4A54KG564288&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/40cdb837-4fec-471f-99a9-8abaa8282194.jpg",
+    "price": "$32,530",
+    "sutherlins_price": "$12,888",
+    "mileage": "74,877 Miles"
   },
   {
     "category": "used",
@@ -433,6 +418,21 @@
     "price": "$36,455",
     "sutherlins_price": "$13,888",
     "mileage": "96,977 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Trax LS",
+    "vin": "KL7CJKSB5LB323776",
+    "stock": "MP226",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KL7CJKSB5LB323776&vehicletype=SUV",
+    "price": "$22,295",
+    "sutherlins_price": "$13,888",
+    "mileage": "54,302 Miles"
   },
   {
     "category": "used",
