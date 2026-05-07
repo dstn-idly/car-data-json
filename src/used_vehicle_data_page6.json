@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2017 RAM 1500 Big Horn",
-    "vin": "1C6RR7TM0HS586548",
-    "stock": "MP161",
-    "exterior": "Brown",
-    "interior": "Lt Frost Beige/Brown",
-    "engine": "EcoDiesel 3.0L V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4b6dde46-f7a7-4160-bbda-8add69484536.jpg",
-    "price": "$52,580",
-    "sutherlins_price": "$16,788",
-    "mileage": "92,455 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Chevrolet Malibu LS",
     "vin": "1G1ZB5ST3MF042910",
     "stock": "MP195",
@@ -478,5 +463,20 @@
     "price": "$22,888",
     "sutherlins_price": "$22,888",
     "mileage": "73,581 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Maverick XLT",
+    "vin": "3FTTW8E38PRA44562",
+    "stock": "MP176",
+    "exterior": "Shadow Black",
+    "interior": "Navy Pier/Medium Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8ec9a2dc-ab5a-4e3b-8530-0f9af1bda17a.jpg",
+    "price": "$27,120",
+    "sutherlins_price": "$22,988",
+    "mileage": "71,119 Miles"
   }
 ]

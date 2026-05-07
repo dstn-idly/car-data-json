@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Ford Maverick XLT",
-    "vin": "3FTTW8E38PRA44562",
-    "stock": "MP176",
-    "exterior": "Shadow Black",
-    "interior": "Navy Pier/Medium Slate",
-    "engine": "2.5L I-4 Hybrid",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8ec9a2dc-ab5a-4e3b-8530-0f9af1bda17a.jpg",
-    "price": "$27,120",
-    "sutherlins_price": "$22,988",
-    "mileage": "71,119 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 MINI Cooper Classic",
     "vin": "WMWWJ3C03M3M17098",
     "stock": "MP200",
@@ -478,5 +463,20 @@
     "price": "$43,955",
     "sutherlins_price": "$30,888",
     "mileage": "59,388 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 BMW X1 xDrive28i",
+    "vin": "WBX73EF06S5102647",
+    "stock": "MP156",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 16V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c53de5b0-2a3b-4793-a3fa-a9fc2dc0728c.jpg",
+    "price": "$45,500",
+    "sutherlins_price": "$30,888",
+    "mileage": "34,906 Miles"
   }
 ]
