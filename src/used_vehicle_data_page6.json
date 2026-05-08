@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Hyundai Kona SEL",
-    "vin": "KM8K22AA4MU697771",
-    "stock": "MP216",
-    "exterior": "Silver",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
-    "price": "$24,035",
-    "sutherlins_price": "$16,888",
-    "mileage": "76,786 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 Black Edition",
     "vin": "ML32FUFJ6RHF09240",
     "stock": "M2682A",
@@ -28,6 +13,21 @@
     "price": "$18,940",
     "sutherlins_price": "$16,888",
     "mileage": "2,136 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Kona SEL",
+    "vin": "KM8K22AA4MU697771",
+    "stock": "MP216",
+    "exterior": "Silver",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
+    "price": "$24,035",
+    "sutherlins_price": "$16,888",
+    "mileage": "76,786 Miles"
   },
   {
     "category": "used",
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4b6dde46-f7a7-4160-bbda-8add69484536.jpg",
     "price": "$52,580",
-    "sutherlins_price": "$16,788",
+    "sutherlins_price": "$18,988",
     "mileage": "92,455 Miles"
   },
   {
@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Sport",
-    "vin": "3C4NJDAN0RT115038",
-    "stock": "MP154",
-    "exterior": "Hydro Blue Pearlcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/861d1f37-eda3-4c7c-900e-031d8e30fb4a.jpg",
-    "price": "$28,090",
-    "sutherlins_price": "$19,888",
-    "mileage": "464 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Kia Forte GT",
     "vin": "3KPF44AC6PE633148",
     "stock": "MP150",
@@ -253,6 +238,21 @@
     "price": "$28,055",
     "sutherlins_price": "$19,888",
     "mileage": "45,218 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Jeep Compass Sport",
+    "vin": "3C4NJDAN0RT115038",
+    "stock": "MP154",
+    "exterior": "Hydro Blue Pearlcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/861d1f37-eda3-4c7c-900e-031d8e30fb4a.jpg",
+    "price": "$28,090",
+    "sutherlins_price": "$19,888",
+    "mileage": "464 Miles"
   },
   {
     "category": "used",
@@ -286,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Escape ST-Line",
-    "vin": "1FMCU9MN4PUB39512",
-    "stock": "MP151",
-    "exterior": "Gray Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c828d5ae-3dd1-4dbf-a7c0-3643bab97e49.jpg",
-    "price": "$34,250",
-    "sutherlins_price": "$20,988",
-    "mileage": "24,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Volkswagen Tiguan 2.0T S",
     "vin": "3VVRB7AX8RM037718",
     "stock": "MP183",
@@ -313,6 +298,21 @@
     "price": "$30,915",
     "sutherlins_price": "$20,988",
     "mileage": "48,699 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Escape ST-Line",
+    "vin": "1FMCU9MN4PUB39512",
+    "stock": "MP151",
+    "exterior": "Gray Metallic",
+    "interior": "Ebony",
+    "engine": "1.5L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c828d5ae-3dd1-4dbf-a7c0-3643bab97e49.jpg",
+    "price": "$34,250",
+    "sutherlins_price": "$20,988",
+    "mileage": "24,892 Miles"
   },
   {
     "category": "used",
