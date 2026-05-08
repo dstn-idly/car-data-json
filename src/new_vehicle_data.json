@@ -954,7 +954,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV3TN332640&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/altima/2026-nissan-altima-13316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/15346ae678e84fa0849692fea8979f2e.jpg",
     "price": "$29,690",
     "sutherlins_price": "$26,530",
     "mileage": "6 Miles"
@@ -1119,7 +1119,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6DA2TL399835&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/kicks/2026-nissan-kicks-21516-exterior-xab.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bd2107af189047aba1321e7e132ac907.jpg",
     "price": "$30,290",
     "sutherlins_price": "$27,358",
     "mileage": "6 Miles"
@@ -1554,7 +1554,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA9TW331835&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-28316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d3ce19c2243497e96cb8153d2fa082a.jpg",
     "price": "$36,075",
     "sutherlins_price": "$30,141",
     "mileage": "6 Miles"
@@ -1816,6 +1816,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Rogue SV",
+    "vin": "5N1BT3BA1TC840035",
+    "stock": "TC840035",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal Premium Cloth",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA1TC840035&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54316-exterior-kby.png.ximg.m_6_h.smart.png",
+    "price": "$33,400",
+    "sutherlins_price": "$33,400",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2026 Nissan Rogue Dark Armor",
     "vin": "5N1BT3BAXTC832130",
     "stock": "TC832130",
@@ -1854,7 +1869,7 @@
     "engine": "Regular Unleaded V-6 3.8 L/231",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ7TN648182&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/frontier/2026-nissan-frontier-32316-exterior-rcf.png.ximg.m_6_h.smart.png",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1527ec872d504be48c572615ca7e194b.jpg",
     "price": "$40,115",
     "sutherlins_price": "$34,660",
     "mileage": "6 Miles"
@@ -2011,6 +2026,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Frontier King Cab S",
+    "vin": "1N6ED1CL1TN663961",
+    "stock": "TN663961",
+    "exterior": "Glacier White",
+    "interior": "Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1CL1TN663961&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2016/frontier/2016-nissan-frontier-31116-exterior-qak.png.ximg.m_6_h.smart.png",
+    "price": "$35,810",
+    "sutherlins_price": "$35,810",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2026 Nissan Rogue Platinum",
     "vin": "JN8BT3DD3TW314570",
     "stock": "26821",
@@ -2117,21 +2147,6 @@
   {
     "category": "new",
     "name": "2026 Nissan Frontier Crew Cab SV",
-    "vin": "1N6ED1EJ8TN661099",
-    "stock": "TN661099",
-    "exterior": "Glacier White",
-    "interior": "Premium Charcoal Cloth",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ8TN661099&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2016/frontier/2016-nissan-frontier-32316-exterior-qak.png.ximg.m_6_h.smart.png",
-    "price": "$39,665",
-    "sutherlins_price": "$36,165",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Frontier Crew Cab SV",
     "vin": "1N6ED1EJ5TN660783",
     "stock": "TN660783",
     "exterior": "Gun Metallic",
@@ -2232,6 +2247,21 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3c5b231e569642d4b617f2f4ff2f8a47.jpg",
     "price": "$42,575",
     "sutherlins_price": "$36,453",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
+    "name": "2026 Nissan Rogue Dark Armor",
+    "vin": "5N1BT3BA5TC838899",
+    "stock": "TC838899",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal Prima-Tex\u00ae",
+    "engine": "N/A",
+    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA5TC838899&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-28316-exterior-kad.png.ximg.m_6_h.smart.png",
+    "price": "$36,475",
+    "sutherlins_price": "$36,475",
     "mileage": "6 Miles"
   },
   {
@@ -2641,6 +2671,21 @@
   },
   {
     "category": "new",
+    "name": "2026 Nissan Frontier Crew Cab SV",
+    "vin": "1N6ED1EJ6TN663918",
+    "stock": "TN663918",
+    "exterior": "Glacier White",
+    "interior": "Premium Charcoal Cloth",
+    "engine": "N/A",
+    "transmission": "9-speed automatic transmission",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ6TN663918&source=BUP",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2016/frontier/2016-nissan-frontier-32316-exterior-qak.png.ximg.m_6_h.smart.png",
+    "price": "$39,665",
+    "sutherlins_price": "$39,665",
+    "mileage": "6 Miles"
+  },
+  {
+    "category": "new",
     "name": "2026 Nissan Pathfinder SL",
     "vin": "5N1DR3CE1TC207608",
     "stock": "T26098",
@@ -2652,21 +2697,6 @@
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/fd5da4c65b294a8fa3fcb059b99e31ed.jpg",
     "price": "$46,835",
     "sutherlins_price": "$39,840",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Rogue Platinum",
-    "vin": "JN8BT3DD1TW486323",
-    "stock": "TW486323",
-    "exterior": "Champagne Silver Metallic/Super Black",
-    "interior": "Charcoal Quilted Semi-aniline Leather appointments",
-    "engine": "N/A",
-    "transmission": "Xtronic CVT\u00ae (Continuously Variable Transmission) with Manual Mode",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DD1TW486323&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/rogue/2026-nissan-rogue-54816-exterior-xew.png.ximg.m_6_h.smart.png",
-    "price": "$43,645",
-    "sutherlins_price": "$40,145",
     "mileage": "6 Miles"
   },
   {
@@ -3222,21 +3252,6 @@
     "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/armada/2026-nissan-armada-56316-exterior-qac.png.ximg.m_6_h.smart.png",
     "price": "$68,845",
     "sutherlins_price": "$67,345",
-    "mileage": "6 Miles"
-  },
-  {
-    "category": "new",
-    "name": "2026 Nissan Armada SL",
-    "vin": "JN8AY3BA0T9030396",
-    "stock": "T9030396",
-    "exterior": "Alpine Metallic",
-    "interior": "Charcoal with Espresso TailorFit\u00ae appointments",
-    "engine": "N/A",
-    "transmission": "9-speed automatic transmission",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY3BA0T9030396&source=BUP",
-    "image": "https://www.nissanusa.com/content/dam/Nissan/us/assets/2026/armada/2026-nissan-armada-56316-exterior-dar.png.ximg.m_6_h.smart.png",
-    "price": "$68,940",
-    "sutherlins_price": "$67,440",
     "mileage": "6 Miles"
   },
   {

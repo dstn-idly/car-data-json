@@ -106,6 +106,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Nissan Titan SV",
+    "vin": "1N6AA1E69JN545510",
+    "stock": "26673A",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1E69JN545510&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIT13_640/2018NIT130065_640_01.jpg",
+    "price": "$18,775",
+    "sutherlins_price": "$14,988",
+    "mileage": "117,102 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Toyota Corolla LE",
     "vin": "JTDEPMAE0N3006518",
     "stock": "P13622",
@@ -271,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Hyundai Elantra SEL",
-    "vin": "5NPLM4AG3NH076102",
-    "stock": "P13714",
-    "exterior": "Shimmering Silver Pearl",
-    "interior": "Medium Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPLM4AG3NH076102&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ad88c45525764ab8b852e84903402b44.jpg",
-    "price": "$18,777",
-    "sutherlins_price": "$15,995",
-    "mileage": "61,549 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "JN8BT3AA9PW410963",
     "stock": "26771A",
@@ -358,21 +358,6 @@
     "price": "$18,275",
     "sutherlins_price": "$16,898",
     "mileage": "87,305 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Sonata SEL Plus",
-    "vin": "5NPEJ4J29MH087030",
-    "stock": "P13635A",
-    "exterior": "Hampton Gray",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.6 L/98",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEJ4J29MH087030&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/af3cc7737efa4b0ba7ca698b159481ad.jpg",
-    "price": "$19,400",
-    "sutherlins_price": "$16,948",
-    "mileage": "83,865 Miles"
   },
   {
     "category": "used",
@@ -451,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Kia K4 LXS",
-    "vin": "3KPFT4DE2SE020081",
-    "stock": "P13679",
-    "exterior": "Interstellar Gray",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFT4DE2SE020081&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7ec2c1d81946469f97d384b69f751792.jpg",
-    "price": "$25,800",
-    "sutherlins_price": "$17,830",
-    "mileage": "33,437 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra S",
     "vin": "3N1AB8BV9RY279704",
     "stock": "26375A",
@@ -478,5 +448,35 @@
     "price": "$19,225",
     "sutherlins_price": "$17,849",
     "mileage": "23,954 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV8RN339995",
+    "stock": "P13647",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV8RN339995&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/041a546fe6ef48378862af099dbfcb46.jpg",
+    "price": "$21,450",
+    "sutherlins_price": "$17,960",
+    "mileage": "33,212 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN327173",
+    "stock": "P13690",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN327173&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/20c9fc5080fb439d8140e7cb4293c6a2.jpg",
+    "price": "$22,950",
+    "sutherlins_price": "$17,983",
+    "mileage": "26,835 Miles"
   }
 ]
