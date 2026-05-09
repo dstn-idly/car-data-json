@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2023 Genesis G70 2.0T",
+    "vin": "KMTG34TAXPU129708",
+    "stock": "MP208",
+    "exterior": "Capri Blue",
+    "interior": "Obsidian Black/Sandstorm Gray",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ebb3f6a7-ac34-4d7d-9258-9d4e3f37ece6.jpg",
+    "price": "$41,615",
+    "sutherlins_price": "$31,888",
+    "mileage": "31,197 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Honda Ridgeline RTL",
     "vin": "5FPYK3F56PB025103",
     "stock": "MP235",
@@ -136,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Hyundai Santa Fe Calligraphy",
-    "vin": "5NMP54GL3SH109028",
-    "stock": "MP143",
-    "exterior": "Green",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMP54GL3SH109028&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9a352b84-d36c-4c78-b092-e06c6e5bc110.jpg",
-    "price": "$49,109",
-    "sutherlins_price": "$36,888",
-    "mileage": "12,806 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Genesis G70 3.3T",
     "vin": "KMTG54TE3PU117543",
     "stock": "MP193",
@@ -163,6 +163,21 @@
     "price": "$55,330",
     "sutherlins_price": "$36,888",
     "mileage": "21,630 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Hyundai Santa Fe Calligraphy",
+    "vin": "5NMP54GL3SH109028",
+    "stock": "MP143",
+    "exterior": "Green",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMP54GL3SH109028&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9a352b84-d36c-4c78-b092-e06c6e5bc110.jpg",
+    "price": "$49,109",
+    "sutherlins_price": "$36,888",
+    "mileage": "12,806 Miles"
   },
   {
     "category": "used",

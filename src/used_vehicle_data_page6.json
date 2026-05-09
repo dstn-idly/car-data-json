@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Hyundai Tucson SEL",
+    "vin": "5NMJF3AE1NH105622",
+    "stock": "M2624A",
+    "exterior": "Phantom Black",
+    "interior": "Black",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJF3AE1NH105622&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4d0c87a9-8e40-4221-bb42-516a4302b823.jpg",
+    "price": "$31,200",
+    "sutherlins_price": "$15,888",
+    "mileage": "101,831 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 Black Edition",
     "vin": "ML32FUFJ3RHF11186",
     "stock": "M2623A",
@@ -463,20 +478,5 @@
     "price": "$27,395",
     "sutherlins_price": "$21,888",
     "mileage": "15,805 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Hyundai Elantra SEL Convenience",
-    "vin": "KMHLS4DG6SU853564",
-    "stock": "M2655A",
-    "exterior": "Red",
-    "interior": "Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4DG6SU853564&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/58173c98-f745-4fa2-b987-e7ea84ce34d8.jpg",
-    "price": "$27,490",
-    "sutherlins_price": "$21,888",
-    "mileage": "14,809 Miles"
   }
 ]
