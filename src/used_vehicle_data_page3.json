@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Toyota Corolla LE",
-    "vin": "5YFB4MDE0RP103142",
-    "stock": "KP1102",
-    "exterior": "Celestite",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE0RP103142&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38656863e6d14f4e807d2153065ee1f8.jpg",
-    "price": "$22,750",
-    "sutherlins_price": "$20,995",
-    "mileage": "21,950 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Audi A4 Sedan S line Premium Plus",
     "vin": "WAUEAAF47MN012865",
     "stock": "26796A",
@@ -241,18 +226,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BB5PC930951",
-    "stock": "P13742",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "name": "2024 Toyota Corolla LE",
+    "vin": "5YFB4MDE0RP103142",
+    "stock": "KP1102",
+    "exterior": "Celestite",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB5PC930951&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/71b125050b794172b99d5d58c5aaa032.jpg",
-    "price": "$24,625",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFB4MDE0RP103142&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/38656863e6d14f4e807d2153065ee1f8.jpg",
+    "price": "$22,750",
     "sutherlins_price": "$20,995",
-    "mileage": "62,696 Miles"
+    "mileage": "21,950 Miles"
   },
   {
     "category": "used",
@@ -268,6 +253,21 @@
     "price": "$22,500",
     "sutherlins_price": "$20,995",
     "mileage": "37,405 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BB5PC930951",
+    "stock": "P13742",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB5PC930951&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/71b125050b794172b99d5d58c5aaa032.jpg",
+    "price": "$24,625",
+    "sutherlins_price": "$20,995",
+    "mileage": "62,696 Miles"
   },
   {
     "category": "used",
@@ -346,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks S",
-    "vin": "3N8AP6BE5TL339053",
-    "stock": "P13782",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE5TL339053&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS26_640/2026NIS261993320_640_01.jpg",
-    "price": "$24,455",
-    "sutherlins_price": "$21,995",
-    "mileage": "2,427 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AB8PC934185",
     "stock": "P13785",
@@ -373,6 +358,21 @@
     "price": "$22,500",
     "sutherlins_price": "$21,995",
     "mileage": "37,233 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BE5TL339053",
+    "stock": "P13782",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE5TL339053&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS26_640/2026NIS261993320_640_01.jpg",
+    "price": "$24,455",
+    "sutherlins_price": "$21,995",
+    "mileage": "2,427 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford Ranger XLT",
-    "vin": "1FTER4FH3LLA26935",
-    "stock": "26093A",
-    "exterior": "Oxford White",
-    "interior": "Medium Stone",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.3 L/140",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTER4FH3LLA26935&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/707757e26c1542a3bc3ab60ebc3e5649.jpg",
-    "price": "$27,485",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BE5TL346701",
+    "stock": "P13767",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE5TL346701&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/03b5b0bf72d8419bbec75a206668f1b2.jpg",
+    "price": "$24,455",
     "sutherlins_price": "$22,995",
-    "mileage": "96,482 Miles"
+    "mileage": "1,834 Miles"
   }
 ]
