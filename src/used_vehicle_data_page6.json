@@ -5,12 +5,12 @@
     "vin": "ML32FUFJ3RHF11186",
     "stock": "M2623A",
     "exterior": "Starlight Silver Metallic w/Black Roof",
-    "interior": "N/A",
+    "interior": "Dark Gray",
     "engine": "1.2L I3",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FUFJ3RHF11186&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32FUFJ3RHF11186&vehicletype=Sedan",
-    "price": "$15,888",
+    "price": "$20,655",
     "sutherlins_price": "$15,888",
     "mileage": "23,300 Miles"
   },
@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Mitsubishi Mirage G4 Black Edition",
-    "vin": "ML32FUFJ6RHF09240",
-    "stock": "M2682A",
-    "exterior": "Jet Black Metallic",
-    "interior": "Black",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FUFJ6RHF09240&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bf23074a-ed7c-4e80-9ca2-3d33fa11e60b.jpg",
-    "price": "$18,940",
-    "sutherlins_price": "$16,888",
-    "mileage": "2,136 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Hyundai Kona SEL",
     "vin": "KM8K22AA4MU697771",
     "stock": "MP216",
@@ -58,21 +43,6 @@
     "price": "$24,035",
     "sutherlins_price": "$16,888",
     "mileage": "76,786 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Mitsubishi Outlander ES",
-    "vin": "JA4J3TA80PZ015860",
-    "stock": "MP160",
-    "exterior": "Labrador Black Pearl",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3TA80PZ015860&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/786ccbe8-e6cd-47ef-af5e-a82e80f36b43.jpg",
-    "price": "$29,340",
-    "sutherlins_price": "$16,988",
-    "mileage": "61,591 Miles"
   },
   {
     "category": "used",
@@ -193,21 +163,6 @@
     "price": "$42,635",
     "sutherlins_price": "$18,888",
     "mileage": "73,117 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 RAM 1500 Big Horn",
-    "vin": "1C6RR7TM0HS586548",
-    "stock": "MP161",
-    "exterior": "Brown",
-    "interior": "Lt Frost Beige/Brown",
-    "engine": "EcoDiesel 3.0L V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR7TM0HS586548&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4b6dde46-f7a7-4160-bbda-8add69484536.jpg",
-    "price": "$52,580",
-    "sutherlins_price": "$18,988",
-    "mileage": "92,455 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$30,690",
     "sutherlins_price": "$21,988",
     "mileage": "43,849 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mercedes-Benz C-Class C 300",
+    "vin": "W1KWF8EB2MR612919",
+    "stock": "MP222",
+    "exterior": "Polar White",
+    "interior": "Almond",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWF8EB2MR612919&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e6f8929d-be18-4b3f-81ae-f7d9f5a81170.jpg",
+    "price": "$22,888",
+    "sutherlins_price": "$22,888",
+    "mileage": "73,581 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Ford Maverick XLT",
+    "vin": "3FTTW8E38PRA44562",
+    "stock": "MP176",
+    "exterior": "Shadow Black",
+    "interior": "Navy Pier/Medium Slate",
+    "engine": "2.5L I-4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FTTW8E38PRA44562&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8ec9a2dc-ab5a-4e3b-8530-0f9af1bda17a.jpg",
+    "price": "$27,120",
+    "sutherlins_price": "$22,988",
+    "mileage": "71,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 MINI Cooper Classic",
+    "vin": "WMWWJ3C03M3M17098",
+    "stock": "MP200",
+    "exterior": "Chili Red",
+    "interior": "Carbon Black",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMWWJ3C03M3M17098&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bf2e2b75-9d4a-4e7b-a8e7-53cb305422da.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$22,988",
+    "mileage": "5,831 Miles"
   }
 ]
