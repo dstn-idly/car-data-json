@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Hyundai Elantra SEL Convenience",
-    "vin": "KMHLS4DG6SU853564",
-    "stock": "M2655A",
-    "exterior": "Red",
-    "interior": "Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4DG6SU853564&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/58173c98-f745-4fa2-b987-e7ea84ce34d8.jpg",
-    "price": "$27,490",
-    "sutherlins_price": "$21,888",
-    "mileage": "14,809 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Mercedes-Benz C-Class C 300",
-    "vin": "W1KWF8EB2MR612919",
-    "stock": "MP222",
-    "exterior": "Polar White",
-    "interior": "Almond",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWF8EB2MR612919&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e6f8929d-be18-4b3f-81ae-f7d9f5a81170.jpg",
-    "price": "$22,888",
-    "sutherlins_price": "$22,888",
-    "mileage": "73,581 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Mitsubishi Outlander ES",
     "vin": "JA4J3UA82SZ024459",
     "stock": "M2638A",
@@ -211,21 +181,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR43PS220446",
-    "stock": "MP209",
-    "exterior": "Sterling Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR43PS220446&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3GNKBCR43PS220446&vehicletype=SUV",
-    "price": "$36,495",
-    "sutherlins_price": "$26,888",
-    "mileage": "30,228 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Tucson Limited",
     "vin": "5NMJE3AE2PH183123",
     "stock": "MP215",
@@ -238,6 +193,21 @@
     "price": "$37,820",
     "sutherlins_price": "$26,888",
     "mileage": "33,250 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR43PS220446",
+    "stock": "MP209",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR43PS220446&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3GNKBCR43PS220446&vehicletype=SUV",
+    "price": "$36,495",
+    "sutherlins_price": "$26,888",
+    "mileage": "30,228 Miles"
   },
   {
     "category": "used",
@@ -391,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2025 BMW X1 xDrive28i",
-    "vin": "WBX73EF06S5102647",
-    "stock": "MP156",
-    "exterior": "Black Sapphire Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 16V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c53de5b0-2a3b-4793-a3fa-a9fc2dc0728c.jpg",
-    "price": "$45,500",
-    "sutherlins_price": "$29,888",
-    "mileage": "34,906 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Alfa Romeo Giulia Veloce",
     "vin": "ZARFAMBN8P7673763",
     "stock": "MP236",
@@ -433,6 +388,21 @@
     "price": "$51,265",
     "sutherlins_price": "$29,888",
     "mileage": "62,231 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 BMW X1 xDrive28i",
+    "vin": "WBX73EF06S5102647",
+    "stock": "MP156",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 16V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c53de5b0-2a3b-4793-a3fa-a9fc2dc0728c.jpg",
+    "price": "$45,500",
+    "sutherlins_price": "$29,888",
+    "mileage": "34,906 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$49,980",
     "sutherlins_price": "$30,888",
     "mileage": "32,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Genesis G70 2.0T",
+    "vin": "KMTG34TAXPU129708",
+    "stock": "MP208",
+    "exterior": "Capri Blue",
+    "interior": "Obsidian Black/Sandstorm Gray",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ebb3f6a7-ac34-4d7d-9258-9d4e3f37ece6.jpg",
+    "price": "$41,615",
+    "sutherlins_price": "$31,888",
+    "mileage": "31,197 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Honda Ridgeline RTL",
+    "vin": "5FPYK3F56PB025103",
+    "stock": "MP235",
+    "exterior": "Platinum White Pearl",
+    "interior": "Black",
+    "engine": "3.5L V6 SOHC i-VTEC 24V",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FPYK3F56PB025103&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FPYK3F56PB025103&vehicletype=Truck",
+    "price": "$31,888",
+    "sutherlins_price": "$31,888",
+    "mileage": "29,335 Miles"
   }
 ]

@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Hyundai Tucson SEL",
-    "vin": "5NMJF3AE1NH105622",
-    "stock": "M2624A",
-    "exterior": "Phantom Black",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJF3AE1NH105622&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4d0c87a9-8e40-4221-bb42-516a4302b823.jpg",
-    "price": "$31,200",
-    "sutherlins_price": "$15,888",
-    "mileage": "101,831 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Mirage G4 Black Edition",
-    "vin": "ML32FUFJ3RHF11186",
-    "stock": "M2623A",
-    "exterior": "Starlight Silver Metallic w/Black Roof",
-    "interior": "Dark Gray",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FUFJ3RHF11186&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32FUFJ3RHF11186&vehicletype=Sedan",
-    "price": "$20,655",
-    "sutherlins_price": "$15,888",
-    "mileage": "23,300 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Chevrolet Malibu LS",
     "vin": "1G1ZB5ST3MF042910",
     "stock": "MP195",
@@ -166,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Sport",
-    "vin": "3C4NJDAN0RT115038",
-    "stock": "MP154",
-    "exterior": "Hydro Blue Pearlcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/861d1f37-eda3-4c7c-900e-031d8e30fb4a.jpg",
-    "price": "$28,090",
-    "sutherlins_price": "$19,888",
-    "mileage": "464 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Toyota Camry LE",
     "vin": "4T1C11AK0LU360961",
     "stock": "M2549A",
@@ -193,6 +148,21 @@
     "price": "$25,925",
     "sutherlins_price": "$19,888",
     "mileage": "70,217 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Jeep Compass Sport",
+    "vin": "3C4NJDAN0RT115038",
+    "stock": "MP154",
+    "exterior": "Hydro Blue Pearlcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/861d1f37-eda3-4c7c-900e-031d8e30fb4a.jpg",
+    "price": "$28,090",
+    "sutherlins_price": "$19,888",
+    "mileage": "464 Miles"
   },
   {
     "category": "used",
@@ -421,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Jeep Compass Sport",
-    "vin": "3C4NJDAN4PT574960",
-    "stock": "MP201",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN4PT574960&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6a742105-0bfb-4859-982f-19ec08b66abd.jpg",
-    "price": "$29,995",
-    "sutherlins_price": "$21,888",
-    "mileage": "43,944 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Taos 1.5T SE",
     "vin": "3VVTX7B23NM027232",
     "stock": "MP205",
@@ -448,6 +403,21 @@
     "price": "$31,845",
     "sutherlins_price": "$21,888",
     "mileage": "34,044 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Jeep Compass Sport",
+    "vin": "3C4NJDAN4PT574960",
+    "stock": "MP201",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN4PT574960&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6a742105-0bfb-4859-982f-19ec08b66abd.jpg",
+    "price": "$29,995",
+    "sutherlins_price": "$21,888",
+    "mileage": "43,944 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$27,395",
     "sutherlins_price": "$21,888",
     "mileage": "15,805 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Hyundai Elantra SEL Convenience",
+    "vin": "KMHLS4DG6SU853564",
+    "stock": "M2655A",
+    "exterior": "Red",
+    "interior": "Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4DG6SU853564&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/58173c98-f745-4fa2-b987-e7ea84ce34d8.jpg",
+    "price": "$27,490",
+    "sutherlins_price": "$21,888",
+    "mileage": "14,809 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mercedes-Benz C-Class C 300",
+    "vin": "W1KWF8EB2MR612919",
+    "stock": "MP222",
+    "exterior": "Polar White",
+    "interior": "Almond",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWF8EB2MR612919&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e6f8929d-be18-4b3f-81ae-f7d9f5a81170.jpg",
+    "price": "$22,888",
+    "sutherlins_price": "$22,888",
+    "mileage": "73,581 Miles"
   }
 ]
