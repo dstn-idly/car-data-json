@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Ford Mustang Mach-E Premium",
-    "vin": "3FMTK3SU3NMA58063",
-    "stock": "MP214",
-    "exterior": "Blue Silver Metallic",
-    "interior": "Black Onyx",
-    "engine": "Dual Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK3SU3NMA58063&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/86ceb751-8f69-4e93-9959-7481aad44195.jpg",
-    "price": "$58,815",
-    "sutherlins_price": "$31,888",
-    "mileage": "13,486 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Lincoln Corsair Standard",
     "vin": "5LMCJ1CA8PUL26757",
     "stock": "MP224",
@@ -313,5 +298,20 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Dodge Journey SE",
+    "vin": "3C4PDCAB1GT233340",
+    "stock": "M2673A",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "2.4L I4 DOHC 16V Dual VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4PDCAB1GT233340&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4PDCAB1GT233340&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "111,750 Miles"
   }
 ]
