@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Jeep Renegade Limited",
-    "vin": "ZACNJDD1XMPM29950",
-    "stock": "MP194",
-    "exterior": "Bikini Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "1.3L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
-    "price": "$30,040",
-    "sutherlins_price": "$17,488",
-    "mileage": "79,227 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZD5ST8RF178869",
     "stock": "MP177",
@@ -91,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Sport",
-    "vin": "3C4NJDAN0RT115038",
-    "stock": "MP154",
-    "exterior": "Hydro Blue Pearlcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/861d1f37-eda3-4c7c-900e-031d8e30fb4a.jpg",
-    "price": "$28,090",
-    "sutherlins_price": "$19,888",
-    "mileage": "464 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Toyota Camry LE",
     "vin": "4T1C11AK0LU360961",
     "stock": "M2549A",
@@ -133,6 +103,21 @@
     "price": "$28,055",
     "sutherlins_price": "$19,888",
     "mileage": "45,218 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Jeep Compass Sport",
+    "vin": "3C4NJDAN0RT115038",
+    "stock": "MP154",
+    "exterior": "Hydro Blue Pearlcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN0RT115038&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/861d1f37-eda3-4c7c-900e-031d8e30fb4a.jpg",
+    "price": "$28,090",
+    "sutherlins_price": "$19,888",
+    "mileage": "464 Miles"
   },
   {
     "category": "used",
@@ -166,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$20,888",
-    "mileage": "77,710 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Kona SEL",
     "vin": "KM8HBCAB4RU149284",
     "stock": "MP231",
@@ -196,18 +166,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra Hybrid Limited",
-    "vin": "KMHLN4AJ1PU054578",
-    "stock": "MP184",
-    "exterior": "Fluid Metal",
-    "interior": "Black",
-    "engine": "I4",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
-    "price": "$30,500",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
+    "price": "$46,345",
     "sutherlins_price": "$20,888",
-    "mileage": "61,194 Miles"
+    "mileage": "77,710 Miles"
   },
   {
     "category": "used",
@@ -223,6 +193,21 @@
     "price": "$27,120",
     "sutherlins_price": "$20,888",
     "mileage": "71,119 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$20,888",
+    "mileage": "61,194 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$29,045",
     "sutherlins_price": "$23,888",
     "mileage": "46,279 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EC1NF273819&vehicletype=Sedan",
+    "price": "$64,190",
+    "sutherlins_price": "$24,888",
+    "mileage": "67,079 Miles"
   }
 ]
