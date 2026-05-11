@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Genesis GV80 3.5T",
+    "vin": "KMUHCESC5MU062908",
+    "stock": "MP159",
+    "exterior": "Silver",
+    "interior": "Beige/Black",
+    "engine": "3.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/156624d2-3633-4d34-ae0e-77e867a6b6be.jpg",
+    "price": "$66,395",
+    "sutherlins_price": "$35,588",
+    "mileage": "50,890 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Mercedes-Benz C-Class C 300",
     "vin": "W1KAF4HB2NR039147",
     "stock": "MP220",
@@ -244,7 +259,7 @@
     "name": "2022 Hyundai Tucson SEL",
     "vin": "5NMJB3AE8NH143523",
     "stock": "M2664A",
-    "exterior": "Portofino Gray",
+    "exterior": "Gray",
     "interior": "Black",
     "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
     "transmission": "Automatic",
