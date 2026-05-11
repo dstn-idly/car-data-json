@@ -235,7 +235,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDNE5H39R6337702&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024KIV02_640/2024KIV020068_640_01.jpg",
-    "price": "$39,498",
+    "price": "$42,025",
     "sutherlins_price": "$39,498",
     "mileage": "29,779 Miles"
   },
@@ -268,36 +268,6 @@
     "price": "$46,979",
     "sutherlins_price": "$41,898",
     "mileage": "15,712 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2015 Nissan Rogue SL",
-    "vin": "5N1AT2MT8FC798651",
-    "stock": "26851A",
-    "exterior": "Midnight Jade",
-    "interior": "Almond",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8FC798651&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015NIS11_640/2015NIS110001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "275,113 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2019 Nissan Rogue S",
-    "vin": "5N1AT2MT9KC836169",
-    "stock": "T26708A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT9KC836169&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "159,999 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$30,040",
     "sutherlins_price": "$17,488",
     "mileage": "79,227 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8RF178869",
+    "stock": "MP177",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dfbdc4bf-e9cd-4349-add1-fd0c5d124ddb.jpg",
+    "price": "$29,095",
+    "sutherlins_price": "$17,888",
+    "mileage": "60,166 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY201780",
+    "stock": "MP173",
+    "exterior": "Rosewood",
+    "interior": "Charcoal",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1eebe9aa-2cf1-4e46-8ac7-93ea954a2cc2.jpg",
+    "price": "$22,985",
+    "sutherlins_price": "$18,488",
+    "mileage": "29,943 Miles"
   }
 ]
