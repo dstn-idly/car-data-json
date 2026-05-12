@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Genesis GV80 3.5T",
+    "vin": "KMUHCESC5MU062908",
+    "stock": "MP159",
+    "exterior": "Silver",
+    "interior": "Beige/Black",
+    "engine": "3.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/156624d2-3633-4d34-ae0e-77e867a6b6be.jpg",
+    "price": "$66,395",
+    "sutherlins_price": "$34,988",
+    "mileage": "50,890 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Mercedes-Benz C-Class C 300",
     "vin": "W1KAF4HB2NR039147",
     "stock": "MP220",
@@ -223,35 +238,5 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Dodge Journey SE",
-    "vin": "3C4PDCAB1GT233340",
-    "stock": "M2673A",
-    "exterior": "Crystal Metallic",
-    "interior": "Black",
-    "engine": "2.4L I4 DOHC 16V Dual VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4PDCAB1GT233340&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4PDCAB1GT233340&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "111,750 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Hyundai Tucson SEL",
-    "vin": "5NMJB3AE8NH143523",
-    "stock": "M2664A",
-    "exterior": "Gray",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE8NH143523&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMJB3AE8NH143523&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "81,417 Miles"
   }
 ]
