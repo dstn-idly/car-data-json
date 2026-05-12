@@ -241,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA3RC203647",
-    "stock": "MP049",
-    "exterior": "Scarlet",
-    "interior": "Charcoal",
-    "engine": "3.5L V6 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA3RC203647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fc52a345-df5c-4594-9e07-136ad5bd1ac5.jpg",
-    "price": "$48,999",
-    "sutherlins_price": "$27,988",
-    "mileage": "22,521 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Maserati Grecale GT",
     "vin": "ZN6PMDAA2R7449295",
     "stock": "MP228",
@@ -286,6 +271,21 @@
   },
   {
     "category": "used",
+    "name": "2025 BMW X1 xDrive28i",
+    "vin": "WBX73EF06S5102647",
+    "stock": "MP156",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 16V TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c53de5b0-2a3b-4793-a3fa-a9fc2dc0728c.jpg",
+    "price": "$45,500",
+    "sutherlins_price": "$29,888",
+    "mileage": "34,906 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Alfa Romeo Giulia Veloce",
     "vin": "ZARFAMBN8P7673763",
     "stock": "MP236",
@@ -313,21 +313,6 @@
     "price": "$51,265",
     "sutherlins_price": "$29,888",
     "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 BMW X1 xDrive28i",
-    "vin": "WBX73EF06S5102647",
-    "stock": "MP156",
-    "exterior": "Black Sapphire Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 16V TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBX73EF06S5102647&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c53de5b0-2a3b-4793-a3fa-a9fc2dc0728c.jpg",
-    "price": "$45,500",
-    "sutherlins_price": "$29,888",
-    "mileage": "34,906 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$62,430",
     "sutherlins_price": "$34,888",
     "mileage": "39,725 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Genesis GV80 3.5T",
+    "vin": "KMUHCESC5MU062908",
+    "stock": "MP159",
+    "exterior": "Silver",
+    "interior": "Beige/Black",
+    "engine": "3.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/156624d2-3633-4d34-ae0e-77e867a6b6be.jpg",
+    "price": "$66,395",
+    "sutherlins_price": "$35,588",
+    "mileage": "50,890 Miles"
   }
 ]
