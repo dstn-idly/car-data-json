@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c6a07124-6acb-4a15-af4b-f2cf2c25b5ef.jpg",
     "price": "$30,915",
-    "sutherlins_price": "$18,888",
+    "sutherlins_price": "$17,888",
     "mileage": "48,699 Miles"
   },
   {
@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY201780&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1eebe9aa-2cf1-4e46-8ac7-93ea954a2cc2.jpg",
     "price": "$22,985",
-    "sutherlins_price": "$18,488",
+    "sutherlins_price": "$17,888",
     "mileage": "29,943 Miles"
   },
   {
@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$20,888",
-    "mileage": "77,710 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q5 45 Premium Plus",
     "vin": "WA1BNAFY3L2059317",
     "stock": "MP186",
@@ -71,8 +56,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BNAFY3L2059317&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/523c4afc-b02b-4101-8d67-d8697c6a6845.jpg",
     "price": "$18,888",
-    "sutherlins_price": "$21,888",
+    "sutherlins_price": "$18,888",
     "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
+    "price": "$46,345",
+    "sutherlins_price": "$18,888",
+    "mileage": "77,710 Miles"
   },
   {
     "category": "used",
@@ -116,7 +116,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KM8HBCAB4RU149284&vehicletype=SUV",
     "price": "$28,475",
-    "sutherlins_price": "$20,888",
+    "sutherlins_price": "$19,888",
     "mileage": "60,241 Miles"
   },
   {
@@ -131,7 +131,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
     "price": "$30,500",
-    "sutherlins_price": "$20,888",
+    "sutherlins_price": "$19,888",
     "mileage": "61,194 Miles"
   },
   {
@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
     "price": "$30,690",
-    "sutherlins_price": "$20,888",
+    "sutherlins_price": "$19,888",
     "mileage": "43,849 Miles"
   },
   {
@@ -221,7 +221,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3MZBPABM9RM402729&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/069d7c44-c608-4102-8e10-9ae2717fb55b.jpg",
     "price": "$26,325",
-    "sutherlins_price": "$20,888",
+    "sutherlins_price": "$19,888",
     "mileage": "48,631 Miles"
   },
   {
@@ -326,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV8B7AX8PM060070&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ab06a973-6973-4e03-80f7-3198589123b9.jpg",
     "price": "$36,704",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$21,588",
     "mileage": "54,931 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J4VA8XNZ061640&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/09a6f793-4e1c-41c2-a300-a1846609f57a.jpg",
     "price": "$37,790",
-    "sutherlins_price": "$21,888",
+    "sutherlins_price": "$18,888",
     "mileage": "39,839 Miles"
   },
   {
@@ -401,7 +401,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YFS4MCE1RP189384&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bb2a627-5483-4af8-a218-9f4fd4c5b798.jpg",
     "price": "$27,395",
-    "sutherlins_price": "$21,888",
+    "sutherlins_price": "$22,488",
     "mileage": "15,805 Miles"
   },
   {
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCY1F26RA060541&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3c7842cc-5e5c-4fc6-87de-a387f3b80d40.jpg",
     "price": "$29,045",
-    "sutherlins_price": "$23,888",
+    "sutherlins_price": "$22,888",
     "mileage": "46,279 Miles"
   },
   {
