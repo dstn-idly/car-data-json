@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG3PR536366",
-    "stock": "MP165",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c620fbdb-bfe7-44ff-844f-8e3268b1168a.jpg",
-    "price": "$49,450",
-    "sutherlins_price": "$25,488",
-    "mileage": "50,294 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Wrangler Unlimited Sport S",
     "vin": "1C4HJXDN5MW664702",
     "stock": "MP233",
@@ -106,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Subaru Forester Limited",
-    "vin": "JF2SKAPC8NH406174",
-    "stock": "MP204",
-    "exterior": "Crystal Black Silica",
-    "interior": "Black",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2SKAPC8NH406174&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/440d97e6-8725-4ce8-9c27-ffaea2e8c3df.jpg",
-    "price": "$36,599",
-    "sutherlins_price": "$26,888",
-    "mileage": "61,191 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
@@ -133,6 +103,21 @@
     "price": "$42,065",
     "sutherlins_price": "$26,888",
     "mileage": "51,053 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Subaru Forester Limited",
+    "vin": "JF2SKAPC8NH406174",
+    "stock": "MP204",
+    "exterior": "Crystal Black Silica",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2SKAPC8NH406174&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/440d97e6-8725-4ce8-9c27-ffaea2e8c3df.jpg",
+    "price": "$36,599",
+    "sutherlins_price": "$26,888",
+    "mileage": "61,191 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$49,109",
     "sutherlins_price": "$36,888",
     "mileage": "12,806 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Tesla Model Y Long Range",
+    "vin": "7SAYGDED6RF055216",
+    "stock": "MP197",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDED6RF055216&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8009fd77-d845-4dfd-a5c6-e80af4ed09c0.jpg",
+    "price": "$44,990",
+    "sutherlins_price": "$36,888",
+    "mileage": "19,060 Miles"
   }
 ]
