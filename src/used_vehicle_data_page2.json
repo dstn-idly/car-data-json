@@ -391,6 +391,36 @@
   },
   {
     "category": "used",
+    "name": "2021 Nissan Rogue S",
+    "vin": "5N1AT3AA9MC808271",
+    "stock": "T26098A",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA9MC808271&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cffb52f0094d4a7886d3cc6da8b0c33e.jpg",
+    "price": "$21,025",
+    "sutherlins_price": "$19,995",
+    "mileage": "29,400 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue S",
+    "vin": "5N1BT3AA7RC725028",
+    "stock": "26703A",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d983ba5226d43859a457d1d5f4ee1e6.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$19,995",
+    "mileage": "15,115 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Altima SV",
     "vin": "1N4BL4DV6SN321369",
     "stock": "P13789",
@@ -448,35 +478,5 @@
     "price": "$23,775",
     "sutherlins_price": "$19,995",
     "mileage": "6,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Rogue S",
-    "vin": "5N1AT3AA9MC808271",
-    "stock": "T26098A",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA9MC808271&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cffb52f0094d4a7886d3cc6da8b0c33e.jpg",
-    "price": "$21,025",
-    "sutherlins_price": "$19,995",
-    "mileage": "29,400 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue S",
-    "vin": "5N1BT3AA7RC725028",
-    "stock": "26703A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AA7RC725028&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d983ba5226d43859a457d1d5f4ee1e6.jpg",
-    "price": "$23,475",
-    "sutherlins_price": "$19,995",
-    "mileage": "15,115 Miles"
   }
 ]
