@@ -1,51 +1,6 @@
 [
   {
     "category": "cpo",
-    "name": "2023 Nissan Altima 2.0 SR",
-    "vin": "1N4AL4CV0PN319024",
-    "stock": "P13726",
-    "exterior": "Gun Metallic",
-    "interior": "Sport",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL4CV0PN319024&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b14ad9d1d797408badf87afdf6b576b0.jpg",
-    "price": "$28,575",
-    "sutherlins_price": "$24,997",
-    "mileage": "24,797 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2024 Nissan Frontier SV",
-    "vin": "1N6ED1EJ6RN633066",
-    "stock": "P13645",
-    "exterior": "Bluestone Pearl",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ6RN633066&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dac39fbff9f94456ab590371bf3ee6a9.jpg",
-    "price": "$32,375",
-    "sutherlins_price": "$26,995",
-    "mileage": "30,396 Miles"
-  },
-  {
-    "category": "cpo",
-    "name": "2023 Nissan Frontier SV",
-    "vin": "1N6ED1EJ8PN610918",
-    "stock": "P13775",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EJ8PN610918&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/edab0aa1a2e143b49f40f52026335165.jpg",
-    "price": "$29,725",
-    "sutherlins_price": "$27,598",
-    "mileage": "31,639 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2021 Nissan Armada SV",
     "vin": "JN8AY2AC9M9146131",
     "stock": "26079A",
@@ -99,7 +54,7 @@
     "engine": "Regular Unleaded V-6 3.5 L/213",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA8RC242413&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS07_640/2024NIS071936156_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7499aa17f13549df8f98fa6cccb2a3f0.jpg",
     "price": "$29,725",
     "sutherlins_price": "$30,995",
     "mileage": "30,857 Miles"
@@ -133,5 +88,20 @@
     "price": "$35,700",
     "sutherlins_price": "$32,498",
     "mileage": "24,569 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Pathfinder Platinum",
+    "vin": "5N1DR3DJ6PC274822",
+    "stock": "P13811",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DJ6PC274822&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/55011.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "29,352 Miles"
   }
 ]
