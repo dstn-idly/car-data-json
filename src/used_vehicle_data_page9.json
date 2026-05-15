@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Volkswagen Atlas 2.0T S",
-    "vin": "1V2AP2CA4MC586852",
-    "stock": "MP242",
-    "exterior": "Tourmaline Blue Metallic",
-    "interior": "Black",
-    "engine": "2.0L TSI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2AP2CA4MC586852&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1V2AP2CA4MC586852&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "60,328 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet TrailBlazer RS",
     "vin": "KL79MTSL0RB200234",
     "stock": "MP239",
@@ -61,6 +46,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Chevrolet Camaro 1LT",
+    "vin": "1G1FB3DS4L0113240",
+    "stock": "MP245",
+    "exterior": "Shock",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 DI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1FB3DS4L0113240&vehicletype=Convertible",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "40,262 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 BMW 2 Series 228i",
     "vin": "WBA53AK05R7N49307",
     "stock": "MP246",
@@ -88,20 +88,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "45,308 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Chevrolet Camaro 1LT",
-    "vin": "1G1FB3DS4L0113240",
-    "stock": "MP245",
-    "exterior": "Shock",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 DI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1FB3DS4L0113240&vehicletype=Convertible",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "40,262 Miles"
   }
 ]
