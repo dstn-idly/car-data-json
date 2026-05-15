@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJXRH029078",
-    "stock": "MP247",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJXRH029078&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJXRH029078&vehicletype=Hatchback",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "19,792 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Jeep Compass Trailhawk",
     "vin": "3C4NJDDN2PT564939",
     "stock": "MP237",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "67,139 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJXRH029078",
+    "stock": "MP247",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJXRH029078&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJXRH029078&vehicletype=Hatchback",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "19,792 Miles"
   }
 ]
