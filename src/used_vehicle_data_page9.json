@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Jeep Compass Trailhawk",
-    "vin": "3C4NJDDN2PT564939",
-    "stock": "MP237",
-    "exterior": "Redline Pearlcoat",
-    "interior": "Ruby Red/Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDDN2PT564939&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4NJDDN2PT564939&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "67,139 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJXRH029078",
     "stock": "MP247",
@@ -46,18 +31,18 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Camaro 1LT",
-    "vin": "1G1FB3DS4L0113240",
-    "stock": "MP245",
-    "exterior": "Shock",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 DI",
+    "name": "2023 Jeep Compass Trailhawk",
+    "vin": "3C4NJDDN2PT564939",
+    "stock": "MP237",
+    "exterior": "Redline Pearlcoat",
+    "interior": "Ruby Red/Black",
+    "engine": "2.0L I4 DOHC",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1FB3DS4L0113240&vehicletype=Convertible",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDDN2PT564939&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4NJDDN2PT564939&vehicletype=SUV",
     "price": "N/A",
     "sutherlins_price": "N/A",
-    "mileage": "40,262 Miles"
+    "mileage": "67,139 Miles"
   },
   {
     "category": "used",
@@ -88,5 +73,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "45,308 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Camaro 1LT",
+    "vin": "1G1FB3DS4L0113240",
+    "stock": "MP245",
+    "exterior": "Shock",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 DI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1FB3DS4L0113240&vehicletype=Convertible",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "40,262 Miles"
   }
 ]
