@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Hyundai Genesis 4.6L",
-    "vin": "KMHGC4DFXCU206754",
-    "stock": "T26733A",
-    "exterior": "Platinum Metallic",
-    "interior": "Cashmere",
-    "engine": "Gas V8 4.6L/282",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHGC4DFXCU206754&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/13325.jpg",
-    "price": "$10,038",
-    "sutherlins_price": "$7,995",
-    "mileage": "115,102 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Rogue SV",
     "vin": "5N1AT2MT9EC872190",
     "stock": "P12816",
@@ -73,21 +58,6 @@
     "price": "$9,995",
     "sutherlins_price": "$9,995",
     "mileage": "124,806 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2017 Nissan Pathfinder S",
-    "vin": "5N1DR2MN4HC615245",
-    "stock": "26782B",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR2MN4HC615245&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7783d40f6d2e43c9b9ac7b9ea7f5dd12.jpg",
-    "price": "$12,000",
-    "sutherlins_price": "$9,995",
-    "mileage": "96,666 Miles"
   },
   {
     "category": "used",
@@ -208,21 +178,6 @@
     "price": "$18,775",
     "sutherlins_price": "$14,988",
     "mileage": "117,102 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Nissan Rogue SV",
-    "vin": "5N1AT2MT8LC818800",
-    "stock": "26729A",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT8LC818800&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5a6925610aea4ba8b373b55a3f37a550.jpg",
-    "price": "$17,100",
-    "sutherlins_price": "$14,995",
-    "mileage": "46,133 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$18,200",
     "sutherlins_price": "$16,995",
     "mileage": "37,145 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Sentra SR",
+    "vin": "3N1AB8DV9NY252297",
+    "stock": "T26625A",
+    "exterior": "Super Black",
+    "interior": "Sport",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV9NY252297&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1f47d564ad474687b9d91a6955694ca8.jpg",
+    "price": "$22,625",
+    "sutherlins_price": "$17,498",
+    "mileage": "87,229 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 GMC Terrain SLE",
+    "vin": "3GKALMEV5ML394101",
+    "stock": "P13715",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GKALMEV5ML394101&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d7078b1e824466b3ba62d41a8cdfd0.jpg",
+    "price": "$21,125",
+    "sutherlins_price": "$17,743",
+    "mileage": "62,315 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV9RY279704",
+    "stock": "26375A",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV9RY279704&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/69c299f44b3744a48bba6ef63205e817.jpg",
+    "price": "$19,225",
+    "sutherlins_price": "$17,849",
+    "mileage": "23,954 Miles"
   }
 ]
