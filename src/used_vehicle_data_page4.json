@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Chevrolet Malibu LT",
-    "vin": "1G1ZE5ST3RF232284",
-    "stock": "P13731",
-    "exterior": "Mineral Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZE5ST3RF232284&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b7117229ebe742b9ac4311b823aeef64.jpg",
-    "price": "$24,250",
-    "sutherlins_price": "$22,898",
-    "mileage": "47,970 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q3 S line Premium Plus",
     "vin": "WA1EECF38L1023173",
     "stock": "P13728",
@@ -478,5 +463,20 @@
     "price": "$31,895",
     "sutherlins_price": "$27,955",
     "mileage": "341 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 GMC Canyon 2WD Elevation",
+    "vin": "1GTG5CEN9N1258640",
+    "stock": "P13285",
+    "exterior": "Onyx Black",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTG5CEN9N1258640&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a9dac8c1a87d4b4aa923d50397b3f15a.jpg",
+    "price": "$34,350",
+    "sutherlins_price": "$27,988",
+    "mileage": "10,890 Miles"
   }
 ]
