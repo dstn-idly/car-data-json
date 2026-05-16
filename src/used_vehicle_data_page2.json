@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2019 GMC Acadia SLT",
-    "vin": "1GKKNMLS9KZ169855",
-    "stock": "P13559",
-    "exterior": "Ebony Twilight Metallic",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbffe32d07f24601b95576556746c4f2.jpg",
-    "price": "$22,100",
-    "sutherlins_price": "$19,995",
-    "mileage": "89,136 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Ford F-150 XLT",
     "vin": "1FTEX1EPXHFA59174",
     "stock": "26146A",
@@ -373,6 +358,21 @@
     "price": "$21,475",
     "sutherlins_price": "$19,995",
     "mileage": "18,712 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 GMC Acadia SLT",
+    "vin": "1GKKNMLS9KZ169855",
+    "stock": "P13559",
+    "exterior": "Ebony Twilight Metallic",
+    "interior": "Jet Black",
+    "engine": "Gas V6 3.6L/222",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNMLS9KZ169855&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dbffe32d07f24601b95576556746c4f2.jpg",
+    "price": "$22,100",
+    "sutherlins_price": "$19,995",
+    "mileage": "89,136 Miles"
   },
   {
     "category": "used",
