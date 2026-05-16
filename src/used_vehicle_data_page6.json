@@ -39,7 +39,7 @@
     "engine": "2.4L I4 MIVEC DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA32U8FW7FU022343&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9bfb624b-dfb8-476d-9078-24f068849fb5.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7f52c426-e05b-4b2f-8456-fb20137f3a1e.jpg",
     "price": "$10,888",
     "sutherlins_price": "$10,888",
     "mileage": "95,786 Miles"
@@ -54,7 +54,7 @@
     "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1172e7ff-b467-454e-847a-b0dd209582bd.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
     "price": "$22,295",
     "sutherlins_price": "$12,323",
     "mileage": "54,302 Miles"
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Kona SEL",
-    "vin": "KM8HBCAB4RU149284",
-    "stock": "MP231",
-    "exterior": "Green",
-    "interior": "Gray",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f2b411c4-7576-4313-89b5-acc77416628b.jpg",
-    "price": "$28,475",
-    "sutherlins_price": "$19,888",
-    "mileage": "60,241 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Elantra Hybrid Limited",
     "vin": "KMHLN4AJ1PU054578",
     "stock": "MP184",
@@ -331,18 +316,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SE",
-    "vin": "5NMS14AJ3PH593061",
-    "stock": "MP180",
-    "exterior": "Stormy Blue",
-    "interior": "Beige",
-    "engine": "2.5L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
-    "price": "$30,690",
+    "name": "2024 Hyundai Kona SEL",
+    "vin": "KM8HBCAB4RU149284",
+    "stock": "MP231",
+    "exterior": "Green",
+    "interior": "Gray",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7dc8ad2-5d2c-4766-a3d4-276201323447.jpg",
+    "price": "$28,475",
     "sutherlins_price": "$19,888",
-    "mileage": "43,849 Miles"
+    "mileage": "60,241 Miles"
   },
   {
     "category": "used",
@@ -373,6 +358,21 @@
     "price": "$28,055",
     "sutherlins_price": "$19,888",
     "mileage": "45,218 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SE",
+    "vin": "5NMS14AJ3PH593061",
+    "stock": "MP180",
+    "exterior": "Stormy Blue",
+    "interior": "Beige",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
+    "price": "$30,690",
+    "sutherlins_price": "$19,888",
+    "mileage": "43,849 Miles"
   },
   {
     "category": "used",

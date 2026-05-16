@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2022 Toyota Highlander LE",
+    "vin": "5TDZZRAH5NS094466",
+    "stock": "26735A",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDZZRAH5NS094466&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/971acaeb6fed4f40b0e978aa8f393c5b.jpg",
+    "price": "$23,475",
+    "sutherlins_price": "$22,598",
+    "mileage": "112,013 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZE5ST3RF232284",
+    "stock": "P13731",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZE5ST3RF232284&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b7117229ebe742b9ac4311b823aeef64.jpg",
+    "price": "$24,250",
+    "sutherlins_price": "$22,898",
+    "mileage": "47,970 Miles"
+  },
+  {
+    "category": "used",
     "name": "2020 Audi Q3 S line Premium Plus",
     "vin": "WA1EECF38L1023173",
     "stock": "P13728",
@@ -122,17 +152,17 @@
   {
     "category": "used",
     "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA5RW351704",
-    "stock": "P13773",
-    "exterior": "Brilliant Silver Metallic",
+    "vin": "JN8BT3BA8RW350403",
+    "stock": "P13825",
+    "exterior": "Deep Ocean Blue Pearl",
     "interior": "Charcoal",
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870d9a6e44ad43b382812e0f6c4e8b08.jpg",
-    "price": "$25,600",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA8RW350403&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
+    "price": "$22,995",
     "sutherlins_price": "$22,995",
-    "mileage": "32,291 Miles"
+    "mileage": "34,243 Miles"
   },
   {
     "category": "used",
@@ -152,17 +182,17 @@
   {
     "category": "used",
     "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA8RW350403",
-    "stock": "P13825",
-    "exterior": "Deep Ocean Blue Pearl",
+    "vin": "JN8BT3BA5RW351704",
+    "stock": "P13773",
+    "exterior": "Brilliant Silver Metallic",
     "interior": "Charcoal",
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA8RW350403&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS11_640/2024NIS111982986_640_01.jpg",
-    "price": "$22,995",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870d9a6e44ad43b382812e0f6c4e8b08.jpg",
+    "price": "$25,600",
     "sutherlins_price": "$22,995",
-    "mileage": "34,243 Miles"
+    "mileage": "32,291 Miles"
   },
   {
     "category": "used",
@@ -448,35 +478,5 @@
     "price": "$29,725",
     "sutherlins_price": "$27,598",
     "mileage": "31,639 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2026 Nissan Sentra SR",
-    "vin": "3N1AB9DV9TY227662",
-    "stock": "26790A",
-    "exterior": "Atlantic Gray Metallic/Super Black",
-    "interior": "Sport",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB9DV9TY227662&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIC06_640/2026NIC062040308_640_01.jpg",
-    "price": "$31,895",
-    "sutherlins_price": "$27,955",
-    "mileage": "341 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 GMC Canyon 2WD Elevation",
-    "vin": "1GTG5CEN9N1258640",
-    "stock": "P13285",
-    "exterior": "Onyx Black",
-    "interior": "Jet Black",
-    "engine": "Gas V6 3.6L/222",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GTG5CEN9N1258640&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a9dac8c1a87d4b4aa923d50397b3f15a.jpg",
-    "price": "$34,350",
-    "sutherlins_price": "$27,988",
-    "mileage": "10,890 Miles"
   }
 ]
