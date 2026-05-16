@@ -166,21 +166,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Ford Fusion S",
-    "vin": "3FA6P0G74LR215528",
-    "stock": "MP243",
-    "exterior": "Silver Metallic",
-    "interior": "Medium Light Stone",
-    "engine": "2.5L iVCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FA6P0G74LR215528&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FA6P0G74LR215528&vehicletype=Sedan",
-    "price": "$24,165",
-    "sutherlins_price": "$16,888",
-    "mileage": "65,567 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Chevrolet Malibu LS",
     "vin": "1G1ZB5ST3MF042910",
     "stock": "MP195",
@@ -193,6 +178,21 @@
     "price": "$24,195",
     "sutherlins_price": "$16,888",
     "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford Fusion S",
+    "vin": "3FA6P0G74LR215528",
+    "stock": "MP243",
+    "exterior": "Silver Metallic",
+    "interior": "Medium Light Stone",
+    "engine": "2.5L iVCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FA6P0G74LR215528&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FA6P0G74LR215528&vehicletype=Sedan",
+    "price": "$24,165",
+    "sutherlins_price": "$16,888",
+    "mileage": "65,567 Miles"
   },
   {
     "category": "used",
@@ -301,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$18,888",
-    "mileage": "77,710 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q5 45 Premium Plus",
     "vin": "WA1BNAFY3L2059317",
     "stock": "MP186",
@@ -328,6 +313,21 @@
     "price": "$18,888",
     "sutherlins_price": "$18,888",
     "mileage": "84,931 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
+    "price": "$46,345",
+    "sutherlins_price": "$18,888",
+    "mileage": "77,710 Miles"
   },
   {
     "category": "used",
