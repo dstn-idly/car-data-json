@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/249258af-79e3-4bd9-8fc8-654c8189184f.jpg",
     "price": "$64,190",
-    "sutherlins_price": "$24,888",
+    "sutherlins_price": "$27,085",
     "mileage": "67,079 Miles"
   },
   {
@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Alfa Romeo Giulia Veloce",
-    "vin": "ZARFAMBN8P7673763",
-    "stock": "MP236",
-    "exterior": "Alfa Rosso",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN8P7673763&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4091039-8a75-47fc-934b-dc7100ef25cd.jpg",
-    "price": "$57,835",
-    "sutherlins_price": "$29,888",
-    "mileage": "23,261 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 BMW X1 xDrive28i",
     "vin": "WBX73EF06S5102647",
     "stock": "MP156",
@@ -118,6 +103,21 @@
     "price": "$45,500",
     "sutherlins_price": "$29,888",
     "mileage": "N/A"
+  },
+  {
+    "category": "used",
+    "name": "2023 Alfa Romeo Giulia Veloce",
+    "vin": "ZARFAMBN8P7673763",
+    "stock": "MP236",
+    "exterior": "Alfa Rosso",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN8P7673763&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4091039-8a75-47fc-934b-dc7100ef25cd.jpg",
+    "price": "$57,835",
+    "sutherlins_price": "$29,888",
+    "mileage": "23,261 Miles"
   },
   {
     "category": "used",
