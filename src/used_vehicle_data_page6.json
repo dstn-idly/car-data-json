@@ -211,6 +211,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Chevrolet Malibu LS",
+    "vin": "1G1ZB5ST3MF042910",
+    "stock": "MP195",
+    "exterior": "Black Cherry Metallic",
+    "interior": "Jet Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a00fee4-c110-4b53-b81b-437152c5b472.jpg",
+    "price": "$24,195",
+    "sutherlins_price": "$16,888",
+    "mileage": "N/A"
+  },
+  {
+    "category": "used",
     "name": "2020 Ford Fusion S",
     "vin": "3FA6P0G74LR215528",
     "stock": "MP243",
@@ -238,21 +253,6 @@
     "price": "$29,095",
     "sutherlins_price": "$16,888",
     "mileage": "60,166 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Chevrolet Malibu LS",
-    "vin": "1G1ZB5ST3MF042910",
-    "stock": "MP195",
-    "exterior": "Black Cherry Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a00fee4-c110-4b53-b81b-437152c5b472.jpg",
-    "price": "$24,195",
-    "sutherlins_price": "$16,888",
-    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -406,21 +406,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra Hybrid Limited",
-    "vin": "KMHLN4AJ1PU054578",
-    "stock": "MP184",
-    "exterior": "Fluid Metal",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
-    "price": "$30,500",
-    "sutherlins_price": "$19,888",
-    "mileage": "61,194 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Kona SEL",
     "vin": "KM8HBCAB4RU149284",
     "stock": "MP231",
@@ -436,18 +421,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Forte GT",
-    "vin": "3KPF44AC6PE633148",
-    "stock": "MP150",
-    "exterior": "Aurora Black",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
     "interior": "Black",
-    "engine": "1.6L I4 Turbo",
+    "engine": "I4",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF44AC6PE633148&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6f32dd42-94fa-4767-99ee-ec5a41e4deb1.jpg",
-    "price": "$28,055",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
+    "price": "$30,500",
     "sutherlins_price": "$19,888",
-    "mileage": "45,218 Miles"
+    "mileage": "61,194 Miles"
   },
   {
     "category": "used",
@@ -463,6 +448,21 @@
     "price": "$25,925",
     "sutherlins_price": "$19,888",
     "mileage": "70,217 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Kia Forte GT",
+    "vin": "3KPF44AC6PE633148",
+    "stock": "MP150",
+    "exterior": "Aurora Black",
+    "interior": "Black",
+    "engine": "1.6L I4 Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF44AC6PE633148&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6f32dd42-94fa-4767-99ee-ec5a41e4deb1.jpg",
+    "price": "$28,055",
+    "sutherlins_price": "$19,888",
+    "mileage": "45,218 Miles"
   },
   {
     "category": "used",
