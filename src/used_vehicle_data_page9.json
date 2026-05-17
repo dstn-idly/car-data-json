@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Toyota Sienna XLE",
-    "vin": "5TDYRKEC8RS208807",
-    "stock": "MP227",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Graphite",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC8RS208807&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5TDYRKEC8RS208807&vehicletype=Van",
-    "price": "$44,540",
-    "sutherlins_price": "$41,888",
-    "mileage": "58,465 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Mercedes-Benz GLE 350",
-    "vin": "4JGFB4KB7NA829882",
-    "stock": "MP213",
-    "exterior": "Silver Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFB4KB7NA829882&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f74fb2c3-de49-4856-b1b4-73e6724cf86c.jpg",
-    "price": "$67,150",
-    "sutherlins_price": "$41,888",
-    "mileage": "40,228 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 BMW 7 Series 750i xDrive",
     "vin": "WBA7U2C00LGJ59670",
     "stock": "MP225",
@@ -88,5 +58,35 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA85RZ044558",
+    "stock": "MP248",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA85RZ044558&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA85RZ044558&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "20,267 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2010 Chevrolet Traverse 2LT",
+    "vin": "1GNLRGED2AS155122",
+    "stock": "M2564B",
+    "exterior": "Silver Ice Metallic",
+    "interior": "Gray",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GNLRGED2AS155122&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1GNLRGED2AS155122&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "189,602 Miles"
   }
 ]
