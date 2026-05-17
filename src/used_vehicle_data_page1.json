@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2018 Nissan Altima 2.5 SV",
-    "vin": "1N4AL3APXJC262588",
-    "stock": "KP1108A",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4AL3APXJC262588&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIC040001_640/2018NIC040001_640_01.jpg",
-    "price": "$3,988",
-    "sutherlins_price": "$3,988",
-    "mileage": "170,977 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Nissan Sentra SV",
     "vin": "3N1AB7AP6HY297525",
     "stock": "P13807",
@@ -55,22 +40,22 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CU9KL563772&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS26_640/2019NIS260021_640_01.jpg",
-    "price": "$9,995",
+    "price": "$12,750",
     "sutherlins_price": "$9,995",
-    "mileage": "N/A"
+    "mileage": "54,397 Miles"
   },
   {
     "category": "used",
-    "name": "2010 Ford Ranger",
+    "name": "2010 Ford Ranger XL",
     "vin": "1FTKR1ED9APA30946",
     "stock": "KP1109B",
-    "exterior": "",
-    "interior": "N/A",
+    "exterior": "Oxford White",
+    "interior": "Medium Dark Flint",
     "engine": "Gas I4 2.3L/140",
     "transmission": "5-Speed",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTKR1ED9APA30946&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2010FRD017a_640/2010FRD017a_640_01.jpg",
-    "price": "$9,995",
+    "price": "$11,763",
     "sutherlins_price": "$9,995",
     "mileage": "124,806 Miles"
   },
@@ -130,7 +115,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8FV9NL868558&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIC10_640/2022NIC100053_640_01.jpg",
-    "price": "$12,995",
+    "price": "$14,625",
     "sutherlins_price": "$12,995",
     "mileage": "81,390 Miles"
   },
@@ -265,7 +250,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AAXMC785020&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110048_640_01.jpg",
-    "price": "$15,988",
+    "price": "$17,100",
     "sutherlins_price": "$15,988",
     "mileage": "76,283 Miles"
   },
@@ -325,7 +310,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J97KBB90292&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019FOS15_640/2019FOS150001_640_01.jpg",
-    "price": "$15,995",
+    "price": "$17,512",
     "sutherlins_price": "$15,995",
     "mileage": "81,417 Miles"
   },
@@ -478,5 +463,20 @@
     "price": "$22,625",
     "sutherlins_price": "$17,498",
     "mileage": "87,229 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 GMC Terrain SLE",
+    "vin": "3GKALMEV5ML394101",
+    "stock": "P13715",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GKALMEV5ML394101&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d7078b1e824466b3ba62d41a8cdfd0.jpg",
+    "price": "$21,125",
+    "sutherlins_price": "$17,743",
+    "mileage": "62,315 Miles"
   }
 ]
