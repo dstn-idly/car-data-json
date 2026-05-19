@@ -39,7 +39,7 @@
     "engine": "1.5L DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXUEG1RL283576&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3GNAXUEG1RL283576&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3ab85cc5-09d9-4fac-8ddd-dce3ed0f8a16.jpg",
     "price": "$32,190",
     "sutherlins_price": "$23,888",
     "mileage": "56,023 Miles"
@@ -219,7 +219,7 @@
     "engine": "3.6L V6 DI",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1G1FB3DS4L0113240&vehicletype=Convertible",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/61ec8c25-eb60-4874-b329-8f7ade6eeaee.jpg",
     "price": "$38,030",
     "sutherlins_price": "$25,888",
     "mileage": "40,262 Miles"
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Maserati Grecale GT",
-    "vin": "ZN6PMDAA2R7449295",
-    "stock": "MP228",
-    "exterior": "Bianco",
-    "interior": "Black",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZN6PMDAA2R7449295&vehicletype=SUV",
-    "price": "$69,995",
-    "sutherlins_price": "$28,888",
-    "mileage": "58,990 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW 3 Series 330i",
     "vin": "3MW69FF00R8E13174",
     "stock": "MP188",
@@ -403,6 +388,21 @@
     "price": "$48,495",
     "sutherlins_price": "$28,888",
     "mileage": "37,704 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Maserati Grecale GT",
+    "vin": "ZN6PMDAA2R7449295",
+    "stock": "MP228",
+    "exterior": "Bianco",
+    "interior": "Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZN6PMDAA2R7449295&vehicletype=SUV",
+    "price": "$69,995",
+    "sutherlins_price": "$28,888",
+    "mileage": "58,990 Miles"
   },
   {
     "category": "used",
