@@ -121,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Tesla Model 3 Performance",
-    "vin": "5YJ3E1EC1NF273819",
-    "stock": "MP185",
-    "exterior": "Pearl White Multi-Coat",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/249258af-79e3-4bd9-8fc8-654c8189184f.jpg",
-    "price": "$64,190",
-    "sutherlins_price": "$25,888",
-    "mileage": "67,079 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Wrangler Unlimited Sport S",
     "vin": "1C4HJXDN5MW664702",
     "stock": "MP233",
@@ -148,6 +133,21 @@
     "price": "$49,240",
     "sutherlins_price": "$25,888",
     "mileage": "64,087 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/249258af-79e3-4bd9-8fc8-654c8189184f.jpg",
+    "price": "$64,190",
+    "sutherlins_price": "$25,888",
+    "mileage": "67,079 Miles"
   },
   {
     "category": "used",
