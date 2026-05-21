@@ -1,6 +1,51 @@
 [
   {
     "category": "used",
+    "name": "2023 Alfa Romeo Giulia Veloce",
+    "vin": "ZARFAMBN8P7673763",
+    "stock": "MP236",
+    "exterior": "Alfa Rosso",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN8P7673763&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4091039-8a75-47fc-934b-dc7100ef25cd.jpg",
+    "price": "$57,835",
+    "sutherlins_price": "$29,888",
+    "mileage": "23,261 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Subaru Crosstrek Limited",
+    "vin": "4S4GUHL65R3752897",
+    "stock": "MP202",
+    "exterior": "Alpine Green",
+    "interior": "Gray W/Orange Stitching",
+    "engine": "2.5L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
+    "price": "$33,859",
+    "sutherlins_price": "$30,888",
+    "mileage": "16,234 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Mustang EcoBoost Premium",
+    "vin": "1FAGP8UH7R5122658",
+    "stock": "MP232",
+    "exterior": "Gray Metallic",
+    "interior": "Space Gray",
+    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FAGP8UH7R5122658&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/781f238c-73f0-4c4c-9278-c835200ffaff.jpg",
+    "price": "$43,955",
+    "sutherlins_price": "$30,888",
+    "mileage": "59,388 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Genesis G70 2.0T",
     "vin": "KMTG34TAXPU129708",
     "stock": "MP208",
@@ -433,35 +478,5 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "36,715 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Volkswagen Taos 1.5T SE",
-    "vin": "3VVRX7B28NM090952",
-    "stock": "MP249",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "1.5L I4 Turbocharged DOHC 16V LEV3-SULEV30 158hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRX7B28NM090952&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VVRX7B28NM090952&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "43,935 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE9PA179483",
-    "stock": "MP253",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE9PA179483&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE9PA179483&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "34,580 Miles"
   }
 ]
