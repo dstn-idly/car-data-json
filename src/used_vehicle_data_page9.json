@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE9PA179483",
-    "stock": "MP253",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE9PA179483&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE9PA179483&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "34,580 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Taos 1.5T SE",
     "vin": "3VVRX7B28NM090952",
     "stock": "MP249",
@@ -28,5 +13,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "43,935 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE9PA179483",
+    "stock": "MP253",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE9PA179483&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE9PA179483&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "34,580 Miles"
   }
 ]
