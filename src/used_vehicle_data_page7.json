@@ -196,21 +196,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Camaro 1LT",
-    "vin": "1G1FB3DS4L0113240",
-    "stock": "MP245",
-    "exterior": "Shock",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 DI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
-    "price": "$38,030",
-    "sutherlins_price": "$25,888",
-    "mileage": "40,262 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW 2 Series 228i",
     "vin": "WBA53AK05R7N49307",
     "stock": "MP246",
@@ -223,6 +208,21 @@
     "price": "$41,795",
     "sutherlins_price": "$25,888",
     "mileage": "63,526 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Camaro 1LT",
+    "vin": "1G1FB3DS4L0113240",
+    "stock": "MP245",
+    "exterior": "Shock",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 DI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
+    "price": "$38,030",
+    "sutherlins_price": "$25,888",
+    "mileage": "40,262 Miles"
   },
   {
     "category": "used",
@@ -341,7 +341,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/249258af-79e3-4bd9-8fc8-654c8189184f.jpg",
     "price": "$64,190",
-    "sutherlins_price": "$25,888",
+    "sutherlins_price": "$27,083",
     "mileage": "67,079 Miles"
   },
   {
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Maserati Grecale GT",
-    "vin": "ZN6PMDAA2R7449295",
-    "stock": "MP228",
-    "exterior": "Bianco",
-    "interior": "Black",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZN6PMDAA2R7449295&vehicletype=SUV",
-    "price": "$69,995",
-    "sutherlins_price": "$28,888",
-    "mileage": "58,990 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW 3 Series 330i",
     "vin": "3MW69FF00R8E13174",
     "stock": "MP188",
@@ -418,6 +403,21 @@
     "price": "$48,495",
     "sutherlins_price": "$28,888",
     "mileage": "37,704 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Maserati Grecale GT",
+    "vin": "ZN6PMDAA2R7449295",
+    "stock": "MP228",
+    "exterior": "Bianco",
+    "interior": "Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ZN6PMDAA2R7449295&vehicletype=SUV",
+    "price": "$69,995",
+    "sutherlins_price": "$28,888",
+    "mileage": "58,990 Miles"
   },
   {
     "category": "used",
