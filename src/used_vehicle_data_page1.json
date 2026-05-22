@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Kia Sportage LX",
-    "vin": "KNDPM3AC7K7628130",
-    "stock": "P13684",
-    "exterior": "Clear White",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDPM3AC7K7628130&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e8a5087359048a098d811b4c2d4541a.jpg",
-    "price": "$16,075",
-    "sutherlins_price": "$12,994",
-    "mileage": "42,596 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Versa SR",
     "vin": "3N1CN8FV9NL868558",
     "stock": "P13819",
@@ -163,21 +148,6 @@
     "price": "$15,850",
     "sutherlins_price": "$13,988",
     "mileage": "45,810 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2016 Honda Accord Sedan Sport",
-    "vin": "1HGCR2F51GA168916",
-    "stock": "KP1116",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1HGCR2F51GA168916&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2016HOC010008_640/2016HOC010008_640_01.jpg",
-    "price": "$13,988",
-    "sutherlins_price": "$13,988",
-    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -264,7 +234,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AAXMC785020&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fdac05b5546b4566896c934209895368.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cae68eb480e1446d818bf46b3ec6bf0b.jpg",
     "price": "$17,100",
     "sutherlins_price": "$15,988",
     "mileage": "76,283 Miles"
@@ -324,7 +294,7 @@
     "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J97KBB90292&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/55f1d10268874409bf0a34ab8a42ff4d.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/53472a436ba74025b6f8121ba18cbd9f.jpg",
     "price": "$17,512",
     "sutherlins_price": "$15,995",
     "mileage": "81,417 Miles"
@@ -429,7 +399,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N6CM0KN7LK711019&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/076233d6ec7b472794715a02b6828ef8.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/eda25a7b8dec4a7ba2fd188c5c3d1c44.jpg",
     "price": "$18,300",
     "sutherlins_price": "$16,988",
     "mileage": "88,523 Miles"
@@ -478,5 +448,35 @@
     "price": "$22,950",
     "sutherlins_price": "$17,983",
     "mileage": "26,835 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Kia Forte LXS",
+    "vin": "3KPF24AD9RE717255",
+    "stock": "P13755",
+    "exterior": "Aurora Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD9RE717255&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a31b46dd35594e869aef9cc740ca984e.jpg",
+    "price": "$18,900",
+    "sutherlins_price": "$17,995",
+    "mileage": "42,411 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV0RY309364",
+    "stock": "KP1107",
+    "exterior": "Rosewood Metallic",
+    "interior": "SV Premium",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0RY309364&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6cc894d036414e7ea64d2ff2a03c7a6d.jpg",
+    "price": "$21,350",
+    "sutherlins_price": "$17,995",
+    "mileage": "43,929 Miles"
   }
 ]

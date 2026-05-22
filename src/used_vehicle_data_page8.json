@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Genesis G70 2.0T",
-    "vin": "KMTG34TAXPU129708",
-    "stock": "MP208",
-    "exterior": "Capri Blue",
-    "interior": "Obsidian Black/Sandstorm Gray",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ebb3f6a7-ac34-4d7d-9258-9d4e3f37ece6.jpg",
-    "price": "$41,615",
-    "sutherlins_price": "$31,888",
-    "mileage": "31,197 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Honda Ridgeline RTL",
     "vin": "5FPYK3F56PB025103",
     "stock": "MP235",
@@ -279,7 +264,7 @@
     "engine": "2.5L I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC8RS208807&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5TDYRKEC8RS208807&vehicletype=Van",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2e5867bb-ed5e-47c6-8773-b181328169a1.jpg",
     "price": "$44,540",
     "sutherlins_price": "$41,888",
     "mileage": "58,465 Miles"
@@ -451,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEE9PA179483",
-    "stock": "MP253",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE9PA179483&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE9PA179483&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "34,580 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Ford Escape SE",
     "vin": "1FMCU0GX8GUA81381",
     "stock": "MP135A",
@@ -478,5 +448,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "95,975 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE9PA179483",
+    "stock": "MP253",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE9PA179483&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEE9PA179483&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "34,580 Miles"
   }
 ]

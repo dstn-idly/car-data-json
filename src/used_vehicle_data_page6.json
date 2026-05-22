@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Mitsubishi Mirage G4 Black Edition",
-    "vin": "ML32FUFJ3RHF11186",
-    "stock": "M2623A",
-    "exterior": "Starlight Silver Metallic w/Black Roof",
-    "interior": "Dark Gray",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FUFJ3RHF11186&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1931e3db-71ba-4c5f-a678-3f64a3c4b4c2.jpg",
-    "price": "$20,655",
-    "sutherlins_price": "$15,888",
-    "mileage": "23,300 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota Corolla SE",
     "vin": "JTDS4MCE8N3507410",
     "stock": "M2640A",
@@ -129,7 +114,7 @@
     "engine": "1.2L I3",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32FVFJ8RHF19886&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/951634d5-116a-4ba3-b457-194d67fcea17.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f23e0614-41ae-4aaf-9478-f560ca852b19.jpg",
     "price": "$20,740",
     "sutherlins_price": "$16,888",
     "mileage": "17,205 Miles"
@@ -478,5 +463,20 @@
     "price": "$29,045",
     "sutherlins_price": "$22,888",
     "mileage": "46,279 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mercedes-Benz C-Class C 300",
+    "vin": "W1KWF8EB2MR612919",
+    "stock": "MP222",
+    "exterior": "Polar White",
+    "interior": "Almond",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWF8EB2MR612919&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/e6f8929d-be18-4b3f-81ae-f7d9f5a81170.jpg",
+    "price": "$22,888",
+    "sutherlins_price": "$22,888",
+    "mileage": "73,581 Miles"
   }
 ]
