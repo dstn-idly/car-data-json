@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CE5TL307993&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/614e610689ec4aaab3020c8eade39401.jpg",
     "price": "$26,195",
-    "sutherlins_price": "$18,988",
+    "sutherlins_price": "$17,988",
     "mileage": "1,145 Miles"
   },
   {
@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2017 Ford F-150 XLT",
-    "vin": "1FTEX1EPXHFA59174",
-    "stock": "26146A",
-    "exterior": "Shadow Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded 2.7 L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEX1EPXHFA59174&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/51524540e6a0460996a3b51749fb977a.jpg",
-    "price": "$22,600",
-    "sutherlins_price": "$19,995",
-    "mileage": "102,204 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Sentra SV",
     "vin": "3N1AB8CV3SY324592",
     "stock": "P13790",
@@ -271,6 +256,21 @@
   },
   {
     "category": "used",
+    "name": "2017 Ford F-150 XLT",
+    "vin": "1FTEX1EPXHFA59174",
+    "stock": "26146A",
+    "exterior": "Shadow Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded 2.7 L EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEX1EPXHFA59174&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/51524540e6a0460996a3b51749fb977a.jpg",
+    "price": "$22,600",
+    "sutherlins_price": "$19,995",
+    "mileage": "102,204 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Volkswagen Tiguan SE",
     "vin": "3VV2B7AX2NM107483",
     "stock": "TT26458A",
@@ -286,18 +286,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY201199",
-    "stock": "P13735",
-    "exterior": "Rosewood Metallic",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA6NC730701",
+    "stock": "P13820",
+    "exterior": "Gun Metallic",
     "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b295cceb0f54f35bee7abaeea521a29.jpg",
-    "price": "$21,275",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6NC730701&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/88e8e70d36f44deeb189b6890478048f.jpg",
+    "price": "$21,525",
     "sutherlins_price": "$19,995",
-    "mileage": "40,372 Miles"
+    "mileage": "79,853 Miles"
   },
   {
     "category": "used",
@@ -346,18 +346,18 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA6NC730701",
-    "stock": "P13820",
-    "exterior": "Gun Metallic",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV8RY201199",
+    "stock": "P13735",
+    "exterior": "Rosewood Metallic",
     "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6NC730701&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/88e8e70d36f44deeb189b6890478048f.jpg",
-    "price": "$21,525",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1b295cceb0f54f35bee7abaeea521a29.jpg",
+    "price": "$21,275",
     "sutherlins_price": "$19,995",
-    "mileage": "79,853 Miles"
+    "mileage": "40,372 Miles"
   },
   {
     "category": "used",
