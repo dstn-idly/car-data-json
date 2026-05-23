@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Hyundai Tucson SEL",
-    "vin": "5NMJB3AE9PH244122",
-    "stock": "MP203",
-    "exterior": "Calypso Red",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE9PH244122&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/36e23ec3-e29f-474d-9773-d17f82d90fe5.jpg",
-    "price": "$30,690",
-    "sutherlins_price": "$23,888",
-    "mileage": "24,368 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chrysler Pacifica Limited",
     "vin": "2C4RC1GG3PR536366",
     "stock": "MP165",
@@ -114,7 +99,7 @@
     "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2FMPK4J98RBA97677&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/247e24f6-d2c6-43b8-b878-104c78fccf41.jpg",
     "price": "$41,160",
     "sutherlins_price": "$25,888",
     "mileage": "51,776 Miles"
@@ -136,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Camaro 1LT",
-    "vin": "1G1FB3DS4L0113240",
-    "stock": "MP245",
-    "exterior": "Shock",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 DI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
-    "price": "$38,030",
-    "sutherlins_price": "$25,888",
-    "mileage": "40,262 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW 2 Series 228i",
     "vin": "WBA53AK05R7N49307",
     "stock": "MP246",
@@ -163,6 +133,21 @@
     "price": "$41,795",
     "sutherlins_price": "$25,888",
     "mileage": "63,526 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Camaro 1LT",
+    "vin": "1G1FB3DS4L0113240",
+    "stock": "MP245",
+    "exterior": "Shock",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 DI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
+    "price": "$38,030",
+    "sutherlins_price": "$25,888",
+    "mileage": "40,262 Miles"
   },
   {
     "category": "used",
@@ -241,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Subaru Forester Limited",
-    "vin": "JF2SKAPC8NH406174",
-    "stock": "MP204",
-    "exterior": "Crystal Black Silica",
-    "interior": "Black",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2SKAPC8NH406174&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/440d97e6-8725-4ce8-9c27-ffaea2e8c3df.jpg",
-    "price": "$36,599",
-    "sutherlins_price": "$25,888",
-    "mileage": "61,191 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
@@ -268,6 +238,21 @@
     "price": "$42,065",
     "sutherlins_price": "$26,888",
     "mileage": "51,053 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Subaru Forester Limited",
+    "vin": "JF2SKAPC8NH406174",
+    "stock": "MP204",
+    "exterior": "Crystal Black Silica",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JF2SKAPC8NH406174&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/440d97e6-8725-4ce8-9c27-ffaea2e8c3df.jpg",
+    "price": "$36,599",
+    "sutherlins_price": "$25,888",
+    "mileage": "61,191 Miles"
   },
   {
     "category": "used",
@@ -361,21 +346,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Alfa Romeo Giulia Veloce",
-    "vin": "ZARFAMBN8P7673763",
-    "stock": "MP236",
-    "exterior": "Alfa Rosso",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN8P7673763&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4091039-8a75-47fc-934b-dc7100ef25cd.jpg",
-    "price": "$57,835",
-    "sutherlins_price": "$29,888",
-    "mileage": "23,261 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 BMW X1 xDrive28i",
     "vin": "WBX73EF06S5102647",
     "stock": "MP156",
@@ -388,6 +358,21 @@
     "price": "$45,500",
     "sutherlins_price": "$29,888",
     "mileage": "34,937 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Alfa Romeo Giulia Veloce",
+    "vin": "ZARFAMBN8P7673763",
+    "stock": "MP236",
+    "exterior": "Alfa Rosso",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN8P7673763&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4091039-8a75-47fc-934b-dc7100ef25cd.jpg",
+    "price": "$57,835",
+    "sutherlins_price": "$29,888",
+    "mileage": "23,261 Miles"
   },
   {
     "category": "used",
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Subaru Crosstrek Limited",
-    "vin": "4S4GUHL65R3752897",
-    "stock": "MP202",
-    "exterior": "Alpine Green",
-    "interior": "Gray W/Orange Stitching",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
-    "price": "$33,859",
-    "sutherlins_price": "$29,888",
-    "mileage": "16,234 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Ford Ranger Lariat",
     "vin": "1FTER4EH5LLA71375",
     "stock": "MP251",
@@ -433,6 +403,21 @@
     "price": "$37,260",
     "sutherlins_price": "$30,888",
     "mileage": "38,684 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Subaru Crosstrek Limited",
+    "vin": "4S4GUHL65R3752897",
+    "stock": "MP202",
+    "exterior": "Alpine Green",
+    "interior": "Gray W/Orange Stitching",
+    "engine": "2.5L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
+    "price": "$33,859",
+    "sutherlins_price": "$29,888",
+    "mileage": "16,234 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$31,888",
     "sutherlins_price": "$31,888",
     "mileage": "29,335 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford Mustang Mach-E Premium",
+    "vin": "3FMTK3SU3NMA58063",
+    "stock": "MP214",
+    "exterior": "Blue Silver Metallic",
+    "interior": "Black Onyx",
+    "engine": "Dual Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK3SU3NMA58063&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/86ceb751-8f69-4e93-9959-7481aad44195.jpg",
+    "price": "$58,815",
+    "sutherlins_price": "$30,888",
+    "mileage": "13,486 Miles"
   }
 ]
