@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Hyundai Kona SEL",
-    "vin": "KM8K22AA4MU697771",
-    "stock": "MP216",
-    "exterior": "Silver",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
-    "price": "$24,035",
-    "sutherlins_price": "$16,888",
-    "mileage": "76,786 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage G4 SE",
     "vin": "ML32FVFJ8RHF19886",
     "stock": "TM2541A",
@@ -28,21 +13,6 @@
     "price": "$20,740",
     "sutherlins_price": "$16,888",
     "mileage": "17,205 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Toyota Camry LE",
-    "vin": "4T1C11AK0LU360961",
-    "stock": "M2549A",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Ash",
-    "engine": "2.5L I4 DOHC 16V",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1C11AK0LU360961&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/783a4b04-e256-45e7-9e16-f7dfd829930a.jpg",
-    "price": "$25,925",
-    "sutherlins_price": "$17,488",
-    "mileage": "70,217 Miles"
   },
   {
     "category": "used",
@@ -133,21 +103,6 @@
     "price": "$21,735",
     "sutherlins_price": "$18,888",
     "mileage": "28,813 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Hyundai Tucson SEL",
-    "vin": "5NMJB3AE8NH143523",
-    "stock": "M2664A",
-    "exterior": "Gray",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE8NH143523&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1f69d8b5-5e4e-46e7-b18a-4b3463a229fa.jpg",
-    "price": "$29,050",
-    "sutherlins_price": "$18,888",
-    "mileage": "81,417 Miles"
   },
   {
     "category": "used",
@@ -478,5 +433,50 @@
     "price": "$30,690",
     "sutherlins_price": "$23,888",
     "mileage": "24,368 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG3PR536366",
+    "stock": "MP165",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG3PR536366&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c620fbdb-bfe7-44ff-844f-8e3268b1168a.jpg",
+    "price": "$49,450",
+    "sutherlins_price": "$24,888",
+    "mileage": "50,294 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SE",
+    "vin": "5NMS1DAJXPH573485",
+    "stock": "MP219",
+    "exterior": "Calypso Red",
+    "interior": "Beige",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS1DAJXPH573485&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/95e40c2f-b5f1-4b9a-81ca-b98ebf64fa59.jpg",
+    "price": "$32,985",
+    "sutherlins_price": "$24,888",
+    "mileage": "28,599 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Blazer LT",
+    "vin": "3GNKBCR4XRS127880",
+    "stock": "MP175",
+    "exterior": "Summit White",
+    "interior": "Gray",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d55040ee-a0a8-4074-8491-bb86c70082ae.jpg",
+    "price": "$39,610",
+    "sutherlins_price": "$25,488",
+    "mileage": "26,230 Miles"
   }
 ]
