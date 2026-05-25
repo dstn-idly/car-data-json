@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2023 GMC Acadia AT4",
-    "vin": "1GKKNLLS1PZ253556",
-    "stock": "MP120",
-    "exterior": "Volcanic Red",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 SIDI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/35b5adb9-ad7a-4fcb-8dbc-57a429eb6b5a.jpg",
-    "price": "$49,980",
-    "sutherlins_price": "$31,888",
-    "mileage": "32,033 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Chrysler Pacifica Limited",
     "vin": "2C4RC1GG2SR515811",
     "stock": "MP139",
@@ -418,6 +403,21 @@
     "price": "$51,265",
     "sutherlins_price": "$31,888",
     "mileage": "62,231 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 GMC Acadia AT4",
+    "vin": "1GKKNLLS1PZ253556",
+    "stock": "MP120",
+    "exterior": "Volcanic Red",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 SIDI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/35b5adb9-ad7a-4fcb-8dbc-57a429eb6b5a.jpg",
+    "price": "$49,980",
+    "sutherlins_price": "$31,888",
+    "mileage": "32,033 Miles"
   },
   {
     "category": "used",
