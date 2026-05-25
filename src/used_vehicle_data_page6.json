@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Volkswagen Tiguan 2.0T S",
-    "vin": "3VVRB7AX8RM037718",
-    "stock": "MP183",
-    "exterior": "Pure White",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c6a07124-6acb-4a15-af4b-f2cf2c25b5ef.jpg",
-    "price": "$30,915",
-    "sutherlins_price": "$17,888",
-    "mileage": "48,699 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$17,888",
-    "mileage": "77,710 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CV0RY201780",
     "stock": "MP173",
@@ -466,6 +436,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Ford Edge SEL",
+    "vin": "2FMPK4J98RBA97677",
+    "stock": "MP244",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/04772d99-638e-43f1-a032-b326bb4e40eb.jpg",
+    "price": "$41,160",
+    "sutherlins_price": "$25,888",
+    "mileage": "51,776 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Chevrolet TrailBlazer RS",
     "vin": "KL79MTSL0RB200234",
     "stock": "MP239",
@@ -478,5 +463,20 @@
     "price": "$28,950",
     "sutherlins_price": "$25,888",
     "mileage": "47,246 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 BMW 2 Series 228i",
+    "vin": "WBA53AK05R7N49307",
+    "stock": "MP246",
+    "exterior": "Jet Black",
+    "interior": "Black",
+    "engine": "2.0L 4-Cylinder",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA53AK05R7N49307&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WBA53AK05R7N49307&vehicletype=Sedan",
+    "price": "$41,795",
+    "sutherlins_price": "$25,888",
+    "mileage": "63,526 Miles"
   }
 ]

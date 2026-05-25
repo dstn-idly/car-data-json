@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SV",
-    "vin": "5N1DR3BA8RC242413",
-    "stock": "P13793",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA8RC242413&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/fef35c0231244f208ec8a8d9cd8d8606.jpg",
-    "price": "$29,725",
-    "sutherlins_price": "$30,995",
-    "mileage": "30,857 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Armada SL",
-    "vin": "JN8AY2BC9N9160658",
-    "stock": "26658A",
-    "exterior": "Super Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.6 L/339",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AY2BC9N9160658&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/79cdeb7e2cfd493fa12f7ef918ed4003.jpg",
-    "price": "$34,225",
-    "sutherlins_price": "$31,498",
-    "mileage": "57,917 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Toyota Tundra 2WD SR5",
     "vin": "5TFLA5AA2NX008520",
     "stock": "P13837",
@@ -181,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SL",
-    "vin": "5N1DR3CA3RC220561",
-    "stock": "P13809",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA3RC220561&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf7201c567c14a9ca3502bb2e0b61385.jpg",
-    "price": "$39,825",
-    "sutherlins_price": "$37,995",
-    "mileage": "9,444 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DJ6PC274822",
     "stock": "P13811",
@@ -208,6 +163,21 @@
     "price": "$39,075",
     "sutherlins_price": "$37,995",
     "mileage": "29,352 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA3RC220561",
+    "stock": "P13809",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA3RC220561&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf7201c567c14a9ca3502bb2e0b61385.jpg",
+    "price": "$39,825",
+    "sutherlins_price": "$37,995",
+    "mileage": "9,444 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$20,740",
     "sutherlins_price": "$16,888",
     "mileage": "17,205 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Volkswagen Tiguan 2.0T S",
+    "vin": "3VVRB7AX8RM037718",
+    "stock": "MP183",
+    "exterior": "Pure White",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c6a07124-6acb-4a15-af4b-f2cf2c25b5ef.jpg",
+    "price": "$30,915",
+    "sutherlins_price": "$17,888",
+    "mileage": "48,699 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW X3 sDrive30i",
+    "vin": "5UXTY3C05L9C93365",
+    "stock": "MP187",
+    "exterior": "Blue Metallic",
+    "interior": "Canberra Beige/Black",
+    "engine": "2.0L I4 TwinPower Turbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
+    "price": "$46,345",
+    "sutherlins_price": "$17,888",
+    "mileage": "77,710 Miles"
   }
 ]

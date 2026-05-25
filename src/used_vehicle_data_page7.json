@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Chevrolet TrailBlazer RS",
-    "vin": "KL79MTSL0RB200234",
-    "stock": "MP239",
-    "exterior": "Black Metallic",
-    "interior": "Jet Black",
-    "engine": "1.3L Ecotec Turbo DOHC SIDI w/VVT",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL79MTSL0RB200234&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5ec842b2-d750-409c-b708-c53165a0352d.jpg",
-    "price": "$28,950",
-    "sutherlins_price": "$25,888",
-    "mileage": "47,246 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 BMW 2 Series 228i",
-    "vin": "WBA53AK05R7N49307",
-    "stock": "MP246",
-    "exterior": "Jet Black",
-    "interior": "Black",
-    "engine": "2.0L 4-Cylinder",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA53AK05R7N49307&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WBA53AK05R7N49307&vehicletype=Sedan",
-    "price": "$41,795",
-    "sutherlins_price": "$25,888",
-    "mileage": "63,526 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Chevrolet Camaro 1LT",
     "vin": "1G1FB3DS4L0113240",
     "stock": "MP245",
@@ -391,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Chrysler Pacifica Limited",
-    "vin": "2C4RC1GG2SR515811",
-    "stock": "MP139",
-    "exterior": "Diamond Black",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a1a9de77-9820-4868-b8b1-2fdb413ff956.jpg",
-    "price": "$51,265",
-    "sutherlins_price": "$31,888",
-    "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 GMC Acadia AT4",
     "vin": "1GKKNLLS1PZ253556",
     "stock": "MP120",
@@ -418,6 +373,21 @@
     "price": "$49,980",
     "sutherlins_price": "$31,888",
     "mileage": "32,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a1a9de77-9820-4868-b8b1-2fdb413ff956.jpg",
+    "price": "$51,265",
+    "sutherlins_price": "$31,888",
+    "mileage": "62,231 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$49,695",
     "sutherlins_price": "$35,888",
     "mileage": "30,735 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Mercedes-Benz C-Class C 300",
+    "vin": "W1KAF4HB2NR039147",
+    "stock": "MP220",
+    "exterior": "Lunar Blue Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KAF4HB2NR039147&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f9466a3c-ba86-4fe7-87c2-b517fbbdbea8.jpg",
+    "price": "$57,400",
+    "sutherlins_price": "$35,888",
+    "mileage": "27,136 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Tesla Model Y Long Range",
+    "vin": "7SAYGDED6RF055216",
+    "stock": "MP197",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDED6RF055216&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8009fd77-d845-4dfd-a5c6-e80af4ed09c0.jpg",
+    "price": "$44,990",
+    "sutherlins_price": "$35,888",
+    "mileage": "19,060 Miles"
   }
 ]
