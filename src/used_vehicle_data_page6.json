@@ -61,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Chevrolet Bolt EV 1LT",
-    "vin": "1G1FW6S00N4110502",
-    "stock": "MP199",
-    "exterior": "Silver",
-    "interior": "Jet Black",
-    "engine": "Electric Drive Unit",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FW6S00N4110502&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/558f2bb8-3ba7-4484-9aa0-55ea19088734.jpg",
-    "price": "$31,995",
-    "sutherlins_price": "$18,768",
-    "mileage": "31,869 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Audi Q5 45 Premium Plus",
     "vin": "WA1BNAFY3L2059317",
     "stock": "MP186",
@@ -163,21 +148,6 @@
     "price": "$30,500",
     "sutherlins_price": "$19,888",
     "mileage": "61,194 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Kia Forte GT",
-    "vin": "3KPF44AC6PE633148",
-    "stock": "MP150",
-    "exterior": "Aurora Black",
-    "interior": "Black",
-    "engine": "1.6L I4 Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF44AC6PE633148&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6f32dd42-94fa-4767-99ee-ec5a41e4deb1.jpg",
-    "price": "$28,055",
-    "sutherlins_price": "$20,998",
-    "mileage": "45,218 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$39,610",
     "sutherlins_price": "$25,488",
     "mileage": "26,230 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Wrangler Unlimited Sport S",
+    "vin": "1C4HJXDN5MW664702",
+    "stock": "MP233",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDN5MW664702&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0f41af3f-266b-4d02-908c-846498f9c123.jpg",
+    "price": "$49,240",
+    "sutherlins_price": "$25,888",
+    "mileage": "64,087 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Kona SEL",
+    "vin": "KM8HB3AB3RU134498",
+    "stock": "MP211",
+    "exterior": "Abyss Black",
+    "interior": "Gray",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HB3AB3RU134498&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ffb6ecf6-e95c-48ab-a7d1-eb01235a0e17.jpg",
+    "price": "$27,684",
+    "sutherlins_price": "$24,888",
+    "mileage": "8,283 Miles"
   }
 ]
