@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chevrolet TrailBlazer RS",
-    "vin": "KL79MTSL0RB200234",
-    "stock": "MP239",
-    "exterior": "Black Metallic",
-    "interior": "Jet Black",
-    "engine": "1.3L Ecotec Turbo DOHC SIDI w/VVT",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL79MTSL0RB200234&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5ec842b2-d750-409c-b708-c53165a0352d.jpg",
-    "price": "$28,950",
-    "sutherlins_price": "$25,888",
-    "mileage": "47,246 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 BMW 2 Series 228i",
     "vin": "WBA53AK05R7N49307",
     "stock": "MP246",
@@ -106,6 +91,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Ford Explorer XLT",
+    "vin": "1FMSK7DH5MGC15491",
+    "stock": "MP217",
+    "exterior": "Green Metallic",
+    "interior": "Sandstone",
+    "engine": "2.3L EcoBoost I-4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMSK7DH5MGC15491&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3c89ff2f-676a-432d-aa64-c6cebfacb89f.jpg",
+    "price": "$42,065",
+    "sutherlins_price": "$26,888",
+    "mileage": "51,053 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Subaru Forester Limited",
     "vin": "JF2SKAPC8NH406174",
     "stock": "MP204",
@@ -133,21 +133,6 @@
     "price": "$33,395",
     "sutherlins_price": "$26,888",
     "mileage": "20,919 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Ford Explorer XLT",
-    "vin": "1FMSK7DH5MGC15491",
-    "stock": "MP217",
-    "exterior": "Green Metallic",
-    "interior": "Sandstone",
-    "engine": "2.3L EcoBoost I-4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMSK7DH5MGC15491&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3c89ff2f-676a-432d-aa64-c6cebfacb89f.jpg",
-    "price": "$42,065",
-    "sutherlins_price": "$26,888",
-    "mileage": "51,053 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$65,990",
     "sutherlins_price": "$34,888",
     "mileage": "34,580 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 BMW 3 Series 330i xDrive",
+    "vin": "3MW89FF09P8D58133",
+    "stock": "MP190",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "2.0L 4-Cylinder DOHC 16V Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3MW89FF09P8D58133&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b952fb89-b966-4816-b6d5-ef63bee2a3df.jpg",
+    "price": "$49,695",
+    "sutherlins_price": "$35,888",
+    "mileage": "30,735 Miles"
   }
 ]
