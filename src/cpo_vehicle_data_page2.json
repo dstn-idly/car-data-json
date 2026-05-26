@@ -1,21 +1,6 @@
 [
   {
     "category": "cpo",
-    "name": "2023 Nissan Rogue S",
-    "vin": "5N1BT3AB8PC934185",
-    "stock": "P13785",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3AB8PC934185&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b16bd6a965534f42bc5a3e4363b3db5d.jpg",
-    "price": "$22,500",
-    "sutherlins_price": "$21,995",
-    "mileage": "37,233 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA3RW351622",
     "stock": "P13752",
@@ -84,7 +69,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CA0SL309467&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ccfd624ad4748da833b57fa45cccd7e.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cb965022bd3e4160b8ba113000641b56.jpg",
     "price": "$23,525",
     "sutherlins_price": "$21,995",
     "mileage": "39,527 Miles"
@@ -166,21 +151,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA5RW351704",
-    "stock": "P13773",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870d9a6e44ad43b382812e0f6c4e8b08.jpg",
-    "price": "$25,600",
-    "sutherlins_price": "$22,995",
-    "mileage": "32,291 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA1PW007994",
     "stock": "P13792",
@@ -189,7 +159,7 @@
     "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1PW007994&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f65ef5a7f00241af80156475d0428933.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5f1e92554f634e0e820da541c09c1b2d.jpg",
     "price": "$26,625",
     "sutherlins_price": "$22,995",
     "mileage": "17,742 Miles"
@@ -208,6 +178,21 @@
     "price": "$24,275",
     "sutherlins_price": "$22,995",
     "mileage": "34,243 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "JN8BT3BA5RW351704",
+    "stock": "P13773",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/870d9a6e44ad43b382812e0f6c4e8b08.jpg",
+    "price": "$25,600",
+    "sutherlins_price": "$22,995",
+    "mileage": "32,291 Miles"
   },
   {
     "category": "cpo",
@@ -478,5 +463,20 @@
     "price": "$35,325",
     "sutherlins_price": "$33,995",
     "mileage": "10,136 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA3RC220561",
+    "stock": "P13809",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA3RC220561&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf7201c567c14a9ca3502bb2e0b61385.jpg",
+    "price": "$39,825",
+    "sutherlins_price": "$37,995",
+    "mileage": "9,444 Miles"
   }
 ]
