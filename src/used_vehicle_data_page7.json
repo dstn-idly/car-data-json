@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Hyundai Elantra Limited",
-    "vin": "KMHLP4DG4RU756682",
-    "stock": "MP238",
-    "exterior": "Intense Blue",
-    "interior": "Melange/Light Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLP4DG4RU756682&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/18f8cc4c-e3f5-49cc-ac59-4d15266babc0.jpg",
-    "price": "$28,215",
-    "sutherlins_price": "$22,888",
-    "mileage": "45,308 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Chevrolet Equinox LT",
-    "vin": "3GNAXUEG1RL283576",
-    "stock": "MP240",
-    "exterior": "Sterling Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXUEG1RL283576&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/875d775c-50b1-4508-9075-9322c204d13e.jpg",
-    "price": "$32,190",
-    "sutherlins_price": "$23,888",
-    "mileage": "56,023 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 MINI Cooper Classic",
     "vin": "WMWWJ3C03M3M17098",
     "stock": "MP200",
@@ -166,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Ford Edge SEL",
-    "vin": "2FMPK4J98RBA97677",
-    "stock": "MP244",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/04772d99-638e-43f1-a032-b326bb4e40eb.jpg",
-    "price": "$41,160",
-    "sutherlins_price": "$25,888",
-    "mileage": "51,776 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet TrailBlazer RS",
     "vin": "KL79MTSL0RB200234",
     "stock": "MP239",
@@ -193,6 +148,21 @@
     "price": "$28,950",
     "sutherlins_price": "$25,888",
     "mileage": "47,246 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Edge SEL",
+    "vin": "2FMPK4J98RBA97677",
+    "stock": "MP244",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/04772d99-638e-43f1-a032-b326bb4e40eb.jpg",
+    "price": "$41,160",
+    "sutherlins_price": "$25,888",
+    "mileage": "51,776 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$37,260",
     "sutherlins_price": "$30,888",
     "mileage": "38,684 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Mustang EcoBoost Premium",
+    "vin": "1FAGP8UH7R5122658",
+    "stock": "MP232",
+    "exterior": "Gray Metallic",
+    "interior": "Space Gray",
+    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FAGP8UH7R5122658&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/781f238c-73f0-4c4c-9278-c835200ffaff.jpg",
+    "price": "$43,955",
+    "sutherlins_price": "$30,888",
+    "mileage": "59,388 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Genesis G70 2.0T",
+    "vin": "KMTG34TAXPU129708",
+    "stock": "MP208",
+    "exterior": "Capri Blue",
+    "interior": "Obsidian Black/Sandstorm Gray",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ebb3f6a7-ac34-4d7d-9258-9d4e3f37ece6.jpg",
+    "price": "$41,615",
+    "sutherlins_price": "$30,888",
+    "mileage": "31,197 Miles"
   }
 ]

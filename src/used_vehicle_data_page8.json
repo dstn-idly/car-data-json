@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Ford Mustang EcoBoost Premium",
-    "vin": "1FAGP8UH7R5122658",
-    "stock": "MP232",
-    "exterior": "Gray Metallic",
-    "interior": "Space Gray",
-    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FAGP8UH7R5122658&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/781f238c-73f0-4c4c-9278-c835200ffaff.jpg",
-    "price": "$43,955",
-    "sutherlins_price": "$30,888",
-    "mileage": "59,388 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Genesis G70 2.0T",
-    "vin": "KMTG34TAXPU129708",
-    "stock": "MP208",
-    "exterior": "Capri Blue",
-    "interior": "Obsidian Black/Sandstorm Gray",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMTG34TAXPU129708&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ebb3f6a7-ac34-4d7d-9258-9d4e3f37ece6.jpg",
-    "price": "$41,615",
-    "sutherlins_price": "$30,888",
-    "mileage": "31,197 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Honda Ridgeline RTL",
     "vin": "5FPYK3F56PB025103",
     "stock": "MP235",
@@ -403,5 +373,35 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Volkswagen Passat 2.0T Wolfsburg",
+    "vin": "1VWLA7A36KC006007",
+    "stock": "M26122A",
+    "exterior": "Blue Metallic",
+    "interior": "Moonrock Gray",
+    "engine": "2.0L I4 TSI Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWLA7A36KC006007&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1VWLA7A36KC006007&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "54,435 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2011 Toyota Camry LE",
+    "vin": "4T1BF3EK6BU601049",
+    "stock": "MP151A",
+    "exterior": "Blue Ribbon Metallic",
+    "interior": "Bisque",
+    "engine": "2.5L I4 SMPI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BF3EK6BU601049&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T1BF3EK6BU601049&vehicletype=Sedan",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "140,000 Miles"
   }
 ]

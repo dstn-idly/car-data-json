@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJXRH029078",
-    "stock": "MP247",
-    "exterior": "Jet Black Metallic",
-    "interior": "Black",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJXRH029078&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1afe7386-5925-4392-a157-6c9e27cd4215.jpg",
-    "price": "$18,015",
-    "sutherlins_price": "$15,888",
-    "mileage": "19,792 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Renegade Limited",
     "vin": "ZACNJDD1XMPM29950",
     "stock": "MP194",
@@ -301,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Ford Escape ST-Line",
-    "vin": "1FMCU9MN4PUB39512",
-    "stock": "MP151",
-    "exterior": "Gray Metallic",
-    "interior": "Ebony",
-    "engine": "1.5L EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMCU9MN4PUB39512&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c828d5ae-3dd1-4dbf-a7c0-3643bab97e49.jpg",
-    "price": "$34,250",
-    "sutherlins_price": "$20,988",
-    "mileage": "24,892 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Kicks SR",
     "vin": "3N1CP5DV6PL505990",
     "stock": "MP174",
@@ -478,5 +448,35 @@
     "price": "$32,890",
     "sutherlins_price": "$22,888",
     "mileage": "60,328 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Elantra Limited",
+    "vin": "KMHLP4DG4RU756682",
+    "stock": "MP238",
+    "exterior": "Intense Blue",
+    "interior": "Melange/Light Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLP4DG4RU756682&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/18f8cc4c-e3f5-49cc-ac59-4d15266babc0.jpg",
+    "price": "$28,215",
+    "sutherlins_price": "$22,888",
+    "mileage": "45,308 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Equinox LT",
+    "vin": "3GNAXUEG1RL283576",
+    "stock": "MP240",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXUEG1RL283576&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/875d775c-50b1-4508-9075-9322c204d13e.jpg",
+    "price": "$32,190",
+    "sutherlins_price": "$23,888",
+    "mileage": "56,023 Miles"
   }
 ]
