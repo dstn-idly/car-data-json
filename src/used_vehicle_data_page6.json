@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Volkswagen Tiguan 2.0T S",
-    "vin": "3VVRB7AX8RM037718",
-    "stock": "MP183",
-    "exterior": "Pure White",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c6a07124-6acb-4a15-af4b-f2cf2c25b5ef.jpg",
-    "price": "$30,915",
-    "sutherlins_price": "$17,888",
-    "mileage": "48,699 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 BMW X3 sDrive30i",
     "vin": "5UXTY3C05L9C93365",
     "stock": "MP187",
@@ -388,6 +373,21 @@
     "price": "$46,345",
     "sutherlins_price": "$17,888",
     "mileage": "77,710 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Volkswagen Tiguan 2.0T S",
+    "vin": "3VVRB7AX8RM037718",
+    "stock": "MP183",
+    "exterior": "Pure White",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c6a07124-6acb-4a15-af4b-f2cf2c25b5ef.jpg",
+    "price": "$30,915",
+    "sutherlins_price": "$17,888",
+    "mileage": "48,699 Miles"
   },
   {
     "category": "used",
@@ -451,6 +451,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$19,888",
+    "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE6RP080580",
     "stock": "M2607A",
@@ -463,20 +478,5 @@
     "price": "$21,900",
     "sutherlins_price": "$19,888",
     "mileage": "54,623 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Hyundai Kona SEL",
-    "vin": "KM8HBCAB4RU149284",
-    "stock": "MP231",
-    "exterior": "Green",
-    "interior": "Gray",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7dc8ad2-5d2c-4766-a3d4-276201323447.jpg",
-    "price": "$28,475",
-    "sutherlins_price": "$19,888",
-    "mileage": "60,241 Miles"
   }
 ]
