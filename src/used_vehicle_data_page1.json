@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2007 Toyota Camry",
-    "vin": "4T1BE46K07U612045",
-    "stock": "P13810B",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "Gas I4 2.4L/144",
-    "transmission": "5-Speed",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4T1BE46K07U612045&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=4T1BE46K07U612045&vehicletype=Sedan",
-    "price": "$1,995",
-    "sutherlins_price": "$1,995",
-    "mileage": "255,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Sentra SR",
     "vin": "3N1AB7AP1EY274438",
     "stock": "26563A",
@@ -25,7 +10,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP1EY274438&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS011a_640/2014NIS011a_640_01.jpg",
-    "price": "$5,995",
+    "price": "$8,499",
     "sutherlins_price": "$5,995",
     "mileage": "86,520 Miles"
   },
@@ -40,7 +25,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW265883&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019NIS11_640/2019NIS110034_640_01.jpg",
-    "price": "$8,988",
+    "price": "$10,987",
     "sutherlins_price": "$8,988",
     "mileage": "141,662 Miles"
   },
@@ -295,7 +280,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYK3DC2FS591697&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015TOV11_640/2015TOV110018_640_01.jpg",
-    "price": "$14,988",
+    "price": "$16,950",
     "sutherlins_price": "$14,988",
     "mileage": "99,110 Miles"
   },
@@ -370,7 +355,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV5RL835436&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC10_640/2024NIC100047_640_01.jpg",
-    "price": "$15,995",
+    "price": "$18,820",
     "sutherlins_price": "$15,995",
     "mileage": "39,245 Miles"
   },
@@ -430,7 +415,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AV1MW305535&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS17_640/2021NIS170087_640_01.jpg",
-    "price": "$15,995",
+    "price": "$17,650",
     "sutherlins_price": "$15,995",
     "mileage": "60,035 Miles"
   },
@@ -478,5 +463,20 @@
     "price": "$18,275",
     "sutherlins_price": "$16,898",
     "mileage": "87,305 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 GMC Terrain SLE",
+    "vin": "3GKALMEV5ML394101",
+    "stock": "P13715",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GKALMEV5ML394101&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c6d7078b1e824466b3ba62d41a8cdfd0.jpg",
+    "price": "$21,125",
+    "sutherlins_price": "$16,988",
+    "mileage": "62,315 Miles"
   }
 ]
