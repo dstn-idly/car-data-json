@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Lincoln Corsair Standard",
-    "vin": "5LMCJ1CA8PUL26757",
-    "stock": "MP224",
-    "exterior": "Radiance Metallic",
-    "interior": "Ebony/Smoked Truffle",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5LMCJ1CA8PUL26757&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/85a65454-b425-4710-9f5c-8f8d84379cd6.jpg",
-    "price": "$39,835",
-    "sutherlins_price": "$31,888",
-    "mileage": "12,771 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 GMC Acadia AT4",
     "vin": "1GKKNLLS1PZ253556",
     "stock": "MP120",
@@ -369,7 +354,7 @@
     "engine": "Electric Motor",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=7SAYGDEEXPF710368&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d752907c-8a52-4c12-a2d6-16b00481a636.jpg",
     "price": "$65,990",
     "sutherlins_price": "$36,888",
     "mileage": "16,161 Miles"
@@ -444,7 +429,7 @@
     "engine": "3.5L V6 SOHC i-VTEC 24V",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5FNRL6H82PB016630&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5FNRL6H82PB016630&vehicletype=Van",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1140cc8e-5451-49fd-8f8b-19c287c6e9a3.jpg",
     "price": "$45,995",
     "sutherlins_price": "$38,888",
     "mileage": "36,715 Miles"
@@ -478,5 +463,20 @@
     "price": "$67,150",
     "sutherlins_price": "$39,888",
     "mileage": "40,228 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford F-150 XLT",
+    "vin": "1FTEW1EP4NKE59494",
+    "stock": "MP218",
+    "exterior": "Blue Metallic",
+    "interior": "Black",
+    "engine": "2.7L V6 EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1EP4NKE59494&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/603860c9-cf48-40eb-b3c3-b59bcd6e5cb4.jpg",
+    "price": "$57,180",
+    "sutherlins_price": "$41,888",
+    "mileage": "30,501 Miles"
   }
 ]
