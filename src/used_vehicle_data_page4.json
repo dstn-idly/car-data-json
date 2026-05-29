@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA3RW351281",
-    "stock": "P13788",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA3RW351281&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7dbcdda2ac04c86a3b701d40a7e4d1e.jpg",
-    "price": "$25,225",
-    "sutherlins_price": "$22,599",
-    "mileage": "35,363 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZE5ST3RF232284",
     "stock": "P13731",
@@ -478,5 +463,20 @@
     "price": "$34,350",
     "sutherlins_price": "$27,988",
     "mileage": "10,890 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Jeep Wrangler Unlimited Willys",
+    "vin": "1C4HJXDM2NW175246",
+    "stock": "P13799",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Diesel V-6 3.0 L/182",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDM2NW175246&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d9ba6e0868d84e84818d63ea047adbc8.jpg",
+    "price": "$29,725",
+    "sutherlins_price": "$27,988",
+    "mileage": "84,610 Miles"
   }
 ]

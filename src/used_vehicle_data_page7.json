@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra Hybrid Limited",
-    "vin": "KMHLN4AJ1PU054578",
-    "stock": "MP184",
-    "exterior": "Fluid Metal",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
-    "price": "$30,500",
-    "sutherlins_price": "$19,888",
-    "mileage": "61,194 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Fe SE",
     "vin": "5NMS14AJ3PH593061",
     "stock": "MP180",
@@ -478,5 +463,20 @@
     "price": "$33,395",
     "sutherlins_price": "$26,888",
     "mileage": "20,919 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Ford Explorer XLT",
+    "vin": "1FMSK7DH5MGC15491",
+    "stock": "MP217",
+    "exterior": "Green Metallic",
+    "interior": "Sandstone",
+    "engine": "2.3L EcoBoost I-4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMSK7DH5MGC15491&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3c89ff2f-676a-432d-aa64-c6cebfacb89f.jpg",
+    "price": "$42,065",
+    "sutherlins_price": "$26,888",
+    "mileage": "51,053 Miles"
   }
 ]

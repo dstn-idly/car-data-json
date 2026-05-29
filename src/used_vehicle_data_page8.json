@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Ford Explorer XLT",
-    "vin": "1FMSK7DH5MGC15491",
-    "stock": "MP217",
-    "exterior": "Green Metallic",
-    "interior": "Sandstone",
-    "engine": "2.3L EcoBoost I-4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMSK7DH5MGC15491&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3c89ff2f-676a-432d-aa64-c6cebfacb89f.jpg",
-    "price": "$42,065",
-    "sutherlins_price": "$26,888",
-    "mileage": "51,053 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Chevrolet Blazer LT",
     "vin": "3GNKBCR44SS196327",
     "stock": "MP196",
@@ -478,5 +463,20 @@
     "price": "$44,835",
     "sutherlins_price": "$39,888",
     "mileage": "19,366 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Mercedes-Benz GLE 350",
+    "vin": "4JGFB4KB7NA829882",
+    "stock": "MP213",
+    "exterior": "Silver Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFB4KB7NA829882&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f74fb2c3-de49-4856-b1b4-73e6724cf86c.jpg",
+    "price": "$67,150",
+    "sutherlins_price": "$39,888",
+    "mileage": "40,228 Miles"
   }
 ]
