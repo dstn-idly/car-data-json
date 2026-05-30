@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Chevrolet Blazer LT",
-    "vin": "3GNKBCR44SS196327",
-    "stock": "MP196",
-    "exterior": "Black",
-    "interior": "Jet Black/Medium Gray",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR44SS196327&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2f9ae9be-f447-4f47-a6c0-cec1f5fea6be.jpg",
-    "price": "$36,795",
-    "sutherlins_price": "$26,888",
-    "mileage": "29,649 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Tucson Limited",
-    "vin": "5NMJE3AE9PH245603",
-    "stock": "MP223",
-    "exterior": "White Pearl",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE9PH245603&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/91c56c9d-956b-4ad4-ac43-2f6f11c9dbba.jpg",
-    "price": "$38,500",
-    "sutherlins_price": "$27,888",
-    "mileage": "27,676 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Toyota RAV4 TRD Off Road",
     "vin": "2T3J1RFV7LC093979",
     "stock": "MP178",
@@ -478,5 +448,35 @@
     "price": "$57,180",
     "sutherlins_price": "$41,888",
     "mileage": "30,501 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Toyota Sienna XLE",
+    "vin": "5TDYRKEC8RS208807",
+    "stock": "MP227",
+    "exterior": "Midnight Black Metallic",
+    "interior": "Graphite",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC8RS208807&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/de14b317-10d9-420b-9b32-ea32b00db7c0.jpg",
+    "price": "$44,540",
+    "sutherlins_price": "$41,888",
+    "mileage": "58,465 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 BMW 7 Series 750i xDrive",
+    "vin": "WBA7U2C00LGJ59670",
+    "stock": "MP225",
+    "exterior": "Black Sapphire Metallic",
+    "interior": "Black",
+    "engine": "4.4L V8 32V Twin Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBA7U2C00LGJ59670&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ca3d391e-2699-4cfc-93fd-0e2766391c5f.jpg",
+    "price": "$112,995",
+    "sutherlins_price": "$42,888",
+    "mileage": "36,650 Miles"
   }
 ]
