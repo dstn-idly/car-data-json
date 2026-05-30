@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA5RW350388",
-    "stock": "P13801",
-    "exterior": "Deep Ocean Blue Pearl",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW350388&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3d6ca1c74d6b4adab812c46b19d8e1e1.jpg",
-    "price": "$24,000",
-    "sutherlins_price": "$22,995",
-    "mileage": "35,126 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "JN8BT3BA4PW416913",
     "stock": "26787A",
@@ -61,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "5N1BT3BB7PC834089",
-    "stock": "P13743",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB7PC834089&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/911dc87e6b1e479eb133d5a6cd0d80b3.jpg",
-    "price": "$23,975",
-    "sutherlins_price": "$22,995",
-    "mileage": "59,734 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA0RW351514",
     "stock": "P13824",
@@ -88,6 +58,21 @@
     "price": "$24,275",
     "sutherlins_price": "$22,995",
     "mileage": "34,509 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "5N1BT3BB7PC834089",
+    "stock": "P13743",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BB7PC834089&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/911dc87e6b1e479eb133d5a6cd0d80b3.jpg",
+    "price": "$23,975",
+    "sutherlins_price": "$22,995",
+    "mileage": "59,734 Miles"
   },
   {
     "category": "used",
@@ -178,6 +163,21 @@
     "price": "$30,775",
     "sutherlins_price": "$23,988",
     "mileage": "85,201 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Buick Encore GX Essence",
+    "vin": "KL4MMFSLXPB001519",
+    "stock": "26657A",
+    "exterior": "Ebony Twilight Metallic",
+    "interior": "Ebony with Ebony interior accents",
+    "engine": "Turbocharged 1.3/",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4MMFSLXPB001519&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023BUS06_640/2023BUS060031_640_01.jpg",
+    "price": "$23,995",
+    "sutherlins_price": "$23,995",
+    "mileage": "61,322 Miles"
   },
   {
     "category": "used",
@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue Platinum",
-    "vin": "JN8BT3DC0PW102495",
-    "stock": "26848A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3DC0PW102495&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d3df6e44b3984d5c8ed57f23e72b7318.jpg",
-    "price": "$29,996",
-    "sutherlins_price": "$27,499",
-    "mileage": "27,285 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Frontier SV",
     "vin": "1N6ED1EJ8PN610918",
     "stock": "P13775",
@@ -478,5 +463,20 @@
     "price": "$30,200",
     "sutherlins_price": "$28,995",
     "mileage": "38,799 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 RAM 1500 Big Horn",
+    "vin": "1C6RREFT4MN544335",
+    "stock": "P13718",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RREFT4MN544335&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/381fb107a41044c19df7219d215319b6.jpg",
+    "price": "$34,075",
+    "sutherlins_price": "$29,490",
+    "mileage": "67,416 Miles"
   }
 ]

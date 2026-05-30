@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Jeep Compass Sport",
-    "vin": "3C4NJDAN4PT574960",
-    "stock": "MP201",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN4PT574960&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6a742105-0bfb-4859-982f-19ec08b66abd.jpg",
-    "price": "$29,995",
-    "sutherlins_price": "$20,888",
-    "mileage": "43,944 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Kicks SR",
-    "vin": "3N1CP5DV6PL505990",
-    "stock": "MP174",
-    "exterior": "Aspen White",
-    "interior": "Charcoal",
-    "engine": "1.6L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL505990&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f1df288c-9661-46c8-82ef-a6e93f70f880.jpg",
-    "price": "$27,110",
-    "sutherlins_price": "$21,488",
-    "mileage": "8,933 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Honda Civic LX",
-    "vin": "2HGFE2F27NH544533",
-    "stock": "MP137",
-    "exterior": "Rallye Red",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V i-VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8edd5848-b9fc-42c3-a2b7-3be7e05bc44a.jpg",
-    "price": "$23,645",
-    "sutherlins_price": "$21,488",
-    "mileage": "26,169 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Mitsubishi Outlander SE",
     "vin": "JA4J3UA82PZ054438",
     "stock": "M2645A",
@@ -331,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chevrolet TrailBlazer RS",
-    "vin": "KL79MTSL0RB200234",
-    "stock": "MP239",
-    "exterior": "Black Metallic",
-    "interior": "Jet Black",
-    "engine": "1.3L Ecotec Turbo DOHC SIDI w/VVT",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL79MTSL0RB200234&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5ec842b2-d750-409c-b708-c53165a0352d.jpg",
-    "price": "$28,950",
-    "sutherlins_price": "$25,888",
-    "mileage": "47,246 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Subaru Forester Limited",
     "vin": "JF2SKAPC8NH406174",
     "stock": "MP204",
@@ -373,6 +313,21 @@
     "price": "$41,160",
     "sutherlins_price": "$25,888",
     "mileage": "51,776 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet TrailBlazer RS",
+    "vin": "KL79MTSL0RB200234",
+    "stock": "MP239",
+    "exterior": "Black Metallic",
+    "interior": "Jet Black",
+    "engine": "1.3L Ecotec Turbo DOHC SIDI w/VVT",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL79MTSL0RB200234&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5ec842b2-d750-409c-b708-c53165a0352d.jpg",
+    "price": "$28,950",
+    "sutherlins_price": "$25,888",
+    "mileage": "47,246 Miles"
   },
   {
     "category": "used",
@@ -406,6 +361,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Tesla Model 3 Performance",
+    "vin": "5YJ3E1EC1NF273819",
+    "stock": "MP185",
+    "exterior": "Pearl White Multi-Coat",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EC1NF273819&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/249258af-79e3-4bd9-8fc8-654c8189184f.jpg",
+    "price": "$64,190",
+    "sutherlins_price": "$27,988",
+    "mileage": "67,079 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR43PS220446",
     "stock": "MP209",
@@ -421,6 +391,21 @@
   },
   {
     "category": "used",
+    "name": "2025 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA82SZ015153",
+    "stock": "MP250",
+    "exterior": "Alloy Silver Metallic",
+    "interior": "Black",
+    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA82SZ015153&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA82SZ015153&vehicletype=SUV",
+    "price": "$33,395",
+    "sutherlins_price": "$26,888",
+    "mileage": "20,919 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
@@ -433,21 +418,6 @@
     "price": "$42,065",
     "sutherlins_price": "$26,888",
     "mileage": "51,053 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Mitsubishi Outlander SE",
-    "vin": "JA4J3VA82SZ015153",
-    "stock": "MP250",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA82SZ015153&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA82SZ015153&vehicletype=SUV",
-    "price": "$33,395",
-    "sutherlins_price": "$26,888",
-    "mileage": "20,919 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$38,500",
     "sutherlins_price": "$27,888",
     "mileage": "27,676 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Toyota RAV4 TRD Off Road",
+    "vin": "2T3J1RFV7LC093979",
+    "stock": "MP178",
+    "exterior": "Super White",
+    "interior": "Black",
+    "engine": "2.5L 4-Cylinder DOHC Dual VVT-i",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T3J1RFV7LC093979&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dd6c7494-cce5-4a90-907e-ccfd9aec7f4b.jpg",
+    "price": "$35,200",
+    "sutherlins_price": "$27,888",
+    "mileage": "70,672 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Maserati Grecale GT",
+    "vin": "ZN6PMDAA2R7449295",
+    "stock": "MP228",
+    "exterior": "Bianco",
+    "interior": "Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b140af23-8402-45be-8c40-15da68e41e3c.jpg",
+    "price": "$69,995",
+    "sutherlins_price": "$28,888",
+    "mileage": "58,990 Miles"
   }
 ]
