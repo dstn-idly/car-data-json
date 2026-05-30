@@ -11,7 +11,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5GAKRBKD2FJ321052&source=BUP",
     "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5GAKRBKD2FJ321052&vehicletype=SUV",
     "price": "$48,290",
-    "sutherlins_price": "$11,715",
+    "sutherlins_price": "$6,888",
     "mileage": "113,525 Miles"
   },
   {
@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2018 Toyota C-HR XLE Premium",
-    "vin": "NMTKHMBX8JR016995",
-    "stock": "MP160A",
-    "exterior": "Magnetic Gray Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=NMTKHMBX8JR016995&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=NMTKHMBX8JR016995&vehicletype=SUV",
-    "price": "$8,888",
-    "sutherlins_price": "$8,888",
-    "mileage": "134,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2014 Toyota Camry SE",
     "vin": "4T1BF1FKXEU804355",
     "stock": "MP150A",
@@ -58,6 +43,21 @@
     "price": "$8,888",
     "sutherlins_price": "$8,888",
     "mileage": "163,747 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Toyota C-HR XLE Premium",
+    "vin": "NMTKHMBX8JR016995",
+    "stock": "MP160A",
+    "exterior": "Magnetic Gray Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=NMTKHMBX8JR016995&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=NMTKHMBX8JR016995&vehicletype=SUV",
+    "price": "$8,888",
+    "sutherlins_price": "$8,888",
+    "mileage": "134,000 Miles"
   },
   {
     "category": "used",
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA32U8FW7FU022343&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7f52c426-e05b-4b2f-8456-fb20137f3a1e.jpg",
     "price": "$9,888",
-    "sutherlins_price": "$10,888",
+    "sutherlins_price": "$9,888",
     "mileage": "95,786 Miles"
   },
   {
@@ -251,7 +251,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dfbdc4bf-e9cd-4349-add1-fd0c5d124ddb.jpg",
     "price": "$29,095",
-    "sutherlins_price": "$16,888",
+    "sutherlins_price": "$15,888",
     "mileage": "60,166 Miles"
   },
   {
@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra Hybrid Limited",
-    "vin": "KMHLN4AJ1PU054578",
-    "stock": "MP184",
-    "exterior": "Fluid Metal",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
-    "price": "$30,500",
-    "sutherlins_price": "$19,888",
-    "mileage": "61,194 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE6RP080580",
     "stock": "M2607A",
@@ -406,6 +391,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a0a6c3cc-8e1e-42c5-86e6-9b5e17a5f16e.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$19,888",
+    "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Santa Fe SE",
     "vin": "5NMS14AJ3PH593061",
     "stock": "MP180",
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
     "price": "$30,690",
-    "sutherlins_price": "$19,888",
+    "sutherlins_price": "$20,888",
     "mileage": "43,849 Miles"
   },
   {
@@ -461,7 +461,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5DV6PL505990&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f1df288c-9661-46c8-82ef-a6e93f70f880.jpg",
     "price": "$27,110",
-    "sutherlins_price": "$21,488",
+    "sutherlins_price": "$20,488",
     "mileage": "8,933 Miles"
   },
   {
@@ -476,7 +476,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
     "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8edd5848-b9fc-42c3-a2b7-3be7e05bc44a.jpg",
     "price": "$23,645",
-    "sutherlins_price": "$21,488",
+    "sutherlins_price": "$20,888",
     "mileage": "26,169 Miles"
   }
 ]
