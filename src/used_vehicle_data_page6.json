@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2011 BMW 3 Series 328i",
+    "vin": "WBAPH7C56BE678729",
+    "stock": "M26128A",
+    "exterior": "Blue Water Metallic",
+    "interior": "Gray",
+    "engine": "3.0L 6-Cylinder DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAPH7C56BE678729&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WBAPH7C56BE678729&vehicletype=Sedan",
+    "price": "$6,888",
+    "sutherlins_price": "$6,888",
+    "mileage": "129,077 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Dodge Journey SE",
+    "vin": "3C4PDCAB1GT233340",
+    "stock": "M2673A",
+    "exterior": "Crystal Metallic",
+    "interior": "Black",
+    "engine": "2.4L I4 DOHC 16V Dual VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4PDCAB1GT233340&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4PDCAB1GT233340&vehicletype=SUV",
+    "price": "$6,888",
+    "sutherlins_price": "$6,888",
+    "mileage": "111,750 Miles"
+  },
+  {
+    "category": "used",
     "name": "2015 Buick Enclave Leather Group",
     "vin": "5GAKRBKD2FJ321052",
     "stock": "MP221A",
@@ -448,35 +478,5 @@
     "price": "$29,995",
     "sutherlins_price": "$20,888",
     "mileage": "43,944 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Santa Fe SE",
-    "vin": "5NMS14AJ3PH593061",
-    "stock": "MP180",
-    "exterior": "Stormy Blue",
-    "interior": "Beige",
-    "engine": "2.5L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
-    "price": "$30,690",
-    "sutherlins_price": "$20,888",
-    "mileage": "43,849 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Honda Civic LX",
-    "vin": "2HGFE2F27NH544533",
-    "stock": "MP137",
-    "exterior": "Rallye Red",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC 16V i-VTEC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8edd5848-b9fc-42c3-a2b7-3be7e05bc44a.jpg",
-    "price": "$23,645",
-    "sutherlins_price": "$20,888",
-    "mileage": "26,169 Miles"
   }
 ]

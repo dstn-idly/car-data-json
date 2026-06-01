@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Hyundai Santa Fe SE",
+    "vin": "5NMS14AJ3PH593061",
+    "stock": "MP180",
+    "exterior": "Stormy Blue",
+    "interior": "Beige",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
+    "price": "$30,690",
+    "sutherlins_price": "$20,888",
+    "mileage": "43,849 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda Civic LX",
+    "vin": "2HGFE2F27NH544533",
+    "stock": "MP137",
+    "exterior": "Rallye Red",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC 16V i-VTEC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2HGFE2F27NH544533&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8edd5848-b9fc-42c3-a2b7-3be7e05bc44a.jpg",
+    "price": "$23,645",
+    "sutherlins_price": "$20,888",
+    "mileage": "26,169 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Volkswagen Taos 1.5T SE",
     "vin": "3VVTX7B23NM027232",
     "stock": "MP205",
@@ -448,35 +478,5 @@
     "price": "$51,265",
     "sutherlins_price": "$29,488",
     "mileage": "62,231 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Subaru Crosstrek Limited",
-    "vin": "4S4GUHL65R3752897",
-    "stock": "MP202",
-    "exterior": "Alpine Green",
-    "interior": "Gray W/Orange Stitching",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
-    "price": "$33,859",
-    "sutherlins_price": "$29,888",
-    "mileage": "16,234 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Alfa Romeo Giulia Veloce",
-    "vin": "ZARFAMBN8P7673763",
-    "stock": "MP236",
-    "exterior": "Alfa Rosso",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZARFAMBN8P7673763&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c4091039-8a75-47fc-934b-dc7100ef25cd.jpg",
-    "price": "$57,835",
-    "sutherlins_price": "$29,888",
-    "mileage": "23,261 Miles"
   }
 ]
