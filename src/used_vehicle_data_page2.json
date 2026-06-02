@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Versa SV",
-    "vin": "3N1CN8EV8RL918194",
-    "stock": "P13842",
-    "exterior": "Super Black",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL918194&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC10_640/2024NIC100056_640_01.jpg",
-    "price": "$19,000",
-    "sutherlins_price": "$17,995",
-    "mileage": "39,352 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Sentra SR",
     "vin": "3N1AB8DV3NY205122",
     "stock": "26461A",
@@ -103,6 +88,21 @@
     "price": "$19,250",
     "sutherlins_price": "$17,995",
     "mileage": "36,952 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Versa SV",
+    "vin": "3N1CN8EV8RL918194",
+    "stock": "P13842",
+    "exterior": "Super Black",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV8RL918194&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC10_640/2024NIC100056_640_01.jpg",
+    "price": "$19,000",
+    "sutherlins_price": "$17,995",
+    "mileage": "39,352 Miles"
   },
   {
     "category": "used",
@@ -361,6 +361,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA7RC678632",
+    "stock": "P13745",
+    "exterior": "Everest White Pearl",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA7RC678632&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ceea9b1e44c34a4badf842ec9bcccaad.jpg",
+    "price": "$25,675",
+    "sutherlins_price": "$19,988",
+    "mileage": "60,860 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Nissan Rogue SV",
     "vin": "5N1BT3BB5PC930951",
     "stock": "P13742",
@@ -388,21 +403,6 @@
     "price": "$22,600",
     "sutherlins_price": "$19,988",
     "mileage": "85,645 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA7RC678632",
-    "stock": "P13745",
-    "exterior": "Everest White Pearl",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA7RC678632&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ceea9b1e44c34a4badf842ec9bcccaad.jpg",
-    "price": "$25,675",
-    "sutherlins_price": "$19,988",
-    "mileage": "60,860 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Volkswagen Tiguan SE",
-    "vin": "3VV2B7AX2NM107483",
-    "stock": "TT26458A",
-    "exterior": "Deep Black",
-    "interior": "Titan Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV2B7AX2NM107483&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d4f2d4c08fe74704b1efb61fca39fa84.jpg",
-    "price": "$22,725",
-    "sutherlins_price": "$19,995",
-    "mileage": "33,272 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Ford F-150 XLT",
     "vin": "1FTEX1EPXHFA59174",
     "stock": "26146A",
@@ -478,5 +463,20 @@
     "price": "$22,600",
     "sutherlins_price": "$19,995",
     "mileage": "102,204 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Volkswagen Tiguan SE",
+    "vin": "3VV2B7AX2NM107483",
+    "stock": "TT26458A",
+    "exterior": "Deep Black",
+    "interior": "Titan Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV2B7AX2NM107483&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d4f2d4c08fe74704b1efb61fca39fa84.jpg",
+    "price": "$22,725",
+    "sutherlins_price": "$19,995",
+    "mileage": "33,272 Miles"
   }
 ]
