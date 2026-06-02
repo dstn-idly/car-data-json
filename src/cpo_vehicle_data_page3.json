@@ -1,6 +1,36 @@
 [
   {
     "category": "cpo",
+    "name": "2023 Nissan Pathfinder Platinum",
+    "vin": "5N1DR3DJ6PC274822",
+    "stock": "P13811",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DJ6PC274822&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3ab2c69aa5104f758bd8ba64a01a950f.jpg",
+    "price": "$39,075",
+    "sutherlins_price": "$37,995",
+    "mileage": "29,352 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA3RC220561",
+    "stock": "P13809",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA3RC220561&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cf7201c567c14a9ca3502bb2e0b61385.jpg",
+    "price": "$39,825",
+    "sutherlins_price": "$37,995",
+    "mileage": "9,444 Miles"
+  },
+  {
+    "category": "cpo",
     "name": "2024 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DG5RC201688",
     "stock": "P13821",
@@ -13,5 +43,20 @@
     "price": "$40,925",
     "sutherlins_price": "$38,995",
     "mileage": "25,041 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2023 Nissan Titan PRO-4X",
+    "vin": "1N6AA1ED2PN108522",
+    "stock": "P13843",
+    "exterior": "Deep Blue Pearl",
+    "interior": "Black",
+    "engine": "Premium Unleaded V-8 5.6 L/339",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6AA1ED2PN108522&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIT13_640/2023NIT130036_640_01.jpg",
+    "price": "$46,525",
+    "sutherlins_price": "$41,995",
+    "mileage": "38,980 Miles"
   }
 ]
