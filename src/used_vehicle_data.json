@@ -796,21 +796,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chevrolet Malibu LT",
-    "vin": "1G1ZE5ST3RF232284",
-    "stock": "P13731",
-    "exterior": "Mineral Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZE5ST3RF232284&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/50ff1386a3774b7891b5ef5d9e8a630a.jpg",
-    "price": "$24,250",
-    "sutherlins_price": "$19,988",
-    "mileage": "47,970 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Altima SV",
     "vin": "1N4BL4DV6SN365842",
     "stock": "P13733",
@@ -826,18 +811,18 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA7RC678632",
-    "stock": "P13745",
-    "exterior": "Everest White Pearl",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA7RC678632&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c6091e22b9840cc956d056979f663d4.jpg",
-    "price": "$25,675",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZE5ST3RF232284",
+    "stock": "P13731",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZE5ST3RF232284&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/50ff1386a3774b7891b5ef5d9e8a630a.jpg",
+    "price": "$24,250",
     "sutherlins_price": "$19,988",
-    "mileage": "60,860 Miles"
+    "mileage": "47,970 Miles"
   },
   {
     "category": "used",
@@ -868,6 +853,21 @@
     "price": "$22,600",
     "sutherlins_price": "$19,988",
     "mileage": "85,645 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA7RC678632",
+    "stock": "P13745",
+    "exterior": "Everest White Pearl",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA7RC678632&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2c6091e22b9840cc956d056979f663d4.jpg",
+    "price": "$25,675",
+    "sutherlins_price": "$19,988",
+    "mileage": "60,860 Miles"
   },
   {
     "category": "used",
@@ -916,6 +916,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Volkswagen Tiguan SE",
+    "vin": "3VV2B7AX2NM107483",
+    "stock": "TT26458A",
+    "exterior": "Deep Black",
+    "interior": "Titan Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV2B7AX2NM107483&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/912838c0244847a3bbbc73f21c6470b2.jpg",
+    "price": "$22,725",
+    "sutherlins_price": "$19,995",
+    "mileage": "33,272 Miles"
+  },
+  {
+    "category": "used",
     "name": "2017 Ford F-150 XLT",
     "vin": "1FTEX1EPXHFA59174",
     "stock": "26146A",
@@ -961,21 +976,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA6NC730701",
-    "stock": "P13820",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6NC730701&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1cfcda4535544ba8ad42b6c05e65eae.jpg",
-    "price": "$21,525",
-    "sutherlins_price": "$19,995",
-    "mileage": "79,853 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Altima SV",
     "vin": "1N4BL4DV6SN321369",
     "stock": "P13789",
@@ -1018,6 +1018,21 @@
     "price": "$20,925",
     "sutherlins_price": "$19,995",
     "mileage": "18,817 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA6NC730701",
+    "stock": "P13820",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6NC730701&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/b1cfcda4535544ba8ad42b6c05e65eae.jpg",
+    "price": "$21,525",
+    "sutherlins_price": "$19,995",
+    "mileage": "79,853 Miles"
   },
   {
     "category": "used",
@@ -2146,21 +2161,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SL",
-    "vin": "5N1DR3CA3RC220561",
-    "stock": "P13809",
-    "exterior": "Scarlet Ember",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA3RC220561&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce23c1495c24476b92c65dfb113cf5bd.jpg",
-    "price": "$39,825",
-    "sutherlins_price": "$37,995",
-    "mileage": "9,444 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Pathfinder Platinum",
     "vin": "5N1DR3DJ6PC274822",
     "stock": "P13811",
@@ -2173,6 +2173,21 @@
     "price": "$39,075",
     "sutherlins_price": "$37,995",
     "mileage": "29,352 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Pathfinder SL",
+    "vin": "5N1DR3CA3RC220561",
+    "stock": "P13809",
+    "exterior": "Scarlet Ember",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CA3RC220561&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ce23c1495c24476b92c65dfb113cf5bd.jpg",
+    "price": "$39,825",
+    "sutherlins_price": "$37,995",
+    "mileage": "9,444 Miles"
   },
   {
     "category": "used",
