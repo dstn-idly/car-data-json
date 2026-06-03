@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Mercedes-Benz C-Class C 300",
-    "vin": "W1KAF4HB2NR039147",
-    "stock": "MP220",
-    "exterior": "Lunar Blue Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KAF4HB2NR039147&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f9466a3c-ba86-4fe7-87c2-b517fbbdbea8.jpg",
-    "price": "$57,400",
-    "sutherlins_price": "$35,888",
-    "mileage": "27,136 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Ford F-150 XL",
     "vin": "1FTEW1CP7PKE71144",
     "stock": "M2639B",
@@ -448,5 +433,50 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA82RZ081020",
+    "stock": "MP262",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA82RZ081020&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA82RZ081020&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "56,852 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA85SZ017589",
+    "stock": "MP264",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA85SZ017589&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA85SZ017589&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "46,637 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJ9RH018640",
+    "stock": "MP259",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ9RH018640&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ9RH018640&vehicletype=Hatchback",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "51,190 Miles"
   }
 ]

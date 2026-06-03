@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV3SY324592",
-    "stock": "P13790",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV3SY324592&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a4674f8318854dd9928e880d817f7a40.jpg",
-    "price": "$21,475",
-    "sutherlins_price": "$19,995",
-    "mileage": "18,712 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV9SY249171",
-    "stock": "P13832",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY249171&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cb11dc85537040ad974e4d9722110004.jpg",
-    "price": "$21,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "14,388 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Volkswagen Tiguan SE",
     "vin": "3VV2B7AX2NM107483",
     "stock": "TT26458A",
@@ -324,7 +294,7 @@
     "engine": "Regular Unleaded I-4 2.5 L/152",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS34AJ4NH392356&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e63e90e6b06343a7ace463c93a82b50a.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8ef6433be9994d759a63806ab45fcedb.jpg",
     "price": "$22,075",
     "sutherlins_price": "$20,995",
     "mileage": "72,541 Miles"
@@ -384,7 +354,7 @@
     "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRC8A33SU393635&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1110d7fe94c643b694ede5aea8df77bc.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/467787c6186b48b8914a206f7a098e1c.jpg",
     "price": "$22,800",
     "sutherlins_price": "$20,995",
     "mileage": "17,421 Miles"
@@ -478,5 +448,35 @@
     "price": "$24,225",
     "sutherlins_price": "$21,995",
     "mileage": "795 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano S",
+    "vin": "5N1AZ2AJ7PC139706",
+    "stock": "P13808",
+    "exterior": "Super Black",
+    "interior": "Graphite",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2AJ7PC139706&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/693bbf7246bb402186f4a83bdb934042.jpg",
+    "price": "$23,325",
+    "sutherlins_price": "$21,995",
+    "mileage": "34,780 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Kia K4 LX",
+    "vin": "3KPFT4DE7SE176469",
+    "stock": "P13850",
+    "exterior": "Aurora Black Pearl",
+    "interior": "Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFT4DE7SE176469&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cea1cacf163648ecb502c9a8b0860a5f.jpg",
+    "price": "$23,625",
+    "sutherlins_price": "$21,995",
+    "mileage": "18,346 Miles"
   }
 ]
