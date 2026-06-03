@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Altima SV",
-    "vin": "1N4BL4DV6SN365842",
-    "stock": "P13733",
-    "exterior": "Garnet Pearl Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV6SN365842&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd10371bb2f74a4990d245412599a86b.jpg",
-    "price": "$25,075",
-    "sutherlins_price": "$19,988",
-    "mileage": "31,266 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Malibu LT",
     "vin": "1G1ZE5ST3RF232284",
     "stock": "P13731",
@@ -343,6 +328,21 @@
     "price": "$24,250",
     "sutherlins_price": "$19,988",
     "mileage": "47,970 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Altima SV",
+    "vin": "1N4BL4DV6SN365842",
+    "stock": "P13733",
+    "exterior": "Garnet Pearl Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV6SN365842&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dd10371bb2f74a4990d245412599a86b.jpg",
+    "price": "$25,075",
+    "sutherlins_price": "$19,988",
+    "mileage": "31,266 Miles"
   },
   {
     "category": "used",
@@ -436,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Volkswagen Tiguan SE",
-    "vin": "3VV2B7AX2NM107483",
-    "stock": "TT26458A",
-    "exterior": "Deep Black",
-    "interior": "Titan Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV2B7AX2NM107483&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04025b73f2fc4cd5baaf20f672557a14.jpg",
-    "price": "$22,725",
-    "sutherlins_price": "$19,995",
-    "mileage": "33,272 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 Ford F-150 XLT",
     "vin": "1FTEX1EPXHFA59174",
     "stock": "26146A",
@@ -478,5 +463,20 @@
     "price": "$21,475",
     "sutherlins_price": "$19,995",
     "mileage": "18,712 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV9SY249171",
+    "stock": "P13832",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY249171&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bede33cdda9a4ebdabbc452c0455faaa.jpg",
+    "price": "$21,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "14,388 Miles"
   }
 ]
