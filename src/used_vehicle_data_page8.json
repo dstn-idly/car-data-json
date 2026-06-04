@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Camaro 1LT",
-    "vin": "1G1FB3DS4L0113240",
-    "stock": "MP245",
-    "exterior": "Shock",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 DI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
-    "price": "$38,030",
-    "sutherlins_price": "$24,888",
-    "mileage": "40,262 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Fe SE",
     "vin": "5NMS1DAJXPH573485",
     "stock": "MP219",
@@ -178,6 +163,21 @@
     "price": "$32,985",
     "sutherlins_price": "$24,888",
     "mileage": "28,599 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Camaro 1LT",
+    "vin": "1G1FB3DS4L0113240",
+    "stock": "MP245",
+    "exterior": "Shock",
+    "interior": "Jet Black",
+    "engine": "3.6L V6 DI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
+    "price": "$38,030",
+    "sutherlins_price": "$24,888",
+    "mileage": "40,262 Miles"
   },
   {
     "category": "used",

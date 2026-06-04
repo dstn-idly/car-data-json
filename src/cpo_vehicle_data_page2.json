@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8DV1RY325393&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/bae807543b834f13869066978a5e8e3a.jpg",
     "price": "$23,575",
-    "sutherlins_price": "$20,988",
+    "sutherlins_price": "$19,500",
     "mileage": "25,583 Miles"
   },
   {
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA3RW351622&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/00aa08ba041640079568575d34794db4.jpg",
     "price": "$23,075",
-    "sutherlins_price": "$21,995",
+    "sutherlins_price": "$20,946",
     "mileage": "44,162 Miles"
   },
   {
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA3RW351281&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/442d244c4b774e2eae9f96c838472d74.jpg",
     "price": "$25,225",
-    "sutherlins_price": "$22,498",
+    "sutherlins_price": "$21,995",
     "mileage": "35,363 Miles"
   },
   {
@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW350388&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/57a7543a1d0a4424a28ecaba8330cdb5.jpg",
     "price": "$24,000",
-    "sutherlins_price": "$22,995",
+    "sutherlins_price": "$21,798",
     "mileage": "35,126 Miles"
   },
   {
@@ -266,8 +266,23 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA0RW351514&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/16fa811f83114571b78bb86d57bb1841.jpg",
     "price": "$24,275",
-    "sutherlins_price": "$22,995",
+    "sutherlins_price": "$21,798",
     "mileage": "34,509 Miles"
+  },
+  {
+    "category": "cpo",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "JN8BT3BA5RW351704",
+    "stock": "P13773",
+    "exterior": "Brilliant Silver Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48680db52f8348c2997e7b9a323d8722.jpg",
+    "price": "$25,600",
+    "sutherlins_price": "$22,995",
+    "mileage": "32,291 Miles"
   },
   {
     "category": "cpo",
@@ -301,21 +316,6 @@
   },
   {
     "category": "cpo",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "JN8BT3BA5RW351704",
-    "stock": "P13773",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA5RW351704&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/48680db52f8348c2997e7b9a323d8722.jpg",
-    "price": "$25,600",
-    "sutherlins_price": "$22,995",
-    "mileage": "32,291 Miles"
-  },
-  {
-    "category": "cpo",
     "name": "2022 Nissan Frontier SV",
     "vin": "1N6ED1EK9NN617589",
     "stock": "P13780",
@@ -326,7 +326,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK9NN617589&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/8b7f61753d2b4a09824f204a241902a4.jpg",
     "price": "$26,150",
-    "sutherlins_price": "$24,995",
+    "sutherlins_price": "$23,995",
     "mileage": "93,713 Miles"
   },
   {
@@ -371,7 +371,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3BA6RC220829&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/569564c91762420a9a38f6c617b33ec8.jpg",
     "price": "$32,225",
-    "sutherlins_price": "$25,988",
+    "sutherlins_price": "$23,995",
     "mileage": "51,084 Miles"
   },
   {
