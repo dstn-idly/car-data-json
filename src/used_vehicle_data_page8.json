@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2021 Volkswagen Atlas 2.0T S",
-    "vin": "1V2AP2CA4MC586852",
-    "stock": "MP242",
-    "exterior": "Tourmaline Blue Metallic",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2AP2CA4MC586852&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/24a725e0-db88-4fdf-b846-23879071ac3f.jpg",
-    "price": "$32,890",
-    "sutherlins_price": "$22,888",
-    "mileage": "60,328 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Elantra Limited",
     "vin": "KMHLP4DG4RU756682",
     "stock": "MP238",
@@ -43,6 +28,21 @@
     "price": "$33,353",
     "sutherlins_price": "$23,888",
     "mileage": "56,852 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 MINI Cooper Classic",
+    "vin": "WMWWJ3C03M3M17098",
+    "stock": "MP200",
+    "exterior": "Chili Red",
+    "interior": "Carbon Black",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WMWWJ3C03M3M17098&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bf2e2b75-9d4a-4e7b-a8e7-53cb305422da.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$23,888",
+    "mileage": "5,831 Miles"
   },
   {
     "category": "used",
