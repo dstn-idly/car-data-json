@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Mitsubishi Outlander SE",
-    "vin": "JA4J3VA85SZ017589",
-    "stock": "MP264",
-    "exterior": "Black Diamond",
-    "interior": "Black",
-    "engine": "2.5L I4 DOHC 16V LEV3-SULEV30 181hp",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA85SZ017589&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA85SZ017589&vehicletype=SUV",
-    "price": "$34,990",
-    "sutherlins_price": "$24,888",
-    "mileage": "46,637 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Kona SEL",
     "vin": "KM8HB3AB3RU134498",
     "stock": "MP211",
@@ -76,21 +61,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Tucson Limited",
-    "vin": "5NMJE3AE2PH183123",
-    "stock": "MP215",
-    "exterior": "Shimmering Silver",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE2PH183123&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/015e262a-5d28-4d11-baa4-c04927400829.jpg",
-    "price": "$37,820",
-    "sutherlins_price": "$25,888",
-    "mileage": "33,250 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Wrangler Unlimited Sport S",
     "vin": "1C4HJXDN5MW664702",
     "stock": "MP233",
@@ -103,6 +73,21 @@
     "price": "$49,240",
     "sutherlins_price": "$25,888",
     "mileage": "64,087 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson Limited",
+    "vin": "5NMJE3AE2PH183123",
+    "stock": "MP215",
+    "exterior": "Shimmering Silver",
+    "interior": "Black",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE2PH183123&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/015e262a-5d28-4d11-baa4-c04927400829.jpg",
+    "price": "$37,820",
+    "sutherlins_price": "$25,888",
+    "mileage": "33,250 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$44,990",
     "sutherlins_price": "$33,888",
     "mileage": "19,060 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Genesis GV80 3.5T",
+    "vin": "KMUHCESC5MU062908",
+    "stock": "MP159",
+    "exterior": "Silver",
+    "interior": "Beige/Black",
+    "engine": "3.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHCESC5MU062908&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/156624d2-3633-4d34-ae0e-77e867a6b6be.jpg",
+    "price": "$66,395",
+    "sutherlins_price": "$34,488",
+    "mileage": "50,890 Miles"
   }
 ]

@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Mitsubishi Lancer GT",
-    "vin": "JA32U8FW7FU022343",
-    "stock": "M2666A",
-    "exterior": "Tarmac Black Pearl",
-    "interior": "N/A",
-    "engine": "2.4L I4 MIVEC DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA32U8FW7FU022343&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7f52c426-e05b-4b2f-8456-fb20137f3a1e.jpg",
-    "price": "$9,888",
-    "sutherlins_price": "$9,888",
-    "mileage": "95,786 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan Altima 2.5 S",
     "vin": "1N4BL4BV9LC250734",
     "stock": "MP198A",
@@ -316,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Trax LS",
-    "vin": "KL7CJKSB5LB323776",
-    "stock": "MP226",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
-    "price": "$22,295",
-    "sutherlins_price": "$14,888",
-    "mileage": "54,302 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ9RH018640",
     "stock": "MP259",
@@ -343,6 +313,21 @@
     "price": "$16,989",
     "sutherlins_price": "$14,888",
     "mileage": "51,190 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Trax LS",
+    "vin": "KL7CJKSB5LB323776",
+    "stock": "MP226",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
+    "price": "$22,295",
+    "sutherlins_price": "$14,888",
+    "mileage": "54,302 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$16,888",
     "sutherlins_price": "$16,888",
     "mileage": "109,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Compass Limited",
+    "vin": "3C4NJCCB4MT596840",
+    "stock": "M2621A",
+    "exterior": "White Clearcoat",
+    "interior": "Black",
+    "engine": "2.4L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB4MT596840&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5442ee16-a794-499a-b6ff-c943daf158da.jpg",
+    "price": "$16,888",
+    "sutherlins_price": "$16,888",
+    "mileage": "72,431 Miles"
   }
 ]
