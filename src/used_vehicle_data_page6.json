@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Hyundai Sonata Hybrid",
-    "vin": "KMHEC4A46CA062471",
-    "stock": "P13764A",
-    "exterior": "Silver Frost Metallic",
-    "interior": "Gray",
-    "engine": "Gas/Electric I4 2.4L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHEC4A46CA062471&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012HYU006b_640/2012HYU006b_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "137,800 Miles"
-  },
-  {
-    "category": "used",
     "name": "2009 Saturn VUE XR",
     "vin": "3GSDL537X9S507819",
     "stock": "P13747A",
@@ -118,6 +103,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "114,770 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Hyundai Sonata Hybrid",
+    "vin": "KMHEC4A46CA062471",
+    "stock": "P13764A",
+    "exterior": "Silver Frost Metallic",
+    "interior": "Gray",
+    "engine": "Gas/Electric I4 2.4L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHEC4A46CA062471&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012HYU006b_640/2012HYU006b_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "137,800 Miles"
   },
   {
     "category": "used",
@@ -391,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Renegade Limited",
-    "vin": "ZACNJDD1XMPM29950",
-    "stock": "MP194",
-    "exterior": "Bikini Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "1.3L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
-    "price": "$30,040",
-    "sutherlins_price": "$14,888",
-    "mileage": "79,227 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ2RH019449",
     "stock": "MP258",
@@ -433,6 +418,21 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Renegade Limited",
+    "vin": "ZACNJDD1XMPM29950",
+    "stock": "MP194",
+    "exterior": "Bikini Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "1.3L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
+    "price": "$30,040",
+    "sutherlins_price": "$14,888",
+    "mileage": "79,227 Miles"
   },
   {
     "category": "used",

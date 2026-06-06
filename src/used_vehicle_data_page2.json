@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD6RE815577&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/ea0ddde196e849fa809cf5ad4442f03d.jpg",
     "price": "$20,100",
-    "sutherlins_price": "$17,583",
+    "sutherlins_price": "$16,988",
     "mileage": "12,758 Miles"
   },
   {
@@ -116,23 +116,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFTX4CN9FX065324&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3454327b79b3405188c42d4feea89b71.jpg",
     "price": "$24,500",
-    "sutherlins_price": "$18,566",
+    "sutherlins_price": "$17,988",
     "mileage": "50,976 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV0SY313954",
-    "stock": "P13741",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0SY313954&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd07c935aede46a9ae2e40bb632ac5d8.jpg",
-    "price": "$20,925",
-    "sutherlins_price": "$17,995",
-    "mileage": "18,817 Miles"
   },
   {
     "category": "used",
@@ -148,6 +133,21 @@
     "price": "$19,525",
     "sutherlins_price": "$17,995",
     "mileage": "46,437 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV0SY313954",
+    "stock": "P13741",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV0SY313954&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/cd07c935aede46a9ae2e40bb632ac5d8.jpg",
+    "price": "$20,925",
+    "sutherlins_price": "$17,995",
+    "mileage": "18,817 Miles"
   },
   {
     "category": "used",
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3AA0MC847847&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/13e9d505d618462ba7c9037b4a525ff9.jpg",
     "price": "$19,975",
-    "sutherlins_price": "$18,598",
+    "sutherlins_price": "$17,988",
     "mileage": "37,930 Miles"
   },
   {
@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Rogue SV",
-    "vin": "5N1BT3BA4RC673419",
-    "stock": "P13744",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c1553f31b4a7491382ffeae13dcd6cec.jpg",
-    "price": "$24,350",
-    "sutherlins_price": "$18,995",
-    "mileage": "67,057 Miles"
-  },
-  {
-    "category": "used",
     "name": "2009 Mercedes-Benz SL-Class V8",
     "vin": "WDBSK71F79F156060",
     "stock": "P13862",
@@ -343,6 +328,21 @@
     "price": "$16,888",
     "sutherlins_price": "$18,995",
     "mileage": "70,840 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA4RC673419",
+    "stock": "P13744",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/c1553f31b4a7491382ffeae13dcd6cec.jpg",
+    "price": "$24,350",
+    "sutherlins_price": "$18,995",
+    "mileage": "67,057 Miles"
   },
   {
     "category": "used",
@@ -416,7 +416,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1BAAFY9M2025167&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/2379118aab354a09aeef3c669418e7e3.jpg",
     "price": "$25,300",
-    "sutherlins_price": "$19,798",
+    "sutherlins_price": "$18,988",
     "mileage": "68,248 Miles"
   },
   {
