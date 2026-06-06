@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEE9PA179483",
+    "stock": "MP253",
+    "exterior": "Midnight Silver Metallic",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEE9PA179483&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b644b136-5b28-4d78-8925-31b980040309.jpg",
+    "price": "$65,990",
+    "sutherlins_price": "$34,888",
+    "mileage": "34,580 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Acura RDX Technology Package",
+    "vin": "5J8TC2H58RL026763",
+    "stock": "MP191",
+    "exterior": "Platinum White Pearl",
+    "interior": "Ebony",
+    "engine": "2.0L 16V DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J8TC2H58RL026763&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7e578f5-766f-4961-a99c-7a941f3f309b.jpg",
+    "price": "$48,950",
+    "sutherlins_price": "$35,488",
+    "mileage": "11,153 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Ford F-150 XL",
     "vin": "1FTEW1CP7PKE71144",
     "stock": "M2639B",
@@ -193,20 +223,5 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJ2RH019449",
-    "stock": "MP258",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ2RH019449&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ2RH019449&vehicletype=Hatchback",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "46,119 Miles"
   }
 ]
