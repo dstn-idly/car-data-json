@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Toyota Corolla SE",
-    "vin": "JTDS4MCE8N3507410",
-    "stock": "M2640A",
-    "exterior": "White",
-    "interior": "Moonstone",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDS4MCE8N3507410&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JTDS4MCE8N3507410&vehicletype=Sedan",
-    "price": "$22,665",
-    "sutherlins_price": "$15,888",
-    "mileage": "95,514 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Volkswagen Passat 2.0T Wolfsburg",
     "vin": "1VWLA7A36KC006007",
     "stock": "M26122A",
@@ -31,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Tesla Model 3 Standard Range Plus",
-    "vin": "5YJ3E1EA9MF093405",
-    "stock": "MP208A",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA9MF093405&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA9MF093405&vehicletype=Sedan",
-    "price": "$16,888",
-    "sutherlins_price": "$16,888",
-    "mileage": "109,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Compass Limited",
     "vin": "3C4NJCCB4MT596840",
     "stock": "M2621A",
@@ -58,6 +28,21 @@
     "price": "$16,888",
     "sutherlins_price": "$16,888",
     "mileage": "72,431 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Tesla Model 3 Standard Range Plus",
+    "vin": "5YJ3E1EA9MF093405",
+    "stock": "MP208A",
+    "exterior": "Solid Black",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA9MF093405&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA9MF093405&vehicletype=Sedan",
+    "price": "$16,888",
+    "sutherlins_price": "$16,888",
+    "mileage": "109,000 Miles"
   },
   {
     "category": "used",
@@ -196,6 +181,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLS4AG7PU615475",
+    "stock": "M2622A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
+    "price": "$25,650",
+    "sutherlins_price": "$19,888",
+    "mileage": "28,931 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 SE",
     "vin": "JA4ARUAU0RU015049",
     "stock": "MP267",
@@ -223,21 +223,6 @@
     "price": "$23,695",
     "sutherlins_price": "$19,888",
     "mileage": "37,611 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLS4AG7PU615475",
-    "stock": "M2622A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
-    "price": "$25,650",
-    "sutherlins_price": "$19,888",
-    "mileage": "28,931 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$32,190",
     "sutherlins_price": "$23,888",
     "mileage": "56,023 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson SEL",
+    "vin": "5NMJB3AE9PH244122",
+    "stock": "MP203",
+    "exterior": "Calypso Red",
+    "interior": "Black",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE9PH244122&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/36e23ec3-e29f-474d-9773-d17f82d90fe5.jpg",
+    "price": "$30,690",
+    "sutherlins_price": "$23,888",
+    "mileage": "24,368 Miles"
   }
 ]
