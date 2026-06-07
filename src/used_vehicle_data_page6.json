@@ -361,6 +361,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Jeep Renegade Limited",
+    "vin": "ZACNJDD1XMPM29950",
+    "stock": "MP194",
+    "exterior": "Bikini Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "1.3L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
+    "price": "$30,040",
+    "sutherlins_price": "$14,888",
+    "mileage": "79,227 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ2RH019449",
     "stock": "MP258",
@@ -391,18 +406,18 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Renegade Limited",
-    "vin": "ZACNJDD1XMPM29950",
-    "stock": "MP194",
-    "exterior": "Bikini Metallic Clearcoat",
+    "name": "2021 Hyundai Kona SEL",
+    "vin": "KM8K22AA4MU697771",
+    "stock": "MP216",
+    "exterior": "Silver",
     "interior": "Black",
-    "engine": "1.3L I4",
+    "engine": "I4",
     "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
-    "price": "$30,040",
-    "sutherlins_price": "$14,888",
-    "mileage": "79,227 Miles"
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
+    "price": "$24,035",
+    "sutherlins_price": "$15,488",
+    "mileage": "76,786 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$27,425",
     "sutherlins_price": "$15,888",
     "mileage": "54,435 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Tesla Model 3 Standard Range Plus",
-    "vin": "5YJ3E1EA9MF093405",
-    "stock": "MP208A",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA9MF093405&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA9MF093405&vehicletype=Sedan",
-    "price": "$16,888",
-    "sutherlins_price": "$16,888",
-    "mileage": "109,000 Miles"
   }
 ]
