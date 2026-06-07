@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Volkswagen Passat 2.0T Wolfsburg",
-    "vin": "1VWLA7A36KC006007",
-    "stock": "M26122A",
-    "exterior": "Blue Metallic",
-    "interior": "Moonrock Gray",
-    "engine": "2.0L I4 TSI Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWLA7A36KC006007&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1VWLA7A36KC006007&vehicletype=Sedan",
-    "price": "$27,425",
-    "sutherlins_price": "$15,888",
-    "mileage": "54,435 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Tesla Model 3 Standard Range Plus",
-    "vin": "5YJ3E1EA9MF093405",
-    "stock": "MP208A",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA9MF093405&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA9MF093405&vehicletype=Sedan",
-    "price": "$16,888",
-    "sutherlins_price": "$16,888",
-    "mileage": "109,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Compass Limited",
     "vin": "3C4NJCCB4MT596840",
     "stock": "M2621A",
@@ -181,6 +151,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLS4AG7PU615475",
+    "stock": "M2622A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
+    "price": "$25,650",
+    "sutherlins_price": "$19,888",
+    "mileage": "28,931 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 SE",
     "vin": "JA4ARUAU0RU015049",
     "stock": "MP267",
@@ -208,21 +193,6 @@
     "price": "$23,695",
     "sutherlins_price": "$19,888",
     "mileage": "37,611 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLS4AG7PU615475",
-    "stock": "M2622A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
-    "price": "$25,650",
-    "sutherlins_price": "$19,888",
-    "mileage": "28,931 Miles"
   },
   {
     "category": "used",
@@ -268,6 +238,21 @@
     "price": "$29,995",
     "sutherlins_price": "$20,888",
     "mileage": "43,944 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Volkswagen Atlas 2.0T S",
+    "vin": "1V2AP2CA4MC586852",
+    "stock": "MP242",
+    "exterior": "Tourmaline Blue Metallic",
+    "interior": "Titan Black",
+    "engine": "2.0L TSI",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2AP2CA4MC586852&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/24a725e0-db88-4fdf-b846-23879071ac3f.jpg",
+    "price": "$32,890",
+    "sutherlins_price": "$22,888",
+    "mileage": "60,328 Miles"
   },
   {
     "category": "used",
@@ -391,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Volkswagen Atlas 2.0T S",
-    "vin": "1V2AP2CA4MC586852",
-    "stock": "MP242",
-    "exterior": "Tourmaline Blue Metallic",
-    "interior": "Titan Black",
-    "engine": "2.0L TSI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1V2AP2CA4MC586852&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/24a725e0-db88-4fdf-b846-23879071ac3f.jpg",
-    "price": "$32,890",
-    "sutherlins_price": "$22,888",
-    "mileage": "60,328 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Hyundai Elantra Limited",
     "vin": "KMHLP4DG4RU756682",
     "stock": "MP238",
@@ -478,5 +448,35 @@
     "price": "$30,690",
     "sutherlins_price": "$23,888",
     "mileage": "24,368 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA81RZ016322",
+    "stock": "MP261",
+    "exterior": "White Diamond",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA81RZ016322&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4J3VA81RZ016322&vehicletype=SUV",
+    "price": "$33,535",
+    "sutherlins_price": "$23,888",
+    "mileage": "59,018 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Blazer LT",
+    "vin": "3GNKBCR4XRS127880",
+    "stock": "MP175",
+    "exterior": "Summit White",
+    "interior": "Gray",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR4XRS127880&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d55040ee-a0a8-4074-8491-bb86c70082ae.jpg",
+    "price": "$39,610",
+    "sutherlins_price": "$24,488",
+    "mileage": "26,230 Miles"
   }
 ]
