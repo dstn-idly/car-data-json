@@ -241,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Venue Limited",
-    "vin": "KMHRC8A33PU266309",
-    "stock": "P13867",
-    "exterior": "Intense Blue",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRC8A33PU266309&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS20_640/2023HYS202013903_640_01.jpg",
-    "price": "$21,175",
-    "sutherlins_price": "$19,995",
-    "mileage": "23,063 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Sentra SV",
     "vin": "3N1AB8CVXRY269732",
     "stock": "P13796",
@@ -286,18 +271,18 @@
   },
   {
     "category": "used",
-    "name": "2023 Toyota Corolla LE",
-    "vin": "JTDB4MEEXP3001576",
-    "stock": "P13777",
-    "exterior": "Ice",
+    "name": "2023 Hyundai Venue Limited",
+    "vin": "KMHRC8A33PU266309",
+    "stock": "P13867",
+    "exterior": "Intense Blue",
     "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDB4MEEXP3001576&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fbe69fd9add45a590aa11208de8b0c8.jpg",
-    "price": "$22,750",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRC8A33PU266309&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS20_640/2023HYS202013903_640_01.jpg",
+    "price": "$21,175",
     "sutherlins_price": "$19,995",
-    "mileage": "25,815 Miles"
+    "mileage": "23,063 Miles"
   },
   {
     "category": "used",
@@ -313,6 +298,21 @@
     "price": "$21,750",
     "sutherlins_price": "$19,995",
     "mileage": "50,152 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Corolla LE",
+    "vin": "JTDB4MEEXP3001576",
+    "stock": "P13777",
+    "exterior": "Ice",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDB4MEEXP3001576&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9fbe69fd9add45a590aa11208de8b0c8.jpg",
+    "price": "$22,750",
+    "sutherlins_price": "$19,995",
+    "mileage": "25,815 Miles"
   },
   {
     "category": "used",
