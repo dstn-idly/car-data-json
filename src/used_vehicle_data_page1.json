@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Toyota Tacoma Base",
-    "vin": "5TFLU4EN6DX063422",
-    "stock": "P13829A",
-    "exterior": "Barcelona Red Metallic",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFLU4EN6DX063422&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013TOY014b_640/2013TOY014b_640_01.jpg",
-    "price": "$19,325",
-    "sutherlins_price": "$16,988",
-    "mileage": "132,699 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Kia Forte LX",
     "vin": "3KPF24AD6RE815577",
     "stock": "KP1103",
@@ -478,5 +463,20 @@
     "price": "$20,100",
     "sutherlins_price": "$16,988",
     "mileage": "12,758 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Toyota Tacoma Base",
+    "vin": "5TFLU4EN6DX063422",
+    "stock": "P13829A",
+    "exterior": "Barcelona Red Metallic",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFLU4EN6DX063422&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013TOY014b_640/2013TOY014b_640_01.jpg",
+    "price": "$19,325",
+    "sutherlins_price": "$16,988",
+    "mileage": "132,699 Miles"
   }
 ]
