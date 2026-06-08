@@ -25,7 +25,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMEU73E18UB09867&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008FRD007a_640/2008FRD007a_640_01.jpg",
-    "price": "$3,988",
+    "price": "$5,689",
     "sutherlins_price": "$3,988",
     "mileage": "140,356 Miles"
   },
@@ -55,9 +55,9 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB7AP0EY233122&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2014NIS011a_640/2014NIS011a_640_01.jpg",
-    "price": "$6,995",
+    "price": "$8,450",
     "sutherlins_price": "$6,995",
-    "mileage": "N/A"
+    "mileage": "74,775 Miles"
   },
   {
     "category": "used",
@@ -325,7 +325,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT2MT7LC808369&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020NIS11_640/2020NIS110034_640_01.jpg",
-    "price": "$15,995",
+    "price": "$17,425",
     "sutherlins_price": "$15,995",
     "mileage": "65,160 Miles"
   },
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Toyota Tacoma Base",
-    "vin": "5TFLU4EN6DX063422",
-    "stock": "P13829A",
-    "exterior": "Barcelona Red Metallic",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFLU4EN6DX063422&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013TOY014b_640/2013TOY014b_640_01.jpg",
-    "price": "$19,325",
-    "sutherlins_price": "$16,988",
-    "mileage": "132,699 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Kia Forte LX",
     "vin": "3KPF24AD6RE815577",
     "stock": "KP1103",
@@ -478,6 +463,21 @@
     "price": "$20,100",
     "sutherlins_price": "$16,988",
     "mileage": "12,758 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Toyota Tacoma Base",
+    "vin": "5TFLU4EN6DX063422",
+    "stock": "P13829A",
+    "exterior": "Barcelona Red Metallic",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFLU4EN6DX063422&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013TOY014b_640/2013TOY014b_640_01.jpg",
+    "price": "$19,325",
+    "sutherlins_price": "$16,988",
+    "mileage": "132,699 Miles"
   },
   {
     "category": "used",
@@ -700,7 +700,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEJ4J22MH066035&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021HYC03_640/2021HYC030133_640_01.jpg",
-    "price": "$18,988",
+    "price": "$20,525",
     "sutherlins_price": "$18,988",
     "mileage": "69,572 Miles"
   },
@@ -736,21 +736,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra S",
-    "vin": "3N1AB8BV8RY248007",
-    "stock": "P13844",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8RY248007&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1286e5ed82f84d049056e4449ec458ad.jpg",
-    "price": "$19,845",
-    "sutherlins_price": "$18,995",
-    "mileage": "43,633 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Hyundai Tucson SEL",
     "vin": "KM8J33AL6KU874947",
     "stock": "P13826",
@@ -763,6 +748,21 @@
     "price": "$20,975",
     "sutherlins_price": "$18,995",
     "mileage": "41,918 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra S",
+    "vin": "3N1AB8BV8RY248007",
+    "stock": "P13844",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV8RY248007&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/1286e5ed82f84d049056e4449ec458ad.jpg",
+    "price": "$19,845",
+    "sutherlins_price": "$18,995",
+    "mileage": "43,633 Miles"
   },
   {
     "category": "used",
@@ -1081,6 +1081,21 @@
   },
   {
     "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "5N1BT3BA6NC730701",
+    "stock": "P13820",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6NC730701&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/be0f37c4004440ff8659b6bb68c346fb.jpg",
+    "price": "$21,525",
+    "sutherlins_price": "$19,995",
+    "mileage": "79,853 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Altima SV",
     "vin": "1N4BL4DV6SN321369",
     "stock": "P13789",
@@ -1108,21 +1123,6 @@
     "price": "$20,975",
     "sutherlins_price": "$19,995",
     "mileage": "41,752 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Nissan Rogue SV",
-    "vin": "5N1BT3BA6NC730701",
-    "stock": "P13820",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA6NC730701&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/be0f37c4004440ff8659b6bb68c346fb.jpg",
-    "price": "$21,525",
-    "sutherlins_price": "$19,995",
-    "mileage": "79,853 Miles"
   },
   {
     "category": "used",
@@ -1555,7 +1555,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5GAERBKW0LJ209506&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020BUS03_640/2020BUS030023_640_01.jpg",
-    "price": "$21,995",
+    "price": "$23,725",
     "sutherlins_price": "$21,995",
     "mileage": "54,550 Miles"
   },
@@ -1595,12 +1595,12 @@
     "vin": "WAUEAAF43NN013755",
     "stock": "26278A",
     "exterior": "White",
-    "interior": "N/A",
+    "interior": "Black",
     "engine": "Intercooled Turbo Gas/Electric I-4 2.0 L/121",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WAUEAAF43NN013755&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022AUC01_640/2022AUC010001_640_01.jpg",
-    "price": "$22,598",
+    "price": "$26,250",
     "sutherlins_price": "$22,598",
     "mileage": "64,708 Miles"
   },
@@ -1615,7 +1615,7 @@
     "transmission": "Manual",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1AZ4EH5HM955027&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017NIC140001_640/2017NIC140001_640_01.jpg",
-    "price": "$22,775",
+    "price": "$24,986",
     "sutherlins_price": "$22,775",
     "mileage": "54,519 Miles"
   },
@@ -1795,7 +1795,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL77LKE26RC177950&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024CHS32_640/2024CHS321968828_640_01.jpg",
-    "price": "$23,995",
+    "price": "$26,500",
     "sutherlins_price": "$23,995",
     "mileage": "23,088 Miles"
   },
@@ -2065,7 +2065,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA3PC916097&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110141_640_01.jpg",
-    "price": "$28,995",
+    "price": "$30,825",
     "sutherlins_price": "$28,995",
     "mileage": "3,484 Miles"
   },
@@ -2260,7 +2260,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6PT9HS856453&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017RMT110013_640/2017RMT110013_640_01.jpg",
-    "price": "$31,995",
+    "price": "$34,800",
     "sutherlins_price": "$31,995",
     "mileage": "78,741 Miles"
   },
@@ -2278,21 +2278,6 @@
     "price": "$36,500",
     "sutherlins_price": "$32,498",
     "mileage": "37,118 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Jeep Wrangler Unlimited Rubicon",
-    "vin": "1C4HJXFN7NW244406",
-    "stock": "P13683",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXFN7NW244406&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022JES16_640/2022JES160121_640_01.jpg",
-    "price": "$36,895",
-    "sutherlins_price": "$33,995",
-    "mileage": "57,595 Miles"
   },
   {
     "category": "used",
@@ -2380,7 +2365,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDKDRAH5PS033265&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOS14_640/2023TOS141998474_640_01.jpg",
-    "price": "$36,995",
+    "price": "$38,625",
     "sutherlins_price": "$36,995",
     "mileage": "51,848 Miles"
   },
@@ -2776,21 +2761,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Renegade Limited",
-    "vin": "ZACNJDD1XMPM29950",
-    "stock": "MP194",
-    "exterior": "Bikini Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "1.3L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
-    "price": "$30,040",
-    "sutherlins_price": "$14,888",
-    "mileage": "79,227 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ2RH019449",
     "stock": "MP258",
@@ -2818,6 +2788,21 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Renegade Limited",
+    "vin": "ZACNJDD1XMPM29950",
+    "stock": "MP194",
+    "exterior": "Bikini Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "1.3L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
+    "price": "$30,040",
+    "sutherlins_price": "$14,888",
+    "mileage": "79,227 Miles"
   },
   {
     "category": "used",
@@ -3016,21 +3001,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Kona SEL",
-    "vin": "KM8HBCAB4RU149284",
-    "stock": "MP231",
-    "exterior": "Green",
-    "interior": "Gray",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7dc8ad2-5d2c-4766-a3d4-276201323447.jpg",
-    "price": "$28,475",
-    "sutherlins_price": "$19,888",
-    "mileage": "60,241 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Elantra Hybrid Limited",
     "vin": "KMHLN4AJ1PU054578",
     "stock": "MP184",
@@ -3043,6 +3013,21 @@
     "price": "$30,500",
     "sutherlins_price": "$19,888",
     "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Kona SEL",
+    "vin": "KM8HBCAB4RU149284",
+    "stock": "MP231",
+    "exterior": "Green",
+    "interior": "Gray",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7dc8ad2-5d2c-4766-a3d4-276201323447.jpg",
+    "price": "$28,475",
+    "sutherlins_price": "$19,888",
+    "mileage": "60,241 Miles"
   },
   {
     "category": "used",
@@ -3076,6 +3061,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLS4AG7PU615475",
+    "stock": "M2622A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
+    "price": "$25,650",
+    "sutherlins_price": "$19,888",
+    "mileage": "28,931 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 SE",
     "vin": "JA4ARUAU0RU015049",
     "stock": "MP267",
@@ -3103,21 +3103,6 @@
     "price": "$23,695",
     "sutherlins_price": "$19,888",
     "mileage": "37,611 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLS4AG7PU615475",
-    "stock": "M2622A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
-    "price": "$25,650",
-    "sutherlins_price": "$19,888",
-    "mileage": "28,931 Miles"
   },
   {
     "category": "used",
@@ -3481,21 +3466,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SE",
-    "vin": "5NMS1DAJXPH573485",
-    "stock": "MP219",
-    "exterior": "Calypso Red",
-    "interior": "Beige",
-    "engine": "2.5L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS1DAJXPH573485&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/95e40c2f-b5f1-4b9a-81ca-b98ebf64fa59.jpg",
-    "price": "$32,985",
-    "sutherlins_price": "$24,888",
-    "mileage": "28,599 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Chevrolet Blazer LT",
     "vin": "3GNKBCR44SS196327",
     "stock": "MP196",
@@ -3508,6 +3478,21 @@
     "price": "$36,795",
     "sutherlins_price": "$24,888",
     "mileage": "29,649 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SE",
+    "vin": "5NMS1DAJXPH573485",
+    "stock": "MP219",
+    "exterior": "Calypso Red",
+    "interior": "Beige",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS1DAJXPH573485&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/95e40c2f-b5f1-4b9a-81ca-b98ebf64fa59.jpg",
+    "price": "$32,985",
+    "sutherlins_price": "$24,888",
+    "mileage": "28,599 Miles"
   },
   {
     "category": "used",
@@ -3556,21 +3541,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Ford Edge SEL",
-    "vin": "2FMPK4J98RBA97677",
-    "stock": "MP244",
-    "exterior": "Black Metallic",
-    "interior": "Ebony",
-    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/04772d99-638e-43f1-a032-b326bb4e40eb.jpg",
-    "price": "$41,160",
-    "sutherlins_price": "$25,888",
-    "mileage": "51,776 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
@@ -3598,6 +3568,21 @@
     "price": "$28,950",
     "sutherlins_price": "$25,888",
     "mileage": "47,246 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Edge SEL",
+    "vin": "2FMPK4J98RBA97677",
+    "stock": "MP244",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/04772d99-638e-43f1-a032-b326bb4e40eb.jpg",
+    "price": "$41,160",
+    "sutherlins_price": "$25,888",
+    "mileage": "51,776 Miles"
   },
   {
     "category": "used",
@@ -3661,21 +3646,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Subaru Crosstrek Limited",
-    "vin": "4S4GUHL65R3752897",
-    "stock": "MP202",
-    "exterior": "Alpine Green",
-    "interior": "Gray W/Orange Stitching",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
-    "price": "$33,859",
-    "sutherlins_price": "$28,888",
-    "mileage": "16,234 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Outlander PHEV SEL",
     "vin": "JA4T5WA90RZ067411",
     "stock": "MP263",
@@ -3688,6 +3658,21 @@
     "price": "$46,295",
     "sutherlins_price": "$28,888",
     "mileage": "52,240 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Subaru Crosstrek Limited",
+    "vin": "4S4GUHL65R3752897",
+    "stock": "MP202",
+    "exterior": "Alpine Green",
+    "interior": "Gray W/Orange Stitching",
+    "engine": "2.5L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
+    "price": "$33,859",
+    "sutherlins_price": "$28,888",
+    "mileage": "16,234 Miles"
   },
   {
     "category": "used",

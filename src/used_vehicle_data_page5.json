@@ -145,7 +145,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA3PC916097&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIS11_640/2023NIS110141_640_01.jpg",
-    "price": "$28,995",
+    "price": "$30,825",
     "sutherlins_price": "$28,995",
     "mileage": "3,484 Miles"
   },
@@ -340,7 +340,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6RR6PT9HS856453&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2017RMT110013_640/2017RMT110013_640_01.jpg",
-    "price": "$31,995",
+    "price": "$34,800",
     "sutherlins_price": "$31,995",
     "mileage": "78,741 Miles"
   },
@@ -358,21 +358,6 @@
     "price": "$36,500",
     "sutherlins_price": "$32,498",
     "mileage": "37,118 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Jeep Wrangler Unlimited Rubicon",
-    "vin": "1C4HJXFN7NW244406",
-    "stock": "P13683",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXFN7NW244406&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022JES16_640/2022JES160121_640_01.jpg",
-    "price": "$36,895",
-    "sutherlins_price": "$33,995",
-    "mileage": "57,595 Miles"
   },
   {
     "category": "used",
@@ -460,7 +445,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDKDRAH5PS033265&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023TOS14_640/2023TOS141998474_640_01.jpg",
-    "price": "$36,995",
+    "price": "$38,625",
     "sutherlins_price": "$36,995",
     "mileage": "51,848 Miles"
   },
@@ -478,5 +463,20 @@
     "price": "$42,025",
     "sutherlins_price": "$37,498",
     "mileage": "29,779 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Pathfinder Platinum",
+    "vin": "5N1DR3DJ6PC274822",
+    "stock": "P13811",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3DJ6PC274822&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/445def20868745a9a71eafaee4d15875.jpg",
+    "price": "$39,075",
+    "sutherlins_price": "$37,995",
+    "mileage": "29,352 Miles"
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2019 Volkswagen Passat 2.0T Wolfsburg",
-    "vin": "1VWLA7A36KC006007",
-    "stock": "M26122A",
-    "exterior": "Blue Metallic",
-    "interior": "Moonrock Gray",
-    "engine": "2.0L I4 TSI Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWLA7A36KC006007&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1VWLA7A36KC006007&vehicletype=Sedan",
-    "price": "$27,425",
-    "sutherlins_price": "$15,888",
-    "mileage": "54,435 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Tesla Model 3 Standard Range Plus",
     "vin": "5YJ3E1EA9MF093405",
     "stock": "MP208A",
@@ -136,21 +121,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Hyundai Kona SEL",
-    "vin": "KM8HBCAB4RU149284",
-    "stock": "MP231",
-    "exterior": "Green",
-    "interior": "Gray",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7dc8ad2-5d2c-4766-a3d4-276201323447.jpg",
-    "price": "$28,475",
-    "sutherlins_price": "$19,888",
-    "mileage": "60,241 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Elantra Hybrid Limited",
     "vin": "KMHLN4AJ1PU054578",
     "stock": "MP184",
@@ -163,6 +133,21 @@
     "price": "$30,500",
     "sutherlins_price": "$19,888",
     "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Hyundai Kona SEL",
+    "vin": "KM8HBCAB4RU149284",
+    "stock": "MP231",
+    "exterior": "Green",
+    "interior": "Gray",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8HBCAB4RU149284&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d7dc8ad2-5d2c-4766-a3d4-276201323447.jpg",
+    "price": "$28,475",
+    "sutherlins_price": "$19,888",
+    "mileage": "60,241 Miles"
   },
   {
     "category": "used",
@@ -196,6 +181,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLS4AG7PU615475",
+    "stock": "M2622A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
+    "price": "$25,650",
+    "sutherlins_price": "$19,888",
+    "mileage": "28,931 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 SE",
     "vin": "JA4ARUAU0RU015049",
     "stock": "MP267",
@@ -223,21 +223,6 @@
     "price": "$23,695",
     "sutherlins_price": "$19,888",
     "mileage": "37,611 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLS4AG7PU615475",
-    "stock": "M2622A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
-    "price": "$25,650",
-    "sutherlins_price": "$19,888",
-    "mileage": "28,931 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$38,050",
     "sutherlins_price": "$23,888",
     "mileage": "67,462 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Equinox LT",
+    "vin": "3GNAXUEG1RL283576",
+    "stock": "MP240",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXUEG1RL283576&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/875d775c-50b1-4508-9075-9322c204d13e.jpg",
+    "price": "$32,190",
+    "sutherlins_price": "$23,888",
+    "mileage": "56,023 Miles"
   }
 ]
