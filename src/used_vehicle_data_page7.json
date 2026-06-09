@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Kia Soul LX",
-    "vin": "KNDJ23AU5P7891986",
-    "stock": "MP192",
-    "exterior": "Snow White Pearl",
-    "interior": "Gray",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU5P7891986&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7922ff74-1aaa-4da5-85f1-c70b032059f4.jpg",
-    "price": "$21,735",
-    "sutherlins_price": "$16,888",
-    "mileage": "28,813 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$17,888",
-    "mileage": "77,710 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Mitsubishi Eclipse Cross SEL",
     "vin": "JA4ATWAA8NZ004719",
     "stock": "M2672A",
@@ -478,5 +448,35 @@
     "price": "$34,990",
     "sutherlins_price": "$24,888",
     "mileage": "46,637 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR43PS220446",
+    "stock": "MP209",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR43PS220446&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5577e90d-7735-4020-9baa-87f70d7ea30f.jpg",
+    "price": "$36,495",
+    "sutherlins_price": "$24,888",
+    "mileage": "30,228 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson Limited",
+    "vin": "5NMJE3AE2PH183123",
+    "stock": "MP215",
+    "exterior": "Shimmering Silver",
+    "interior": "Black",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE2PH183123&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/015e262a-5d28-4d11-baa4-c04927400829.jpg",
+    "price": "$37,820",
+    "sutherlins_price": "$24,888",
+    "mileage": "33,250 Miles"
   }
 ]
