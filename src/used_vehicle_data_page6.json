@@ -26,7 +26,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BZ4BH5RM360513&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIC20_640/2024NIC202011477_640_01.jpg",
     "price": "$45,350",
-    "sutherlins_price": "$42,498",
+    "sutherlins_price": "$41,995",
     "mileage": "16,731 Miles"
   },
   {
@@ -46,21 +46,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR49PS227336",
-    "stock": "26187A",
-    "exterior": "Black",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 2.0L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR49PS227336&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHS09_640/2023CHS092014666_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "72,252 Miles"
-  },
-  {
-    "category": "used",
     "name": "2016 Subaru Impreza Sedan Premium",
     "vin": "JF1GJAB67GH013414",
     "stock": "P13788A",
@@ -73,6 +58,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "98,128 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR49PS227336",
+    "stock": "26187A",
+    "exterior": "Black",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 2.0L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR49PS227336&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023CHS09_640/2023CHS092014666_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "72,252 Miles"
   },
   {
     "category": "used",
