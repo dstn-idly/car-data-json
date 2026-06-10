@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2005 Hyundai Tucson",
-    "vin": "KM8JN12D95U146257",
-    "stock": "26848C",
-    "exterior": "Blue",
-    "interior": "N/A",
-    "engine": "Gas V6 2.7L/165",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8JN12D95U146257&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/5556.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "206,444 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Chevrolet Equinox FWD RS",
     "vin": "3GNAXLEG7SL104800",
     "stock": "26767A",
@@ -31,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2005 Hyundai Tucson",
+    "vin": "KM8JN12D95U146257",
+    "stock": "26848C",
+    "exterior": "Blue",
+    "interior": "N/A",
+    "engine": "Gas V6 2.7L/165",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8JN12D95U146257&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/2/5556.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "206,444 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Chevrolet Silverado 1500 Custom",
     "vin": "3GCPABEK2NG626072",
     "stock": "26912A",
@@ -43,21 +43,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "79,979 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Mercedes-Benz C-Class C 300",
-    "vin": "55SWF4JB8JU253598",
-    "stock": "P13878",
-    "exterior": "Polar White",
-    "interior": "Almond",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=55SWF4JB8JU253598&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018MBC890002_640/2018MBC890002_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -103,6 +88,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "131,646 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Mercedes-Benz C-Class C 300",
+    "vin": "55SWF4JB8JU253598",
+    "stock": "P13878",
+    "exterior": "Polar White",
+    "interior": "Almond",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=55SWF4JB8JU253598&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018MBC890002_640/2018MBC890002_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Renegade Limited",
-    "vin": "ZACNJDD1XMPM29950",
-    "stock": "MP194",
-    "exterior": "Bikini Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "1.3L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
-    "price": "$30,040",
-    "sutherlins_price": "$14,888",
-    "mileage": "79,227 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ7RH006289",
     "stock": "MP260",
@@ -358,6 +343,21 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Renegade Limited",
+    "vin": "ZACNJDD1XMPM29950",
+    "stock": "MP194",
+    "exterior": "Bikini Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "1.3L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
+    "price": "$30,040",
+    "sutherlins_price": "$14,888",
+    "mileage": "79,227 Miles"
   },
   {
     "category": "used",
