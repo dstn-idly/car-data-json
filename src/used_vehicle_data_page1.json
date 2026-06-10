@@ -256,6 +256,21 @@
   },
   {
     "category": "used",
+    "name": "2018 Nissan Rogue SL",
+    "vin": "JN8AT2MT3JW488312",
+    "stock": "26777B",
+    "exterior": "Gun Metallic",
+    "interior": "Platinum",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW488312&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018NIS11_640/2018NIS110047_640_01.jpg",
+    "price": "$14,995",
+    "sutherlins_price": "$14,995",
+    "mileage": "62,413 Miles"
+  },
+  {
+    "category": "used",
     "name": "2021 Nissan Rogue SV",
     "vin": "5N1AT3BA4MC742937",
     "stock": "P13721",
@@ -283,36 +298,6 @@
     "price": "$21,125",
     "sutherlins_price": "$15,695",
     "mileage": "62,315 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Nissan Sentra SV",
-    "vin": "3N1AB8CV8MY266367",
-    "stock": "P13740",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8MY266367&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7d063cea2d2049419c77b468921221e4.jpg",
-    "price": "$18,200",
-    "sutherlins_price": "$15,988",
-    "mileage": "37,145 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2018 Mercedes-Benz C-Class C 300",
-    "vin": "55SWF4JB8JU253598",
-    "stock": "P13878",
-    "exterior": "Polar White",
-    "interior": "Almond",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=55SWF4JB8JU253598&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018MBC890002_640/2018MBC890002_640_01.jpg",
-    "price": "$15,988",
-    "sutherlins_price": "$15,988",
-    "mileage": "N/A"
   },
   {
     "category": "used",
@@ -444,7 +429,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AV2MW314373&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS17_640/2021NIS170087_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3e5066ef5bb2471fa17d85ff5ffc478f.jpg",
     "price": "$17,225",
     "sutherlins_price": "$15,995",
     "mileage": "44,403 Miles"
@@ -474,9 +459,24 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXPY240664&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023NIC06_640/2023NIC060001_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/dff7c731c38a4c17a7eb5dff2ad3a1d6.jpg",
     "price": "$19,925",
     "sutherlins_price": "$16,949",
     "mileage": "78,473 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2013 Toyota Tacoma Base",
+    "vin": "5TFLU4EN6DX063422",
+    "stock": "P13829A",
+    "exterior": "Barcelona Red Metallic",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFLU4EN6DX063422&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/57dc367ff1274803a7a2e2d32e44bd51.jpg",
+    "price": "$19,325",
+    "sutherlins_price": "$16,988",
+    "mileage": "132,699 Miles"
   }
 ]
