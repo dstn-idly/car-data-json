@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CVXNL489176&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/a0465506a5024f10a7bb670325d0822f.jpg",
     "price": "$18,275",
-    "sutherlins_price": "$12,498",
+    "sutherlins_price": "$11,988",
     "mileage": "87,305 Miles"
   },
   {
@@ -191,7 +191,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW488312&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/09a09d2e1631420a84797b0dba1a6780.jpg",
     "price": "$18,950",
-    "sutherlins_price": "$14,995",
+    "sutherlins_price": "$16,995",
     "mileage": "62,413 Miles"
   },
   {
@@ -241,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Versa S",
-    "vin": "3N1CN8DV5RL835436",
-    "stock": "P13840",
-    "exterior": "Fresh Powder",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV5RL835436&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/58ed9cc8b60845b3bb12f11359cfcdbf.jpg",
-    "price": "$18,820",
-    "sutherlins_price": "$15,995",
-    "mileage": "39,245 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AA9PC677447",
     "stock": "P13692",
@@ -268,6 +253,21 @@
     "price": "$19,900",
     "sutherlins_price": "$15,995",
     "mileage": "71,892 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Versa S",
+    "vin": "3N1CN8DV5RL835436",
+    "stock": "P13840",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8DV5RL835436&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/58ed9cc8b60845b3bb12f11359cfcdbf.jpg",
+    "price": "$18,820",
+    "sutherlins_price": "$15,995",
+    "mileage": "39,245 Miles"
   },
   {
     "category": "used",

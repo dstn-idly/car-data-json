@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Chevrolet Equinox LT",
-    "vin": "3GNAXUEG1RL283576",
-    "stock": "MP240",
-    "exterior": "Sterling Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXUEG1RL283576&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/875d775c-50b1-4508-9075-9322c204d13e.jpg",
-    "price": "$32,190",
-    "sutherlins_price": "$23,888",
-    "mileage": "56,023 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Santa Cruz NIGHT",
     "vin": "5NTJCDAF6PH046825",
     "stock": "MP206",
@@ -478,5 +463,20 @@
     "price": "$38,050",
     "sutherlins_price": "$23,888",
     "mileage": "67,462 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Equinox LT",
+    "vin": "3GNAXUEG1RL283576",
+    "stock": "MP240",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "1.5L DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNAXUEG1RL283576&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/875d775c-50b1-4508-9075-9322c204d13e.jpg",
+    "price": "$32,190",
+    "sutherlins_price": "$23,888",
+    "mileage": "56,023 Miles"
   }
 ]
