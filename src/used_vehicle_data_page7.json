@@ -136,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Fe SE",
-    "vin": "5NMS14AJ3PH593061",
-    "stock": "MP180",
-    "exterior": "Stormy Blue",
-    "interior": "Beige",
-    "engine": "2.5L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
-    "price": "$30,690",
-    "sutherlins_price": "$19,488",
-    "mileage": "43,849 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Jeep Compass Sport",
     "vin": "3C4NJDAN4PT574960",
     "stock": "MP201",
@@ -163,6 +148,21 @@
     "price": "$29,995",
     "sutherlins_price": "$19,488",
     "mileage": "43,944 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Fe SE",
+    "vin": "5NMS14AJ3PH593061",
+    "stock": "MP180",
+    "exterior": "Stormy Blue",
+    "interior": "Beige",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS14AJ3PH593061&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/6bfb9e7e-19e4-4e82-a82d-508126440a55.jpg",
+    "price": "$30,690",
+    "sutherlins_price": "$19,488",
+    "mileage": "43,849 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Santa Cruz NIGHT",
-    "vin": "5NTJCDAF6PH046825",
-    "stock": "MP206",
-    "exterior": "Phantom Black",
-    "interior": "Black",
-    "engine": "2.5L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NTJCDAF6PH046825&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/471f54f8-f01f-416f-a382-ad4c42e7a2ae.jpg",
-    "price": "$38,050",
-    "sutherlins_price": "$23,888",
-    "mileage": "67,462 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Chevrolet Equinox LT",
     "vin": "3GNAXUEG1RL283576",
     "stock": "MP240",
@@ -478,5 +463,20 @@
     "price": "$32,190",
     "sutherlins_price": "$23,888",
     "mileage": "56,023 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Santa Cruz NIGHT",
+    "vin": "5NTJCDAF6PH046825",
+    "stock": "MP206",
+    "exterior": "Phantom Black",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NTJCDAF6PH046825&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/471f54f8-f01f-416f-a382-ad4c42e7a2ae.jpg",
+    "price": "$38,050",
+    "sutherlins_price": "$23,888",
+    "mileage": "67,462 Miles"
   }
 ]
