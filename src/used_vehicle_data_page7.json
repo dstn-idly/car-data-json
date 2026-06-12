@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2021 Hyundai Kona SEL",
+    "vin": "KM8K22AA4MU697771",
+    "stock": "MP216",
+    "exterior": "Silver",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
+    "price": "$24,035",
+    "sutherlins_price": "$14,888",
+    "mileage": "76,786 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJXRH006268",
     "stock": "MP280",
@@ -28,21 +43,6 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Hyundai Kona SEL",
-    "vin": "KM8K22AA4MU697771",
-    "stock": "MP216",
-    "exterior": "Silver",
-    "interior": "Black",
-    "engine": "I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
-    "price": "$24,035",
-    "sutherlins_price": "$14,888",
-    "mileage": "76,786 Miles"
   },
   {
     "category": "used",
@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chrysler Voyager LX",
-    "vin": "2C4RC1CG3PR564125",
-    "stock": "MP179",
-    "exterior": "Brilliant Black Crystal Pearlcoat",
-    "interior": "Black",
-    "engine": "3.6L V6 24V VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0369a54f-5227-49e9-ac51-320a6370fc6e.jpg",
-    "price": "$37,090",
-    "sutherlins_price": "$18,288",
-    "mileage": "70,274 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Jeep Compass Sport",
     "vin": "3C4NJDAN4PT574960",
     "stock": "MP201",
@@ -238,6 +223,21 @@
     "price": "$29,995",
     "sutherlins_price": "$18,888",
     "mileage": "43,944 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Chrysler Voyager LX",
+    "vin": "2C4RC1CG3PR564125",
+    "stock": "MP179",
+    "exterior": "Brilliant Black Crystal Pearlcoat",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1CG3PR564125&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0369a54f-5227-49e9-ac51-320a6370fc6e.jpg",
+    "price": "$37,090",
+    "sutherlins_price": "$18,288",
+    "mileage": "70,274 Miles"
   },
   {
     "category": "used",
@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLS4AG7PU615475",
-    "stock": "M2622A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
-    "price": "$25,650",
-    "sutherlins_price": "$19,888",
-    "mileage": "28,931 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 SE",
     "vin": "JA4ARUAU0RU015049",
     "stock": "MP267",
@@ -343,6 +328,21 @@
     "price": "$23,695",
     "sutherlins_price": "$19,888",
     "mileage": "40,296 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLS4AG7PU615475",
+    "stock": "M2622A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=KMHLS4AG7PU615475&vehicletype=Sedan",
+    "price": "$25,650",
+    "sutherlins_price": "$19,888",
+    "mileage": "28,931 Miles"
   },
   {
     "category": "used",
