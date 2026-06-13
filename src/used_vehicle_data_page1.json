@@ -70,9 +70,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2GNALCEK4F1154836&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2015CHS15_640/2015CHS150037_640_01.jpg",
-    "price": "$7,988",
+    "price": "$11,299",
     "sutherlins_price": "$7,988",
-    "mileage": "N/A"
+    "mileage": "120,043 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Mercedes-Benz GLA 250",
-    "vin": "WDCTG4GB5KU012528",
-    "stock": "26932A",
-    "exterior": "Polar White",
-    "interior": "Sahara Beige",
-    "engine": "Intercooled Turbo Premium Unleaded I-4 2.0 L/121",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WDCTG4GB5KU012528&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019MBS71_640/2019MBS710002_640_01.jpg",
-    "price": "$19,800",
-    "sutherlins_price": "$16,988",
-    "mileage": "73,998 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Nissan NV200 Compact Cargo S",
     "vin": "3N6CM0KN7LK711019",
     "stock": "P13800",
@@ -478,5 +463,20 @@
     "price": "$18,300",
     "sutherlins_price": "$16,988",
     "mileage": "88,523 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 Nissan Rogue SL",
+    "vin": "JN8AT2MT3JW488312",
+    "stock": "26777B",
+    "exterior": "Gun Metallic",
+    "interior": "Platinum",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3JW488312&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/09a09d2e1631420a84797b0dba1a6780.jpg",
+    "price": "$18,950",
+    "sutherlins_price": "$16,995",
+    "mileage": "62,413 Miles"
   }
 ]

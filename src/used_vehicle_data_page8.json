@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Camaro 1LT",
-    "vin": "1G1FB3DS4L0113240",
-    "stock": "MP245",
-    "exterior": "Shock",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 DI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB3DS4L0113240&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/41650660-fec5-405a-839e-1011b7a023d0.jpg",
-    "price": "$38,030",
-    "sutherlins_price": "$24,888",
-    "mileage": "40,262 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Ford Explorer XLT",
     "vin": "1FMSK7DH5MGC15491",
     "stock": "MP217",
@@ -478,5 +463,20 @@
     "price": "$33,859",
     "sutherlins_price": "$27,888",
     "mileage": "16,234 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Chrysler Pacifica Limited",
+    "vin": "2C4RC1GG2SR515811",
+    "stock": "MP139",
+    "exterior": "Diamond Black",
+    "interior": "Black",
+    "engine": "3.6L V6 24V VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RC1GG2SR515811&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a1a9de77-9820-4868-b8b1-2fdb413ff956.jpg",
+    "price": "$51,265",
+    "sutherlins_price": "$27,888",
+    "mileage": "62,231 Miles"
   }
 ]
