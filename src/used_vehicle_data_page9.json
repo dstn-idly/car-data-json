@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Maserati Grecale GT",
-    "vin": "ZN6PMDAA2R7449295",
-    "stock": "MP228",
-    "exterior": "Bianco",
-    "interior": "Black",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b140af23-8402-45be-8c40-15da68e41e3c.jpg",
-    "price": "$69,995",
-    "sutherlins_price": "$27,888",
-    "mileage": "58,990 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Subaru Crosstrek Limited",
-    "vin": "4S4GUHL65R3752897",
-    "stock": "MP202",
-    "exterior": "Alpine Green",
-    "interior": "Gray W/Orange Stitching",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4S4GUHL65R3752897&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4bf5b98a-892b-497b-a843-db15622df71a.jpg",
-    "price": "$33,859",
-    "sutherlins_price": "$27,888",
-    "mileage": "16,234 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Chrysler Pacifica Limited",
     "vin": "2C4RC1GG2SR515811",
     "stock": "MP139",
@@ -478,5 +448,35 @@
     "price": "$60,490",
     "sutherlins_price": "$41,888",
     "mileage": "62,097 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Mercedes-Benz C-Class C 43 AMG\u00ae",
+    "vin": "W1KWJ6EB9MG057692",
+    "stock": "MP176A",
+    "exterior": "Graphite Gray Metallic",
+    "interior": "Black",
+    "engine": "3.0L V6 BiTurbo",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=W1KWJ6EB9MG057692&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ae03851a-c73c-4217-b41a-263036d98e6c.jpg",
+    "price": "$68,212",
+    "sutherlins_price": "$43,888",
+    "mileage": "13,500 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Porsche Cayenne Base",
+    "vin": "WP1AA2AY0NDA02105",
+    "stock": "MP145",
+    "exterior": "Black",
+    "interior": "Black/Mojave Beige",
+    "engine": "3.0L V6",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WP1AA2AY0NDA02105&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cd9815ac-4ce1-4374-a5c7-e0c2234f05ae.jpg",
+    "price": "$84,200",
+    "sutherlins_price": "$47,888",
+    "mileage": "48,685 Miles"
   }
 ]

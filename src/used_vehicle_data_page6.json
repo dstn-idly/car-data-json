@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Nissan Pathfinder SL",
-    "vin": "5N1DR3CC0RC235536",
-    "stock": "T26891A",
-    "exterior": "Brilliant Silver Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CC0RC235536&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/446abcfdb3384502b7ce3f59e3219f3f.jpg",
-    "price": "$36,550",
-    "sutherlins_price": "$34,995",
-    "mileage": "20,732 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Pathfinder SL",
-    "vin": "5N1DR3CAXSC217064",
-    "stock": "26486A",
-    "exterior": "Everest White Pearl Tricoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DR3CAXSC217064&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIS07_640/2025NIS071937596_640_01.jpg",
-    "price": "$37,350",
-    "sutherlins_price": "$34,995",
-    "mileage": "15,299 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Toyota Tacoma 4WD SR5",
     "vin": "3TYCZ5AN0PT179047",
     "stock": "26876A",
@@ -478,5 +448,35 @@
     "price": "$16,989",
     "sutherlins_price": "$14,888",
     "mileage": "51,190 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Hyundai Kona SEL",
+    "vin": "KM8K22AA4MU697771",
+    "stock": "MP216",
+    "exterior": "Silver",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
+    "price": "$24,035",
+    "sutherlins_price": "$14,888",
+    "mileage": "76,786 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJXRH006268",
+    "stock": "MP280",
+    "exterior": "Starlight Silver Metallic",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJXRH006268&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJXRH006268&vehicletype=Hatchback",
+    "price": "$16,695",
+    "sutherlins_price": "$14,888",
+    "mileage": "53,192 Miles"
   }
 ]

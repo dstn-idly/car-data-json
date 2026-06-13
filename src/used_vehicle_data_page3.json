@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Nissan Rogue Sport SV",
-    "vin": "JN1BJ1BV5NW582642",
-    "stock": "26873A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1BV5NW582642&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/40f2f77cd6ca4a608ab4a8d22da2a063.jpg",
-    "price": "$22,375",
-    "sutherlins_price": "$19,598",
-    "mileage": "35,229 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Kicks SV",
-    "vin": "3N8AP6CA0SL309467",
-    "stock": "26821A",
-    "exterior": "Canyon Bronze Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6CA0SL309467&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/121d923781fe4e69a66b4696a2679d67.jpg",
-    "price": "$23,525",
-    "sutherlins_price": "$19,705",
-    "mileage": "39,527 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Altima 2.5 SL",
     "vin": "1N4BL4EV5NN301732",
     "stock": "P13887",
@@ -181,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Altima 2.5 SV",
-    "vin": "1N4BL4DV5RN354826",
-    "stock": "P13868",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN354826&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2f999a90f3d446729ab53fef736b4bfa.jpg",
-    "price": "$21,175",
-    "sutherlins_price": "$19,995",
-    "mileage": "61,191 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA6NC730701",
     "stock": "P13820",
@@ -208,6 +163,21 @@
     "price": "$21,525",
     "sutherlins_price": "$19,995",
     "mileage": "79,853 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Altima 2.5 SV",
+    "vin": "1N4BL4DV5RN354826",
+    "stock": "P13868",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV5RN354826&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2f999a90f3d446729ab53fef736b4bfa.jpg",
+    "price": "$21,175",
+    "sutherlins_price": "$19,995",
+    "mileage": "61,191 Miles"
   },
   {
     "category": "used",
@@ -241,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Venue Limited",
-    "vin": "KMHRC8A33PU266309",
-    "stock": "P13867",
-    "exterior": "Intense Blue",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRC8A33PU266309&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS20_640/2023HYS202013903_640_01.jpg",
-    "price": "$21,175",
-    "sutherlins_price": "$19,995",
-    "mileage": "23,063 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE3RP163903",
     "stock": "KP1118",
@@ -283,6 +238,21 @@
     "price": "$22,500",
     "sutherlins_price": "$19,995",
     "mileage": "10,563 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Venue Limited",
+    "vin": "KMHRC8A33PU266309",
+    "stock": "P13867",
+    "exterior": "Intense Blue",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHRC8A33PU266309&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2023HYS20_640/2023HYS202013903_640_01.jpg",
+    "price": "$21,175",
+    "sutherlins_price": "$19,995",
+    "mileage": "23,063 Miles"
   },
   {
     "category": "used",
@@ -370,9 +340,9 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1FB1RSXJ0105508&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018CHC02_640/2018CHC020118_640_01.jpg",
-    "price": "$20,988",
+    "price": "$24,787",
     "sutherlins_price": "$20,988",
-    "mileage": "N/A"
+    "mileage": "27,928 Miles"
   },
   {
     "category": "used",
@@ -415,7 +385,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT3CAXMW025805&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021NIS11_640/2021NIS110082_640_01.jpg",
-    "price": "$20,995",
+    "price": "$22,225",
     "sutherlins_price": "$20,995",
     "mileage": "74,850 Miles"
   },
@@ -478,5 +448,35 @@
     "price": "$22,925",
     "sutherlins_price": "$20,995",
     "mileage": "26,211 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Santa Fe SEL",
+    "vin": "5NMS24AJ2NH447664",
+    "stock": "T26748A",
+    "exterior": "Twilight Black",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS24AJ2NH447664&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/04b8793d838f4c85837e5157598f8212.jpg",
+    "price": "$21,500",
+    "sutherlins_price": "$21,469",
+    "mileage": "38,210 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BEXTL336603",
+    "stock": "P13882",
+    "exterior": "Fresh Powder",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BEXTL336603&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2026NIS26_640/2026NIS261993320_640_01.jpg",
+    "price": "$25,452",
+    "sutherlins_price": "$21,498",
+    "mileage": "198 Miles"
   }
 ]
