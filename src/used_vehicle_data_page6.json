@@ -421,21 +421,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Trax LS",
-    "vin": "KL7CJKSB5LB323776",
-    "stock": "MP226",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
-    "price": "$22,295",
-    "sutherlins_price": "$14,888",
-    "mileage": "54,302 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ9RH018640",
     "stock": "MP259",
@@ -448,6 +433,21 @@
     "price": "$16,989",
     "sutherlins_price": "$14,888",
     "mileage": "51,190 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Trax LS",
+    "vin": "KL7CJKSB5LB323776",
+    "stock": "MP226",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
+    "price": "$22,295",
+    "sutherlins_price": "$14,888",
+    "mileage": "54,302 Miles"
   },
   {
     "category": "used",
