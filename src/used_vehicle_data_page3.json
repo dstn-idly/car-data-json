@@ -76,36 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CVXRY269732",
-    "stock": "P13796",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY269732&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1286595423344879280e80388745ed5.jpg",
-    "price": "$18,575",
-    "sutherlins_price": "$19,995",
-    "mileage": "60,372 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV8SY388871",
-    "stock": "P13863",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8SY388871&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/74d9fdcd7bc1454089a4a496a76bdf94.jpg",
-    "price": "$22,500",
-    "sutherlins_price": "$19,995",
-    "mileage": "10,563 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Hyundai Venue Limited",
     "vin": "KMHRC8A33PU266309",
     "stock": "P13867",
@@ -121,6 +91,21 @@
   },
   {
     "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CVXRY269732",
+    "stock": "P13796",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CVXRY269732&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a1286595423344879280e80388745ed5.jpg",
+    "price": "$18,575",
+    "sutherlins_price": "$19,995",
+    "mileage": "60,372 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Toyota Corolla LE",
     "vin": "5YFB4MDE3RP163903",
     "stock": "KP1118",
@@ -133,6 +118,21 @@
     "price": "$22,725",
     "sutherlins_price": "$19,995",
     "mileage": "47,477 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV8SY388871",
+    "stock": "P13863",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8SY388871&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/74d9fdcd7bc1454089a4a496a76bdf94.jpg",
+    "price": "$22,500",
+    "sutherlins_price": "$19,995",
+    "mileage": "10,563 Miles"
   },
   {
     "category": "used",
@@ -376,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV6SY250151",
-    "stock": "P13880",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV6SY250151&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
-    "price": "$24,125",
-    "sutherlins_price": "$21,995",
-    "mileage": "1,920 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Rogue S",
     "vin": "5N1BT3AB8PC934185",
     "stock": "P13785",
@@ -403,6 +388,21 @@
     "price": "$22,500",
     "sutherlins_price": "$21,995",
     "mileage": "37,233 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV6SY250151",
+    "stock": "P13880",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV6SY250151&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
+    "price": "$24,125",
+    "sutherlins_price": "$21,995",
+    "mileage": "1,920 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2025 Kia K4 LX",
-    "vin": "3KPFT4DE7SE176469",
-    "stock": "P13850",
-    "exterior": "Aurora Black Pearl",
-    "interior": "Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPFT4DE7SE176469&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/e8fda4a73edf406b877a424a56f72027.jpg",
-    "price": "$23,625",
+    "name": "2020 Buick Enclave Essence",
+    "vin": "5GAERBKW0LJ209506",
+    "stock": "P13875",
+    "exterior": "Summit White",
+    "interior": "Shale with Ebony interior accents",
+    "engine": "Gas V6 3.6L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5GAERBKW0LJ209506&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020BUS03_640/2020BUS030023_640_01.jpg",
+    "price": "$23,725",
     "sutherlins_price": "$21,995",
-    "mileage": "18,346 Miles"
+    "mileage": "54,550 Miles"
   }
 ]
