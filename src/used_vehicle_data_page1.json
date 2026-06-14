@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue SV",
-    "vin": "5N1AT3BA4MC742937",
-    "stock": "P13721",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AT3BA4MC742937&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f16aa2cc451c493bb66dc25089c45084.jpg",
-    "price": "$19,254",
-    "sutherlins_price": "$14,995",
-    "mileage": "84,315 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 GMC Terrain SLE",
     "vin": "3GKALMEV5ML394101",
     "stock": "P13715",
@@ -316,36 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Toyota Tacoma PreRunner",
-    "vin": "3TMJU4GN6CM133316",
-    "stock": "P13892",
-    "exterior": "Super White",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
-    "price": "$18,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "107,952 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Versa SV",
-    "vin": "3N1CN8EV3SL810670",
-    "stock": "P13830",
-    "exterior": "Scarlet Ember Tintcoat",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded I-4 1.6 L/98",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV3SL810670&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a40a8b4374e45c8bf08f4fc2717beb6.jpg",
-    "price": "$16,625",
-    "sutherlins_price": "$15,995",
-    "mileage": "45,302 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP3KW229828",
     "stock": "P13845",
@@ -358,6 +313,21 @@
     "price": "$17,400",
     "sutherlins_price": "$15,995",
     "mileage": "52,840 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Toyota Tacoma PreRunner",
+    "vin": "3TMJU4GN6CM133316",
+    "stock": "P13892",
+    "exterior": "Super White",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
+    "price": "$18,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "107,952 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$18,925",
     "sutherlins_price": "$16,995",
     "mileage": "61,340 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Sentra SV",
+    "vin": "3N1AB8CV8RY201199",
+    "stock": "P13735",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/64c86df475914654bfc91442b1fd60da.jpg",
+    "price": "$21,275",
+    "sutherlins_price": "$16,995",
+    "mileage": "40,372 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 GMC Terrain SLT",
+    "vin": "3GKALPEV6ML334488",
+    "stock": "P13836",
+    "exterior": "Summit White",
+    "interior": "Brandy/Jet Black",
+    "engine": "Turbocharged Gas 1.5L/92",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GKALPEV6ML334488&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/bde016f697464078bc053c2a4c5a4fbb.jpg",
+    "price": "$22,587",
+    "sutherlins_price": "$17,499",
+    "mileage": "88,464 Miles"
   }
 ]
