@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2022 Ford Mustang Mach-E Premium",
-    "vin": "3FMTK3SU3NMA58063",
-    "stock": "MP214",
-    "exterior": "Blue Silver Metallic",
-    "interior": "Black Onyx",
-    "engine": "Dual Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FMTK3SU3NMA58063&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/86ceb751-8f69-4e93-9959-7481aad44195.jpg",
-    "price": "$58,815",
-    "sutherlins_price": "$28,888",
-    "mileage": "13,486 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Alfa Romeo Giulia Veloce",
     "vin": "ZARFAMBN8P7673763",
     "stock": "MP236",
@@ -241,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEEXPF710368",
-    "stock": "MP252",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a85922b1-dfff-493c-9939-119a8a186c97.jpg",
-    "price": "$65,990",
-    "sutherlins_price": "$36,888",
-    "mileage": "16,161 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Genesis GV80 2.5T",
     "vin": "KMUHFESB6SU240126",
     "stock": "MP171",
@@ -418,5 +388,50 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Nissan Rogue S",
+    "vin": "JN8AT2MT4GW007153",
+    "stock": "MP252A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.5L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT4GW007153&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JN8AT2MT4GW007153&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "124,706 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson SEL",
+    "vin": "5NMJF3AE1PH236729",
+    "stock": "M26141A",
+    "exterior": "Shimmering Silver",
+    "interior": "Gray",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJF3AE1PH236729&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5NMJF3AE1PH236729&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "29,662 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Honda CR-V Hybrid EX-L",
+    "vin": "5J6RT6H83NL049043",
+    "stock": "M2507A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "2.0L I4 DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J6RT6H83NL049043&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5J6RT6H83NL049043&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "58,584 Miles"
   }
 ]

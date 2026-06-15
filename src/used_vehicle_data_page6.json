@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Chevrolet Malibu LS",
-    "vin": "1G1ZB5ST3MF042910",
-    "stock": "MP195",
-    "exterior": "Black Cherry Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a00fee4-c110-4b53-b81b-437152c5b472.jpg",
-    "price": "$24,195",
-    "sutherlins_price": "$13,488",
-    "mileage": "58,012 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Jeep Renegade Limited",
     "vin": "ZACNJDD1XMPM29950",
     "stock": "MP194",
@@ -391,21 +376,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Chevrolet Trax LS",
-    "vin": "KL7CJKSB5LB323776",
-    "stock": "MP226",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
-    "price": "$22,295",
-    "sutherlins_price": "$14,888",
-    "mileage": "54,302 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ9RH018640",
     "stock": "MP259",
@@ -418,6 +388,21 @@
     "price": "$16,989",
     "sutherlins_price": "$14,888",
     "mileage": "51,190 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Trax LS",
+    "vin": "KL7CJKSB5LB323776",
+    "stock": "MP226",
+    "exterior": "Summit White",
+    "interior": "Jet Black",
+    "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
+    "price": "$22,295",
+    "sutherlins_price": "$14,888",
+    "mileage": "54,302 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$24,165",
     "sutherlins_price": "$15,888",
     "mileage": "65,567 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8RF178869",
+    "stock": "MP177",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dfbdc4bf-e9cd-4349-add1-fd0c5d124ddb.jpg",
+    "price": "$29,095",
+    "sutherlins_price": "$15,888",
+    "mileage": "60,166 Miles"
   }
 ]
