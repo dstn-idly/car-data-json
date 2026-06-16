@@ -236,7 +236,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYP6DGC9PG350476&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/7da167e05d2a4be5b62b7ce7a64a3e69.jpg",
     "price": "$33,300",
-    "sutherlins_price": "$31,995",
+    "sutherlins_price": "$30,988",
     "mileage": "54,005 Miles"
   },
   {
@@ -256,21 +256,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Murano SL",
-    "vin": "5N1AZ2CJ5PC142004",
-    "stock": "P13787",
-    "exterior": "Super Black",
-    "interior": "Cashmere",
-    "engine": "Regular Unleaded V-6 3.5 L/213",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC142004&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/15ac3ee072384e938dbebd27d26478d9.jpg",
-    "price": "$45,805",
-    "sutherlins_price": "$31,995",
-    "mileage": "17,750 Miles"
-  },
-  {
-    "category": "used",
     "name": "2017 RAM 1500 Limited",
     "vin": "1C6RR6PT9HS856453",
     "stock": "26776A",
@@ -283,6 +268,21 @@
     "price": "$34,800",
     "sutherlins_price": "$31,995",
     "mileage": "78,741 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Murano SL",
+    "vin": "5N1AZ2CJ5PC142004",
+    "stock": "P13787",
+    "exterior": "Super Black",
+    "interior": "Cashmere",
+    "engine": "Regular Unleaded V-6 3.5 L/213",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC142004&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/15ac3ee072384e938dbebd27d26478d9.jpg",
+    "price": "$45,805",
+    "sutherlins_price": "$31,995",
+    "mileage": "17,750 Miles"
   },
   {
     "category": "used",
