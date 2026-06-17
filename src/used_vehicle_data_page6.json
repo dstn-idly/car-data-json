@@ -54,7 +54,7 @@
     "engine": "2.0L I4 MIVEC DOHC I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4AP4AU5BZ019953&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JA4AP4AU5BZ019953&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4845d17d-49a5-4204-8191-370dec820b1f.jpg",
     "price": "$2,888",
     "sutherlins_price": "$2,888",
     "mileage": "246,000 Miles"
@@ -69,7 +69,7 @@
     "engine": "3.6L V6 MPI VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKEV33737J128694&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1GKEV33737J128694&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0d00dfb7-b9bf-4522-bca5-88a2e48ce1ab.jpg",
     "price": "$2,888",
     "sutherlins_price": "$2,888",
     "mileage": "224,000 Miles"
@@ -88,6 +88,21 @@
     "price": "$2,888",
     "sutherlins_price": "$2,888",
     "mileage": "228,315 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2010 Nissan Sentra 2.0",
+    "vin": "3N1AB6AP1AL656082",
+    "stock": "M2640B",
+    "exterior": "Super Black",
+    "interior": "Beige",
+    "engine": "2.0L 4-Cylinder DOHC 16V",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB6AP1AL656082&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3N1AB6AP1AL656082&vehicletype=Sedan",
+    "price": "$2,888",
+    "sutherlins_price": "$2,888",
+    "mileage": "154,065 Miles"
   },
   {
     "category": "used",
@@ -159,7 +174,7 @@
     "engine": "3.0L 6-Cylinder DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAPH7C56BE678729&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WBAPH7C56BE678729&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3771b2cb-c3a4-4276-a56f-6c7a52a87dc8.jpg",
     "price": "$6,888",
     "sutherlins_price": "$6,888",
     "mileage": "129,077 Miles"
@@ -226,21 +241,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Nissan Altima 2.5 S",
-    "vin": "1N4BL4BV9LC250734",
-    "stock": "MP198A",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "2.5L 4-Cylinder DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4BV9LC250734&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1N4BL4BV9LC250734&vehicletype=Sedan",
-    "price": "$9,888",
-    "sutherlins_price": "$9,888",
-    "mileage": "120,521 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Kia Sportage LX",
     "vin": "KNDPM3AC2K7622008",
     "stock": "M26137A",
@@ -264,7 +264,7 @@
     "engine": "3.6L 6-Cylinder SMPI Flex Fuel DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2C4RDGCGXKR773080&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2C4RDGCGXKR773080&vehicletype=Van",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fdb52f0d-ce67-4168-991a-238e0148413d.jpg",
     "price": "$34,035",
     "sutherlins_price": "$11,888",
     "mileage": "96,457 Miles"
@@ -279,7 +279,7 @@
     "engine": "5.4L V8 SOHC 24V FFV",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1H51DEF48047&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FMJK1H51DEF48047&vehicletype=SUV",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/040cb9bb-1e73-42b2-b52b-97e82d41aeca.jpg",
     "price": "$50,140",
     "sutherlins_price": "$12,888",
     "mileage": "98,627 Miles"
@@ -294,10 +294,25 @@
     "engine": "ECOTEC 1.4L I4 SMPI DOHC Turbocharged VVT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL7CJKSB5LB323776&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4c032669-7a43-4b12-b866-a2dd4355588e.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/75a25502-453a-4623-b371-ec3dc1815837.jpg",
     "price": "$22,295",
     "sutherlins_price": "$12,988",
     "mileage": "54,302 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Chevrolet Malibu LS",
+    "vin": "1G1ZB5ST3MF042910",
+    "stock": "MP195",
+    "exterior": "Black Cherry Metallic",
+    "interior": "Jet Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/5a00fee4-c110-4b53-b81b-437152c5b472.jpg",
+    "price": "$24,195",
+    "sutherlins_price": "$13,488",
+    "mileage": "58,012 Miles"
   },
   {
     "category": "used",
@@ -309,7 +324,7 @@
     "engine": "1.3L I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZACNJDD1XMPM29950&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/20687797-053c-4dc4-be37-e9fc4f09e12d.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bff3fe16-cb9c-493b-93ae-88657fda88fa.jpg",
     "price": "$30,040",
     "sutherlins_price": "$13,888",
     "mileage": "79,227 Miles"
@@ -324,7 +339,7 @@
     "engine": "1.2L I3",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ9RH018640&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ9RH018640&vehicletype=Hatchback",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b92022f5-4172-487b-a1b6-b4fdeae6d454.jpg",
     "price": "$16,989",
     "sutherlins_price": "$14,888",
     "mileage": "51,190 Miles"
@@ -339,7 +354,7 @@
     "engine": "I4",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KM8K22AA4MU697771&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/c8352961-f330-42d5-8ec3-518834f06be3.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ad3f1e08-ecdf-4a4c-8b1b-ad21698628a9.jpg",
     "price": "$24,035",
     "sutherlins_price": "$14,888",
     "mileage": "76,786 Miles"
@@ -369,10 +384,25 @@
     "engine": "1.2L I3",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ7RH006289&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ7RH006289&vehicletype=Hatchback",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b4650673-7277-4f7d-a5a9-0b726fb3b5c7.jpg",
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJ6RH008325",
+    "stock": "MP285",
+    "exterior": "Graphite Gray Metallic",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ6RH008325&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ6RH008325&vehicletype=Hatchback",
+    "price": "$16,695",
+    "sutherlins_price": "$14,888",
+    "mileage": "46,319 Miles"
   },
   {
     "category": "used",
@@ -384,7 +414,7 @@
     "engine": "2.5L iVCT",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FA6P0G74LR215528&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cf9bcaa0-1168-4bf6-937c-d1a59d2be1a2.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b9589851-cdd3-4a65-989c-882e60e31909.jpg",
     "price": "$24,165",
     "sutherlins_price": "$15,888",
     "mileage": "65,567 Miles"
@@ -399,7 +429,7 @@
     "engine": "1.5L DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dfbdc4bf-e9cd-4349-add1-fd0c5d124ddb.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/05c3773d-d778-4b59-835c-9867f2676265.jpg",
     "price": "$29,095",
     "sutherlins_price": "$15,888",
     "mileage": "60,166 Miles"
@@ -414,25 +444,10 @@
     "engine": "2.0L I4 DOHC",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDJ23AU5P7891986&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7922ff74-1aaa-4da5-85f1-c70b032059f4.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9d580021-6236-4101-bcf9-9cbf065f0164.jpg",
     "price": "$21,735",
     "sutherlins_price": "$15,888",
     "mileage": "28,813 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Toyota Corolla SE",
-    "vin": "JTDS4MCE8N3507410",
-    "stock": "M2640A",
-    "exterior": "White",
-    "interior": "Moonstone",
-    "engine": "2.0L I4 DOHC 16V",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDS4MCE8N3507410&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=JTDS4MCE8N3507410&vehicletype=Sedan",
-    "price": "$22,665",
-    "sutherlins_price": "$15,888",
-    "mileage": "95,514 Miles"
   },
   {
     "category": "used",
@@ -444,7 +459,7 @@
     "engine": "2.0L I4 TSI Turbocharged",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1VWLA7A36KC006007&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1VWLA7A36KC006007&vehicletype=Sedan",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/2edf0337-a4cc-4c96-a1f6-b13f8d9b78d9.jpg",
     "price": "$27,425",
     "sutherlins_price": "$15,888",
     "mileage": "54,435 Miles"
@@ -459,24 +474,9 @@
     "engine": "2.0L I4 TwinPower Turbo",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cb3aa081-191e-4a71-8aa1-601477c8cef4.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/87cb1257-33f6-4906-9027-bdfaaf2d59a0.jpg",
     "price": "$46,345",
     "sutherlins_price": "$16,888",
     "mileage": "77,710 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Tesla Model 3 Standard Range Plus",
-    "vin": "5YJ3E1EA9MF093405",
-    "stock": "MP208A",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5YJ3E1EA9MF093405&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5YJ3E1EA9MF093405&vehicletype=Sedan",
-    "price": "$16,888",
-    "sutherlins_price": "$16,888",
-    "mileage": "109,000 Miles"
   }
 ]
