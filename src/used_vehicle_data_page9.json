@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Ford Mustang EcoBoost Premium",
-    "vin": "1FAGP8UH7R5122658",
-    "stock": "MP232",
-    "exterior": "Gray Metallic",
-    "interior": "Space Gray",
-    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FAGP8UH7R5122658&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/96fd5fca-0f65-466e-848d-28bba21d60cd.jpg",
-    "price": "$43,955",
-    "sutherlins_price": "$27,988",
-    "mileage": "59,388 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Outlander PHEV SEL",
     "vin": "JA4T5WA90RZ067411",
     "stock": "MP263",
@@ -286,6 +271,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEEXPF710368",
+    "stock": "MP252",
+    "exterior": "Solid Black",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a85922b1-dfff-493c-9939-119a8a186c97.jpg",
+    "price": "$65,990",
+    "sutherlins_price": "$36,888",
+    "mileage": "16,161 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Genesis GV80 2.5T",
     "vin": "KMUHFESB6SU240126",
     "stock": "MP171",
@@ -448,5 +448,20 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2016 Dodge Journey SXT",
+    "vin": "3C4PDCBG9GT193874",
+    "stock": "MP212A",
+    "exterior": "White",
+    "interior": "Black",
+    "engine": "2.4L I4 DOHC 16V Dual VVT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4PDCBG9GT193874&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3C4PDCBG9GT193874&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "128,895 Miles"
   }
 ]

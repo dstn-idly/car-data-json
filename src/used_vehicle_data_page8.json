@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Kia Carnival LX Seat Package",
-    "vin": "KNDNB4H34P6194027",
-    "stock": "MP212",
-    "exterior": "Aurora Black",
-    "interior": "Gray",
-    "engine": "V6",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDNB4H34P6194027&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b34c1cd6-d0a8-438f-83e3-97d428fcc0d6.jpg",
-    "price": "$37,185",
-    "sutherlins_price": "$24,888",
-    "mileage": "67,427 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR43PS220446",
     "stock": "MP209",
@@ -478,5 +463,20 @@
     "price": "$51,265",
     "sutherlins_price": "$27,888",
     "mileage": "62,231 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Ford Mustang EcoBoost Premium",
+    "vin": "1FAGP8UH7R5122658",
+    "stock": "MP232",
+    "exterior": "Gray Metallic",
+    "interior": "Space Gray",
+    "engine": "EcoBoost 2.3L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FAGP8UH7R5122658&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/96fd5fca-0f65-466e-848d-28bba21d60cd.jpg",
+    "price": "$43,955",
+    "sutherlins_price": "$27,988",
+    "mileage": "59,388 Miles"
   }
 ]

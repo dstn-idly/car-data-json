@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2022 Nissan Rogue SV",
+    "vin": "JN8BT3BA6NW041233",
+    "stock": "26526A",
+    "exterior": "White",
+    "interior": "N/A",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA6NW041233&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2022NIS11_640/2022NIS110096_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "38,802 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Nissan Sentra SV",
     "vin": "3N1AB8CV8SY254443",
     "stock": "P13903",
@@ -13,21 +28,6 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "29,059 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Chevrolet Silverado 1500 RST",
-    "vin": "1GCUYEED4MZ190969",
-    "stock": "P13897",
-    "exterior": "Summit White",
-    "interior": "Jet Black",
-    "engine": "Gas V8 5.3L/325",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GCUYEED4MZ190969&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021CHT27_640/2021CHT270135_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "80,680 Miles"
   },
   {
     "category": "used",
@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2020 RAM 1500 Big Horn",
-    "vin": "1C6SRFMT6LN139697",
-    "stock": "P13896",
-    "exterior": "Granite Crystal Metallic Clearcoat",
-    "interior": "Black",
-    "engine": "Regular Unleaded V-8 5.7 L/345",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFMT6LN139697&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020RMT11_640/2020RMT110120_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "73,768 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Chevrolet Equinox LT",
     "vin": "3GNAXKEV9MS100541",
     "stock": "P13899",
@@ -103,6 +88,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "52,651 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 RAM 1500 Big Horn",
+    "vin": "1C6SRFMT6LN139697",
+    "stock": "P13896",
+    "exterior": "Granite Crystal Metallic Clearcoat",
+    "interior": "Black",
+    "engine": "Regular Unleaded V-8 5.7 L/345",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C6SRFMT6LN139697&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020RMT11_640/2020RMT110120_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "73,768 Miles"
   },
   {
     "category": "used",
@@ -467,16 +467,16 @@
   {
     "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJ7RH006289",
-    "stock": "MP260",
+    "vin": "ML32AUHJ6RH008325",
+    "stock": "MP285",
     "exterior": "Graphite Gray Metallic",
     "interior": "Black",
     "engine": "1.2L I3",
     "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ7RH006289&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/62b1fea1-1e55-478e-b223-5bad11506bb5.jpg",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ6RH008325&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ6RH008325&vehicletype=Hatchback",
     "price": "$16,695",
     "sutherlins_price": "$14,888",
-    "mileage": "47,108 Miles"
+    "mileage": "46,319 Miles"
   }
 ]
