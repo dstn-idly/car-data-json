@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEEXPF710368",
-    "stock": "MP252",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7094933-0a3c-407d-90a2-84f57d9e925b.jpg",
-    "price": "$65,990",
-    "sutherlins_price": "$36,888",
-    "mileage": "16,161 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Audi Q5 45 S line Premium",
     "vin": "WA1GAAFY1S2023156",
     "stock": "MP279",
@@ -28,6 +13,21 @@
     "price": "$52,095",
     "sutherlins_price": "$36,888",
     "mileage": "24,360 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEEXPF710368",
+    "stock": "MP252",
+    "exterior": "Solid Black",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7094933-0a3c-407d-90a2-84f57d9e925b.jpg",
+    "price": "$65,990",
+    "sutherlins_price": "$36,888",
+    "mileage": "16,161 Miles"
   },
   {
     "category": "used",
