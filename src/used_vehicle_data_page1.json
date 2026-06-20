@@ -16,21 +16,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Hyundai Sonata SE",
-    "vin": "5NPEC4AB6DH749110",
-    "stock": "P13813A",
-    "exterior": "Sparkling Ruby",
-    "interior": "Black",
-    "engine": "Turbocharged Gas I4 2.0L/122",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NPEC4AB6DH749110&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2013HYU006a_640/2013HYU006a_640_01.jpg",
-    "price": "$9,950",
-    "sutherlins_price": "$6,995",
-    "mileage": "116,140 Miles"
-  },
-  {
-    "category": "used",
     "name": "2015 Chevrolet Equinox LT",
     "vin": "2GNALCEK4F1154836",
     "stock": "KP1121",
@@ -145,7 +130,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMZU3LB3JH070538&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f4d489175ee340908a1903569adb395a.jpg",
-    "price": "$14,300",
+    "price": "$16,300",
     "sutherlins_price": "$12,995",
     "mileage": "81,753 Miles"
   },
@@ -205,7 +190,7 @@
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJESM7MB372818&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021BUS04_640/2021BUS040001_640_01.jpg",
-    "price": "$13,995",
+    "price": "$16,300",
     "sutherlins_price": "$13,995",
     "mileage": "76,856 Miles"
   },
@@ -226,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Toyota Sienna XLE",
-    "vin": "5TDYK3DC2FS591697",
-    "stock": "P13724A",
-    "exterior": "Silver Sky Metallic",
-    "interior": "Ash",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYK3DC2FS591697&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d53750bf95f4f37aeb0edd9701768a1.jpg",
-    "price": "$16,950",
-    "sutherlins_price": "$14,988",
-    "mileage": "99,110 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Toyota Corolla LE",
     "vin": "2T1BURHE2KC208410",
     "stock": "P13904",
@@ -250,7 +220,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE2KC208410&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9718146a5a0548ec975259e95ad74223.jpg",
-    "price": "$14,988",
+    "price": "$17,175",
     "sutherlins_price": "$14,988",
     "mileage": "87,639 Miles"
   },
@@ -331,21 +301,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Toyota Tacoma PreRunner",
-    "vin": "3TMJU4GN6CM133316",
-    "stock": "P13892",
-    "exterior": "Super White",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
-    "price": "$18,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "107,952 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP3KW229828",
     "stock": "P13845",
@@ -358,6 +313,21 @@
     "price": "$17,400",
     "sutherlins_price": "$15,995",
     "mileage": "52,840 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Toyota Tacoma PreRunner",
+    "vin": "3TMJU4GN6CM133316",
+    "stock": "P13892",
+    "exterior": "Super White",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
+    "price": "$18,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "107,952 Miles"
   },
   {
     "category": "used",
@@ -454,13 +424,13 @@
     "name": "2018 Honda Civic Sedan LX",
     "vin": "19XFC2F58JE008999",
     "stock": "P13907",
-    "exterior": "",
-    "interior": "N/A",
+    "exterior": "Taffeta White",
+    "interior": "Black",
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XFC2F58JE008999&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9c5f3aa46a5348669f2d6055abe5e107.jpg",
-    "price": "$16,988",
+    "price": "$18,625",
     "sutherlins_price": "$16,988",
     "mileage": "66,356 Miles"
   },
@@ -478,5 +448,35 @@
     "price": "$18,950",
     "sutherlins_price": "$16,995",
     "mileage": "62,413 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Chevrolet Malibu RS",
+    "vin": "1G1ZG5ST0LF123153",
+    "stock": "P13856",
+    "exterior": "Mosaic Black Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST0LF123153&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6aa5d9d2fa7b4aabb527884834b802f2.jpg",
+    "price": "$18,925",
+    "sutherlins_price": "$16,995",
+    "mileage": "61,340 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Rogue SV",
+    "vin": "5N1BT3BA4RC673419",
+    "stock": "P13744",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3BA4RC673419&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/eadfe83f2a4044acadc4d82b94d4c5f5.jpg",
+    "price": "$24,350",
+    "sutherlins_price": "$16,995",
+    "mileage": "67,057 Miles"
   }
 ]

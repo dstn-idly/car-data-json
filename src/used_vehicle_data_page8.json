@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Ford Edge SEL",
+    "vin": "2FMPK4J98RBA97677",
+    "stock": "MP244",
+    "exterior": "Black Metallic",
+    "interior": "Ebony",
+    "engine": "EcoBoost 2.0L I4 GTDi DOHC Turbocharged VCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMPK4J98RBA97677&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/db8e2b6f-adf5-499c-85f6-d7a3ffaeac44.jpg",
+    "price": "$41,160",
+    "sutherlins_price": "$24,888",
+    "mileage": "51,776 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Tucson Limited",
     "vin": "5NMJE3AE9PH245603",
     "stock": "MP223",
@@ -463,20 +478,5 @@
     "price": "$65,990",
     "sutherlins_price": "$36,888",
     "mileage": "16,161 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Genesis GV80 2.5T",
-    "vin": "KMUHFESB6SU240126",
-    "stock": "MP171",
-    "exterior": "Gray",
-    "interior": "Obsidian Black",
-    "engine": "2.5L DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMUHFESB6SU240126&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/1f473c85-eac6-4f7a-a682-5b4beef7444c.jpg",
-    "price": "$59,700",
-    "sutherlins_price": "$37,888",
-    "mileage": "39,562 Miles"
   }
 ]
