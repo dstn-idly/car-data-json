@@ -181,6 +181,21 @@
   },
   {
     "category": "used",
+    "name": "2021 Buick Encore Preferred",
+    "vin": "KL4CJESM7MB372818",
+    "stock": "26724A",
+    "exterior": "Summit White",
+    "interior": "Shale",
+    "engine": "Turbocharged I4 1.4/85.4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KL4CJESM7MB372818&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2021BUS04_640/2021BUS040001_640_01.jpg",
+    "price": "$13,995",
+    "sutherlins_price": "$13,995",
+    "mileage": "76,856 Miles"
+  },
+  {
+    "category": "used",
     "name": "2019 Nissan Rogue SV",
     "vin": "JN8AT2MT3KW501934",
     "stock": "P13702B",
@@ -234,7 +249,7 @@
     "engine": "Regular Unleaded I-4 1.8 L/110",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2T1BURHE2KC208410&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2019TOC04_640/2019TOC040002_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9718146a5a0548ec975259e95ad74223.jpg",
     "price": "$14,988",
     "sutherlins_price": "$14,988",
     "mileage": "87,639 Miles"
@@ -316,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Toyota Tacoma PreRunner",
-    "vin": "3TMJU4GN6CM133316",
-    "stock": "P13892",
-    "exterior": "Super White",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
-    "price": "$18,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "107,952 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP3KW229828",
     "stock": "P13845",
@@ -343,6 +343,21 @@
     "price": "$17,400",
     "sutherlins_price": "$15,995",
     "mileage": "52,840 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Toyota Tacoma PreRunner",
+    "vin": "3TMJU4GN6CM133316",
+    "stock": "P13892",
+    "exterior": "Super White",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
+    "price": "$18,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "107,952 Miles"
   },
   {
     "category": "used",
@@ -444,7 +459,7 @@
     "engine": "Regular Unleaded I-4 2.0 L/122",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19XFC2F58JE008999&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2018HOC020013_640/2018HOC020013_640_01.jpg",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9c5f3aa46a5348669f2d6055abe5e107.jpg",
     "price": "$16,988",
     "sutherlins_price": "$16,988",
     "mileage": "66,356 Miles"
@@ -463,20 +478,5 @@
     "price": "$18,950",
     "sutherlins_price": "$16,995",
     "mileage": "62,413 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 Chevrolet Malibu RS",
-    "vin": "1G1ZG5ST0LF123153",
-    "stock": "P13856",
-    "exterior": "Mosaic Black Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZG5ST0LF123153&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6aa5d9d2fa7b4aabb527884834b802f2.jpg",
-    "price": "$18,925",
-    "sutherlins_price": "$16,995",
-    "mileage": "61,340 Miles"
   }
 ]
