@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CN8EV5ML866855&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/10bbb8a380734335ab40b978f3ff622c.jpg",
     "price": "$11,100",
-    "sutherlins_price": "$9,498",
+    "sutherlins_price": "$9,590",
     "mileage": "95,806 Miles"
   },
   {
@@ -161,7 +161,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMZU3LB3JH070538&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/f4d489175ee340908a1903569adb395a.jpg",
     "price": "$14,300",
-    "sutherlins_price": "$13,498",
+    "sutherlins_price": "$12,995",
     "mileage": "81,753 Miles"
   },
   {
@@ -206,7 +206,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8AT2MT3KW501934&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/488afc30ce2d4e29888a993c7fc00688.jpg",
     "price": "$16,250",
-    "sutherlins_price": "$14,380",
+    "sutherlins_price": "$13,995",
     "mileage": "76,973 Miles"
   },
   {
@@ -226,21 +226,6 @@
   },
   {
     "category": "used",
-    "name": "2015 Toyota Sienna XLE",
-    "vin": "5TDYK3DC2FS591697",
-    "stock": "P13724A",
-    "exterior": "Silver Sky Metallic",
-    "interior": "Ash",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYK3DC2FS591697&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d53750bf95f4f37aeb0edd9701768a1.jpg",
-    "price": "$16,950",
-    "sutherlins_price": "$14,988",
-    "mileage": "99,110 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Toyota Corolla LE",
     "vin": "2T1BURHE2KC208410",
     "stock": "P13904",
@@ -253,6 +238,21 @@
     "price": "$14,988",
     "sutherlins_price": "$14,988",
     "mileage": "87,639 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2015 Toyota Sienna XLE",
+    "vin": "5TDYK3DC2FS591697",
+    "stock": "P13724A",
+    "exterior": "Silver Sky Metallic",
+    "interior": "Ash",
+    "engine": "Regular Unleaded V-6 3.5 L/211",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYK3DC2FS591697&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d53750bf95f4f37aeb0edd9701768a1.jpg",
+    "price": "$16,950",
+    "sutherlins_price": "$14,988",
+    "mileage": "99,110 Miles"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CP3KW229828",
-    "stock": "P13845",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP3KW229828&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7e7933f1791643e7a9bda12378e0e64c.jpg",
-    "price": "$17,400",
-    "sutherlins_price": "$15,995",
-    "mileage": "52,840 Miles"
-  },
-  {
-    "category": "used",
     "name": "2012 Toyota Tacoma PreRunner",
     "vin": "3TMJU4GN6CM133316",
     "stock": "P13892",
@@ -358,6 +343,21 @@
     "price": "$18,475",
     "sutherlins_price": "$15,995",
     "mileage": "107,952 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue Sport SL",
+    "vin": "JN1BJ1CP3KW229828",
+    "stock": "P13845",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP3KW229828&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7e7933f1791643e7a9bda12378e0e64c.jpg",
+    "price": "$17,400",
+    "sutherlins_price": "$15,995",
+    "mileage": "52,840 Miles"
   },
   {
     "category": "used",
