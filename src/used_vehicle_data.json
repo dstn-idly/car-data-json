@@ -1066,21 +1066,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Altima SV",
-    "vin": "1N4BL4DV6SN321369",
-    "stock": "P13789",
-    "exterior": "Glacier White",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV6SN321369&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/418db8a06da74af29896f93328b7ef80.jpg",
-    "price": "$23,500",
-    "sutherlins_price": "$19,995",
-    "mileage": "27,993 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "5N1BT3BA6NC730701",
     "stock": "P13820",
@@ -1093,6 +1078,21 @@
     "price": "$21,525",
     "sutherlins_price": "$19,995",
     "mileage": "79,853 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Altima SV",
+    "vin": "1N4BL4DV6SN321369",
+    "stock": "P13789",
+    "exterior": "Glacier White",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4DV6SN321369&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/418db8a06da74af29896f93328b7ef80.jpg",
+    "price": "$23,500",
+    "sutherlins_price": "$19,995",
+    "mileage": "27,993 Miles"
   },
   {
     "category": "used",
@@ -3526,6 +3526,21 @@
   },
   {
     "category": "used",
+    "name": "2023 Chevrolet Blazer LT",
+    "vin": "3GNKBCR43PS220446",
+    "stock": "MP209",
+    "exterior": "Sterling Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR43PS220446&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/084b8d5d-010d-4887-9ecc-31245b91664f.jpg",
+    "price": "$36,495",
+    "sutherlins_price": "$24,888",
+    "mileage": "30,228 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Hyundai Tucson Limited",
     "vin": "5NMJE3AE2PH183123",
     "stock": "MP215",
@@ -3553,21 +3568,6 @@
     "price": "$49,240",
     "sutherlins_price": "$22,988",
     "mileage": "64,087 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR43PS220446",
-    "stock": "MP209",
-    "exterior": "Sterling Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR43PS220446&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/084b8d5d-010d-4887-9ecc-31245b91664f.jpg",
-    "price": "$36,495",
-    "sutherlins_price": "$24,888",
-    "mileage": "30,228 Miles"
   },
   {
     "category": "used",
@@ -4036,21 +4036,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Tesla Model Y Long Range",
-    "vin": "7SAYGDEEXPF710368",
-    "stock": "MP252",
-    "exterior": "Solid Black",
-    "interior": "Black",
-    "engine": "Electric Motor",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7094933-0a3c-407d-90a2-84f57d9e925b.jpg",
-    "price": "$65,990",
-    "sutherlins_price": "$36,888",
-    "mileage": "16,161 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Audi Q5 45 S line Premium",
     "vin": "WA1GAAFY1S2023156",
     "stock": "MP279",
@@ -4063,6 +4048,21 @@
     "price": "$52,095",
     "sutherlins_price": "$36,888",
     "mileage": "24,360 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Tesla Model Y Long Range",
+    "vin": "7SAYGDEEXPF710368",
+    "stock": "MP252",
+    "exterior": "Solid Black",
+    "interior": "Black",
+    "engine": "Electric Motor",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=7SAYGDEEXPF710368&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b7094933-0a3c-407d-90a2-84f57d9e925b.jpg",
+    "price": "$65,990",
+    "sutherlins_price": "$36,888",
+    "mileage": "16,161 Miles"
   },
   {
     "category": "used",
@@ -4096,21 +4096,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Mercedes-Benz GLE 350",
-    "vin": "4JGFB4KB7NA829882",
-    "stock": "MP213",
-    "exterior": "Silver Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFB4KB7NA829882&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3de817c0-e79d-41f2-92d2-d419d7abdad6.jpg",
-    "price": "$67,150",
-    "sutherlins_price": "$37,988",
-    "mileage": "40,228 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Toyota Sienna XLE",
     "vin": "5TDYRKEC8RS208807",
     "stock": "MP227",
@@ -4123,6 +4108,21 @@
     "price": "$44,540",
     "sutherlins_price": "$37,988",
     "mileage": "58,465 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Mercedes-Benz GLE 350",
+    "vin": "4JGFB4KB7NA829882",
+    "stock": "MP213",
+    "exterior": "Silver Metallic",
+    "interior": "Black",
+    "engine": "2.0L I4 Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFB4KB7NA829882&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3de817c0-e79d-41f2-92d2-d419d7abdad6.jpg",
+    "price": "$67,150",
+    "sutherlins_price": "$37,988",
+    "mileage": "40,228 Miles"
   },
   {
     "category": "used",
