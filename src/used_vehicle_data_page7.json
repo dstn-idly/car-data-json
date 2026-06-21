@@ -76,21 +76,6 @@
   },
   {
     "category": "used",
-    "name": "2021 Jeep Compass Limited",
-    "vin": "3C4NJCCB4MT596840",
-    "stock": "M2621A",
-    "exterior": "White Clearcoat",
-    "interior": "Black",
-    "engine": "2.4L I4",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB4MT596840&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ec8677c6-ec6c-4c8e-a038-2e9817b58ab1.jpg",
-    "price": "$16,888",
-    "sutherlins_price": "$16,888",
-    "mileage": "72,431 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Tesla Model 3 Standard Range Plus",
     "vin": "5YJ3E1EA9MF093405",
     "stock": "MP208A",
@@ -103,6 +88,21 @@
     "price": "$16,888",
     "sutherlins_price": "$16,888",
     "mileage": "109,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Jeep Compass Limited",
+    "vin": "3C4NJCCB4MT596840",
+    "stock": "M2621A",
+    "exterior": "White Clearcoat",
+    "interior": "Black",
+    "engine": "2.4L I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJCCB4MT596840&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/ec8677c6-ec6c-4c8e-a038-2e9817b58ab1.jpg",
+    "price": "$16,888",
+    "sutherlins_price": "$16,888",
+    "mileage": "72,431 Miles"
   },
   {
     "category": "used",
@@ -466,17 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2024 Jeep Compass Trailhawk",
-    "vin": "3C4NJDDN2RT596549",
-    "stock": "MP281",
-    "exterior": "Diamond Black Crystal Pearlcoat",
-    "interior": "Ruby Red/Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDDN2RT596549&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/250e402e-9975-4e2b-a657-24dad27d3d82.jpg",
-    "price": "$38,585",
+    "name": "2024 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA81RZ036909",
+    "stock": "MP271",
+    "exterior": "Labrador Black Pearl",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA81RZ036909&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8008a66c-3b84-47d1-8eeb-183d04378905.jpg",
+    "price": "$33,455",
     "sutherlins_price": "$22,888",
-    "mileage": "45,545 Miles"
+    "mileage": "60,843 Miles"
   }
 ]
