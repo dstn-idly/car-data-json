@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Mitsubishi Outlander SE",
+    "vin": "JA4J3VA81RZ036909",
+    "stock": "MP271",
+    "exterior": "Labrador Black Pearl",
+    "interior": "Black",
+    "engine": "2.5L I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4J3VA81RZ036909&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8008a66c-3b84-47d1-8eeb-183d04378905.jpg",
+    "price": "$33,455",
+    "sutherlins_price": "$22,888",
+    "mileage": "60,843 Miles"
+  },
+  {
+    "category": "used",
     "name": "2024 Hyundai Elantra Limited",
     "vin": "KMHLP4DG4RU756682",
     "stock": "MP238",
@@ -463,20 +478,5 @@
     "price": "$39,835",
     "sutherlins_price": "$28,988",
     "mileage": "12,771 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 GMC Acadia AT4",
-    "vin": "1GKKNLLS1PZ253556",
-    "stock": "MP120",
-    "exterior": "Volcanic Red",
-    "interior": "Jet Black",
-    "engine": "3.6L V6 SIDI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1GKKNLLS1PZ253556&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/38333071-73c9-4ec0-817c-c67a24277eee.jpg",
-    "price": "$49,980",
-    "sutherlins_price": "$29,788",
-    "mileage": "32,033 Miles"
   }
 ]
