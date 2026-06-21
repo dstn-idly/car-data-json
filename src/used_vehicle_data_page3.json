@@ -31,36 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV8SY254443",
-    "stock": "P13903",
-    "exterior": "Electric Blue Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8SY254443&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5098c2fce2c64935bcd24612a8502eb8.jpg",
-    "price": "$21,625",
-    "sutherlins_price": "$19,995",
-    "mileage": "29,059 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2025 Nissan Sentra SV",
-    "vin": "3N1AB8CV9SY249171",
-    "stock": "P13832",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY249171&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ee40f5b45cde445f886a0b942d9f05bd.jpg",
-    "price": "$21,775",
-    "sutherlins_price": "$19,995",
-    "mileage": "14,388 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Rogue SV",
     "vin": "JN8BT3BA6NW041233",
     "stock": "26526A",
@@ -103,6 +73,36 @@
     "price": "$22,600",
     "sutherlins_price": "$19,995",
     "mileage": "102,204 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV8SY254443",
+    "stock": "P13903",
+    "exterior": "Electric Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8SY254443&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/5098c2fce2c64935bcd24612a8502eb8.jpg",
+    "price": "$21,625",
+    "sutherlins_price": "$19,995",
+    "mileage": "29,059 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra SV",
+    "vin": "3N1AB8CV9SY249171",
+    "stock": "P13832",
+    "exterior": "Rosewood Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV9SY249171&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/ee40f5b45cde445f886a0b942d9f05bd.jpg",
+    "price": "$21,775",
+    "sutherlins_price": "$19,995",
+    "mileage": "14,388 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV3SY385362",
-    "stock": "P13881",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY385362&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0142475754664de98026c57bead9979f.jpg",
-    "price": "$23,125",
-    "sutherlins_price": "$21,995",
-    "mileage": "1,363 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Kicks SV",
     "vin": "3N1CP5CV1RL556964",
     "stock": "26182A",
@@ -478,5 +463,20 @@
     "price": "$21,995",
     "sutherlins_price": "$21,995",
     "mileage": "33,347 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV3SY385362",
+    "stock": "P13881",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV3SY385362&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/0142475754664de98026c57bead9979f.jpg",
+    "price": "$23,125",
+    "sutherlins_price": "$21,995",
+    "mileage": "1,363 Miles"
   }
 ]
