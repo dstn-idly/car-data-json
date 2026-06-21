@@ -114,7 +114,7 @@
     "engine": "2.0L I4 MIVEC DOHC I4",
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4AP4AU5BZ019953&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/45174e02-02be-4ac9-9ef9-4482e4f1456b.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9eddc699-c286-4054-b6bf-dcc04fbb8707.jpg",
     "price": "$2,888",
     "sutherlins_price": "$2,888",
     "mileage": "246,000 Miles"
@@ -123,7 +123,7 @@
     "category": "used",
     "name": "2007 GMC Acadia SLT-2",
     "vin": "1GKEV33737J128694",
-    "stock": "MP183A",
+    "stock": "M26151A",
     "exterior": "Carbon Metallic",
     "interior": "Ebony",
     "engine": "3.6L V6 MPI VVT",
@@ -264,7 +264,7 @@
     "engine": "3.0L 6-Cylinder DOHC",
     "transmission": "Automatic",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WBAPH7C56BE678729&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/dc2b85ca-716f-48d6-b662-68d528d4eebd.jpg",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/cdacecae-d820-4ef3-a125-a45283674910.jpg",
     "price": "$6,888",
     "sutherlins_price": "$6,888",
     "mileage": "129,077 Miles"
@@ -361,21 +361,6 @@
   },
   {
     "category": "used",
-    "name": "2013 Ford Expedition EL XLT",
-    "vin": "1FMJK1H51DEF48047",
-    "stock": "MP256A",
-    "exterior": "Blue",
-    "interior": "Camel",
-    "engine": "5.4L V8 SOHC 24V FFV",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMJK1H51DEF48047&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4d4b85b6-fcff-4aea-892e-6db24bb84a3d.jpg",
-    "price": "$50,140",
-    "sutherlins_price": "$12,888",
-    "mileage": "98,627 Miles"
-  },
-  {
-    "category": "used",
     "name": "2020 Chevrolet Trax LS",
     "vin": "KL7CJKSB5LB323776",
     "stock": "MP226",
@@ -388,21 +373,6 @@
     "price": "$22,295",
     "sutherlins_price": "$12,988",
     "mileage": "54,302 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2021 Chevrolet Malibu LS",
-    "vin": "1G1ZB5ST3MF042910",
-    "stock": "MP195",
-    "exterior": "Black Cherry Metallic",
-    "interior": "Jet Black",
-    "engine": "1.5L DOHC",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZB5ST3MF042910&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/0ac0dc22-7b3e-4dbe-b74b-cd268c9d6950.jpg",
-    "price": "$24,195",
-    "sutherlins_price": "$13,488",
-    "mileage": "58,012 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "46,319 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Ford Fusion S",
+    "vin": "3FA6P0G74LR215528",
+    "stock": "MP243",
+    "exterior": "Silver Metallic",
+    "interior": "Medium Light Stone",
+    "engine": "2.5L iVCT",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FA6P0G74LR215528&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/b9589851-cdd3-4a65-989c-882e60e31909.jpg",
+    "price": "$24,165",
+    "sutherlins_price": "$15,888",
+    "mileage": "65,567 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZD5ST8RF178869",
+    "stock": "MP177",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Black",
+    "engine": "1.5L DOHC",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZD5ST8RF178869&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/05c3773d-d778-4b59-835c-9867f2676265.jpg",
+    "price": "$29,095",
+    "sutherlins_price": "$15,888",
+    "mileage": "60,166 Miles"
   }
 ]
