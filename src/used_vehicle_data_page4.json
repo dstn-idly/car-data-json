@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Buick Enclave Essence",
-    "vin": "5GAERBKW0LJ209506",
-    "stock": "P13875",
-    "exterior": "Summit White",
-    "interior": "Shale with Ebony interior accents",
-    "engine": "Gas V6 3.6L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5GAERBKW0LJ209506&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/29dbae921a714f409c26e5bab62292f2.jpg",
-    "price": "$23,725",
-    "sutherlins_price": "$21,995",
-    "mileage": "54,550 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Kia K4 LX",
     "vin": "3KPFT4DE7SE176469",
     "stock": "P13850",
@@ -61,6 +46,21 @@
   },
   {
     "category": "used",
+    "name": "2020 Buick Enclave Essence",
+    "vin": "5GAERBKW0LJ209506",
+    "stock": "P13875",
+    "exterior": "Summit White",
+    "interior": "Shale with Ebony interior accents",
+    "engine": "Gas V6 3.6L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5GAERBKW0LJ209506&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/29dbae921a714f409c26e5bab62292f2.jpg",
+    "price": "$23,725",
+    "sutherlins_price": "$21,995",
+    "mileage": "54,550 Miles"
+  },
+  {
+    "category": "used",
     "name": "2023 Chevrolet Blazer LT",
     "vin": "3GNKBCR40PS223708",
     "stock": "KP1101",
@@ -71,7 +71,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR40PS223708&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3f14af502f7e4549a44b1e09cf81fbbe.jpg",
     "price": "$27,725",
-    "sutherlins_price": "$22,498",
+    "sutherlins_price": "$21,988",
     "mileage": "25,995 Miles"
   },
   {
@@ -86,7 +86,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDZZRAH5NS094466&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/15c6bbec00464da4beb294ed3eca9c97.jpg",
     "price": "$25,475",
-    "sutherlins_price": "$22,598",
+    "sutherlins_price": "$20,988",
     "mileage": "112,013 Miles"
   },
   {
@@ -131,23 +131,8 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE2TL339947&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/57136cfd48a0400f8456d966f392153c.jpg",
     "price": "$24,555",
-    "sutherlins_price": "$22,995",
+    "sutherlins_price": "$19,988",
     "mileage": "2,757 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Nissan Rogue SV",
-    "vin": "JN8BT3BA1PW007994",
-    "stock": "P13792",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1PW007994&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6215fd8450414377b7aa1e27b3ec168a.jpg",
-    "price": "$26,625",
-    "sutherlins_price": "$22,995",
-    "mileage": "17,742 Miles"
   },
   {
     "category": "used",
@@ -163,6 +148,21 @@
     "price": "$24,750",
     "sutherlins_price": "$22,995",
     "mileage": "55,033 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SV",
+    "vin": "JN8BT3BA1PW007994",
+    "stock": "P13792",
+    "exterior": "Caspian Blue Metallic",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN8BT3BA1PW007994&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/6215fd8450414377b7aa1e27b3ec168a.jpg",
+    "price": "$26,625",
+    "sutherlins_price": "$22,995",
+    "mileage": "17,742 Miles"
   },
   {
     "category": "used",
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC895380&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/d5484627bc354d509ff175a4b89b3006.jpg",
     "price": "$27,500",
-    "sutherlins_price": "$24,995",
+    "sutherlins_price": "$23,988",
     "mileage": "28,251 Miles"
   },
   {
@@ -446,7 +446,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDM2NW175246&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/3360a85980f6480683c21cebca15900a.jpg",
     "price": "$29,725",
-    "sutherlins_price": "$27,988",
+    "sutherlins_price": "$26,988",
     "mileage": "84,610 Miles"
   },
   {
