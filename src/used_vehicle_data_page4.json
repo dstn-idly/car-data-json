@@ -1,6 +1,51 @@
 [
   {
     "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV6SY250151",
+    "stock": "P13880",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV6SY250151&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7c019864d3cd4423a2e9f23612b180ec.jpg",
+    "price": "$24,125",
+    "sutherlins_price": "$21,995",
+    "mileage": "1,920 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Nissan Kicks SV",
+    "vin": "3N1CP5CV1RL556964",
+    "stock": "26182A",
+    "exterior": "Boulder Gray Pearl",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 1.6 L/98",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1CP5CV1RL556964&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2024NIS26_640/2024NIS260078_640_01.jpg",
+    "price": "$21,995",
+    "sutherlins_price": "$21,995",
+    "mileage": "33,347 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2021 Nissan Altima 2.5 SL",
+    "vin": "1N4BL4EV2MN335349",
+    "stock": "P13888",
+    "exterior": "Scarlet Ember Tintcoat",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N4BL4EV2MN335349&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/9a4021e8d45a43219e72d1021fd0cc54.jpg",
+    "price": "$23,250",
+    "sutherlins_price": "$21,995",
+    "mileage": "33,202 Miles"
+  },
+  {
+    "category": "used",
     "name": "2026 Nissan Kicks S",
     "vin": "3N8AP6BE5TL329977",
     "stock": "P13879",
@@ -61,36 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Chevrolet Blazer LT",
-    "vin": "3GNKBCR40PS223708",
-    "stock": "KP1101",
-    "exterior": "Sterling Gray Metallic",
-    "interior": "Jet Black/Medium Ash Gray",
-    "engine": "Turbocharged Gas I4 2.0L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3GNKBCR40PS223708&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3f14af502f7e4549a44b1e09cf81fbbe.jpg",
-    "price": "$27,725",
-    "sutherlins_price": "$21,988",
-    "mileage": "25,995 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Toyota Highlander LE",
-    "vin": "5TDZZRAH5NS094466",
-    "stock": "26735A",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Graphite",
-    "engine": "Regular Unleaded V-6 3.5 L/211",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDZZRAH5NS094466&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/15c6bbec00464da4beb294ed3eca9c97.jpg",
-    "price": "$25,475",
-    "sutherlins_price": "$20,988",
-    "mileage": "112,013 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Frontier SV",
     "vin": "1N6ED1EK9NN617589",
     "stock": "P13780",
@@ -118,21 +133,6 @@
     "price": "$24,250",
     "sutherlins_price": "$22,995",
     "mileage": "35,093 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2026 Nissan Kicks S",
-    "vin": "3N8AP6BE2TL339947",
-    "stock": "P13783",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE2TL339947&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/57136cfd48a0400f8456d966f392153c.jpg",
-    "price": "$24,555",
-    "sutherlins_price": "$19,988",
-    "mileage": "2,757 Miles"
   },
   {
     "category": "used",
@@ -178,6 +178,21 @@
     "price": "$24,275",
     "sutherlins_price": "$22,995",
     "mileage": "34,243 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Nissan Rogue SL",
+    "vin": "5N1BT3CA1PC895380",
+    "stock": "P13786",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC895380&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d5484627bc354d509ff175a4b89b3006.jpg",
+    "price": "$27,500",
+    "sutherlins_price": "$23,988",
+    "mileage": "28,251 Miles"
   },
   {
     "category": "used",
@@ -271,21 +286,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SL",
-    "vin": "5N1BT3CA1PC895380",
-    "stock": "P13786",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC895380&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d5484627bc354d509ff175a4b89b3006.jpg",
-    "price": "$27,500",
-    "sutherlins_price": "$23,988",
-    "mileage": "28,251 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Nissan Rogue SV",
     "vin": "5N1BT3BAXTC692449",
     "stock": "P13861",
@@ -328,6 +328,21 @@
     "price": "$28,930",
     "sutherlins_price": "$26,988",
     "mileage": "668 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Jeep Wrangler Unlimited Willys",
+    "vin": "1C4HJXDM2NW175246",
+    "stock": "P13799",
+    "exterior": "Black Clearcoat",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Diesel V-6 3.0 L/182",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDM2NW175246&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3360a85980f6480683c21cebca15900a.jpg",
+    "price": "$29,725",
+    "sutherlins_price": "$26,988",
+    "mileage": "84,610 Miles"
   },
   {
     "category": "used",
@@ -433,21 +448,6 @@
     "price": "$29,725",
     "sutherlins_price": "$27,898",
     "mileage": "30,857 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Jeep Wrangler Unlimited Willys",
-    "vin": "1C4HJXDM2NW175246",
-    "stock": "P13799",
-    "exterior": "Black Clearcoat",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Diesel V-6 3.0 L/182",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1C4HJXDM2NW175246&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/3360a85980f6480683c21cebca15900a.jpg",
-    "price": "$29,725",
-    "sutherlins_price": "$26,988",
-    "mileage": "84,610 Miles"
   },
   {
     "category": "used",
