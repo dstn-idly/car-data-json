@@ -181,6 +181,21 @@
   },
   {
     "category": "used",
+    "name": "2015 Ford Fusion Hybrid SE",
+    "vin": "3FA6P0LU7FR196294",
+    "stock": "M26131A",
+    "exterior": "Magnetic",
+    "interior": "N/A",
+    "engine": "I4 Hybrid",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3FA6P0LU7FR196294&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3FA6P0LU7FR196294&vehicletype=Sedan",
+    "price": "$4,888",
+    "sutherlins_price": "$4,888",
+    "mileage": "138,223 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Dodge Journey SXT",
     "vin": "3C4PDCBG9GT193874",
     "stock": "MP212A",
@@ -377,6 +392,21 @@
   {
     "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJ6RH008325",
+    "stock": "MP285",
+    "exterior": "Graphite Gray Metallic",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ6RH008325&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f0ea1dfe-43fe-4bc5-85cf-f3aecade9ea6.jpg",
+    "price": "$16,695",
+    "sutherlins_price": "$14,888",
+    "mileage": "46,319 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ7RH006289",
     "stock": "MP260",
     "exterior": "Graphite Gray Metallic",
@@ -388,21 +418,6 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJ6RH008325",
-    "stock": "MP285",
-    "exterior": "Graphite Gray Metallic",
-    "interior": "Black",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ6RH008325&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=ML32AUHJ6RH008325&vehicletype=Hatchback",
-    "price": "$16,695",
-    "sutherlins_price": "$14,888",
-    "mileage": "46,319 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$27,425",
     "sutherlins_price": "$15,888",
     "mileage": "54,435 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2020 BMW X3 sDrive30i",
-    "vin": "5UXTY3C05L9C93365",
-    "stock": "MP187",
-    "exterior": "Blue Metallic",
-    "interior": "Canberra Beige/Black",
-    "engine": "2.0L I4 TwinPower Turbo",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5UXTY3C05L9C93365&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/87cb1257-33f6-4906-9027-bdfaaf2d59a0.jpg",
-    "price": "$46,345",
-    "sutherlins_price": "$16,888",
-    "mileage": "77,710 Miles"
   }
 ]
