@@ -1,36 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2015 Ford Edge SE",
-    "vin": "2FMTK3G85FBB71043",
-    "stock": "M26103A",
-    "exterior": "Guard Metallic",
-    "interior": "Dune",
-    "engine": "3.5L V6 Ti-VCT",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=2FMTK3G85FBB71043&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=2FMTK3G85FBB71043&vehicletype=SUV",
-    "price": "$2,888",
-    "sutherlins_price": "$2,888",
-    "mileage": "118,244 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2011 Mitsubishi Outlander Sport SE",
-    "vin": "JA4AP4AU5BZ019953",
-    "stock": "M2649A",
-    "exterior": "Blue",
-    "interior": "N/A",
-    "engine": "2.0L I4 MIVEC DOHC I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JA4AP4AU5BZ019953&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9eddc699-c286-4054-b6bf-dcc04fbb8707.jpg",
-    "price": "$2,888",
-    "sutherlins_price": "$2,888",
-    "mileage": "246,000 Miles"
-  },
-  {
-    "category": "used",
     "name": "2007 GMC Acadia SLT-2",
     "vin": "1GKEV33737J128694",
     "stock": "M26151A",
@@ -347,21 +317,6 @@
   {
     "category": "used",
     "name": "2024 Mitsubishi Mirage ES",
-    "vin": "ML32AUHJ6RH008325",
-    "stock": "MP285",
-    "exterior": "Graphite Gray Metallic",
-    "interior": "Black",
-    "engine": "1.2L I3",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ6RH008325&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f0ea1dfe-43fe-4bc5-85cf-f3aecade9ea6.jpg",
-    "price": "$16,695",
-    "sutherlins_price": "$14,888",
-    "mileage": "46,319 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Mitsubishi Mirage ES",
     "vin": "ML32AUHJ7RH006289",
     "stock": "MP260",
     "exterior": "Graphite Gray Metallic",
@@ -373,6 +328,21 @@
     "price": "$16,695",
     "sutherlins_price": "$14,888",
     "mileage": "47,108 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Mitsubishi Mirage ES",
+    "vin": "ML32AUHJ6RH008325",
+    "stock": "MP285",
+    "exterior": "Graphite Gray Metallic",
+    "interior": "Black",
+    "engine": "1.2L I3",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ML32AUHJ6RH008325&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/f0ea1dfe-43fe-4bc5-85cf-f3aecade9ea6.jpg",
+    "price": "$16,695",
+    "sutherlins_price": "$14,888",
+    "mileage": "46,319 Miles"
   },
   {
     "category": "used",
@@ -478,5 +448,35 @@
     "price": "$21,900",
     "sutherlins_price": "$17,888",
     "mileage": "54,623 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7c74f398-542e-4876-9378-2967451f8f01.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$18,888",
+    "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Jeep Compass Sport",
+    "vin": "3C4NJDAN4PT574960",
+    "stock": "MP201",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN4PT574960&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fe20aaae-434b-4836-8aeb-1750713e0c7c.jpg",
+    "price": "$29,995",
+    "sutherlins_price": "$18,888",
+    "mileage": "43,944 Miles"
   }
 ]

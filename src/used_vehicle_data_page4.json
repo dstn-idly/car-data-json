@@ -211,21 +211,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SL",
-    "vin": "5N1BT3CA1PC895380",
-    "stock": "P13786",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA1PC895380&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d5484627bc354d509ff175a4b89b3006.jpg",
-    "price": "$27,500",
-    "sutherlins_price": "$23,988",
-    "mileage": "28,251 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Nissan Altima 2.0 SR",
     "vin": "1N4AL4CV0PN319024",
     "stock": "P13726",
@@ -406,21 +391,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Nissan Rogue SL",
-    "vin": "5N1BT3CA3PC916097",
-    "stock": "26807A",
-    "exterior": "Caspian Blue Metallic",
-    "interior": "Charcoal",
-    "engine": "Intercooled Turbo Regular Unleaded I-3 1.5 L/91",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1BT3CA3PC916097&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d7d1f3035b93465e8660a5a1bafd2a40.jpg",
-    "price": "$30,825",
-    "sutherlins_price": "$26,995",
-    "mileage": "3,484 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Genesis G70 2.0T",
     "vin": "KMTG34TA6PU125039",
     "stock": "P13712",
@@ -478,5 +448,35 @@
     "price": "$29,725",
     "sutherlins_price": "$27,898",
     "mileage": "30,857 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Kia Sportage SX-Prestige",
+    "vin": "5XYK53DF9RG167118",
+    "stock": "P13859",
+    "exterior": "Wolf Gray",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XYK53DF9RG167118&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/59b934bff4f24710b747d7d23fb42a58.jpg",
+    "price": "$30,625",
+    "sutherlins_price": "$27,995",
+    "mileage": "47,834 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Acura Integra Base",
+    "vin": "19UDE4H24PA020550",
+    "stock": "P13865",
+    "exterior": "White",
+    "interior": "Ebony",
+    "engine": "Intercooled Turbo Premium Unleaded I-4 1.5 L/91",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19UDE4H24PA020550&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/a8205b610e6843149656ef37d174f990.jpg",
+    "price": "$29,125",
+    "sutherlins_price": "$27,995",
+    "mileage": "13,820 Miles"
   }
 ]

@@ -1,51 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2024 Acura RDX Technology Package",
-    "vin": "5J8TC2H58RL026763",
-    "stock": "MP191",
-    "exterior": "Platinum White Pearl",
-    "interior": "Ebony",
-    "engine": "2.0L 16V DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5J8TC2H58RL026763&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/698602e0-14a2-498b-9479-d9a819f88a29.jpg",
-    "price": "$48,950",
-    "sutherlins_price": "$35,488",
-    "mileage": "11,153 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Audi Q7 55 Premium Plus",
-    "vin": "WA1LXBF73RD008652",
-    "stock": "MP278",
-    "exterior": "Carrara White",
-    "interior": "Saiga Beige",
-    "engine": "3.0L TFSI",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1LXBF73RD008652&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=WA1LXBF73RD008652&vehicletype=SUV",
-    "price": "$70,295",
-    "sutherlins_price": "$35,888",
-    "mileage": "58,553 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Ford F-150 XL",
-    "vin": "1FTEW1CP7PKE71144",
-    "stock": "M2639B",
-    "exterior": "Oxford White",
-    "interior": "Black",
-    "engine": "2.7L V6 EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1CP7PKE71144&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3f0f8aa4-cea0-416b-8941-4a04896b3447.jpg",
-    "price": "$47,180",
-    "sutherlins_price": "$35,888",
-    "mileage": "29,585 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Jeep Wagoneer L Series II",
     "vin": "1C4SJRBP3RS126553",
     "stock": "MP273",
@@ -253,5 +208,20 @@
     "price": "$84,200",
     "sutherlins_price": "$47,888",
     "mileage": "48,685 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Volkswagen Tiguan 2.0T S",
+    "vin": "3VVRB7AX8RM037718",
+    "stock": "MP183",
+    "exterior": "Pure White",
+    "interior": "N/A",
+    "engine": "2.0L TSI DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVRB7AX8RM037718&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=3VVRB7AX8RM037718&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "48,699 Miles"
   }
 ]
