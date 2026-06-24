@@ -151,21 +151,6 @@
   },
   {
     "category": "used",
-    "name": "2020 Kia Optima LX",
-    "vin": "5XXGT4L39LG445312",
-    "stock": "26800A",
-    "exterior": "Ebony Black",
-    "interior": "Black",
-    "engine": "Regular Unleaded I-4 2.4 L/144",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L39LG445312&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/03909a2eba5143dbbce9fddcecc78e25.jpg",
-    "price": "$12,995",
-    "sutherlins_price": "$12,995",
-    "mileage": "75,792 Miles"
-  },
-  {
-    "category": "used",
     "name": "2022 Nissan Versa SR",
     "vin": "3N1CN8FV9NL868558",
     "stock": "P13819",
@@ -178,6 +163,21 @@
     "price": "$14,625",
     "sutherlins_price": "$12,995",
     "mileage": "81,390 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Kia Optima LX",
+    "vin": "5XXGT4L39LG445312",
+    "stock": "26800A",
+    "exterior": "Ebony Black",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.4 L/144",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5XXGT4L39LG445312&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/03909a2eba5143dbbce9fddcecc78e25.jpg",
+    "price": "$12,995",
+    "sutherlins_price": "$12,995",
+    "mileage": "75,792 Miles"
   },
   {
     "category": "used",
@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Toyota Tacoma PreRunner",
-    "vin": "3TMJU4GN6CM133316",
-    "stock": "P13892",
-    "exterior": "Super White",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
-    "price": "$18,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "107,952 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP3KW229828",
     "stock": "P13845",
@@ -343,6 +328,21 @@
     "price": "$17,400",
     "sutherlins_price": "$15,995",
     "mileage": "52,840 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2012 Toyota Tacoma PreRunner",
+    "vin": "3TMJU4GN6CM133316",
+    "stock": "P13892",
+    "exterior": "Super White",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
+    "price": "$18,475",
+    "sutherlins_price": "$15,995",
+    "mileage": "107,952 Miles"
   },
   {
     "category": "used",
@@ -373,6 +373,21 @@
     "price": "$21,275",
     "sutherlins_price": "$16,498",
     "mileage": "40,372 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Toyota Corolla LE",
+    "vin": "JTDB4MEEXP3001576",
+    "stock": "P13777",
+    "exterior": "Ice",
+    "interior": "Black",
+    "engine": "Regular Unleaded I-4 2.0 L/121",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTDB4MEEXP3001576&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/27b215053ec44cbe861dc228122e80c8.jpg",
+    "price": "$22,750",
+    "sutherlins_price": "$16,898",
+    "mileage": "25,815 Miles"
   },
   {
     "category": "used",
@@ -463,20 +478,5 @@
     "price": "$19,825",
     "sutherlins_price": "$17,630",
     "mileage": "41,085 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Chevrolet Malibu LT",
-    "vin": "1G1ZE5ST3RF232284",
-    "stock": "P13731",
-    "exterior": "Mineral Gray Metallic",
-    "interior": "Jet Black",
-    "engine": "Turbocharged Gas I4 1.5L/",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZE5ST3RF232284&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ec78a3630f340419ee9ee20b83143cc.jpg",
-    "price": "$24,250",
-    "sutherlins_price": "$17,799",
-    "mileage": "47,970 Miles"
   }
 ]
