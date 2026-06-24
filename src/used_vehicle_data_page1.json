@@ -316,21 +316,6 @@
   },
   {
     "category": "used",
-    "name": "2019 Nissan Rogue Sport SL",
-    "vin": "JN1BJ1CP3KW229828",
-    "stock": "P13845",
-    "exterior": "Pearl White Tricoat",
-    "interior": "Light Gray",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP3KW229828&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7e7933f1791643e7a9bda12378e0e64c.jpg",
-    "price": "$17,400",
-    "sutherlins_price": "$15,995",
-    "mileage": "52,840 Miles"
-  },
-  {
-    "category": "used",
     "name": "2012 Toyota Tacoma PreRunner",
     "vin": "3TMJU4GN6CM133316",
     "stock": "P13892",
@@ -343,6 +328,21 @@
     "price": "$18,475",
     "sutherlins_price": "$15,995",
     "mileage": "107,952 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2019 Nissan Rogue Sport SL",
+    "vin": "JN1BJ1CP3KW229828",
+    "stock": "P13845",
+    "exterior": "Pearl White Tricoat",
+    "interior": "Light Gray",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1CP3KW229828&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/7e7933f1791643e7a9bda12378e0e64c.jpg",
+    "price": "$17,400",
+    "sutherlins_price": "$15,995",
+    "mileage": "52,840 Miles"
   },
   {
     "category": "used",
@@ -388,21 +388,6 @@
     "price": "$19,925",
     "sutherlins_price": "$16,949",
     "mileage": "78,473 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2013 Toyota Tacoma Base",
-    "vin": "5TFLU4EN6DX063422",
-    "stock": "P13829A",
-    "exterior": "Barcelona Red Metallic",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TFLU4EN6DX063422&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/d919a8d3242d42f593709c6953f1a58a.jpg",
-    "price": "$19,325",
-    "sutherlins_price": "$16,988",
-    "mileage": "132,699 Miles"
   },
   {
     "category": "used",
@@ -478,5 +463,20 @@
     "price": "$19,825",
     "sutherlins_price": "$17,630",
     "mileage": "41,085 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2024 Chevrolet Malibu LT",
+    "vin": "1G1ZE5ST3RF232284",
+    "stock": "P13731",
+    "exterior": "Mineral Gray Metallic",
+    "interior": "Jet Black",
+    "engine": "Turbocharged Gas I4 1.5L/",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1G1ZE5ST3RF232284&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2ec78a3630f340419ee9ee20b83143cc.jpg",
+    "price": "$24,250",
+    "sutherlins_price": "$17,799",
+    "mileage": "47,970 Miles"
   }
 ]
