@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Volkswagen Taos S",
-    "vin": "3VVDX7B21PM326869",
-    "stock": "P13798",
-    "exterior": "Pure White",
-    "interior": "Black",
-    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVDX7B21PM326869&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f12b781a8b1348aa9a653f224b4b241b.jpg",
-    "price": "$21,975",
-    "sutherlins_price": "$19,988",
-    "mileage": "45,633 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Nissan Kicks S",
     "vin": "3N8AP6BE2TL339947",
     "stock": "P13783",
@@ -28,6 +13,21 @@
     "price": "$24,555",
     "sutherlins_price": "$19,988",
     "mileage": "2,757 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Volkswagen Taos S",
+    "vin": "3VVDX7B21PM326869",
+    "stock": "P13798",
+    "exterior": "Pure White",
+    "interior": "Black",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 1.5 L/91",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VVDX7B21PM326869&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/f12b781a8b1348aa9a653f224b4b241b.jpg",
+    "price": "$21,975",
+    "sutherlins_price": "$19,988",
+    "mileage": "45,633 Miles"
   },
   {
     "category": "used",
