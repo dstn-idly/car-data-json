@@ -91,21 +91,6 @@
   },
   {
     "category": "used",
-    "name": "2026 Nissan Kicks S",
-    "vin": "3N8AP6BE2TL339947",
-    "stock": "P13783",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE2TL339947&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/57136cfd48a0400f8456d966f392153c.jpg",
-    "price": "$24,555",
-    "sutherlins_price": "$19,988",
-    "mileage": "2,757 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Volkswagen Taos S",
     "vin": "3VVDX7B21PM326869",
     "stock": "P13798",
@@ -118,6 +103,21 @@
     "price": "$21,975",
     "sutherlins_price": "$19,988",
     "mileage": "45,633 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2026 Nissan Kicks S",
+    "vin": "3N8AP6BE2TL339947",
+    "stock": "P13783",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N8AP6BE2TL339947&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/57136cfd48a0400f8456d966f392153c.jpg",
+    "price": "$24,555",
+    "sutherlins_price": "$19,988",
+    "mileage": "2,757 Miles"
   },
   {
     "category": "used",
@@ -331,21 +331,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Hyundai Santa Fe SEL",
-    "vin": "5NMS24AJ2NH447664",
-    "stock": "T26748A",
-    "exterior": "Twilight Black",
-    "interior": "Beige",
-    "engine": "Regular Unleaded I-4 2.5 L/152",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS24AJ2NH447664&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d6c34983ad942a6bf792f45cc6a54a4.jpg",
-    "price": "$23,500",
-    "sutherlins_price": "$20,498",
-    "mileage": "38,210 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Nissan Rogue SV",
     "vin": "JN8BT3BA5RW351704",
     "stock": "P13773",
@@ -358,6 +343,21 @@
     "price": "$25,600",
     "sutherlins_price": "$20,498",
     "mileage": "32,291 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Hyundai Santa Fe SEL",
+    "vin": "5NMS24AJ2NH447664",
+    "stock": "T26748A",
+    "exterior": "Twilight Black",
+    "interior": "Beige",
+    "engine": "Regular Unleaded I-4 2.5 L/152",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMS24AJ2NH447664&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/2d6c34983ad942a6bf792f45cc6a54a4.jpg",
+    "price": "$23,500",
+    "sutherlins_price": "$20,498",
+    "mileage": "38,210 Miles"
   },
   {
     "category": "used",
@@ -451,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Nissan Frontier SV",
-    "vin": "1N6ED1EK9NN617589",
-    "stock": "P13780",
-    "exterior": "Super Black",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded V-6 3.8 L/231",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK9NN617589&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/84ecc360a30d41f491253b96e5f99ab2.jpg",
-    "price": "$26,150",
-    "sutherlins_price": "$20,995",
-    "mileage": "93,713 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Nissan Sentra S",
     "vin": "3N1AB8BV4SY382924",
     "stock": "P13913",
@@ -478,5 +463,20 @@
     "price": "$22,425",
     "sutherlins_price": "$20,995",
     "mileage": "10,736 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Nissan Frontier SV",
+    "vin": "1N6ED1EK9NN617589",
+    "stock": "P13780",
+    "exterior": "Super Black",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded V-6 3.8 L/231",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1N6ED1EK9NN617589&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/84ecc360a30d41f491253b96e5f99ab2.jpg",
+    "price": "$26,150",
+    "sutherlins_price": "$20,995",
+    "mileage": "93,713 Miles"
   }
 ]

@@ -31,21 +31,6 @@
   },
   {
     "category": "used",
-    "name": "2022 Ford F-150 XLT",
-    "vin": "1FTEW1EP4NKE59494",
-    "stock": "MP218",
-    "exterior": "Blue Metallic",
-    "interior": "Black",
-    "engine": "2.7L V6 EcoBoost",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1EP4NKE59494&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/80b7925b-a8f0-4450-8798-f724d5ef8f85.jpg",
-    "price": "$57,180",
-    "sutherlins_price": "$39,888",
-    "mileage": "30,501 Miles"
-  },
-  {
-    "category": "used",
     "name": "2023 Chevrolet Colorado Trail Boss",
     "vin": "1GCPTEEK7P1198433",
     "stock": "MP241",
@@ -58,6 +43,21 @@
     "price": "$44,835",
     "sutherlins_price": "$39,888",
     "mileage": "19,366 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2022 Ford F-150 XLT",
+    "vin": "1FTEW1EP4NKE59494",
+    "stock": "MP218",
+    "exterior": "Blue Metallic",
+    "interior": "Black",
+    "engine": "2.7L V6 EcoBoost",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FTEW1EP4NKE59494&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/80b7925b-a8f0-4450-8798-f724d5ef8f85.jpg",
+    "price": "$57,180",
+    "sutherlins_price": "$39,888",
+    "mileage": "30,501 Miles"
   },
   {
     "category": "used",
@@ -106,21 +106,6 @@
   },
   {
     "category": "used",
-    "name": "2004 Ford Expedition Eddie Bauer",
-    "vin": "1FMPU17L64LA90411",
-    "stock": "MP196A",
-    "exterior": "",
-    "interior": "N/A",
-    "engine": "5.4L V8 SOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMPU17L64LA90411&source=BUP",
-    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FMPU17L64LA90411&vehicletype=SUV",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "N/A"
-  },
-  {
-    "category": "used",
     "name": "2014 Nissan Sentra FE+ S",
     "vin": "3N1AB7AP2EY210053",
     "stock": "MP192A",
@@ -133,6 +118,21 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "220,000 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2004 Ford Expedition Eddie Bauer",
+    "vin": "1FMPU17L64LA90411",
+    "stock": "MP196A",
+    "exterior": "",
+    "interior": "N/A",
+    "engine": "5.4L V8 SOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=1FMPU17L64LA90411&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=1FMPU17L64LA90411&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "N/A"
   },
   {
     "category": "used",
