@@ -176,7 +176,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1AZ2CJ5PC142004&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/9669d0d91f75402f8fda2583223748e3.jpg",
     "price": "$45,805",
-    "sutherlins_price": "$30,988",
+    "sutherlins_price": "$28,988",
     "mileage": "17,750 Miles"
   },
   {
@@ -281,7 +281,7 @@
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KNDNE5H39R6337702&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/329f312abcb74b72b96c55d379ce7563.jpg",
     "price": "$42,025",
-    "sutherlins_price": "$35,898",
+    "sutherlins_price": "$34,988",
     "mileage": "29,779 Miles"
   },
   {
@@ -436,21 +436,6 @@
   },
   {
     "category": "used",
-    "name": "2025 Nissan Sentra S",
-    "vin": "3N1AB8BV4SY419017",
-    "stock": "P13918",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY419017&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
-    "price": "N/A",
-    "sutherlins_price": "N/A",
-    "mileage": "3,291 Miles"
-  },
-  {
-    "category": "used",
     "name": "2026 Nissan Kicks S",
     "vin": "3N8AP6BE7TL339975",
     "stock": "P13921",
@@ -478,5 +463,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "80,648 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2025 Nissan Sentra S",
+    "vin": "3N1AB8BV4SY419017",
+    "stock": "P13918",
+    "exterior": "Gun Metallic",
+    "interior": "Charcoal",
+    "engine": "Regular Unleaded I-4 2.0 L/122",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8BV4SY419017&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2025NIC06_640/2025NIC060001_640_01.jpg",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "3,291 Miles"
   }
 ]
