@@ -1,6 +1,21 @@
 [
   {
     "category": "used",
+    "name": "2024 Maserati Grecale GT",
+    "vin": "ZN6PMDAA2R7449295",
+    "stock": "MP228",
+    "exterior": "Bianco",
+    "interior": "Black",
+    "engine": "2.0L Turbocharged",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=ZN6PMDAA2R7449295&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/d95582ee-218d-4898-9fb1-27b89a1fd97e.jpg",
+    "price": "$69,995",
+    "sutherlins_price": "$24,888",
+    "mileage": "58,990 Miles"
+  },
+  {
+    "category": "used",
     "name": "2025 Mitsubishi Outlander SE",
     "vin": "JA4J3VA85SZ017589",
     "stock": "MP264",
@@ -463,20 +478,5 @@
     "price": "$67,150",
     "sutherlins_price": "$36,888",
     "mileage": "40,228 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Lexus IS 300",
-    "vin": "JTHCA1D24P5124019",
-    "stock": "MP189",
-    "exterior": "Silver",
-    "interior": "Rioja Red",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTHCA1D24P5124019&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9f67d8d9-173f-42ba-9add-a5876994b168.jpg",
-    "price": "$44,265",
-    "sutherlins_price": "$37,488",
-    "mileage": "6,370 Miles"
   }
 ]
