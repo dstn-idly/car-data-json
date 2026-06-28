@@ -1,66 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2025 Audi Q5 45 S line Premium",
-    "vin": "WA1GAAFY1S2023156",
-    "stock": "MP279",
-    "exterior": "Arkona White",
-    "interior": "Rock Gray",
-    "engine": "2.0L Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=WA1GAAFY1S2023156&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/8d8003c4-a4f5-4ae7-b034-3c8ac782597c.jpg",
-    "price": "$52,095",
-    "sutherlins_price": "$36,888",
-    "mileage": "24,360 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2022 Mercedes-Benz GLE 350",
-    "vin": "4JGFB4KB7NA829882",
-    "stock": "MP213",
-    "exterior": "Silver Metallic",
-    "interior": "Black",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=4JGFB4KB7NA829882&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/3de817c0-e79d-41f2-92d2-d419d7abdad6.jpg",
-    "price": "$67,150",
-    "sutherlins_price": "$36,888",
-    "mileage": "40,228 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Lexus IS 300",
-    "vin": "JTHCA1D24P5124019",
-    "stock": "MP189",
-    "exterior": "Silver",
-    "interior": "Rioja Red",
-    "engine": "2.0L I4 Turbocharged",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JTHCA1D24P5124019&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/9f67d8d9-173f-42ba-9add-a5876994b168.jpg",
-    "price": "$44,265",
-    "sutherlins_price": "$37,488",
-    "mileage": "6,370 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Toyota Sienna XLE",
-    "vin": "5TDYRKEC8RS208807",
-    "stock": "MP227",
-    "exterior": "Midnight Black Metallic",
-    "interior": "Graphite",
-    "engine": "2.5L I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5TDYRKEC8RS208807&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/bdfaa786-dd72-474b-bdb9-1de3d95001ee.jpg",
-    "price": "$44,540",
-    "sutherlins_price": "$37,888",
-    "mileage": "58,465 Miles"
-  },
-  {
-    "category": "used",
     "name": "2025 Genesis GV80 2.5T",
     "vin": "KMUHFESB6SU240126",
     "stock": "MP171",
@@ -193,5 +133,20 @@
     "price": "N/A",
     "sutherlins_price": "N/A",
     "mileage": "28,312 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2018 INFINITI QX60 Base",
+    "vin": "5N1DL0MN7JC514504",
+    "stock": "MP264A",
+    "exterior": "Blue",
+    "interior": "Graphite",
+    "engine": "3.5L V6",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5N1DL0MN7JC514504&source=BUP",
+    "image": "https://service.secureoffersites.com/images/GetEvoxImage?styleid=0&vin=5N1DL0MN7JC514504&vehicletype=SUV",
+    "price": "N/A",
+    "sutherlins_price": "N/A",
+    "mileage": "190,372 Miles"
   }
 ]
