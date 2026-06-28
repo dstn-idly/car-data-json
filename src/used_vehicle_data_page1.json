@@ -16,6 +16,21 @@
   },
   {
     "category": "used",
+    "name": "2008 Acura TL",
+    "vin": "19UUA66238A007669",
+    "stock": "26873C",
+    "exterior": "Gray",
+    "interior": "N/A",
+    "engine": "Gas V6 3.2L/196",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=19UUA66238A007669&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2008ACU005a_640/2008ACU005a_640_01.jpg",
+    "price": "$3,988",
+    "sutherlins_price": "$3,988",
+    "mileage": "141,180 Miles"
+  },
+  {
+    "category": "used",
     "name": "2016 Nissan Sentra SV",
     "vin": "3N1AB7AP9GY229394",
     "stock": "P13881A",
@@ -148,6 +163,21 @@
     "price": "$9,988",
     "sutherlins_price": "$9,988",
     "mileage": "113,907 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2020 Volkswagen Tiguan S",
+    "vin": "3VV1B7AX9LM087662",
+    "stock": "26861A",
+    "exterior": "Deep Black",
+    "interior": "Gray",
+    "engine": "Intercooled Turbo Regular Unleaded I-4 2.0 L/121",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3VV1B7AX9LM087662&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2020VWS03_640/2020VWS030047_640_01.jpg",
+    "price": "$10,988",
+    "sutherlins_price": "$10,988",
+    "mileage": "90,693 Miles"
   },
   {
     "category": "used",
@@ -310,7 +340,7 @@
     "transmission": "CVT",
     "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3KPF24AD1NE438442&source=BUP",
     "image": "https://content.homenetiol.com/2000157/2065512/0x0/eeb5a5c2ad0d443d9502ebae2d2cd297.jpg",
-    "price": "$13,988",
+    "price": "$18,075",
     "sutherlins_price": "$13,988",
     "mileage": "17,100 Miles"
   },
@@ -421,21 +451,6 @@
   },
   {
     "category": "used",
-    "name": "2012 Toyota Tacoma PreRunner",
-    "vin": "3TMJU4GN6CM133316",
-    "stock": "P13892",
-    "exterior": "Super White",
-    "interior": "Graphite",
-    "engine": "Gas V6 4.0L/241",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
-    "price": "$18,475",
-    "sutherlins_price": "$15,995",
-    "mileage": "107,952 Miles"
-  },
-  {
-    "category": "used",
     "name": "2019 Nissan Rogue Sport SL",
     "vin": "JN1BJ1CP3KW229828",
     "stock": "P13845",
@@ -451,32 +466,17 @@
   },
   {
     "category": "used",
-    "name": "2021 Nissan Rogue Sport S",
-    "vin": "JN1BJ1AV1MW305535",
-    "stock": "P13852",
-    "exterior": "Gun Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=JN1BJ1AV1MW305535&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/02d2e2714a1143ce91e4492387594134.jpg",
-    "price": "$17,650",
+    "name": "2012 Toyota Tacoma PreRunner",
+    "vin": "3TMJU4GN6CM133316",
+    "stock": "P13892",
+    "exterior": "Super White",
+    "interior": "Graphite",
+    "engine": "Gas V6 4.0L/241",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3TMJU4GN6CM133316&source=BUP",
+    "image": "https://content.homenetiol.com/2000157/2065512/0x0/stock_images/5/2012TOY014b_640/2012TOY014b_640_01.jpg",
+    "price": "$18,475",
     "sutherlins_price": "$15,995",
-    "mileage": "60,035 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Nissan Sentra SV",
-    "vin": "3N1AB8CV8RY201199",
-    "stock": "P13735",
-    "exterior": "Rosewood Metallic",
-    "interior": "Charcoal",
-    "engine": "Regular Unleaded I-4 2.0 L/122",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3N1AB8CV8RY201199&source=BUP",
-    "image": "https://content.homenetiol.com/2000157/2065512/0x0/8e0de495fe4a4c4f8b2860edaca32b3f.jpg",
-    "price": "$21,275",
-    "sutherlins_price": "$16,498",
-    "mileage": "40,372 Miles"
+    "mileage": "107,952 Miles"
   }
 ]
