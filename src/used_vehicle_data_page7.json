@@ -1,6 +1,36 @@
 [
   {
     "category": "used",
+    "name": "2023 Jeep Compass Sport",
+    "vin": "3C4NJDAN4PT574960",
+    "stock": "MP201",
+    "exterior": "Bright White Clearcoat",
+    "interior": "Black",
+    "engine": "2.0L I4 DOHC",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDAN4PT574960&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/fe20aaae-434b-4836-8aeb-1750713e0c7c.jpg",
+    "price": "$29,995",
+    "sutherlins_price": "$17,888",
+    "mileage": "43,944 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra Hybrid Limited",
+    "vin": "KMHLN4AJ1PU054578",
+    "stock": "MP184",
+    "exterior": "Fluid Metal",
+    "interior": "Black",
+    "engine": "I4",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLN4AJ1PU054578&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/7c74f398-542e-4876-9378-2967451f8f01.jpg",
+    "price": "$30,500",
+    "sutherlins_price": "$18,888",
+    "mileage": "61,194 Miles"
+  },
+  {
+    "category": "used",
     "name": "2022 Volkswagen Taos 1.5T SE",
     "vin": "3VVTX7B23NM027232",
     "stock": "MP205",
@@ -448,35 +478,5 @@
     "price": "$42,065",
     "sutherlins_price": "$23,888",
     "mileage": "51,053 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2024 Jeep Compass Limited",
-    "vin": "3C4NJDCN5RT110804",
-    "stock": "MP284",
-    "exterior": "Bright White Clearcoat",
-    "interior": "Black",
-    "engine": "2.0L I4 DOHC",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=3C4NJDCN5RT110804&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/199f789a-40ac-4188-8180-63e92b7caf87.jpg",
-    "price": "$35,340",
-    "sutherlins_price": "$23,888",
-    "mileage": "45,019 Miles"
-  },
-  {
-    "category": "used",
-    "name": "2023 Hyundai Tucson Limited",
-    "vin": "5NMJE3AE9PH245603",
-    "stock": "MP223",
-    "exterior": "White Pearl",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJE3AE9PH245603&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/4aa722f7-9726-482e-8b84-bddba3519ea2.jpg",
-    "price": "$38,500",
-    "sutherlins_price": "$24,488",
-    "mileage": "27,676 Miles"
   }
 ]
