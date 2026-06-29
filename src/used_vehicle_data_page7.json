@@ -1,21 +1,6 @@
 [
   {
     "category": "used",
-    "name": "2023 Hyundai Elantra SEL",
-    "vin": "KMHLS4AG7PU615475",
-    "stock": "M2622A",
-    "exterior": "Fluid Metal",
-    "interior": "Medium Gray",
-    "engine": "I4",
-    "transmission": "CVT",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/07b8f93d-68b3-46d9-b222-e825ca960e77.jpg",
-    "price": "$25,650",
-    "sutherlins_price": "$19,888",
-    "mileage": "28,931 Miles"
-  },
-  {
-    "category": "used",
     "name": "2024 Mitsubishi Outlander Sport 2.0 SE",
     "vin": "JA4ARUAU0RU015049",
     "stock": "MP267",
@@ -28,6 +13,21 @@
     "price": "$23,695",
     "sutherlins_price": "$19,888",
     "mileage": "40,296 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Elantra SEL",
+    "vin": "KMHLS4AG7PU615475",
+    "stock": "M2622A",
+    "exterior": "Fluid Metal",
+    "interior": "Medium Gray",
+    "engine": "I4",
+    "transmission": "CVT",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=KMHLS4AG7PU615475&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/07b8f93d-68b3-46d9-b222-e825ca960e77.jpg",
+    "price": "$25,650",
+    "sutherlins_price": "$19,888",
+    "mileage": "28,931 Miles"
   },
   {
     "category": "used",
@@ -136,21 +136,6 @@
   },
   {
     "category": "used",
-    "name": "2023 Hyundai Tucson SEL",
-    "vin": "5NMJB3AE9PH244122",
-    "stock": "MP203",
-    "exterior": "Calypso Red",
-    "interior": "Black",
-    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
-    "transmission": "Automatic",
-    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE9PH244122&source=BUP",
-    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a151aeae-b889-4c76-b65c-aee9b6a99d6c.jpg",
-    "price": "$30,690",
-    "sutherlins_price": "$20,888",
-    "mileage": "24,368 Miles"
-  },
-  {
-    "category": "used",
     "name": "2021 Volkswagen Atlas 2.0T S",
     "vin": "1V2AP2CA4MC586852",
     "stock": "MP242",
@@ -163,6 +148,21 @@
     "price": "$32,890",
     "sutherlins_price": "$20,888",
     "mileage": "60,328 Miles"
+  },
+  {
+    "category": "used",
+    "name": "2023 Hyundai Tucson SEL",
+    "vin": "5NMJB3AE9PH244122",
+    "stock": "MP203",
+    "exterior": "Calypso Red",
+    "interior": "Black",
+    "engine": "2.5L I4 DGI DOHC 16V LEV3-ULEV70 187hp",
+    "transmission": "Automatic",
+    "carfax": "https://www.carfax.com/VehicleHistory/p/Report.cfx?partner=TVO_0&vin=5NMJB3AE9PH244122&source=BUP",
+    "image": "https://assets.cai-media-management.com/resize/1024x1024/common-vehicle-media/a151aeae-b889-4c76-b65c-aee9b6a99d6c.jpg",
+    "price": "$30,690",
+    "sutherlins_price": "$20,888",
+    "mileage": "24,368 Miles"
   },
   {
     "category": "used",
