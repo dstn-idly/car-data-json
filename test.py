@@ -84,16 +84,41 @@ def save_photos_cache(cache, path=PHOTOS_CACHE_PATH):
     print(f"💾 Photos cache written with {len(cache)} VINs -> {path}")
 
 
+# Photo CDNs used by the dealer's detail (VDP) pages. We scrape the full
+# gallery FROM the detail page rather than guessing _NN suffixes, because
+# different vehicles use different CDNs:
+#   content.homenetiol.com/.../<hash>.jpg            real dealer photos
+#   assets.cai-media-management.com/.../<uuid>.jpg   real dealer photos (alt CDN)
+#   service.secureoffersites.com/images/GetEvoxImage EVOX stock renders
+#   *.nissanusa.com/content/dam/....png              OEM stock (brand-new models)
+PHOTO_PATTERNS = [
+    r'https?://content\.homenetiol\.com/[^\s"\'\\<>]+?\.(?:jpe?g|png|webp)',
+    r'https?://assets\.cai-media-management\.com/[^\s"\'\\<>]+?\.(?:jpe?g|png|webp)',
+    r'https?://service\.secureoffersites\.com/images/Get(?:Evox|Library)Image[^\s"\'\\<>]*',
+    r'https?://[a-z0-9.-]*nissanusa\.com/content/dam/[^\s"\'\\<>]+?\.(?:png|jpe?g)(?:\.ximg[^\s"\'\\<>]*)?',
+]
+VDP_WORKERS = 10   # ThreadPoolExecutor workers for detail-page GET requests
+
+
+def _img_key(url):
+    """Dedup key for a photo url: the filename / uuid / hash (ignoring resize
+    variants + query). EVOX/secureoffersites urls are identified by their full
+    query (vin/styleid IS the identity)."""
+    if "secureoffersites" in url:
+        return url.lower()
+    base = url.split("?")[0]
+    return base.rstrip("/").split("/")[-1].lower()
+
+
 def enumerate_gallery(first_url):
-    """Given a card's `_01` image url, enumerate _01,_02,... until the first
-    404 (cap GALLERY_MAX). Returns a list of urls (at least [first_url] if the
-    pattern doesn't match)."""
+    """Given a stock-photo `_01` image url, enumerate _01,_02,... until the
+    first 404 (cap GALLERY_MAX). Returns a list of urls (at least [first_url]
+    if the pattern doesn't match)."""
     if not first_url:
         return []
 
     m = re.match(r'^(.*_)(\d+)(\.[A-Za-z]+)$', first_url)
     if not m:
-        # Not the enumerable _NN pattern; just keep the single image.
         return [first_url]
 
     prefix, num, ext = m.groups()
@@ -113,21 +138,65 @@ def enumerate_gallery(first_url):
             break
 
     if not images:
-        # First request failed/redirected oddly; fall back to the known url.
         images = [first_url]
     return images
 
 
+def extract_vdp_images(html):
+    """Pull every vehicle photo url (across all known CDNs) out of a detail
+    page, de-duplicated, order preserved."""
+    urls = []
+    for pat in PHOTO_PATTERNS:
+        urls += [u.replace("\\/", "/") for u in re.findall(pat, html)]
+    seen, out = set(), []
+    for u in urls:
+        k = _img_key(u)
+        if k and k not in seen:
+            seen.add(k)
+            out.append(u)
+    return out[:GALLERY_MAX]
+
+
+def fetch_gallery(vehicle_link, srp_image):
+    """Full gallery for one vehicle: scrape its detail page for photos across
+    all CDNs; for stock-photo (_NN) vehicles also enumerate the _NN siblings.
+    Falls back to [srp_image]."""
+    imgs = []
+    if vehicle_link:
+        try:
+            resp = _IMG_SESSION.get(vehicle_link, timeout=30)
+            if resp.status_code == 200:
+                imgs = extract_vdp_images(resp.text)
+        except requests.exceptions.RequestException:
+            imgs = []
+
+    # Stock-photo vehicles: the page only carries the _01 image; enumerate it.
+    seed = srp_image or (imgs[0] if imgs else None)
+    if seed and re.search(r'_\d{2}\.(?:jpe?g)$', seed):
+        nn = enumerate_gallery(seed)
+        imgs = nn + [u for u in imgs if u not in nn]
+
+    if not imgs and srp_image:
+        imgs = [srp_image]
+
+    seen, out = set(), []
+    for u in imgs:
+        k = _img_key(u)
+        if k and k not in seen:
+            seen.add(k)
+            out.append(u)
+    return out[:GALLERY_MAX]
+
+
 def resolve_galleries(vehicles, cache):
-    """For every vehicle, attach an `images` gallery. Reuse the cache for known
-    VINs; only enumerate (concurrently) the VINs missing from the cache.
-    Updates `cache` in place."""
-    to_fetch = {}  # vin -> first_url
+    """Attach an `images` gallery to every vehicle. Reuse the cache for known
+    VINs; only fetch detail pages (concurrently) for VINs missing from the
+    cache. Updates `cache` in place."""
+    to_fetch = {}  # vin -> (vehicle_link, srp_image)
     for v in vehicles:
         vin = v.get("vin")
         first_url = v.get("image")
         if not vin or vin == "N/A":
-            # No VIN: can't cache; enumerate inline only if we have a url.
             v["images"] = [first_url] if first_url else []
             continue
 
@@ -138,23 +207,21 @@ def resolve_galleries(vehicles, cache):
                 v["image"] = cached.get("image") or (cached["images"][0] if cached["images"] else None)
             continue
 
-        if first_url:
-            to_fetch[vin] = first_url
-        else:
-            v["images"] = []
+        to_fetch[vin] = (v.get("vehicle_link"), first_url)
 
     if to_fetch:
-        print(f"🖼️  Enumerating galleries for {len(to_fetch)} new VIN(s)...")
+        print(f"🖼️  Fetching galleries for {len(to_fetch)} new VIN(s) via detail pages...")
         vins = list(to_fetch.keys())
-        with ThreadPoolExecutor(max_workers=HEAD_WORKERS) as ex:
-            results = list(ex.map(lambda vin: (vin, enumerate_gallery(to_fetch[vin])), vins))
+        with ThreadPoolExecutor(max_workers=VDP_WORKERS) as ex:
+            results = list(ex.map(lambda vin: (vin, fetch_gallery(*to_fetch[vin])), vins))
         result_map = dict(results)
         for v in vehicles:
             vin = v.get("vin")
             if vin in result_map:
                 imgs = result_map[vin]
                 v["images"] = imgs
-                cache[vin] = {"images": imgs, "image": imgs[0] if imgs else v.get("image")}
+                if imgs:  # only cache non-empty galleries (so empties retry next run)
+                    cache[vin] = {"images": imgs, "image": v.get("image") or imgs[0]}
 
     # Final safety: ensure every vehicle has an `images` key.
     for v in vehicles:
